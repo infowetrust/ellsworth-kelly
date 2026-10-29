@@ -1,0 +1,123 @@
+[
+  {
+    "key": "tate-yellow-curve",
+    "url": "https://media.tate.org.uk/art/images/work/T/T07/T07403_7.jpg",
+    "path": "research/svg-gap-v5/museums/references/tate-yellow-curve.html",
+    "size": 6086,
+    "content_type": "application/octet-stream"
+  },
+  {
+    "key": "nga-orange-archive",
+    "url": "https://digital.nga.gov.au/archive/americanmasters/works.cfm%3Fwrkirn%3D116211.html",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "key": "praemium-kelly",
+    "url": "https://www.praemiumimperiale.org/en/laureate/kelly/",
+    "path": "research/svg-gap-v5/museums/references/praemium-kelly.html",
+    "size": 45186,
+    "content_type": "text/html"
+  },
+  {
+    "key": "slam-foundation",
+    "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-9/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "key": "haus-kelly-bw",
+    "url": "https://www.hausderkunst.de/eintauchen/ellsworth-kelly-schwarz-weiss",
+    "path": "research/svg-gap-v5/museums/references/haus-kelly-bw.html",
+    "size": 87556,
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "key": "mfah-green-black-pdf",
+    "url": "https://static.mfah.com/documents/blaffer-foundation---clifton---am-i-blue.8178508304755435103.pdf",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "key": "louisiana-flickr",
+    "url": "https://www.flickr.com/photos/jpellgen/42883722960",
+    "path": "research/svg-gap-v5/museums/references/louisiana-flickr.html",
+    "size": 530520,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "key": "baltimore-googlearts",
+    "url": "https://artsandculture.google.com/asset/two-blacks-and-white/vwEStKIHqwBQOw",
+    "path": "research/svg-gap-v5/museums/references/baltimore-googlearts.html",
+    "size": 963312,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "key": "blanton-high-yellow-pdf",
+    "url": "https://blantonmuseum.org/wp-content/uploads/2021/10/Blanton-SEL-FindingJoy-Journal-10.2.pdf",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "key": "kawamura-report2019",
+    "url": "https://www3.dic-global.com/dic-global/ir/library/dic_ir_tsushin122h.pdf",
+    "path": "research/svg-gap-v5/museums/references/kawamura-report2019.pdf",
+    "size": 13014448,
+    "content_type": "application/pdf"
+  },
+  {
+    "key": "yale-charter-bulletin",
+    "url": "https://artgallery.yale.edu/sites/default/files/publication/pdfs/ag-doc-2106-0001-doc.pdf",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "key": "concorde-secondary",
+    "url": "https://encycolorpedia.com/art/ellsworth-kelly-concorde-iv",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "key": "philadelphia-seaweed-greg",
+    "url": "https://greg.org/archive/tag/ellsworth-kelly",
+    "path": "research/svg-gap-v5/museums/references/philadelphia-seaweed-greg.html",
+    "size": 174846,
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "key": "mumok-checklist",
+    "url": "https://www.mumok.at/fileadmin/Bibliothek/7_Presse/2016/We_Pioneers/wir_wegbereiter_werkliste_pdf.pdf",
+    "path": "research/svg-gap-v5/museums/references/mumok-checklist.pdf",
+    "size": 1598675,
+    "content_type": "application/pdf"
+  },
+  {
+    "key": "maeght-0017-hdr",
+    "url": "https://tlmagazine.com/wp-content/uploads/2026/07/20260603-ellsworth-kelly-0017-hdr-1024x768.jpg",
+    "path": "research/svg-gap-v5/museums/references/maeght-0017-hdr.jpg",
+    "size": 139382,
+    "content_type": "image/jpeg"
+  },
+  {
+    "key": "maeght-0218",
+    "url": "https://tlmagazine.com/wp-content/uploads/2026/07/20260626-ellsworth-kelly-0218-1024x768.jpg",
+    "path": "research/svg-gap-v5/museums/references/maeght-0218.jpg",
+    "size": 118304,
+    "content_type": "image/jpeg"
+  },
+  {
+    "key": "maeght-0270",
+    "url": "https://tlmagazine.com/wp-content/uploads/2026/07/20260626-ellsworth-kelly-0270-1024x768.jpg",
+    "path": "research/svg-gap-v5/museums/references/maeght-0270.jpg",
+    "size": 112375,
+    "content_type": "image/jpeg"
+  },
+  {
+    "key": "maeght-0281",
+    "url": "https://tlmagazine.com/wp-content/uploads/2026/07/20260626-ellsworth-kelly-0281-1024x768.jpg",
+    "path": "research/svg-gap-v5/museums/references/maeght-0281.jpg",
+    "size": 90915,
+    "content_type": "image/jpeg"
+  },
+  {
+    "key": "maeght-0353",
+    "url": "https://tlmagazine.com/wp-content/uploads/2026/07/20260626-ellsworth-kelly-0353-1024x768.jpg",
+    "path": "research/svg-gap-v5/museums/references/maeght-0353.jpg",
+    "size": 90053,
+    "content_type": "image/jpeg"
+  }
+]

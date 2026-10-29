@@ -1,0 +1,491 @@
+{
+  "checked_date": "2026-10-26",
+  "claim": "Research catalogue and prototype; completeness against all paintings is unestablished.",
+  "universe_count": null,
+  "universe_count_note": "No reliable total painting count or complete work inventory accessible in reviewed primary sources.",
+  "catalogue_raisonne_volumes": [
+    {
+      "volume": 1,
+      "years": [
+        1940,
+        1953
+      ],
+      "published": 2015,
+      "status": "published_print_and_subscription_digital",
+      "source_url": "https://cahiersdartinstitute.org/catalogues/ellsworth-kelly/description?locale=en"
+    },
+    {
+      "volume": 2,
+      "years": [
+        1954,
+        1958
+      ],
+      "published": 2021,
+      "status": "published_print_digital_forthcoming",
+      "source_url": "https://cahiersdartinstitute.org/catalogues/ellsworth-kelly/description?locale=en"
+    },
+    {
+      "volume": 3,
+      "years": [
+        1959,
+        1965
+      ],
+      "published": null,
+      "status": "in_progress_per_foundation_biography",
+      "source_url": "https://discoveringek.ellsworthkelly.org/ek-100-chapter-4#meets-yve-alain-bois"
+    }
+  ],
+  "coverage_gaps": [
+    {
+      "id": "cr-volume-1-inventory",
+      "years": [
+        1940,
+        1953
+      ],
+      "missing_count": null,
+      "reason": "Full volume inventory requires authenticated subscription or print consultation; public Foundation index is selected."
+    },
+    {
+      "id": "cr-volume-2-inventory",
+      "years": [
+        1954,
+        1958
+      ],
+      "missing_count": null,
+      "reason": "No complete public inventory found; published book must be reconciled."
+    },
+    {
+      "id": "cr-volume-3-inventory",
+      "years": [
+        1959,
+        1965
+      ],
+      "missing_count": null,
+      "reason": "Volume reported in progress; selected primary museum/Foundation records cannot establish completeness."
+    },
+    {
+      "id": "later-work-inventory",
+      "years": [
+        1966,
+        2015
+      ],
+      "missing_count": null,
+      "reason": "No complete authoritative public paintings inventory found."
+    }
+  ],
+  "identity_rules": [
+    "EK identifiers identify works; titles are not unique.",
+    "Do not fabricate a painting for every integer between EK 1 and EK 1088: the sequence includes reliefs, sculpture and fractional identifiers.",
+    "Keep all sourced works in the research ledger. Default display may retain only earliest exact normalized-title match at user request.",
+    "Do not strip Roman numerals, color-word order, parenthetical dedications, Chatham numbers, or relief/panel/curve qualifiers from identity.",
+    "Preserve Unsigned/Untitled as meaningful placeholder titles; never assume every work titled Untitled depicts the same composition.",
+    "Unknown collection means unknown; private collection is sourced anonymous ownership, not unknown.",
+    "Collection statements are as recorded by source on retrieval date, not independently confirmed live ownership."
+  ],
+  "duplicate_examples": [
+    {
+      "title": "Green Panel",
+      "keep_earliest": "EK 605",
+      "keep_year": 1980,
+      "other": "EK 700",
+      "other_year": 1985,
+      "source_urls": [
+        "https://ellsworthkelly.org/work/green-panel-2/",
+        "https://ellsworthkelly.org/work/green-panel/"
+      ]
+    }
+  ],
+  "source_conflicts": [
+    {
+      "title": "Black Curves",
+      "field": "year",
+      "preferred": 1954,
+      "preferred_source": "https://ellsworthkelly.org/work/black-curves/",
+      "other": 1955,
+      "other_source": "https://discoveringek.ellsworthkelly.org/ek-100-search-page",
+      "reason": "Work-level Foundation record and chronological text agree on 1954."
+    },
+    {
+      "title": "La Combe III",
+      "field": "year",
+      "preferred": 1951,
+      "preferred_source": "https://ellsworthkelly.org/chronology/",
+      "other": 1952,
+      "other_source": "https://discoveringek.ellsworthkelly.org/ek-100-search-page",
+      "reason": "Chronology explicitly titles work with 1951. Requires raisonne reconciliation."
+    },
+    {
+      "title": "Méditerranée",
+      "field": "year",
+      "preferred": 1952,
+      "preferred_source": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+      "other": 1962,
+      "other_source": "https://discoveringek.ellsworthkelly.org/ek-100-search-page",
+      "reason": "MoMA 1973 caption explicitly1952; FoundationMaeght shop also 1952. FLV2024 uses 1951–1952, so date-range nuance remains."
+    },
+    {
+      "title": "La Combe II",
+      "field": "year",
+      "preferred": 1950,
+      "preferred_source": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+      "other": 1951,
+      "other_source": "https://discoveringek.ellsworthkelly.org/ek-100-search-page",
+      "reason": "MoMA 1973 caption explicitly1950."
+    }
+  ],
+  "named_work_candidates": [
+    {
+      "title": "Antibes",
+      "year": 1950,
+      "ek_id": "EK 21",
+      "mentioned_under_year": 1950,
+      "source_url": "https://ellsworthkelly.org/chronology/",
+      "status": "named_work_metadata_incomplete",
+      "note": "Chronology mention is evidence of existence. A section year may be an exhibition/acquisition year; creation year is null unless explicit. Additional work-level/source-caption verification is stored in verified_metadata; use that source for enriched facts.",
+      "verified_metadata": {
+        "year": 1950,
+        "medium": "oil on cardboard, string and wood",
+        "height_cm": 64.8,
+        "width_cm": 100.3,
+        "dimensions": "25 1/2 x 39 1/2 x 1 inches",
+        "collection": "The Doris and Donald Fisher Collection at the San Francisco Museum of Modern Art",
+        "source_url": "https://www.sfmoma.org/artwork/FC.571/"
+      },
+      "verification_source_url": "https://www.sfmoma.org/artwork/FC.571/"
+    },
+    {
+      "title": "La Combe I",
+      "year": 1950,
+      "ek_id": null,
+      "mentioned_under_year": 1950,
+      "source_url": "https://ellsworthkelly.org/chronology/",
+      "status": "named_work_metadata_incomplete",
+      "note": "Chronology mention is evidence of existence. A section year may be an exhibition/acquisition year; creation year is null unless explicit. Additional work-level/source-caption verification is stored in verified_metadata; use that source for enriched facts.",
+      "verified_metadata": {
+        "year": 1950,
+        "medium": "Oil on canvas",
+        "height_cm": 96.5,
+        "width_cm": 161.8,
+        "dimensions": "38 x 63 11/16 inches",
+        "collection": "Whitney Museum of American Art, New York",
+        "source_url": "https://whitney.org/collection/works/17193"
+      },
+      "verification_source_url": "https://whitney.org/collection/works/17193"
+    },
+    {
+      "title": "La Combe II",
+      "year": 1950,
+      "ek_id": null,
+      "mentioned_under_year": 1950,
+      "source_url": "https://ellsworthkelly.org/chronology/",
+      "status": "named_work_metadata_incomplete",
+      "note": "Chronology mention is evidence of existence. A section year may be an exhibition/acquisition year; creation year is null unless explicit. Additional work-level/source-caption verification is stored in verified_metadata; use that source for enriched facts.",
+      "verified_metadata": {
+        "year": 1950,
+        "medium": "oil on wood folding screen, nine panels",
+        "source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+        "source_pdf_page": 40,
+        "note": "1950 date explicit in MoMA 1973 caption; educational biography gives 1951. Dimensions OCR ambiguous, intentionally not transcribed."
+      },
+      "verification_source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf"
+    },
+    {
+      "title": "La Combe III",
+      "year": 1951,
+      "ek_id": null,
+      "mentioned_under_year": 1951,
+      "source_url": "https://ellsworthkelly.org/chronology/",
+      "status": "named_work_metadata_incomplete",
+      "note": "Chronology mention is evidence of existence. A section year may be an exhibition/acquisition year; creation year is null unless explicit. Additional work-level/source-caption verification is stored in verified_metadata; use that source for enriched facts.",
+      "verified_metadata": {
+        "year": 1951,
+        "medium": "oil on linen",
+        "height_cm": 161.3,
+        "width_cm": 113.0,
+        "dimensions": "63 1/2 x 44 1/2 inches",
+        "collection": "San Francisco Museum of Modern Art, the Doris and Donald Fisher Collection at the San Francisco Museum of Modern Art, and promised gift of Helen and Charles Schwab",
+        "source_url": "https://www.sfmoma.org/artwork/99.347/"
+      },
+      "verification_source_url": "https://www.sfmoma.org/artwork/99.347/"
+    },
+    {
+      "title": "Ormesson",
+      "year": 1950,
+      "ek_id": null,
+      "mentioned_under_year": 1951,
+      "source_url": "https://ellsworthkelly.org/chronology/",
+      "status": "named_work_metadata_incomplete",
+      "note": "Chronology mention is evidence of existence. A section year may be an exhibition/acquisition year; creation year is null unless explicit. Additional work-level/source-caption verification is stored in verified_metadata; use that source for enriched facts.",
+      "verified_metadata": {
+        "year": 1950,
+        "source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+        "source_pdf_page": 110,
+        "note": "MoMA 1973 note 26 explicitly calls Ormesson a 1950 painting."
+      },
+      "verification_source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf"
+    },
+    {
+      "title": "Meschers",
+      "year": 1951,
+      "ek_id": null,
+      "mentioned_under_year": 1951,
+      "source_url": "https://ellsworthkelly.org/chronology/",
+      "status": "named_work_metadata_incomplete",
+      "note": "Chronology mention is evidence of existence. A section year may be an exhibition/acquisition year; creation year is null unless explicit. Additional work-level/source-caption verification is stored in verified_metadata; use that source for enriched facts.",
+      "verified_metadata": {
+        "year": 1951,
+        "medium": "oil on canvas",
+        "height_cm": 149.86,
+        "width_cm": 149.86,
+        "dimensions": "59 x 59 inches",
+        "source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+        "source_pdf_page": 45
+      },
+      "verification_source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf"
+    },
+    {
+      "title": "Méditerranée",
+      "year": 1952,
+      "ek_id": null,
+      "mentioned_under_year": 1952,
+      "source_url": "https://ellsworthkelly.org/chronology/",
+      "status": "named_work_metadata_incomplete",
+      "note": "Chronology mention is evidence of existence. A section year may be an exhibition/acquisition year; creation year is null unless explicit. Additional work-level/source-caption verification is stored in verified_metadata; use that source for enriched facts.",
+      "verified_metadata": {
+        "year": 1952,
+        "medium": "oil on wood, nine joined panels",
+        "source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+        "source_pdf_page": 52,
+        "note": "MoMA 1973 gives 1952; FoundationMaeght reproduction also 1952. Later FLV catalogue uses 1951–1952; keep as date conflict."
+      },
+      "verification_source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf"
+    },
+    {
+      "title": "Fête à Torcy",
+      "year": null,
+      "ek_id": null,
+      "mentioned_under_year": 1952,
+      "source_url": "https://ellsworthkelly.org/chronology/",
+      "status": "named_work_metadata_incomplete",
+      "note": "Chronology mention is evidence of existence. A section year may be an exhibition/acquisition year; creation year is null unless explicit."
+    },
+    {
+      "title": "White Square",
+      "year": 1953,
+      "ek_id": null,
+      "mentioned_under_year": 1953,
+      "source_url": "https://ellsworthkelly.org/chronology/",
+      "status": "named_work_metadata_incomplete",
+      "note": "Chronology mention is evidence of existence. A section year may be an exhibition/acquisition year; creation year is null unless explicit."
+    },
+    {
+      "title": "Black Square",
+      "year": 1953,
+      "ek_id": null,
+      "mentioned_under_year": 1953,
+      "source_url": "https://ellsworthkelly.org/chronology/",
+      "status": "named_work_metadata_incomplete",
+      "note": "Chronology mention is evidence of existence. A section year may be an exhibition/acquisition year; creation year is null unless explicit."
+    },
+    {
+      "title": "Painting in Five Panels",
+      "year": 1956,
+      "ek_id": null,
+      "mentioned_under_year": 1956,
+      "source_url": "https://ellsworthkelly.org/chronology/",
+      "status": "named_work_metadata_incomplete",
+      "note": "Chronology mention is evidence of existence. A section year may be an exhibition/acquisition year; creation year is null unless explicit. Additional work-level/source-caption verification is stored in verified_metadata; use that source for enriched facts.",
+      "verified_metadata": {
+        "year": 1956,
+        "medium": "oil on canvas in five parts",
+        "height_cm": 91.44,
+        "width_cm": 365.76,
+        "dimensions": "overall:36 x144 inches",
+        "source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+        "source_pdf_page": 83
+      },
+      "verification_source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf"
+    },
+    {
+      "title": "Bar",
+      "year": 1956,
+      "ek_id": null,
+      "mentioned_under_year": 1957,
+      "source_url": "https://ellsworthkelly.org/chronology/",
+      "status": "named_work_metadata_incomplete",
+      "note": "Chronology mention is evidence of existence. A section year may be an exhibition/acquisition year; creation year is null unless explicit. Additional work-level/source-caption verification is stored in verified_metadata; use that source for enriched facts.",
+      "verified_metadata": {
+        "year": 1956,
+        "medium": "oil on canvas",
+        "source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+        "source_pdf_page": 68
+      },
+      "verification_source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf"
+    },
+    {
+      "title": "Atlantic",
+      "year": null,
+      "ek_id": null,
+      "mentioned_under_year": 1957,
+      "source_url": "https://ellsworthkelly.org/chronology/",
+      "status": "named_work_metadata_incomplete",
+      "note": "Chronology mention is evidence of existence. A section year may be an exhibition/acquisition year; creation year is null unless explicit."
+    },
+    {
+      "title": "Painting in Three Panels",
+      "year": 1956,
+      "ek_id": null,
+      "mentioned_under_year": 1957,
+      "source_url": "https://ellsworthkelly.org/chronology/",
+      "status": "named_work_metadata_incomplete",
+      "note": "Chronology mention is evidence of existence. A section year may be an exhibition/acquisition year; creation year is null unless explicit. Additional work-level/source-caption verification is stored in verified_metadata; use that source for enriched facts.",
+      "verified_metadata": {
+        "year": 1956,
+        "medium": "oil on canvas in three parts",
+        "height_cm": 203.2,
+        "width_cm": 353.06,
+        "dimensions": "overall including space between panels:80 x139 inches",
+        "source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+        "source_pdf_page": 69,
+        "note": "Overall dimensions include spaces between three separate panels; not contiguous painted surface."
+      },
+      "verification_source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf"
+    },
+    {
+      "title": "Broadway",
+      "year": null,
+      "ek_id": null,
+      "mentioned_under_year": 1958,
+      "source_url": "https://ellsworthkelly.org/chronology/",
+      "status": "named_work_metadata_incomplete",
+      "note": "Chronology mention is evidence of existence. A section year may be an exhibition/acquisition year; creation year is null unless explicit."
+    },
+    {
+      "title": "Aubade",
+      "year": 1957,
+      "ek_id": null,
+      "mentioned_under_year": 1958,
+      "source_url": "https://ellsworthkelly.org/chronology/",
+      "status": "named_work_metadata_incomplete",
+      "note": "Chronology mention is evidence of existence. A section year may be an exhibition/acquisition year; creation year is null unless explicit."
+    },
+    {
+      "title": "Running White",
+      "year": 1959,
+      "ek_id": null,
+      "mentioned_under_year": 1959,
+      "source_url": "https://ellsworthkelly.org/chronology/",
+      "status": "named_work_metadata_incomplete",
+      "note": "Chronology mention is evidence of existence. A section year may be an exhibition/acquisition year; creation year is null unless explicit."
+    },
+    {
+      "title": "New York",
+      "year": 1957,
+      "ek_id": null,
+      "mentioned_under_year": 1959,
+      "source_url": "https://ellsworthkelly.org/chronology/",
+      "status": "named_work_metadata_incomplete",
+      "note": "Chronology mention is evidence of existence. A section year may be an exhibition/acquisition year; creation year is null unless explicit. Additional work-level primary verification is stored in verified_metadata.",
+      "verified_metadata": {
+        "year": 1957,
+        "medium": "oil on canvas",
+        "height_cm": 187.33,
+        "width_cm": 228.6,
+        "dimensions": "support:73 3/4 x90 inches",
+        "collection": "Buffalo AKG Art Museum",
+        "source_url": "https://buffaloakg.org/artworks/k195911-new-york-ny",
+        "accession": "K1959:11",
+        "museum_title": "New York, NY",
+        "note": "Museum canonical title New York, NY; Foundation chronology New York. Same 1957 painting acquired by Buffalo in 1959, an explicit title-alias reconciliation candidate."
+      },
+      "verification_source_url": "https://buffaloakg.org/artworks/k195911-new-york-ny"
+    },
+    {
+      "title": "Blue White",
+      "year": 1962,
+      "ek_id": null,
+      "mentioned_under_year": 1963,
+      "source_url": "https://ellsworthkelly.org/chronology/",
+      "status": "named_work_metadata_incomplete",
+      "note": "Chronology mention is evidence of existence. A section year may be an exhibition/acquisition year; creation year is null unless explicit. Additional work-level primary verification is stored in verified_metadata.",
+      "verified_metadata": {
+        "year": 1962,
+        "medium": "oil on canvas",
+        "collection": "Rose Art Museum, Brandeis University, Waltham, MA",
+        "source_url": "https://www.brandeis.edu/rose/programs/2022/encore-presentations-ellsworth-kelly.html",
+        "secondary_primary_source": "https://matthewmarks.com/online/ellsworth-kelly/ek_47212-ek-d-62-50-reference-01/"
+      },
+      "verification_source_url": "https://www.brandeis.edu/rose/programs/2022/encore-presentations-ellsworth-kelly.html"
+    },
+    {
+      "title": "Black and White",
+      "year": null,
+      "ek_id": null,
+      "mentioned_under_year": 1963,
+      "source_url": "https://ellsworthkelly.org/chronology/",
+      "status": "named_work_metadata_incomplete",
+      "note": "Chronology mention is evidence of existence. A section year may be an exhibition/acquisition year; creation year is null unless explicit. Art Institute object 88580 is a probable match, but its API/work page returned 403; no creation year asserted."
+    },
+    {
+      "title": "Blue Green Red",
+      "year": 1963,
+      "ek_id": null,
+      "mentioned_under_year": 1963,
+      "source_url": "https://ellsworthkelly.org/chronology/",
+      "status": "named_work_metadata_incomplete",
+      "note": "Chronology mention is evidence of existence. A section year may be an exhibition/acquisition year; creation year is null unless explicit. Additional work-level primary verification is stored in verified_metadata.",
+      "verified_metadata": {
+        "year": 1963,
+        "medium": "Oil on canvas",
+        "height_cm": 231.1,
+        "width_cm": 208.3,
+        "dimensions": "91 x82 inches (231.1 x208.3cm)",
+        "collection": "The Metropolitan Museum of Art, New York",
+        "source_url": "https://www.metmuseum.org/art/collection/search/489307",
+        "accession": "63.73"
+      },
+      "verification_source_url": "https://www.metmuseum.org/art/collection/search/489307"
+    },
+    {
+      "title": "Blue over Blue",
+      "year": null,
+      "ek_id": null,
+      "mentioned_under_year": 1964,
+      "source_url": "https://ellsworthkelly.org/chronology/",
+      "status": "named_work_metadata_incomplete",
+      "note": "Chronology mention is evidence of existence. A section year may be an exhibition/acquisition year; creation year is null unless explicit. Do not equate automatically with Blue on Blue (1963, painted aluminum): an ambiguous title/medium issue remains."
+    },
+    {
+      "title": "Red Blue",
+      "year": 1962,
+      "ek_id": null,
+      "mentioned_under_year": 1964,
+      "source_url": "https://ellsworthkelly.org/chronology/",
+      "status": "named_work_metadata_incomplete",
+      "note": "Chronology mention is evidence of existence. A section year may be an exhibition/acquisition year; creation year is null unless explicit."
+    }
+  ],
+  "series_anchors": [
+    {
+      "title": "Chatham Series",
+      "creation_year": 1971,
+      "expected_count": 14,
+      "source_url": "https://www.moma.org/calendar/exhibitions/1329",
+      "note": "All 14 should exist as distinct slots even if individual metadata is missing. Avoid using this to imply whole-oeuvre coverage."
+    }
+  ],
+  "extraction_validation": {
+    "foundation_selected_painting_records": 78,
+    "all_have_work_page_and_ek_id": true,
+    "all_have_date_medium_dimensions_collection": true,
+    "includes_review_candidates": [
+      "Cutout in Wood, EK 12, gesso on wood (painted relief/object scope)",
+      "Red Yellow Blue White, EK 50, dyed cotton (textile panel scope)"
+    ],
+    "foundation_index_all_media_records": 154,
+    "foundation_index_identifiers": {
+      "EK": 153,
+      "AX": 1
+    }
+  }
+}

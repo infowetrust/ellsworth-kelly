@@ -1,0 +1,59 @@
+[
+  {
+    "source_id": "gap-foundation-v6:pma-ek70-caption",
+    "verified_identity_of": "guggenheim1996-cat-26",
+    "source_record_id": "EK 70",
+    "ek_id": "EK 70",
+    "title": "Two Blacks, White and Blue",
+    "year_start": 1955,
+    "year_end": 1955,
+    "date_display": "1955",
+    "medium": "Oil on canvas, four joined panels",
+    "height_cm": 233.7,
+    "width_cm": 61.0,
+    "dimensions_display": "92 × 24 inches (233.7×61.0cm)",
+    "collection": "Private collection",
+    "collection_as_of": "2006",
+    "historical_source": true,
+    "record_kind": "painting",
+    "source_url": "https://www.philamuseum.org/exhibitions/ellsworth-kelly-parisnew-york-19491959",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_museum_exhibition_caption_with_exact_ek_identifier",
+    "notes": [
+      "Primary museum caption explicitly supplies EK 70, date, medium and dimensions. The private-collection credit is historical to this exhibition, not a claim of present ownership."
+    ],
+    "sources": [
+      {
+        "url": "https://www.philamuseum.org/exhibitions/ellsworth-kelly-parisnew-york-19491959",
+        "label": "Philadelphia Museum of Art, Paris/New York 1949–1959 exhibition caption"
+      }
+    ]
+  },
+  {
+    "source_id": "gap-foundation-v6:pompidou-window-iii-material",
+    "verified_identity_of": "foundation-exhib-v4-ek2-ellsworth-kelly-paris-new-york-1949-1959",
+    "source_record_id": "EK 2",
+    "ek_id": "EK 2",
+    "title": "Window III",
+    "year_start": null,
+    "year_end": null,
+    "date_display": null,
+    "medium": "White monochrome with string sewn directly onto canvas (museum description)",
+    "height_cm": null,
+    "width_cm": null,
+    "collection": null,
+    "record_kind": "painting",
+    "source_url": "https://www.centrepompidou.fr/en/pompidou-plus/magazine/article/focus-on-windows-by-ellsworth-kelly",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_museum_curator_material_description",
+    "notes": [
+      "Centre Pompidou curator Jean-Pierre Criqui explicitly describes Window III as a white monochrome whose lines are string sewn onto canvas. Exact Foundation EK 2 identity and observed cord arrangement are supplied by its separately captioned colour installation photo. The article discusses 1949 but no isolated creation-date caption was transcribed; date and dimensions remain unresolved here. Very pale SVG lines indicate the shadows of white cords, not gray pigment."
+    ],
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/en/pompidou-plus/magazine/article/focus-on-windows-by-ellsworth-kelly",
+        "label": "Jean-Pierre Criqui, Centre Pompidou, Focus on Windows"
+      }
+    ]
+  }
+]

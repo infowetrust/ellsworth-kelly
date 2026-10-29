@@ -1,0 +1,1322 @@
+[
+  {
+    "source_id": "museum-v2:pompidou_cg9Mke",
+    "source_record_id": "AM 1992-362",
+    "title": "Black White",
+    "year_start": 1988,
+    "year_end": 1988,
+    "date_display": "1988",
+    "medium": "Huile sur toile",
+    "height_cm": 224.0,
+    "width_cm": 231.5,
+    "dimensions_display": "224 x 231,5 cm",
+    "collection": "Centre Pompidou, Musée national d’art moderne, Paris",
+    "accession": "AM 1992-362",
+    "ek_id": "EK 765",
+    "source_url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/cg9Mke",
+    "image_url": "https://www.centrepompidou.fr/media/picture/05/4e/054ebd2b0c57a06850f68f1a10c08723/thumb_large.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/cg9Mke",
+        "label": "Centre Pompidou, Musée national d’art moderne, Paris primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:pompidou_cBKoBej",
+    "source_record_id": "AM 1987-560",
+    "title": "Kite II",
+    "year_start": 1952,
+    "year_end": 1952,
+    "date_display": "1952",
+    "medium": "Huile sur toile",
+    "height_cm": 80.0,
+    "width_cm": 280.0,
+    "dimensions_display": "80 x 280 cm",
+    "collection": "Centre Pompidou, Musée national d’art moderne, Paris",
+    "accession": "AM 1987-560",
+    "ek_id": null,
+    "source_url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/cBKoBej",
+    "image_url": "https://www.centrepompidou.fr/media/picture/46/9e/469ed3f8f1b27872ac4913017e78fdd5/thumb_large.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/cBKoBej",
+        "label": "Centre Pompidou, Musée national d’art moderne, Paris primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:pompidou_coyG5E9",
+    "source_record_id": "AM 2015-386",
+    "title": "Window, Museum of Modern Art, Paris",
+    "year_start": 1949,
+    "year_end": 1949,
+    "date_display": "novembre 1949",
+    "medium": "Huile sur bois et toile",
+    "height_cm": 128.3,
+    "width_cm": 49.5,
+    "dimensions_display": "128,3 x 49,5 cm",
+    "collection": "Centre Pompidou, Musée national d’art moderne, Paris",
+    "accession": "AM 2015-386",
+    "ek_id": "EK 6",
+    "source_url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/coyG5E9",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/coyG5E9",
+        "label": "Centre Pompidou, Musée national d’art moderne, Paris primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:pompidou_czz9dpn",
+    "source_record_id": "AM 1985-482",
+    "title": "Dark Blue Panel",
+    "year_start": 1985,
+    "year_end": 1985,
+    "date_display": "1985",
+    "medium": "Huile sur toile",
+    "height_cm": 246.0,
+    "width_cm": 281.5,
+    "dimensions_display": "246 x 281,5 cm",
+    "collection": "Centre Pompidou, Musée national d’art moderne, Paris",
+    "accession": "AM 1985-482",
+    "ek_id": "EK 706",
+    "source_url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/czz9dpn",
+    "image_url": "https://www.centrepompidou.fr/media/picture/af/bd/afbdec0a8dcfffa0958155ca48b1ee5f/thumb_large.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/czz9dpn",
+        "label": "Centre Pompidou, Musée national d’art moderne, Paris primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:pompidou_ckXaRqp",
+    "source_record_id": "AM 2013-360",
+    "title": "Green Relief",
+    "year_start": 2007,
+    "year_end": 2007,
+    "date_display": "2007",
+    "medium": "Huile sur toile",
+    "height_cm": 177.8,
+    "width_cm": 209.7,
+    "dimensions_display": "177,8 x 209,7 x 7 cm",
+    "collection": "Centre Pompidou, Musée national d’art moderne, Paris",
+    "accession": "AM 2013-360",
+    "ek_id": "EK 966",
+    "source_url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/ckXaRqp",
+    "image_url": "https://www.centrepompidou.fr/media/picture/c0/22/c0221483c32b152ce916e47e71328def/thumb_large.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/ckXaRqp",
+        "label": "Centre Pompidou, Musée national d’art moderne, Paris primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:pompidou_cqp5Rjp",
+    "source_record_id": "AM 1975-228",
+    "title": "Yellow Red Curve",
+    "year_start": 1972,
+    "year_end": 1972,
+    "date_display": "1972",
+    "medium": "Huile sur toile",
+    "height_cm": 115.0,
+    "width_cm": 302.0,
+    "dimensions_display": "115 x 302 cm",
+    "collection": "Centre Pompidou, Musée national d’art moderne, Paris",
+    "accession": "AM 1975-228",
+    "ek_id": "EK 493",
+    "source_url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/cqp5Rjp",
+    "image_url": "https://www.centrepompidou.fr/media/picture/7d/25/7d259fdc5095f6e32a9351712e06aa11/thumb_large.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/cqp5Rjp",
+        "label": "Centre Pompidou, Musée national d’art moderne, Paris primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:pompidou_YPKMFpI",
+    "source_record_id": "AM 2019-DEP 8",
+    "title": "White Over Black III",
+    "year_start": 2015,
+    "year_end": 2015,
+    "date_display": "2015",
+    "medium": "Huile sur toile",
+    "height_cm": 229.0,
+    "width_cm": 151.0,
+    "dimensions_display": "229 x 151 x 7 cm",
+    "collection": "Centre Pompidou, Musée national d’art moderne, Paris",
+    "accession": "AM 2019-DEP 8",
+    "ek_id": null,
+    "source_url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/YPKMFpI",
+    "image_url": "https://www.centrepompidou.fr/media/picture/6c/82/6c82f844debd5e08dd2ab8c5855bc032/thumb_large.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [
+      "Studio deposit at museum, not asserted museum ownership: Dépôt du Ellsworth Kelly Studio, 2019"
+    ],
+    "sources": [
+      {
+        "url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/YPKMFpI",
+        "label": "Centre Pompidou, Musée national d’art moderne, Paris primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:beyeler_lake",
+    "source_record_id": "Inv.03.1",
+    "title": "Lake II",
+    "year_start": 2002,
+    "year_end": 2002,
+    "date_display": "2002",
+    "medium": "Oil on canvas",
+    "height_cm": 241.3,
+    "width_cm": 379.4,
+    "dimensions_display": "241.3 x 379.4 cm",
+    "collection": "Fondation Beyeler, Riehen/Basel",
+    "accession": "Inv.03.1",
+    "ek_id": "EK 909",
+    "source_url": "https://www.fondationbeyeler.ch/en/collection/digital-collection/lake-ii",
+    "image_url": "https://imagedelivery.net/ewpHDaK80-2FfcNaCIVZYA/9b83d21b-1282-4c2e-0951-51f2537efb00/public",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.fondationbeyeler.ch/en/collection/digital-collection/lake-ii",
+        "label": "Fondation Beyeler, Riehen/Basel primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:beyeler_darkgray",
+    "source_record_id": "Inv.97.2",
+    "title": "Dark Gray with White Rectangle II",
+    "year_start": 1978,
+    "year_end": 1978,
+    "date_display": "1978",
+    "medium": "Oil on canvas, two parts",
+    "height_cm": 208.3,
+    "width_cm": 266.7,
+    "dimensions_display": "208.3 x 266.7 cm",
+    "collection": "Fondation Beyeler, Riehen/Basel",
+    "accession": "Inv.97.2",
+    "ek_id": "EK 580",
+    "source_url": "https://www.fondationbeyeler.ch/en/collection/digital-collection/dark-gray-with-white-rectangle-ii",
+    "image_url": "https://imagedelivery.net/ewpHDaK80-2FfcNaCIVZYA/862b5ad7-2f1a-4adf-ef11-42312b129300/public",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.fondationbeyeler.ch/en/collection/digital-collection/dark-gray-with-white-rectangle-ii",
+        "label": "Fondation Beyeler, Riehen/Basel primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:beyeler_yellowwhite",
+    "source_record_id": "Inv.04.2",
+    "title": "Yellow White",
+    "year_start": 1961,
+    "year_end": 1961,
+    "date_display": "1961",
+    "medium": "Oil on canvas",
+    "height_cm": 213.4,
+    "width_cm": 141.5,
+    "dimensions_display": "213.4 x 141.5 cm",
+    "collection": "Fondation Beyeler, Riehen/Basel",
+    "accession": "Inv.04.2",
+    "ek_id": "EK 273",
+    "source_url": "https://www.fondationbeyeler.ch/en/collection/digital-collection/yellow-white",
+    "image_url": "https://imagedelivery.net/ewpHDaK80-2FfcNaCIVZYA/72f4c63a-9e77-4e2a-122f-84b2592f8500/public",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.fondationbeyeler.ch/en/collection/digital-collection/yellow-white",
+        "label": "Fondation Beyeler, Riehen/Basel primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:beyeler_greencurves",
+    "source_record_id": "Inv.02.2",
+    "title": "Green Curves",
+    "year_start": 1997,
+    "year_end": 1997,
+    "date_display": "1997",
+    "medium": "Oil on canvas",
+    "height_cm": 203.2,
+    "width_cm": 174.3,
+    "dimensions_display": "203.2 x 174.3 cm",
+    "collection": "Fondation Beyeler, Riehen/Basel",
+    "accession": "Inv.02.2",
+    "ek_id": "EK 854",
+    "source_url": "https://www.fondationbeyeler.ch/en/collection/digital-collection/green-curves",
+    "image_url": "https://imagedelivery.net/ewpHDaK80-2FfcNaCIVZYA/1711967b-b056-4241-b51b-e9b32a3acb00/public",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.fondationbeyeler.ch/en/collection/digital-collection/green-curves",
+        "label": "Fondation Beyeler, Riehen/Basel primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:beyeler_blueblackredgreen",
+    "source_record_id": "Inv.02.4",
+    "title": "Blue Black Red Green",
+    "year_start": 2000,
+    "year_end": 2000,
+    "date_display": "2000",
+    "medium": "Oil on canvas (four pannels)",
+    "height_cm": 249.0,
+    "width_cm": 1219.0,
+    "dimensions_display": "249.0 x 1219.0 cm",
+    "collection": "Fondation Beyeler, Riehen/Basel",
+    "accession": "Inv.02.4",
+    "ek_id": "EK 896",
+    "source_url": "https://www.fondationbeyeler.ch/en/collection/digital-collection/blue-black-red-green",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [
+      "Museum displayed249×1219cm differs from signature overall8ft4×40ft4¼in and Foundation254×1229.36cm; preserve source conflict, do not interpret installed arrangement as error.",
+      "No individual artwork image in structured record; generic social-card URL omitted."
+    ],
+    "sources": [
+      {
+        "url": "https://www.fondationbeyeler.ch/en/collection/digital-collection/blue-black-red-green",
+        "label": "Fondation Beyeler, Riehen/Basel primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:walker_black-relief-with-white",
+    "source_record_id": "2022.50",
+    "title": "Black Relief with White",
+    "year_start": 1991,
+    "year_end": 1991,
+    "date_display": "1991",
+    "medium": "oil on joined canvases",
+    "height_cm": 177.8,
+    "width_cm": 245.11,
+    "dimensions_display": " 70 x 96-1/2 x 4 inches overall installed",
+    "collection": "Walker Art Center, Minneapolis",
+    "accession": "2022.50",
+    "ek_id": null,
+    "source_url": "https://www.walkerart.org/collections/artwork/black-relief-with-white/",
+    "image_url": "https://imgix-proxy.walkerart.org/wac_42848.tif?fm=jpg&w=1800&h=1800&fit=fit",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [
+      "Museum classification: paintings. Complete public artist-index query also preserves excluded media."
+    ],
+    "sources": [
+      {
+        "url": "https://www.walkerart.org/collections/artwork/black-relief-with-white/",
+        "label": "Walker Art Center, Minneapolis primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:walker_yellow-red",
+    "source_record_id": "1994.215",
+    "title": "Yellow/Red",
+    "year_start": 1968,
+    "year_end": 1968,
+    "date_display": "1968",
+    "medium": "oil on canvas",
+    "height_cm": 187.96,
+    "width_cm": 261.62,
+    "dimensions_display": " 74 x 103 x 1-1/2 inches Framed",
+    "collection": "Walker Art Center, Minneapolis",
+    "accession": "1994.215",
+    "ek_id": null,
+    "source_url": "https://www.walkerart.org/collections/artwork/yellow-red/",
+    "image_url": "https://imgix-proxy.walkerart.org/wac_3709.tif?fm=jpg&w=1800&h=1800&fit=fit",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [
+      "Museum classification: paintings. Complete public artist-index query also preserves excluded media.",
+      "Only framed dimensions supplied; size reflects framed bounding rectangle."
+    ],
+    "sources": [
+      {
+        "url": "https://www.walkerart.org/collections/artwork/yellow-red/",
+        "label": "Walker Art Center, Minneapolis primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:walker_red-yellow-blue-iii",
+    "source_record_id": "1998.13.1-.3",
+    "title": "Red Yellow Blue III",
+    "year_start": 1966,
+    "year_end": 1966,
+    "date_display": "1966",
+    "medium": "oil on canvas",
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": " 70-1/2 x 70-1/8 x 1-3/8 inches each unframed",
+    "collection": "Walker Art Center, Minneapolis",
+    "accession": "1998.13.1-.3",
+    "ek_id": null,
+    "source_url": "https://www.walkerart.org/collections/artwork/red-yellow-blue-iii/",
+    "image_url": "https://imgix-proxy.walkerart.org/wac_15888.tif?fm=jpg&w=1800&h=1800&fit=fit",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [
+      "Museum classification: paintings. Complete public artist-index query also preserves excluded media.",
+      "Published measurements are EACH panel, not overall installation. Overall height/width remain unknown."
+    ],
+    "sources": [
+      {
+        "url": "https://www.walkerart.org/collections/artwork/red-yellow-blue-iii/",
+        "label": "Walker Art Center, Minneapolis primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:walker_red-green-blue",
+    "source_record_id": "1966.9",
+    "title": "Red Green Blue",
+    "year_start": 1964,
+    "year_end": 1964,
+    "date_display": "1964",
+    "medium": "oil on canvas",
+    "height_cm": 228.6,
+    "width_cm": 167.64,
+    "dimensions_display": " 90 x 66 inches unframed",
+    "collection": "Walker Art Center, Minneapolis",
+    "accession": "1966.9",
+    "ek_id": null,
+    "source_url": "https://www.walkerart.org/collections/artwork/red-green-blue/",
+    "image_url": "https://imgix-proxy.walkerart.org/wac_423.tif?fm=jpg&w=1800&h=1800&fit=fit",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [
+      "Museum classification: paintings. Complete public artist-index query also preserves excluded media."
+    ],
+    "sources": [
+      {
+        "url": "https://www.walkerart.org/collections/artwork/red-green-blue/",
+        "label": "Walker Art Center, Minneapolis primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:walker_black-curve",
+    "source_record_id": "1995.73",
+    "title": "Black Curve",
+    "year_start": 1962,
+    "year_end": 1962,
+    "date_display": "1962",
+    "medium": "oil on canvas",
+    "height_cm": 106.998,
+    "width_cm": 87.948,
+    "dimensions_display": " 42-1/8 x 34-5/8 x 1-1/16 inches actual",
+    "collection": "Walker Art Center, Minneapolis",
+    "accession": "1995.73",
+    "ek_id": null,
+    "source_url": "https://www.walkerart.org/collections/artwork/black-curve/",
+    "image_url": "https://imgix-proxy.walkerart.org/wac_2158.tif?fm=jpg&w=1800&h=1800&fit=fit",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [
+      "Museum classification: paintings. Complete public artist-index query also preserves excluded media."
+    ],
+    "sources": [
+      {
+        "url": "https://www.walkerart.org/collections/artwork/black-curve/",
+        "label": "Walker Art Center, Minneapolis primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:reina_yellow_red_curve_i",
+    "source_record_id": "AD00130",
+    "title": "Yellow Red Curve I",
+    "year_start": 1972,
+    "year_end": 1972,
+    "date_display": "1972",
+    "medium": "Oil on canvas",
+    "height_cm": 203.2,
+    "width_cm": 313.7,
+    "dimensions_display": "203.2 x313.7 cm",
+    "collection": "Museo Nacional Centro de Arte Reina Sofía, Madrid",
+    "accession": "AD00130",
+    "ek_id": null,
+    "source_url": "https://www.museoreinasofia.es/en/collections/artwork/yellow-red-curve-i/",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.museoreinasofia.es/en/collections/artwork/yellow-red-curve-i/",
+        "label": "Museo Nacional Centro de Arte Reina Sofía, Madrid primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:reina_black_curve_xi",
+    "source_record_id": "AD00132",
+    "title": "Black Curve XI",
+    "year_start": 1982,
+    "year_end": 1982,
+    "date_display": "1982",
+    "medium": "Oil on canvas",
+    "height_cm": 261.9,
+    "width_cm": 186.1,
+    "dimensions_display": "261.9 x186.1 cm",
+    "collection": "Museo Nacional Centro de Arte Reina Sofía, Madrid",
+    "accession": "AD00132",
+    "ek_id": null,
+    "source_url": "https://www.museoreinasofia.es/en/collections/artwork/black-curve-xi",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.museoreinasofia.es/en/collections/artwork/black-curve-xi",
+        "label": "Museo Nacional Centro de Arte Reina Sofía, Madrid primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:reina_orange_red_relief",
+    "source_record_id": "AD00131",
+    "title": "Orange-Red Relief (For Delphine Seyrig)",
+    "year_start": 1990,
+    "year_end": 1990,
+    "date_display": "1990",
+    "medium": "Oil on canvas",
+    "height_cm": 305.4,
+    "width_cm": 250.2,
+    "dimensions_display": "305.4 x250.2 x6.7 cm",
+    "collection": "Museo Nacional Centro de Arte Reina Sofía, Madrid",
+    "accession": "AD00131",
+    "ek_id": null,
+    "source_url": "https://www.museoreinasofia.es/en/collections/artwork/orange-red-relief-delphine-seyrig",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.museoreinasofia.es/en/collections/artwork/orange-red-relief-delphine-seyrig",
+        "label": "Museo Nacional Centro de Arte Reina Sofía, Madrid primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:reina_concorde",
+    "source_record_id": "AD00016",
+    "title": "Concorde",
+    "year_start": 1958,
+    "year_end": 1958,
+    "date_display": "1958",
+    "medium": "Oil on canvas",
+    "height_cm": 193.0,
+    "width_cm": 147.3,
+    "dimensions_display": "193 x147.3 cm",
+    "collection": "Museo Nacional Centro de Arte Reina Sofía, Madrid",
+    "accession": "AD00016",
+    "ek_id": null,
+    "source_url": "https://www.museoreinasofia.es/en/collections/artwork/concorde",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.museoreinasofia.es/en/collections/artwork/concorde",
+        "label": "Museo Nacional Centro de Arte Reina Sofía, Madrid primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:dia_50442",
+    "source_record_id": "dia_50442",
+    "title": "Blue Red",
+    "year_start": 1964,
+    "year_end": 1964,
+    "date_display": "1964",
+    "medium": "Oil on canvas",
+    "height_cm": 182.9,
+    "width_cm": 147.3,
+    "dimensions_display": "182.9 x147.3 cm",
+    "collection": "Detroit Institute of Arts",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://dia.org/collection/blue-red/50442",
+    "image_url": "https://dia.widen.net/content/ouxtgcy9j6/jpeg/75.32-d1-2024-05-17.jpeg?h=2000&keep=c&crop=yes&color=cccccc&quality=80&u=u3bnol",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [
+      "Unframed dimensions used. Museum classification: Paintings."
+    ],
+    "sources": [
+      {
+        "url": "https://dia.org/collection/blue-red/50442",
+        "label": "Detroit Institute of Arts primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:dia_50445",
+    "source_record_id": "dia_50445",
+    "title": "Black White",
+    "year_start": 1966,
+    "year_end": 1966,
+    "date_display": "1966",
+    "medium": "Oil on canvas",
+    "height_cm": 223.5,
+    "width_cm": 165.1,
+    "dimensions_display": "223.5 x165.1 cm",
+    "collection": "Detroit Institute of Arts",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://dia.org/collection/black-white/50445",
+    "image_url": "https://dia.widen.net/content/umnqk2kfqb/jpeg/67.13-d1-2024-05-17.jpeg?h=2000&keep=c&crop=yes&color=cccccc&quality=80&u=u3bnol",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [
+      "Unframed dimensions used. Museum classification: Paintings."
+    ],
+    "sources": [
+      {
+        "url": "https://dia.org/collection/black-white/50445",
+        "label": "Detroit Institute of Arts primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:bilbao_yellow_curve",
+    "source_record_id": "bilbao_yellow_curve",
+    "title": "Yellow Curve I",
+    "year_start": 1972,
+    "year_end": 1972,
+    "date_display": "1972",
+    "medium": "Oil on canvas",
+    "height_cm": 170.2,
+    "width_cm": 341.0,
+    "dimensions_display": "170.2 x341 cm",
+    "collection": "Guggenheim Museum Bilbao",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://www.guggenheim-bilbao.eus/en/the-collection/works/yellow-curve-i",
+    "image_url": "https://cms.guggenheim-bilbao.eus/uploads/2022/08/KellyE-1024x587.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.guggenheim-bilbao.eus/en/the-collection/works/yellow-curve-i",
+        "label": "Guggenheim Museum Bilbao primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:slam_5746",
+    "source_record_id": "4:1967a-m",
+    "title": "Spectrum II",
+    "year_start": 1966,
+    "year_end": 1967,
+    "date_display": "1966–67",
+    "medium": "Oil on canvas",
+    "height_cm": 203.2,
+    "width_cm": 693.4,
+    "dimensions_display": "203.2 x693.4 cm",
+    "collection": "Saint Louis Art Museum",
+    "accession": "4:1967a-m",
+    "ek_id": null,
+    "source_url": "https://www.slam.org/collection/objects/5746/",
+    "image_url": "https://www.slam.org/wp-content/uploads/piction/image-cache/7113.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.slam.org/collection/objects/5746/",
+        "label": "Saint Louis Art Museum primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:met_481000",
+    "source_record_id": "481000",
+    "title": "Red Dark Blue",
+    "year_start": 1960,
+    "year_end": 1960,
+    "date_display": "1960",
+    "medium": "Oil on linen",
+    "height_cm": 81.3,
+    "width_cm": 61.0,
+    "dimensions_display": "32 x 24 in. (81.3 x 61 cm)",
+    "collection": "The Metropolitan Museum of Art, New York",
+    "accession": "1972.167",
+    "ek_id": null,
+    "source_url": "https://www.metmuseum.org/art/collection/search/481000",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [
+      "Artist-specific officialCSV subset:69all-media rows, fivePainting-class rows. Object API individually corroborates classification."
+    ],
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/481000",
+        "label": "The Metropolitan Museum of Art, New York primary museum record",
+        "accessed": "2026-10-26"
+      },
+      {
+        "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/481000",
+        "label": "Corroborating primary museum source",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:met_484636",
+    "source_record_id": "484636",
+    "title": "Blue Panel II",
+    "year_start": 1977,
+    "year_end": 1977,
+    "date_display": "1977",
+    "medium": "Oil on canvas",
+    "height_cm": 240.0,
+    "width_cm": 241.9,
+    "dimensions_display": "94 1/2 × 95 1/4 in. (240 × 241.9 cm)",
+    "collection": "The Metropolitan Museum of Art, New York",
+    "accession": "1986.419.1",
+    "ek_id": null,
+    "source_url": "https://www.metmuseum.org/art/collection/search/484636",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [
+      "Artist-specific officialCSV subset:69all-media rows, fivePainting-class rows. Object API individually corroborates classification."
+    ],
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/484636",
+        "label": "The Metropolitan Museum of Art, New York primary museum record",
+        "accessed": "2026-10-26"
+      },
+      {
+        "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/484636",
+        "label": "Corroborating primary museum source",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:met_489307",
+    "source_record_id": "489307",
+    "title": "Blue Green Red",
+    "year_start": 1963,
+    "year_end": 1963,
+    "date_display": "1963",
+    "medium": "Oil on canvas",
+    "height_cm": 231.1,
+    "width_cm": 208.3,
+    "dimensions_display": "91 × 82 in. (231.1 × 208.3 cm)",
+    "collection": "The Metropolitan Museum of Art, New York",
+    "accession": "63.73",
+    "ek_id": null,
+    "source_url": "https://www.metmuseum.org/art/collection/search/489307",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [
+      "Artist-specific officialCSV subset:69all-media rows, fivePainting-class rows. Object API individually corroborates classification."
+    ],
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/489307",
+        "label": "The Metropolitan Museum of Art, New York primary museum record",
+        "accessed": "2026-10-26"
+      },
+      {
+        "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/489307",
+        "label": "Corroborating primary museum source",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:met_489800",
+    "source_record_id": "489800",
+    "title": "Spectrum V",
+    "year_start": 1969,
+    "year_end": 1969,
+    "date_display": "1969",
+    "medium": "Oil on canvas",
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": "Each panel: 84 1/8\" x 34\" x 1 1/8\"",
+    "collection": "The Metropolitan Museum of Art, New York",
+    "accession": "69.210a–m",
+    "ek_id": null,
+    "source_url": "https://www.metmuseum.org/art/collection/search/489800",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [
+      "Artist-specific officialCSV subset:69all-media rows, fivePainting-class rows. Object API individually corroborates classification.",
+      "Source gives individual-panel dimensions only; overall installation size left unknown."
+    ],
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/489800",
+        "label": "The Metropolitan Museum of Art, New York primary museum record",
+        "accessed": "2026-10-26"
+      },
+      {
+        "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/489800",
+        "label": "Corroborating primary museum source",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:met_915129",
+    "source_record_id": "915129",
+    "title": "Black White",
+    "year_start": 1970,
+    "year_end": 1970,
+    "date_display": "1970",
+    "medium": "Oil on canvas, two joined panels",
+    "height_cm": 177.8,
+    "width_cm": 273.1,
+    "dimensions_display": "70 in. × 8 ft. 11 1/2 in. × 1 3/4 in. (177.8 × 273.1 × 4.4 cm)",
+    "collection": "The Metropolitan Museum of Art, New York",
+    "accession": "2025.305a, b",
+    "ek_id": null,
+    "source_url": "https://www.metmuseum.org/art/collection/search/915129",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [
+      "Artist-specific officialCSV subset:69all-media rows, fivePainting-class rows. Object API individually corroborates classification."
+    ],
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/915129",
+        "label": "The Metropolitan Museum of Art, New York primary museum record",
+        "accessed": "2026-10-26"
+      },
+      {
+        "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/915129",
+        "label": "Corroborating primary museum source",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:k20_green_relief",
+    "source_record_id": "G 07",
+    "title": "Green Relief with Blue",
+    "year_start": 1993,
+    "year_end": 1993,
+    "date_display": "1993",
+    "medium": "Öl auf Leinwand, zwei miteinander verbundene Tafeln",
+    "height_cm": 304.8,
+    "width_cm": 249.6,
+    "dimensions_display": "304.8 × 249.6 cm",
+    "collection": "Kunstsammlung Nordrhein-Westfalen, Düsseldorf",
+    "accession": "G 07",
+    "ek_id": null,
+    "source_url": "https://sammlung.kunstsammlung.de/de/werke/603",
+    "image_url": "https://sammlung.kunstsammlung.de/museumplus/57859_scrhts.jpg?w=2000",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [
+      "Museum maximum work dimensions; depth7.5cm in full source."
+    ],
+    "sources": [
+      {
+        "url": "https://sammlung.kunstsammlung.de/de/werke/603",
+        "label": "Kunstsammlung Nordrhein-Westfalen, Düsseldorf primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:mumok_blue_curve",
+    "source_record_id": "ÖL-Stg 95/0",
+    "title": "Blue Curve",
+    "year_start": 1964,
+    "year_end": 1964,
+    "date_display": "1964",
+    "medium": "Öl auf Leinwand",
+    "height_cm": 107.0,
+    "width_cm": 84.0,
+    "dimensions_display": "107.0 × 84.0 cm",
+    "collection": "mumok, Vienna / Österreichische Ludwig-Stiftung",
+    "accession": "ÖL-Stg 95/0",
+    "ek_id": null,
+    "source_url": "https://www.mumok.at/onlinesammlung/detail/blue-curve-1552",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [
+      "Unframed object dimensions, depth4cm. Loan of Austrian Ludwig Foundation, not asserted sole museum ownership."
+    ],
+    "sources": [
+      {
+        "url": "https://www.mumok.at/onlinesammlung/detail/blue-curve-1552",
+        "label": "mumok, Vienna / Österreichische Ludwig-Stiftung primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:grenoble_red_curve_iv",
+    "source_record_id": null,
+    "title": "Red Curve IV",
+    "year_start": 1973,
+    "year_end": 1973,
+    "date_display": "1973",
+    "medium": null,
+    "height_cm": 254.0,
+    "width_cm": 254.0,
+    "dimensions_display": "254.0 × 254.0 cm",
+    "collection": "Musée de Grenoble",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://www.museedegrenoble.fr/oeuvre/1931/1922-red-curve-iv.htm",
+    "image_url": "https://images.navigart.fr/1000/5D/65/5D65741.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [
+      "Museum text identifies painting; specific paint/support medium not given on this page. Acquired from Galerie Denise René1975."
+    ],
+    "sources": [
+      {
+        "url": "https://www.museedegrenoble.fr/oeuvre/1931/1922-red-curve-iv.htm",
+        "label": "Musée de Grenoble primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:lenbach_documenta_a",
+    "source_record_id": "G 17734 a-d (component a)",
+    "title": "Blue Panel with Curve",
+    "year_start": 1991,
+    "year_end": 1991,
+    "date_display": "1991",
+    "medium": "Oil on canvas",
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": null,
+    "collection": "Städtische Galerie im Lenbachhaus und Kunstbau München",
+    "accession": "G 17734 a-d (component a)",
+    "ek_id": null,
+    "source_url": "https://www.lenbachhaus.de/en/digital/collection-online/detail/the-documenta-room-a-blue-panel-with-curve-1991-b-red-panel-with-curve-1991-c-green-panel-with-curve-1992-d-white-panel-with-curve-1992-30014052",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [
+      "Named component a of museum DocumentaRoom groupG17734a–d. Museum explicitly supplies each title andyear; constituent dimensions not supplied."
+    ],
+    "sources": [
+      {
+        "url": "https://www.lenbachhaus.de/en/digital/collection-online/detail/the-documenta-room-a-blue-panel-with-curve-1991-b-red-panel-with-curve-1991-c-green-panel-with-curve-1992-d-white-panel-with-curve-1992-30014052",
+        "label": "Städtische Galerie im Lenbachhaus und Kunstbau München primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:lenbach_documenta_b",
+    "source_record_id": "G 17734 a-d (component b)",
+    "title": "Red Panel with Curve",
+    "year_start": 1991,
+    "year_end": 1991,
+    "date_display": "1991",
+    "medium": "Oil on canvas",
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": null,
+    "collection": "Städtische Galerie im Lenbachhaus und Kunstbau München",
+    "accession": "G 17734 a-d (component b)",
+    "ek_id": null,
+    "source_url": "https://www.lenbachhaus.de/en/digital/collection-online/detail/the-documenta-room-a-blue-panel-with-curve-1991-b-red-panel-with-curve-1991-c-green-panel-with-curve-1992-d-white-panel-with-curve-1992-30014052",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [
+      "Named component b of museum DocumentaRoom groupG17734a–d. Museum explicitly supplies each title andyear; constituent dimensions not supplied."
+    ],
+    "sources": [
+      {
+        "url": "https://www.lenbachhaus.de/en/digital/collection-online/detail/the-documenta-room-a-blue-panel-with-curve-1991-b-red-panel-with-curve-1991-c-green-panel-with-curve-1992-d-white-panel-with-curve-1992-30014052",
+        "label": "Städtische Galerie im Lenbachhaus und Kunstbau München primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:lenbach_documenta_c",
+    "source_record_id": "G 17734 a-d (component c)",
+    "title": "Green Panel with Curve",
+    "year_start": 1992,
+    "year_end": 1992,
+    "date_display": "1992",
+    "medium": "Oil on canvas",
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": null,
+    "collection": "Städtische Galerie im Lenbachhaus und Kunstbau München",
+    "accession": "G 17734 a-d (component c)",
+    "ek_id": null,
+    "source_url": "https://www.lenbachhaus.de/en/digital/collection-online/detail/the-documenta-room-a-blue-panel-with-curve-1991-b-red-panel-with-curve-1991-c-green-panel-with-curve-1992-d-white-panel-with-curve-1992-30014052",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [
+      "Named component c of museum DocumentaRoom groupG17734a–d. Museum explicitly supplies each title andyear; constituent dimensions not supplied."
+    ],
+    "sources": [
+      {
+        "url": "https://www.lenbachhaus.de/en/digital/collection-online/detail/the-documenta-room-a-blue-panel-with-curve-1991-b-red-panel-with-curve-1991-c-green-panel-with-curve-1992-d-white-panel-with-curve-1992-30014052",
+        "label": "Städtische Galerie im Lenbachhaus und Kunstbau München primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:lenbach_documenta_d",
+    "source_record_id": "G 17734 a-d (component d)",
+    "title": "White Panel with Curve",
+    "year_start": 1992,
+    "year_end": 1992,
+    "date_display": "1992",
+    "medium": "Oil on canvas",
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": null,
+    "collection": "Städtische Galerie im Lenbachhaus und Kunstbau München",
+    "accession": "G 17734 a-d (component d)",
+    "ek_id": null,
+    "source_url": "https://www.lenbachhaus.de/en/digital/collection-online/detail/the-documenta-room-a-blue-panel-with-curve-1991-b-red-panel-with-curve-1991-c-green-panel-with-curve-1992-d-white-panel-with-curve-1992-30014052",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [
+      "Named component d of museum DocumentaRoom groupG17734a–d. Museum explicitly supplies each title andyear; constituent dimensions not supplied."
+    ],
+    "sources": [
+      {
+        "url": "https://www.lenbachhaus.de/en/digital/collection-online/detail/the-documenta-room-a-blue-panel-with-curve-1991-b-red-panel-with-curve-1991-c-green-panel-with-curve-1992-d-white-panel-with-curve-1992-30014052",
+        "label": "Städtische Galerie im Lenbachhaus und Kunstbau München primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:flv_red_curve",
+    "source_record_id": null,
+    "title": "Red Curve in Relief",
+    "year_start": 2009,
+    "year_end": 2009,
+    "date_display": "2009",
+    "medium": "Oil on canvas, two attached panels",
+    "height_cm": 195.8,
+    "width_cm": 149.0,
+    "dimensions_display": "195.8 × 149.0 cm",
+    "collection": "Fondation Louis Vuitton, Paris",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://www.fondationlouisvuitton.fr/en/collection/artworks/red-curve-in-relief",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.fondationlouisvuitton.fr/en/collection/artworks/red-curve-in-relief",
+        "label": "Fondation Louis Vuitton, Paris primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:flv_green_relief",
+    "source_record_id": null,
+    "title": "Green Relief",
+    "year_start": 2009,
+    "year_end": 2009,
+    "date_display": "2009",
+    "medium": "Huile sur toile, deux panneaux joints",
+    "height_cm": 203.4,
+    "width_cm": 159.0,
+    "dimensions_display": "203.4 × 159.0 cm",
+    "collection": "Fondation Louis Vuitton, Paris",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://www.fondationlouisvuitton.fr/fr/collection/oeuvres/green-relief",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.fondationlouisvuitton.fr/fr/collection/oeuvres/green-relief",
+        "label": "Fondation Louis Vuitton, Paris primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:flv_blue_diagonal",
+    "source_record_id": null,
+    "title": "Blue Diagonal",
+    "year_start": 2008,
+    "year_end": 2008,
+    "date_display": "2008",
+    "medium": "Oil on canvas, two joined panels",
+    "height_cm": 219.5,
+    "width_cm": 154.0,
+    "dimensions_display": "219.5 × 154.0 cm",
+    "collection": "Fondation Louis Vuitton, Paris",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://www.fondationlouisvuitton.fr/en/collection/artworks/blue-diagonal",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.fondationlouisvuitton.fr/en/collection/artworks/blue-diagonal",
+        "label": "Fondation Louis Vuitton, Paris primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:flv_concorde",
+    "source_record_id": null,
+    "title": "Concorde Relief",
+    "year_start": 2009,
+    "year_end": 2009,
+    "date_display": "2009",
+    "medium": "Oil on canvas, two joined panels",
+    "height_cm": 158.4,
+    "width_cm": 203.4,
+    "dimensions_display": "158.4 × 203.4 cm",
+    "collection": "Fondation Louis Vuitton, Paris",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://www.fondationlouisvuitton.fr/en/collection/artworks/concorde-relief",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.fondationlouisvuitton.fr/en/collection/artworks/concorde-relief",
+        "label": "Fondation Louis Vuitton, Paris primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:mfah_60998",
+    "source_record_id": "2024.302",
+    "title": "Blue Red",
+    "year_start": 1965,
+    "year_end": 1965,
+    "date_display": "1965",
+    "medium": "Oil on canvas",
+    "height_cm": 172.1,
+    "width_cm": 388.9,
+    "dimensions_display": "172.1 × 388.9 cm",
+    "collection": "Museum of Fine Arts, Houston",
+    "accession": "2024.302",
+    "ek_id": null,
+    "source_url": "https://emuseum.mfah.org/objects/60998/blue-red",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://emuseum.mfah.org/objects/60998/blue-red",
+        "label": "Museum of Fine Arts, Houston primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "museum-v2:mfah_12441",
+    "source_record_id": "89.11",
+    "title": "Green Black",
+    "year_start": 1988,
+    "year_end": 1988,
+    "date_display": "1988",
+    "medium": "Oil on canvas",
+    "height_cm": 243.8,
+    "width_cm": 335.3,
+    "dimensions_display": "243.8 × 335.3 cm",
+    "collection": "Museum of Fine Arts, Houston",
+    "accession": "89.11",
+    "ek_id": "EK 775",
+    "source_url": "https://emuseum.mfah.org/objects/12441/green-black",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-26",
+    "notes": [
+      "Work number775 appears in artist inscription on source page."
+    ],
+    "sources": [
+      {
+        "url": "https://emuseum.mfah.org/objects/12441/green-black",
+        "label": "Museum of Fine Arts, Houston primary museum record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  }
+]

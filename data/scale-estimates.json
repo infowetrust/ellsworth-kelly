@@ -1,0 +1,4339 @@
+{
+  "schema_version": 1,
+  "generated_date": "2026-10-29",
+  "input_catalogue_sha256": "d3e8e7d5ac0a2ce9a31c40d1d08664834feedf42e8397246c60cf688763308ec",
+  "summary": {
+    "eligible_svg": 436,
+    "unresolved_svg": 61,
+    "estimated_count": 61,
+    "method_counts": {
+      "comparable_median_long_edge": 30,
+      "reported_height_anchor": 8,
+      "secondary_dimension_anchor": 1,
+      "historical_caption_anchor": 2,
+      "component_height_anchor": 5,
+      "inferred_axis_anchor": 3,
+      "floor_plan_long_edge_anchor": 5,
+      "component_width_anchor": 1,
+      "reported_long_edge_anchor": 2,
+      "conflicting_source_height_anchor": 1,
+      "architectural_height_comparison": 1,
+      "partial_installation_component_median": 1,
+      "joined_panel_height_comparison": 1
+    },
+    "confidence_counts": {
+      "very_low": 32,
+      "medium": 16,
+      "low": 13
+    }
+  },
+  "estimates": {
+    "international-v4-kroller-plant-i": {
+      "is_estimate": true,
+      "height_cm": 72.4,
+      "width_cm": 56.739,
+      "svg_aspect_ratio": 0.7836879432624113,
+      "method": "comparable_median_long_edge",
+      "confidence": "very_low",
+      "reason": "No usable work-level dimensions. Median long edge of 7 nearby confirmed/measured comparators selected by early plant, date context, support and aspect is 72.4 cm. This is a size prior, not an identity join or evidence of this work’s measurement.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 72.4,
+        "role": "robust comparison prior",
+        "source_url": "https://krollermuller.nl/media/jaaroverzichten/jaarverslag_kmm_2006lr3.pdf"
+      },
+      "comparison_ids": [
+        "ek-a-22",
+        "sfmoma-504-5",
+        "ek-a-29",
+        "sfmoma-v3-99-348",
+        "ek-18",
+        "sfmoma-504-6",
+        "short-book-v4-ellsworthkelly20132-42-f-te-torcy"
+      ],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed."
+      ],
+      "comparison_samples": [
+        {
+          "id": "ek-a-22",
+          "height_cm": 41.91,
+          "width_cm": 33.02,
+          "long_edge_cm": 41.91,
+          "year_start": 1949,
+          "family": "early_plant",
+          "selection_score": 0.00373,
+          "source_url": "https://ellsworthkelly.org/work/plant-ii/"
+        },
+        {
+          "id": "sfmoma-504-5",
+          "height_cm": 64.8,
+          "width_cm": 53.3,
+          "long_edge_cm": 64.8,
+          "year_start": 1949,
+          "family": "early_architectural_relief",
+          "selection_score": 1.63386,
+          "source_url": "https://www.sfmoma.org/artwork/99.359/"
+        },
+        {
+          "id": "ek-a-29",
+          "height_cm": 54.61,
+          "width_cm": 45.72,
+          "long_edge_cm": 54.61,
+          "year_start": 1949,
+          "family": "small_study_or_paper",
+          "selection_score": 1.64624,
+          "source_url": "https://ellsworthkelly.org/work/kilometer-marker/"
+        },
+        {
+          "id": "sfmoma-v3-99-348",
+          "height_cm": 72.4,
+          "width_cm": 49.5,
+          "long_edge_cm": 72.4,
+          "year_start": 1949,
+          "family": "curve",
+          "selection_score": 1.69554,
+          "source_url": "https://www.sfmoma.org/artwork/99.348/"
+        },
+        {
+          "id": "ek-18",
+          "height_cm": 100.013,
+          "width_cm": 70.168,
+          "long_edge_cm": 100.013,
+          "year_start": 1950,
+          "family": "relief",
+          "selection_score": 1.77746,
+          "source_url": "https://ellsworthkelly.org/work/white-relief/"
+        },
+        {
+          "id": "sfmoma-504-6",
+          "height_cm": 161.3,
+          "width_cm": 113.0,
+          "long_edge_cm": 161.3,
+          "year_start": 1951,
+          "family": "rectangle",
+          "selection_score": 1.87849,
+          "source_url": "https://fisher.access.sfmoma.org/504/"
+        },
+        {
+          "id": "short-book-v4-ellsworthkelly20132-42-f-te-torcy",
+          "height_cm": 116,
+          "width_cm": 97,
+          "long_edge_cm": 116,
+          "year_start": 1952,
+          "family": "relief",
+          "selection_score": 1.94541,
+          "source_url": "https://archive.org/download/EllsworthKelly20132/EllsworthKelly20132.pdf#page=42"
+        }
+      ],
+      "comparison_context": {}
+    },
+    "north-v4-philadelphia-seaweed": {
+      "is_estimate": true,
+      "height_cm": 72.6812,
+      "width_cm": 100.3,
+      "svg_aspect_ratio": 1.38,
+      "method": "comparable_median_long_edge",
+      "confidence": "very_low",
+      "reason": "No usable work-level dimensions. Median long edge of 7 nearby confirmed/measured comparators selected by early plant, date context, support and aspect is 100.3 cm. This is a size prior, not an identity join or evidence of this work’s measurement.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 100.3,
+        "role": "robust comparison prior",
+        "source_url": "https://press.philamuseum.org/museum-receives-major-gift-of-eighteen-drawings-an-early-painting-and-a-steel-sculpture-by-ellsworth-kelly/"
+      },
+      "comparison_ids": [
+        "ek-a-22",
+        "ek-26",
+        "sfmoma-v3-fc-571",
+        "whitney-17193",
+        "ek-40",
+        "moma1973-pdf29-caption1",
+        "ek-62"
+      ],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed."
+      ],
+      "comparison_samples": [
+        {
+          "id": "ek-a-22",
+          "height_cm": 41.91,
+          "width_cm": 33.02,
+          "long_edge_cm": 41.91,
+          "year_start": 1949,
+          "family": "early_plant",
+          "selection_score": 0.39235,
+          "source_url": "https://ellsworthkelly.org/work/plant-ii/"
+        },
+        {
+          "id": "ek-26",
+          "height_cm": 113.665,
+          "width_cm": 146.05,
+          "long_edge_cm": 146.05,
+          "year_start": 1950,
+          "family": "rectangle",
+          "selection_score": 1.74997,
+          "source_url": "https://ellsworthkelly.org/work/fond-jaune/"
+        },
+        {
+          "id": "sfmoma-v3-fc-571",
+          "height_cm": 64.8,
+          "width_cm": 100.3,
+          "long_edge_cm": 100.3,
+          "year_start": 1950,
+          "family": "relief",
+          "selection_score": 1.78034,
+          "source_url": "https://www.sfmoma.org/artwork/FC.571/"
+        },
+        {
+          "id": "whitney-17193",
+          "height_cm": 96.5,
+          "width_cm": 161.8,
+          "long_edge_cm": 161.8,
+          "year_start": 1950,
+          "family": "rectangle",
+          "selection_score": 1.83631,
+          "source_url": "https://whitney.org/collection/works/17193"
+        },
+        {
+          "id": "ek-40",
+          "height_cm": 143.51,
+          "width_cm": 179.705,
+          "long_edge_cm": 179.705,
+          "year_start": 1951,
+          "family": "rectangle",
+          "selection_score": 1.86802,
+          "source_url": "https://ellsworthkelly.org/work/cite/"
+        },
+        {
+          "id": "moma1973-pdf29-caption1",
+          "height_cm": 55.88,
+          "width_cm": 99.695,
+          "long_edge_cm": 99.695,
+          "year_start": 1950,
+          "family": "relief",
+          "selection_score": 1.87978,
+          "source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf"
+        },
+        {
+          "id": "ek-62",
+          "height_cm": 74.295,
+          "width_cm": 99.695,
+          "long_edge_cm": 99.695,
+          "year_start": 1952,
+          "family": "rectangle",
+          "selection_score": 1.91961,
+          "source_url": "https://ellsworthkelly.org/work/tableau-vert/"
+        }
+      ],
+      "comparison_context": {}
+    },
+    "moma1973-pdf40-caption2": {
+      "is_estimate": true,
+      "height_cm": 99.1,
+      "width_cm": 118.1,
+      "svg_aspect_ratio": 1.19172553,
+      "method": "reported_height_anchor",
+      "confidence": "medium",
+      "reason": "Use this work’s reported height 99.1 cm and derive width from its SVG aspect. Any projection, spacing or source qualification remains unresolved; this estimate does not make the measurement formally true-scale eligible.",
+      "anchor": {
+        "dimension": "height",
+        "value_cm": 99.1,
+        "reported_width_cm": 118.1,
+        "source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf"
+      },
+      "comparison_ids": [],
+      "source_evidence": [
+        {
+          "source_id": "guggenheim1996:essay-52-fig-4",
+          "source_record_id": "essay-52-fig-4",
+          "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=52",
+          "height_cm": 99.1,
+          "width_cm": 118.1
+        }
+      ],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed."
+      ]
+    },
+    "moma1973-pdf42-caption1": {
+      "is_estimate": true,
+      "height_cm": 64.77,
+      "width_cm": 85.5633,
+      "svg_aspect_ratio": 1.321033210325,
+      "method": "reported_height_anchor",
+      "confidence": "medium",
+      "reason": "Use this work’s reported height 64.77 cm and derive width from its SVG aspect. Any projection, spacing or source qualification remains unresolved; this estimate does not make the measurement formally true-scale eligible.",
+      "anchor": {
+        "dimension": "height",
+        "value_cm": 64.77,
+        "reported_width_cm": 86.36,
+        "source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf"
+      },
+      "comparison_ids": [],
+      "source_evidence": [
+        {
+          "source_id": "moma1973:pdf42-caption1",
+          "source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+          "height_cm": 64.77,
+          "width_cm": 86.36,
+          "dimensions_display": "25.5 x 34 inches (overall)"
+        },
+        {
+          "source_id": "guggenheim1996:cat-11",
+          "source_record_id": "11",
+          "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=103",
+          "height_cm": 64.8,
+          "width_cm": 86.4
+        }
+      ],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed."
+      ]
+    },
+    "foundation-exhib-v4-ek29-kelly-peintures-et-reliefs": {
+      "is_estimate": true,
+      "height_cm": 89.8866,
+      "width_cm": 224.2,
+      "svg_aspect_ratio": 2.494252873575,
+      "method": "secondary_dimension_anchor",
+      "confidence": "low",
+      "reason": "University thesis figure 25 reports 83.8×224.2 cm. Use its long width 224.2 cm, with the observed SVG aspect; this is explicitly secondary evidence rather than a verified catalogue measurement.",
+      "anchor": {
+        "dimension": "width",
+        "value_cm": 224.2,
+        "source_url": "https://theses.ubn.ru.nl/bitstreams/722c0843-d79a-40f6-be14-120a459b1ed6/download"
+      },
+      "comparison_ids": [],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed."
+      ]
+    },
+    "moma1973-pdf57-caption1": {
+      "is_estimate": true,
+      "height_cm": 130.81,
+      "width_cm": 152.6117,
+      "svg_aspect_ratio": 1.1666666666749999,
+      "method": "historical_caption_anchor",
+      "confidence": "medium",
+      "reason": "The independently re-inspected 1973 printed caption is 51½×60 inches (earlier OCR misread the fraction). Use 51½ inches as height; the seven-column/six-row SVG is retained, so its width is derived rather than forced to 60 inches.",
+      "anchor": {
+        "dimension": "height",
+        "value_cm": 130.81,
+        "source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=57"
+      },
+      "comparison_ids": [],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed."
+      ]
+    },
+    "whitney-9295": {
+      "is_estimate": true,
+      "height_cm": 91.4,
+      "width_cm": 310.2263,
+      "svg_aspect_ratio": 3.394160583941606,
+      "method": "component_height_anchor",
+      "confidence": "medium",
+      "reason": "Tallest panel height is 91.4 cm; scale the observed five-panel arrangement by that height. Published overall width 356.4 cm includes a different/unspecified arrangement.",
+      "anchor": {
+        "dimension": "height",
+        "value_cm": 91.4,
+        "role": "tallest/each component height",
+        "source_url": "https://whitney.org/collection/works/9295"
+      },
+      "comparison_ids": [],
+      "source_evidence": [
+        {
+          "source_id": "whitney:9295",
+          "source_record_id": "9295",
+          "source_url": "https://whitney.org/collection/works/9295",
+          "height_cm": 91.4,
+          "width_cm": 356.4,
+          "dimensions_display": "Overall: 36 × 140 5/16 in. (91.4 × 356.4 cm)"
+        },
+        {
+          "source_id": "moma1973:pdf83-caption1",
+          "source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+          "height_cm": 91.44,
+          "width_cm": 365.76,
+          "dimensions_display": "36 x 144 inches (overall)"
+        }
+      ],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed.",
+        "The SVG retains a photographed projection; estimated extent is not an orthographic physical measurement.",
+        "Estimated overall extent includes the SVG’s chosen gaps/arrangement; installation spacing can vary."
+      ]
+    },
+    "christies-5623231": {
+      "is_estimate": true,
+      "height_cm": 35.2,
+      "width_cm": 32.032,
+      "svg_aspect_ratio": 0.91,
+      "method": "inferred_axis_anchor",
+      "confidence": "low",
+      "reason": "Both sale captions report landscape 27.6×35.2 cm while both actual photographs show a portrait sheet. Use the reported long edge 35.2 cm vertically and preserve the observed portrait aspect; no factual dimension is changed.",
+      "anchor": {
+        "dimension": "height",
+        "value_cm": 35.2,
+        "source_url": "https://www.christies.com/en/lot/lot-5623231"
+      },
+      "comparison_ids": [],
+      "source_evidence": [
+        {
+          "source_id": "christies:5623231",
+          "source_record_id": "5623231",
+          "source_url": "https://www.christies.com/en/lot/lot-5623231",
+          "height_cm": 27.6,
+          "width_cm": 35.2,
+          "dimensions_display": "10 7/8 x 13 7/8 in. (27.6 x 35.2 cm.)"
+        },
+        {
+          "source_id": "christies:6605268",
+          "source_record_id": "6605268",
+          "source_url": "https://www.christies.com/en/lot/lot-6605268",
+          "height_cm": 27.6,
+          "width_cm": 35.2,
+          "dimensions_display": "10 7⁄8 x 13 7⁄8 in. (27.6 x 35.2 cm.)"
+        }
+      ],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed.",
+        "The SVG retains a photographed projection; estimated extent is not an orthographic physical measurement."
+      ]
+    },
+    "north-v4-yale-charter": {
+      "is_estimate": true,
+      "height_cm": 198.12,
+      "width_cm": 124.6505,
+      "svg_aspect_ratio": 0.6291666666666667,
+      "method": "comparable_median_long_edge",
+      "confidence": "very_low",
+      "reason": "No usable work-level dimensions. Median long edge of 7 nearby confirmed/measured comparators selected by rectangle, date context, support and aspect is 198.12 cm. This is a size prior, not an identity join or evidence of this work’s measurement.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 198.12,
+        "role": "robust comparison prior",
+        "source_url": "https://artgallery.yale.edu/sites/default/files/publication/pdfs/ag-doc-2106-0001-doc.pdf"
+      },
+      "comparison_ids": [
+        "guggenheim1996-cat-34",
+        "moma-78403",
+        "nelson-v3-22857",
+        "christies-6482948",
+        "ek-206",
+        "north-v4-blanton-high-yellow",
+        "ek-167"
+      ],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed."
+      ],
+      "comparison_samples": [
+        {
+          "id": "guggenheim1996-cat-34",
+          "height_cm": 177.8,
+          "width_cm": 127.0,
+          "long_edge_cm": 177.8,
+          "year_start": 1959,
+          "family": "rectangle",
+          "selection_score": 0.08882,
+          "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=139"
+        },
+        {
+          "id": "moma-78403",
+          "height_cm": 223.6,
+          "width_cm": 172.2,
+          "long_edge_cm": 223.6,
+          "year_start": 1959,
+          "family": "rectangle",
+          "selection_score": 0.14151,
+          "source_url": "https://www.moma.org/collection/works/78403"
+        },
+        {
+          "id": "nelson-v3-22857",
+          "height_cm": 218.76,
+          "width_cm": 124.78,
+          "long_edge_cm": 218.76,
+          "year_start": 1960,
+          "family": "rectangle",
+          "selection_score": 0.16864,
+          "source_url": "https://art.nelson-atkins.org/objects/22857/white-black"
+        },
+        {
+          "id": "christies-6482948",
+          "height_cm": 116.5,
+          "width_cm": 65.7,
+          "long_edge_cm": 116.5,
+          "year_start": 1960,
+          "family": "rectangle",
+          "selection_score": 0.1766,
+          "source_url": "https://www.christies.com/en/lot/lot-6482948"
+        },
+        {
+          "id": "ek-206",
+          "height_cm": 152.876,
+          "width_cm": 124.619,
+          "long_edge_cm": 152.876,
+          "year_start": 1959,
+          "family": "rectangle",
+          "selection_score": 0.1813,
+          "source_url": "https://ellsworthkelly.org/work/falcon/"
+        },
+        {
+          "id": "north-v4-blanton-high-yellow",
+          "height_cm": 204.62875,
+          "width_cm": 146.84375,
+          "long_edge_cm": 204.62875,
+          "year_start": 1960,
+          "family": "rectangle",
+          "selection_score": 0.19207,
+          "source_url": "https://blantonmuseum.org/wp-content/uploads/2021/10/Blanton-SEL-FindingJoy-Journal-10.2.pdf"
+        },
+        {
+          "id": "ek-167",
+          "height_cm": 198.12,
+          "width_cm": 144.78,
+          "long_edge_cm": 198.12,
+          "year_start": 1958,
+          "family": "rectangle",
+          "selection_score": 0.20479,
+          "source_url": "https://ellsworthkelly.org/work/city-island/"
+        }
+      ],
+      "comparison_context": {}
+    },
+    "gap-blue-white-1962": {
+      "is_estimate": true,
+      "height_cm": 205.9016,
+      "width_cm": 212.1,
+      "svg_aspect_ratio": 1.030103480725,
+      "method": "comparable_median_long_edge",
+      "confidence": "very_low",
+      "reason": "No usable work-level dimensions. Median long edge of 7 nearby confirmed/measured comparators selected by rectangle, date context, support and aspect is 212.1 cm. This is a size prior, not an identity join or evidence of this work’s measurement.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 212.1,
+        "role": "robust comparison prior",
+        "source_url": "https://ellsworthkelly.org/chronology/"
+      },
+      "comparison_ids": [
+        "christies-6606713",
+        "ek-278",
+        "sfmoma-v3-66-3",
+        "christies-5147465",
+        "international-v4-maeght-red-yellow-blue-i",
+        "sfmoma-508-5",
+        "ek-289"
+      ],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed."
+      ],
+      "comparison_samples": [
+        {
+          "id": "christies-6606713",
+          "height_cm": 177.8,
+          "width_cm": 177.8,
+          "long_edge_cm": 177.8,
+          "year_start": 1962,
+          "family": "rectangle",
+          "selection_score": 0.02076,
+          "source_url": "https://www.christies.com/en/lot/lot-6606713"
+        },
+        {
+          "id": "ek-278",
+          "height_cm": 56.515,
+          "width_cm": 56.515,
+          "long_edge_cm": 56.515,
+          "year_start": 1962,
+          "family": "rectangle",
+          "selection_score": 0.02076,
+          "source_url": "https://ellsworthkelly.org/work/leaf-castor-bean/"
+        },
+        {
+          "id": "sfmoma-v3-66-3",
+          "height_cm": 203.5,
+          "width_cm": 229.4,
+          "long_edge_cm": 229.4,
+          "year_start": 1962,
+          "family": "rectangle",
+          "selection_score": 0.0631,
+          "source_url": "https://www.sfmoma.org/artwork/66.3/"
+        },
+        {
+          "id": "christies-5147465",
+          "height_cm": 167.6,
+          "width_cm": 175.3,
+          "long_edge_cm": 175.3,
+          "year_start": 1961,
+          "family": "rectangle",
+          "selection_score": 0.11068,
+          "source_url": "https://www.christies.com/en/lot/lot-5147465"
+        },
+        {
+          "id": "international-v4-maeght-red-yellow-blue-i",
+          "height_cm": 231,
+          "width_cm": 231,
+          "long_edge_cm": 231,
+          "year_start": 1963,
+          "family": "rectangle",
+          "selection_score": 0.12076,
+          "source_url": "https://www.fondation-maeght.com/ellsworth-kelly-red-yellow-blue-1963-2/"
+        },
+        {
+          "id": "sfmoma-508-5",
+          "height_cm": 212.1,
+          "width_cm": 170.2,
+          "long_edge_cm": 212.1,
+          "year_start": 1962,
+          "family": "rectangle",
+          "selection_score": 0.17482,
+          "source_url": "https://www.sfmoma.org/artwork/FC.566/"
+        },
+        {
+          "id": "ek-289",
+          "height_cm": 219.71,
+          "width_cm": 172.72,
+          "long_edge_cm": 219.71,
+          "year_start": 1962,
+          "family": "rectangle",
+          "selection_score": 0.18921,
+          "source_url": "https://ellsworthkelly.org/work/blue-green/"
+        }
+      ],
+      "comparison_context": {}
+    },
+    "international-v4-stedelijk-blue-green-red-i": {
+      "is_estimate": true,
+      "height_cm": 133.6842,
+      "width_cm": 152.4,
+      "svg_aspect_ratio": 1.14,
+      "method": "comparable_median_long_edge",
+      "confidence": "very_low",
+      "reason": "No usable work-level dimensions. Median long edge of 7 nearby confirmed/measured comparators selected by rectangle, date context, support and aspect is 152.4 cm. This is a size prior, not an identity join or evidence of this work’s measurement.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 152.4,
+        "role": "robust comparison prior",
+        "source_url": "https://sbmk.nl/source/documents/MAWC-publ_web2.pdf"
+      },
+      "comparison_ids": [
+        "guggenheim-venice-blue-red",
+        "guggenheim-venice-green-red",
+        "seattle-14331",
+        "whitney-2596",
+        "christies-6368817",
+        "christies-5621957",
+        "freeman-pf0405"
+      ],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed."
+      ],
+      "comparison_samples": [
+        {
+          "id": "guggenheim-venice-blue-red",
+          "height_cm": 91.4,
+          "width_cm": 91.4,
+          "long_edge_cm": 91.4,
+          "year_start": 1964,
+          "family": "rectangle",
+          "selection_score": 0.09172,
+          "source_url": "https://www.guggenheim-venice.it/en/art/works/blue-red/"
+        },
+        {
+          "id": "guggenheim-venice-green-red",
+          "height_cm": 91.4,
+          "width_cm": 91.4,
+          "long_edge_cm": 91.4,
+          "year_start": 1964,
+          "family": "rectangle",
+          "selection_score": 0.09172,
+          "source_url": "https://www.guggenheim-venice.it/en/art/works/green-red/"
+        },
+        {
+          "id": "seattle-14331",
+          "height_cm": 222.3,
+          "width_cm": 257.5,
+          "long_edge_cm": 257.5,
+          "year_start": 1965,
+          "family": "rectangle",
+          "selection_score": 0.11117,
+          "source_url": "https://art.seattleartmuseum.org/objects/14331/blue-green-red-ii"
+        },
+        {
+          "id": "whitney-2596",
+          "height_cm": 186.1,
+          "width_cm": 255.0,
+          "long_edge_cm": 255.0,
+          "year_start": 1964,
+          "family": "rectangle",
+          "selection_score": 0.12877,
+          "source_url": "https://whitney.org/collection/works/2596"
+        },
+        {
+          "id": "christies-6368817",
+          "height_cm": 190.5,
+          "width_cm": 177.2,
+          "long_edge_cm": 190.5,
+          "year_start": 1964,
+          "family": "rectangle",
+          "selection_score": 0.14238,
+          "source_url": "https://www.christies.com/en/lot/lot-6368817"
+        },
+        {
+          "id": "christies-5621957",
+          "height_cm": 152.4,
+          "width_cm": 137.5,
+          "long_edge_cm": 152.4,
+          "year_start": 1964,
+          "family": "rectangle",
+          "selection_score": 0.16374,
+          "source_url": "https://www.christies.com/en/lot/lot-5621957"
+        },
+        {
+          "id": "freeman-pf0405",
+          "height_cm": 20.3,
+          "width_cm": 25.4,
+          "long_edge_cm": 25.4,
+          "year_start": 1963,
+          "family": "rectangle",
+          "selection_score": 0.16517,
+          "source_url": "https://www.peterfreemaninc.com/exhibitions/ellsworth-kelly/selected-works?view=multiple-sliders"
+        }
+      ],
+      "comparison_context": {}
+    },
+    "international-v4-ulm-orange-blue": {
+      "is_estimate": true,
+      "height_cm": 170,
+      "width_cm": 153.0,
+      "svg_aspect_ratio": 0.9,
+      "method": "comparable_median_long_edge",
+      "confidence": "very_low",
+      "reason": "No usable work-level dimensions. Median long edge of 7 nearby confirmed/measured comparators selected by rectangle, date context, support and aspect is 170 cm. This is a size prior, not an identity join or evidence of this work’s measurement.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 170,
+        "role": "robust comparison prior",
+        "source_url": "https://museumulm.de/wp-content/uploads/2024/12/M-Z_TextBook_EN.pdf"
+      },
+      "comparison_ids": [
+        "christies-5621957",
+        "christies-6368817",
+        "guggenheim-venice-blue-red",
+        "guggenheim-venice-green-red",
+        "museum-v2-dia-50442",
+        "met-489307",
+        "short-book-v4-ellsworthkelly20132-19-orange-green"
+      ],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed."
+      ],
+      "comparison_samples": [
+        {
+          "id": "christies-5621957",
+          "height_cm": 152.4,
+          "width_cm": 137.5,
+          "long_edge_cm": 152.4,
+          "year_start": 1964,
+          "family": "rectangle",
+          "selection_score": 0.00173,
+          "source_url": "https://www.christies.com/en/lot/lot-5621957"
+        },
+        {
+          "id": "christies-6368817",
+          "height_cm": 190.5,
+          "width_cm": 177.2,
+          "long_edge_cm": 190.5,
+          "year_start": 1964,
+          "family": "rectangle",
+          "selection_score": 0.02309,
+          "source_url": "https://www.christies.com/en/lot/lot-6368817"
+        },
+        {
+          "id": "guggenheim-venice-blue-red",
+          "height_cm": 91.4,
+          "width_cm": 91.4,
+          "long_edge_cm": 91.4,
+          "year_start": 1964,
+          "family": "rectangle",
+          "selection_score": 0.07375,
+          "source_url": "https://www.guggenheim-venice.it/en/art/works/blue-red/"
+        },
+        {
+          "id": "guggenheim-venice-green-red",
+          "height_cm": 91.4,
+          "width_cm": 91.4,
+          "long_edge_cm": 91.4,
+          "year_start": 1964,
+          "family": "rectangle",
+          "selection_score": 0.07375,
+          "source_url": "https://www.guggenheim-venice.it/en/art/works/green-red/"
+        },
+        {
+          "id": "museum-v2-dia-50442",
+          "height_cm": 182.9,
+          "width_cm": 147.3,
+          "long_edge_cm": 182.9,
+          "year_start": 1964,
+          "family": "rectangle",
+          "selection_score": 0.07778,
+          "source_url": "https://dia.org/collection/blue-red/50442"
+        },
+        {
+          "id": "met-489307",
+          "height_cm": 231.1,
+          "width_cm": 208.3,
+          "long_edge_cm": 231.1,
+          "year_start": 1963,
+          "family": "rectangle",
+          "selection_score": 0.10104,
+          "source_url": "https://www.metmuseum.org/art/collection/search/489307"
+        },
+        {
+          "id": "short-book-v4-ellsworthkelly20132-19-orange-green",
+          "height_cm": 170,
+          "width_cm": 127,
+          "long_edge_cm": 170,
+          "year_start": 1964,
+          "family": "rectangle",
+          "selection_score": 0.13038,
+          "source_url": "https://archive.org/download/EllsworthKelly20132/EllsworthKelly20132.pdf#page=19"
+        }
+      ],
+      "comparison_context": {}
+    },
+    "nga-au-orange-curve-116211": {
+      "is_estimate": true,
+      "height_cm": 203.2,
+      "width_cm": 159.7378,
+      "svg_aspect_ratio": 0.7861111111111111,
+      "method": "comparable_median_long_edge",
+      "confidence": "very_low",
+      "reason": "No usable work-level dimensions. Median long edge of 7 nearby confirmed/measured comparators selected by curve, date context, support and aspect is 203.2 cm. This is a size prior, not an identity join or evidence of this work’s measurement.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 203.2,
+        "role": "robust comparison prior",
+        "source_url": "https://nga.gov.au/stories-ideas/artists-artists-virginia-cuppaidge/"
+      },
+      "comparison_ids": [
+        "museum-v2-mumok-blue-curve",
+        "modern-v3-1784",
+        "lacma-33895",
+        "north-v4-desmoines-yellowblue",
+        "christies-5315261",
+        "museum-v2-walker-black-curve",
+        "museum-v2-dia-50445"
+      ],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed."
+      ],
+      "comparison_samples": [
+        {
+          "id": "museum-v2-mumok-blue-curve",
+          "height_cm": 107.0,
+          "width_cm": 84.0,
+          "long_edge_cm": 107.0,
+          "year_start": 1964,
+          "family": "curve",
+          "selection_score": 0.00095,
+          "source_url": "https://www.mumok.at/onlinesammlung/detail/blue-curve-1552"
+        },
+        {
+          "id": "modern-v3-1784",
+          "height_cm": 267.34,
+          "width_cm": 214.31,
+          "long_edge_cm": 267.34,
+          "year_start": 1963,
+          "family": "curve",
+          "selection_score": 0.11369,
+          "source_url": "https://collection.themodern.org/objects/1784/curved-red-on-blue"
+        },
+        {
+          "id": "lacma-33895",
+          "height_cm": 203.2,
+          "width_cm": 152.4,
+          "long_edge_cm": 203.2,
+          "year_start": 1963,
+          "family": "curve",
+          "selection_score": 0.13292,
+          "source_url": "https://collections.lacma.org/object/33895"
+        },
+        {
+          "id": "north-v4-desmoines-yellowblue",
+          "height_cm": 228.6,
+          "width_cm": 165.1,
+          "long_edge_cm": 228.6,
+          "year_start": 1963,
+          "family": "curve",
+          "selection_score": 0.15934,
+          "source_url": "https://desmoinesartcenter.org/news/ellsworth-kelly-foundation-gift/"
+        },
+        {
+          "id": "christies-5315261",
+          "height_cm": 109.2,
+          "width_cm": 83.8,
+          "long_edge_cm": 109.2,
+          "year_start": 1962,
+          "family": "curve",
+          "selection_score": 0.21686,
+          "source_url": "https://www.christies.com/en/lot/lot-5315261"
+        },
+        {
+          "id": "museum-v2-walker-black-curve",
+          "height_cm": 106.998,
+          "width_cm": 87.948,
+          "long_edge_cm": 106.998,
+          "year_start": 1962,
+          "family": "curve",
+          "selection_score": 0.23121,
+          "source_url": "https://www.walkerart.org/collections/artwork/black-curve/"
+        },
+        {
+          "id": "museum-v2-dia-50445",
+          "height_cm": 223.5,
+          "width_cm": 165.1,
+          "long_edge_cm": 223.5,
+          "year_start": 1966,
+          "family": "curve",
+          "selection_score": 0.24354,
+          "source_url": "https://dia.org/collection/black-white/50445"
+        }
+      ],
+      "comparison_context": {}
+    },
+    "ek-348": {
+      "is_estimate": true,
+      "height_cm": 218.44,
+      "width_cm": 148.5392,
+      "svg_aspect_ratio": 0.68,
+      "method": "floor_plan_long_edge_anchor",
+      "confidence": "low",
+      "reason": "Use a robust median of this work’s reported plan long edges as the SVG’s visible long span. The shorter projected axis is derived from the existing oblique SVG, not equated with the floor-plan short edge.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 218.44,
+        "role": "floor-plan long edge used only as display anchor",
+        "source_url": "https://ellsworthkelly.org/work/red-blue-green-yellow/"
+      },
+      "comparison_ids": [],
+      "source_evidence": [
+        {
+          "source_url": "https://ellsworthkelly.org/work/red-blue-green-yellow/",
+          "dimensions": "86 x 53 1/2 x 86 inches"
+        }
+      ],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed.",
+        "The SVG retains a photographed projection; estimated extent is not an orthographic physical measurement.",
+        "Floor-plan or wall/floor dimensions cannot describe this projected image on a single physical plane."
+      ]
+    },
+    "ek-350": {
+      "is_estimate": true,
+      "height_cm": 208.28,
+      "width_cm": 480.0599,
+      "svg_aspect_ratio": 2.3048775,
+      "method": "component_height_anchor",
+      "confidence": "medium",
+      "reason": "Foundation 82×189 in overall record supplies 208.28 cm height. Keep that vertical anchor and the SVG spacing; no claim that all reinstalls have the same gaps.",
+      "anchor": {
+        "dimension": "height",
+        "value_cm": 208.28,
+        "role": "tallest/each component height",
+        "source_url": "https://ellsworthkelly.org/work/red-yellow-blue-ii/"
+      },
+      "comparison_ids": [],
+      "source_evidence": [
+        {
+          "source_url": "https://ellsworthkelly.org/work/red-yellow-blue-ii/",
+          "dimensions": "82 x 189 inches"
+        }
+      ],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed.",
+        "Estimated overall extent includes the SVG’s chosen gaps/arrangement; installation spacing can vary."
+      ]
+    },
+    "north-v4-philadelphia-black-red-orange": {
+      "is_estimate": true,
+      "height_cm": 228.6,
+      "width_cm": 158.4198,
+      "svg_aspect_ratio": 0.693,
+      "method": "comparable_median_long_edge",
+      "confidence": "very_low",
+      "reason": "No usable work-level dimensions. Median long edge of 7 nearby confirmed/measured comparators selected by rectangle, date context, support and aspect is 228.6 cm. This is a size prior, not an identity join or evidence of this work’s measurement.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 228.6,
+        "role": "robust comparison prior",
+        "source_url": "https://press.philamuseum.org/embracing-the-contemporary-the-keith-l-and-katherine-sachs-collection/"
+      },
+      "comparison_ids": [
+        "moma1973-pdf80-caption1",
+        "international-v4-moderna-white-over-black",
+        "phillips-73998",
+        "whitney-17194",
+        "matthewmarks-kele-pa-51514",
+        "whitney-16879",
+        "museum-v2-walker-red-green-blue"
+      ],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed."
+      ],
+      "comparison_samples": [
+        {
+          "id": "moma1973-pdf80-caption1",
+          "height_cm": 218.44,
+          "width_cm": 203.2,
+          "long_edge_cm": 218.44,
+          "year_start": 1966,
+          "family": "rectangle",
+          "selection_score": 0.20608,
+          "source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf"
+        },
+        {
+          "id": "international-v4-moderna-white-over-black",
+          "height_cm": 218.4,
+          "width_cm": 203.2,
+          "long_edge_cm": 218.4,
+          "year_start": 1966,
+          "family": "rectangle",
+          "selection_score": 0.20621,
+          "source_url": "https://sis.modernamuseet.se/en/objects/3960/white-over-black"
+        },
+        {
+          "id": "phillips-73998",
+          "height_cm": 241.3,
+          "width_cm": 172.7,
+          "long_edge_cm": 241.3,
+          "year_start": 1968,
+          "family": "rectangle",
+          "selection_score": 0.22257,
+          "source_url": "https://www.phillips.com/detail/ellsworth-kelly/73998"
+        },
+        {
+          "id": "whitney-17194",
+          "height_cm": 198.8,
+          "width_cm": 191.1,
+          "long_edge_cm": 198.8,
+          "year_start": 1966,
+          "family": "rectangle",
+          "selection_score": 0.22906,
+          "source_url": "https://whitney.org/collection/works/17194"
+        },
+        {
+          "id": "matthewmarks-kele-pa-51514",
+          "height_cm": 255.0,
+          "width_cm": 169.0,
+          "long_edge_cm": 255.0,
+          "year_start": 1968,
+          "family": "rectangle",
+          "selection_score": 0.23125,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-the-naming-of-colors-02-2026/lightbox/works/kele-pa-51514"
+        },
+        {
+          "id": "whitney-16879",
+          "height_cm": 228.6,
+          "width_cm": 167.6,
+          "long_edge_cm": 228.6,
+          "year_start": 1964,
+          "family": "rectangle",
+          "selection_score": 0.23943,
+          "source_url": "https://whitney.org/collection/works/16879"
+        },
+        {
+          "id": "museum-v2-walker-red-green-blue",
+          "height_cm": 228.6,
+          "width_cm": 167.64,
+          "long_edge_cm": 228.6,
+          "year_start": 1964,
+          "family": "rectangle",
+          "selection_score": 0.2396,
+          "source_url": "https://www.walkerart.org/collections/artwork/red-green-blue/"
+        }
+      ],
+      "comparison_context": {}
+    },
+    "ek-356": {
+      "is_estimate": true,
+      "height_cm": 205.7,
+      "width_cm": 143.99,
+      "svg_aspect_ratio": 0.7,
+      "method": "floor_plan_long_edge_anchor",
+      "confidence": "low",
+      "reason": "Use a robust median of this work’s reported plan long edges as the SVG’s visible long span. The shorter projected axis is derived from the existing oblique SVG, not equated with the floor-plan short edge.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 205.7,
+        "role": "floor-plan long edge used only as display anchor",
+        "source_url": "https://ellsworthkelly.org/work/blue-red/"
+      },
+      "comparison_ids": [],
+      "source_evidence": [
+        {
+          "source_url": "https://ellsworthkelly.org/work/blue-red/",
+          "dimensions": "81 x 60 x 81 inches"
+        },
+        {
+          "source_id": "sfmoma-v3:99.339.A-B",
+          "source_record_id": "99.339.A-B",
+          "source_url": "https://www.sfmoma.org/artwork/99.339.A-B/",
+          "height_cm": 205.7,
+          "width_cm": 152.4,
+          "depth_cm": 205.7,
+          "dimensions_display": "81 × 60 × 81 in. (205.7 × 152.4 × 205.7 cm)",
+          "dimension_role": "wall/floor installation including floor depth"
+        },
+        {
+          "source_id": "guggenheim1996:cat-46",
+          "source_record_id": "46",
+          "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=160",
+          "height_cm": 205.7,
+          "width_cm": 152.4
+        }
+      ],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed.",
+        "The SVG retains a photographed projection; estimated extent is not an orthographic physical measurement.",
+        "Floor-plan or wall/floor dimensions cannot describe this projected image on a single physical plane."
+      ]
+    },
+    "north-v4-vmfa-four-panels": {
+      "is_estimate": true,
+      "height_cm": 132.7,
+      "width_cm": 256.9507,
+      "svg_aspect_ratio": 1.9363276009500001,
+      "method": "component_height_anchor",
+      "confidence": "medium",
+      "reason": "Each of four panels is 132.7 cm high. All four share the SVG full height; gaps remain its observed approximate gaps.",
+      "anchor": {
+        "dimension": "height",
+        "value_cm": 132.7,
+        "role": "tallest/each component height",
+        "source_url": "https://www.sfmoma.org/essay/how-to-install-an-ellsworth-kelly-artwork-blue-green-black-red-1996-as-a-case-study/"
+      },
+      "comparison_ids": [],
+      "source_evidence": [
+        {
+          "source_id": "north-v4:vmfa-four-panels",
+          "source_record_id": "vmfa-four-panels",
+          "source_url": "https://www.sfmoma.org/essay/how-to-install-an-ellsworth-kelly-artwork-blue-green-black-red-1996-as-a-case-study/",
+          "height_cm": 132.7,
+          "dimensions_display": "Each52¼×22 9/16in (132.7×57.3cm)"
+        }
+      ],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed.",
+        "Estimated overall extent includes the SVG’s chosen gaps/arrangement; installation spacing can vary."
+      ]
+    },
+    "international-v4-tate-red-white-1966": {
+      "is_estimate": true,
+      "height_cm": 165.4,
+      "width_cm": 229.5,
+      "svg_aspect_ratio": 1.387545344619105,
+      "method": "reported_height_anchor",
+      "confidence": "medium",
+      "reason": "Use this work’s reported height 165.4 cm and derive width from its SVG aspect. Any projection, spacing or source qualification remains unresolved; this estimate does not make the measurement formally true-scale eligible.",
+      "anchor": {
+        "dimension": "height",
+        "value_cm": 165.4,
+        "reported_width_cm": 229.5,
+        "source_url": "https://assets.publishing.service.gov.uk/media/5a809668ed915d74e622f50b/Tate_annual_report_and_accounts_2014_-_15.pdf"
+      },
+      "comparison_ids": [],
+      "source_evidence": [
+        {
+          "source_id": "gap-museum-v5:tate-red-white-1966-acquisition",
+          "source_record_id": "T14156",
+          "source_url": "https://www.tate.org.uk/documents/1048/tate_report1415_updated_uv7SA6h.pdf#page=72",
+          "height_cm": 165.4,
+          "width_cm": 229.5,
+          "depth_cm": 2.9,
+          "dimensions_display": "Support: 1654 × 2295 × 29 mm"
+        }
+      ],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed."
+      ]
+    },
+    "museum-v2-walker-red-yellow-blue-iii": {
+      "is_estimate": true,
+      "height_cm": 179.07,
+      "width_cm": 583.9918,
+      "svg_aspect_ratio": 3.261248692025,
+      "method": "component_height_anchor",
+      "confidence": "medium",
+      "reason": "Published 70½ inches=179.07 cm is EACH panel height; three panels remain side by side, not three heights stacked.",
+      "anchor": {
+        "dimension": "height",
+        "value_cm": 179.07,
+        "role": "tallest/each component height",
+        "source_url": "https://www.walkerart.org/collections/artwork/red-yellow-blue-iii/"
+      },
+      "comparison_ids": [],
+      "source_evidence": [
+        {
+          "source_id": "museum-v2:walker_red-yellow-blue-iii",
+          "source_record_id": "1998.13.1-.3",
+          "source_url": "https://www.walkerart.org/collections/artwork/red-yellow-blue-iii/",
+          "dimensions_display": " 70-1/2 x 70-1/8 x 1-3/8 inches each unframed"
+        },
+        {
+          "source_id": "north-v4:walker-red-yellow-blue-iii",
+          "source_record_id": "1998.13.1-.3",
+          "source_url": "https://www.walkerart.org/collections/artwork/red-yellow-blue-iii/",
+          "height_cm": 179.07,
+          "dimensions_display": "70-1/2 x 70-1/8 x 1-3/8 inches each unframed"
+        }
+      ],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed.",
+        "Estimated overall extent includes the SVG’s chosen gaps/arrangement; installation spacing can vary."
+      ]
+    },
+    "moma1973-pdf86-caption1": {
+      "is_estimate": true,
+      "height_cm": 975.44,
+      "width_cm": 356.0,
+      "svg_aspect_ratio": 0.3649635025,
+      "method": "component_width_anchor",
+      "confidence": "medium",
+      "reason": "Each painting is 178×356 cm. The SVG stacks five parts; anchor its full width to one 356 cm-wide component, making the whole display tall enough for five 178 cm parts and its chosen gaps. This is a comparison layout, not a fixed physical installation.",
+      "anchor": {
+        "dimension": "width",
+        "value_cm": 356,
+        "role": "one complete component width",
+        "source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf"
+      },
+      "comparison_ids": [],
+      "source_evidence": [
+        {
+          "source_id": "gap-market-v6:kroller-muller-km111-229",
+          "source_record_id": "kroller-muller-km111-229",
+          "source_url": "https://www.krollermuller.nl/en/what-s-on/exhibitions/birds-of-a-feather",
+          "dimensions_display": "Each178×356cm; five separate paintings; no prescribed installation order",
+          "dimension_role": "each of five parts",
+          "component_dimensions": [
+            {
+              "height_cm": 178,
+              "width_cm": 356,
+              "part": 1
+            },
+            {
+              "height_cm": 178,
+              "width_cm": 356,
+              "part": 2
+            },
+            {
+              "height_cm": 178,
+              "width_cm": 356,
+              "part": 3
+            },
+            {
+              "height_cm": 178,
+              "width_cm": 356,
+              "part": 4
+            },
+            {
+              "height_cm": 178,
+              "width_cm": 356,
+              "part": 5
+            }
+          ]
+        }
+      ],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed.",
+        "Estimated overall extent includes the SVG’s chosen gaps/arrangement; installation spacing can vary."
+      ]
+    },
+    "mfa-blue-green-yellow-orange-red-1968": {
+      "is_estimate": true,
+      "height_cm": 304.8,
+      "width_cm": 688.3,
+      "svg_aspect_ratio": 2.2582021,
+      "method": "reported_height_anchor",
+      "confidence": "medium",
+      "reason": "Use this work’s reported height 304.8 cm and derive width from its SVG aspect. Any projection, spacing or source qualification remains unresolved; this estimate does not make the measurement formally true-scale eligible.",
+      "anchor": {
+        "dimension": "height",
+        "value_cm": 304.8,
+        "reported_width_cm": 688.3,
+        "source_url": "https://www.mfa.org/news/press-releases/09-20-2010"
+      },
+      "comparison_ids": [],
+      "source_evidence": [
+        {
+          "source_id": "guggenheim1996:essay-58-fig-19",
+          "source_record_id": "essay-58-fig-19",
+          "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=58",
+          "height_cm": 304.8,
+          "width_cm": 688.3
+        }
+      ],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed.",
+        "The SVG retains a photographed projection; estimated extent is not an orthographic physical measurement."
+      ]
+    },
+    "buffalo-k1969-3": {
+      "is_estimate": true,
+      "height_cm": 256.54,
+      "width_cm": 112.108,
+      "svg_aspect_ratio": 0.43700000000000006,
+      "method": "reported_long_edge_anchor",
+      "confidence": "low",
+      "reason": "Reported 256.54×76.2 cm disagrees with the SVG aspect. Preserve the larger reported edge 256.54 cm as the displayed long edge; derive its other axis without distorting the SVG.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 256.54,
+        "reported_height_cm": 256.54,
+        "reported_width_cm": 76.2,
+        "source_url": "https://buffaloakg.org/artworks/k19693-blue-yellow-and-red"
+      },
+      "comparison_ids": [],
+      "source_evidence": [
+        {
+          "source_id": "buffalo:k1969-3",
+          "source_record_id": "k1969-3",
+          "source_url": "https://buffaloakg.org/artworks/k19693-blue-yellow-and-red",
+          "height_cm": 256.54,
+          "width_cm": 76.2
+        },
+        {
+          "source_id": "north-v4:buffalo-blueyellowred",
+          "source_record_id": "K1969:3",
+          "source_url": "https://buffaloakg.org/artworks/k19693-blue-yellow-and-red",
+          "height_cm": 256.54,
+          "width_cm": 76.2
+        }
+      ],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed."
+      ]
+    },
+    "international-v4-louisiana-yellow-black": {
+      "is_estimate": true,
+      "height_cm": 239.5,
+      "width_cm": 280.965,
+      "svg_aspect_ratio": 1.173131504257332,
+      "method": "reported_height_anchor",
+      "confidence": "medium",
+      "reason": "Use this work’s reported height 239.5 cm and derive width from its SVG aspect. Only framed extent is published, so this is an upper-bound proxy for the unframed work.",
+      "anchor": {
+        "dimension": "height",
+        "value_cm": 239.5,
+        "reported_width_cm": 285.5,
+        "source_url": "https://www.museumsfonden.dk/pdf/Museumsfonden_deponeret_p%C3%A5_museet_2022.pdf"
+      },
+      "comparison_ids": [],
+      "source_evidence": [
+        {
+          "source_id": "international-v4:louisiana-yellow-black",
+          "source_record_id": "PC_10-21-341",
+          "source_url": "https://www.museumsfonden.dk/pdf/Museumsfonden_deponeret_p%C3%A5_museet_2022.pdf",
+          "height_cm": 239.5,
+          "width_cm": 285.5,
+          "depth_cm": 5,
+          "dimensions_display": "239.5 × 285.5 cm"
+        }
+      ],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed.",
+        "The SVG retains a photographed projection; estimated extent is not an orthographic physical measurement."
+      ]
+    },
+    "museum-v2-walker-yellow-red": {
+      "is_estimate": true,
+      "height_cm": 187.96,
+      "width_cm": 261.62,
+      "svg_aspect_ratio": 1.3918918919,
+      "method": "reported_height_anchor",
+      "confidence": "medium",
+      "reason": "Use this work’s reported height 187.96 cm and derive width from its SVG aspect. Only framed extent is published, so this is an upper-bound proxy for the unframed work.",
+      "anchor": {
+        "dimension": "height",
+        "value_cm": 187.96,
+        "reported_width_cm": 261.62,
+        "source_url": "https://www.walkerart.org/collections/artwork/yellow-red/"
+      },
+      "comparison_ids": [],
+      "source_evidence": [
+        {
+          "source_id": "museum-v2:walker_yellow-red",
+          "source_record_id": "1994.215",
+          "source_url": "https://www.walkerart.org/collections/artwork/yellow-red/",
+          "height_cm": 187.96,
+          "width_cm": 261.62,
+          "dimensions_display": " 74 x 103 x 1-1/2 inches Framed"
+        },
+        {
+          "source_id": "north-v4:walker-yellow-red",
+          "source_record_id": "1994.215",
+          "source_url": "https://www.walkerart.org/collections/artwork/yellow-red/",
+          "height_cm": 187.96,
+          "width_cm": 261.62,
+          "dimensions_display": "74 x 103 x 1-1/2 inches Framed"
+        }
+      ],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed.",
+        "The SVG retains a photographed projection; estimated extent is not an orthographic physical measurement."
+      ]
+    },
+    "moma1973-pdf95-caption1": {
+      "is_estimate": true,
+      "height_cm": 198.12,
+      "width_cm": 233.045,
+      "svg_aspect_ratio": 1.1762820512749999,
+      "method": "historical_caption_anchor",
+      "confidence": "medium",
+      "reason": "The already-reviewed 1973 caption gives the joined squares an outer span 91¾×78 inches. Anchor the 91¾ inch width; the observed joined-square aspect is retained.",
+      "anchor": {
+        "dimension": "width",
+        "value_cm": 233.04500000000002,
+        "source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=95"
+      },
+      "comparison_ids": [],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed."
+      ]
+    },
+    "ek-458": {
+      "is_estimate": true,
+      "height_cm": 274.3,
+      "width_cm": 222.7316,
+      "svg_aspect_ratio": 0.812,
+      "method": "comparable_median_long_edge",
+      "confidence": "very_low",
+      "reason": "No usable work-level dimensions. Median long edge of 7 nearby confirmed/measured comparators selected by chatham, date context, support and aspect is 274.3 cm. This is a size prior, not an identity join or evidence of this work’s measurement.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 274.3,
+        "role": "robust comparison prior",
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-chatham-series/"
+      },
+      "comparison_ids": [
+        "ek-452-2",
+        "ek-462",
+        "ek-460",
+        "ek-461",
+        "d119c93f9d8c",
+        "moma-79000",
+        "ek-463"
+      ],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed."
+      ],
+      "comparison_samples": [
+        {
+          "id": "ek-452-2",
+          "height_cm": 244.5,
+          "width_cm": 205.7,
+          "long_edge_cm": 244.5,
+          "year_start": 1971,
+          "family": "chatham",
+          "selection_score": 0.02482,
+          "source_url": "https://www.moma.org/d/pdfs/W1siZiIsIjIwMTgvMDYvMTMvOGlvazUweWl5aF9LZWxseV9DaGF0aGFtX1BSRVZJRVcxLnBkZiJdXQ/Kelly_Chatham_PREVIEW1.pdf?sha=cc613fbfe3ec18ec"
+        },
+        {
+          "id": "ek-462",
+          "height_cm": 228.9175,
+          "width_cm": 197.1675,
+          "long_edge_cm": 228.9175,
+          "year_start": 1971,
+          "family": "chatham",
+          "selection_score": 0.04126,
+          "source_url": "https://buffaloakg.org/artworks/k197212-chatham-xi-blue-yellow"
+        },
+        {
+          "id": "ek-460",
+          "height_cm": 276.9,
+          "width_cm": 243.8,
+          "long_edge_cm": 276.9,
+          "year_start": 1971,
+          "family": "chatham",
+          "selection_score": 0.05666,
+          "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-chatham-series/"
+        },
+        {
+          "id": "ek-461",
+          "height_cm": 274.32,
+          "width_cm": 243.205,
+          "long_edge_cm": 274.32,
+          "year_start": 1971,
+          "family": "chatham",
+          "selection_score": 0.06151,
+          "source_url": "https://ellsworthkelly.org/work/chatham-x-black-red/"
+        },
+        {
+          "id": "d119c93f9d8c",
+          "height_cm": 274.3,
+          "width_cm": 243.8,
+          "long_edge_cm": 274.3,
+          "year_start": 1971,
+          "family": "chatham",
+          "selection_score": 0.06327,
+          "source_url": "https://www.moma.org/d/pdfs/W1siZiIsIjIwMTgvMDYvMTMvOGlvazUweWl5aF9LZWxseV9DaGF0aGFtX1BSRVZJRVcxLnBkZiJdXQ/Kelly_Chatham_PREVIEW1.pdf?sha=cc613fbfe3ec18ec"
+        },
+        {
+          "id": "moma-79000",
+          "height_cm": 290.8,
+          "width_cm": 259.7,
+          "long_edge_cm": 290.8,
+          "year_start": 1971,
+          "family": "chatham",
+          "selection_score": 0.0666,
+          "source_url": "https://www.moma.org/collection/works/79000"
+        },
+        {
+          "id": "ek-463",
+          "height_cm": 213.36,
+          "width_cm": 193.675,
+          "long_edge_cm": 213.36,
+          "year_start": 1971,
+          "family": "chatham",
+          "selection_score": 0.07802,
+          "source_url": "https://ellsworthkelly.org/work/chatham-xii-yellow-black/"
+        }
+      ],
+      "comparison_context": {}
+    },
+    "ek-459": {
+      "is_estimate": true,
+      "height_cm": 274.3,
+      "width_cm": 248.2415,
+      "svg_aspect_ratio": 0.905,
+      "method": "comparable_median_long_edge",
+      "confidence": "very_low",
+      "reason": "No usable work-level dimensions. Median long edge of 7 nearby confirmed/measured comparators selected by chatham, date context, support and aspect is 274.3 cm. This is a size prior, not an identity join or evidence of this work’s measurement.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 274.3,
+        "role": "robust comparison prior",
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-chatham-series/"
+      },
+      "comparison_ids": [
+        "ek-463",
+        "ek-453",
+        "ek-455",
+        "moma-79000",
+        "ek-456",
+        "d119c93f9d8c",
+        "53ac12d02874"
+      ],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed."
+      ],
+      "comparison_samples": [
+        {
+          "id": "ek-463",
+          "height_cm": 213.36,
+          "width_cm": 193.675,
+          "long_edge_cm": 213.36,
+          "year_start": 1971,
+          "family": "chatham",
+          "selection_score": 0.00211,
+          "source_url": "https://ellsworthkelly.org/work/chatham-xii-yellow-black/"
+        },
+        {
+          "id": "ek-453",
+          "height_cm": 243.8,
+          "width_cm": 222.3,
+          "long_edge_cm": 243.8,
+          "year_start": 1971,
+          "family": "chatham",
+          "selection_score": 0.00525,
+          "source_url": "https://www.moma.org/d/pdfs/W1siZiIsIjIwMTgvMDYvMTMvOGlvazUweWl5aF9LZWxseV9DaGF0aGFtX1BSRVZJRVcxLnBkZiJdXQ/Kelly_Chatham_PREVIEW1.pdf?sha=cc613fbfe3ec18ec"
+        },
+        {
+          "id": "ek-455",
+          "height_cm": 274.3,
+          "width_cm": 251.5,
+          "long_edge_cm": 274.3,
+          "year_start": 1971,
+          "family": "chatham",
+          "selection_score": 0.00913,
+          "source_url": "https://www.moma.org/d/pdfs/W1siZiIsIjIwMTgvMDYvMTMvOGlvazUweWl5aF9LZWxseV9DaGF0aGFtX1BSRVZJRVcxLnBkZiJdXQ/Kelly_Chatham_PREVIEW1.pdf?sha=cc613fbfe3ec18ec"
+        },
+        {
+          "id": "moma-79000",
+          "height_cm": 290.8,
+          "width_cm": 259.7,
+          "long_edge_cm": 290.8,
+          "year_start": 1971,
+          "family": "chatham",
+          "selection_score": 0.0093,
+          "source_url": "https://www.moma.org/collection/works/79000"
+        },
+        {
+          "id": "ek-456",
+          "height_cm": 274.3,
+          "width_cm": 252.7,
+          "long_edge_cm": 274.3,
+          "year_start": 1971,
+          "family": "chatham",
+          "selection_score": 0.01246,
+          "source_url": "https://www.moma.org/d/pdfs/W1siZiIsIjIwMTgvMDYvMTMvOGlvazUweWl5aF9LZWxseV9DaGF0aGFtX1BSRVZJRVcxLnBkZiJdXQ/Kelly_Chatham_PREVIEW1.pdf?sha=cc613fbfe3ec18ec"
+        },
+        {
+          "id": "d119c93f9d8c",
+          "height_cm": 274.3,
+          "width_cm": 243.8,
+          "long_edge_cm": 274.3,
+          "year_start": 1971,
+          "family": "chatham",
+          "selection_score": 0.01264,
+          "source_url": "https://www.moma.org/d/pdfs/W1siZiIsIjIwMTgvMDYvMTMvOGlvazUweWl5aF9LZWxseV9DaGF0aGFtX1BSRVZJRVcxLnBkZiJdXQ/Kelly_Chatham_PREVIEW1.pdf?sha=cc613fbfe3ec18ec"
+        },
+        {
+          "id": "53ac12d02874",
+          "height_cm": 243.8,
+          "width_cm": 224.8,
+          "long_edge_cm": 243.8,
+          "year_start": 1971,
+          "family": "chatham",
+          "selection_score": 0.01308,
+          "source_url": "https://www.moma.org/d/pdfs/W1siZiIsIjIwMTgvMDYvMTMvOGlvazUweWl5aF9LZWxseV9DaGF0aGFtX1BSRVZJRVcxLnBkZiJdXQ/Kelly_Chatham_PREVIEW1.pdf?sha=cc613fbfe3ec18ec"
+        }
+      ],
+      "comparison_context": {}
+    },
+    "ek-464": {
+      "is_estimate": true,
+      "height_cm": 274.3,
+      "width_cm": 246.87,
+      "svg_aspect_ratio": 0.9,
+      "method": "comparable_median_long_edge",
+      "confidence": "very_low",
+      "reason": "No usable work-level dimensions. Median long edge of 7 nearby confirmed/measured comparators selected by chatham, date context, support and aspect is 274.3 cm. This is a size prior, not an identity join or evidence of this work’s measurement.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 274.3,
+        "role": "robust comparison prior",
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-chatham-series/"
+      },
+      "comparison_ids": [
+        "moma-79000",
+        "ek-463",
+        "d119c93f9d8c",
+        "ek-453",
+        "ek-461",
+        "ek-455",
+        "ek-460"
+      ],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed.",
+        "The SVG retains a photographed projection; estimated extent is not an orthographic physical measurement."
+      ],
+      "comparison_samples": [
+        {
+          "id": "moma-79000",
+          "height_cm": 290.8,
+          "width_cm": 259.7,
+          "long_edge_cm": 290.8,
+          "year_start": 1971,
+          "family": "chatham",
+          "selection_score": 0.00542,
+          "source_url": "https://www.moma.org/collection/works/79000"
+        },
+        {
+          "id": "ek-463",
+          "height_cm": 213.36,
+          "width_cm": 193.675,
+          "long_edge_cm": 213.36,
+          "year_start": 1971,
+          "family": "chatham",
+          "selection_score": 0.00599,
+          "source_url": "https://ellsworthkelly.org/work/chatham-xii-yellow-black/"
+        },
+        {
+          "id": "d119c93f9d8c",
+          "height_cm": 274.3,
+          "width_cm": 243.8,
+          "long_edge_cm": 274.3,
+          "year_start": 1971,
+          "family": "chatham",
+          "selection_score": 0.00876,
+          "source_url": "https://www.moma.org/d/pdfs/W1siZiIsIjIwMTgvMDYvMTMvOGlvazUweWl5aF9LZWxseV9DaGF0aGFtX1BSRVZJRVcxLnBkZiJdXQ/Kelly_Chatham_PREVIEW1.pdf?sha=cc613fbfe3ec18ec"
+        },
+        {
+          "id": "ek-453",
+          "height_cm": 243.8,
+          "width_cm": 222.3,
+          "long_edge_cm": 243.8,
+          "year_start": 1971,
+          "family": "chatham",
+          "selection_score": 0.00913,
+          "source_url": "https://www.moma.org/d/pdfs/W1siZiIsIjIwMTgvMDYvMTMvOGlvazUweWl5aF9LZWxseV9DaGF0aGFtX1BSRVZJRVcxLnBkZiJdXQ/Kelly_Chatham_PREVIEW1.pdf?sha=cc613fbfe3ec18ec"
+        },
+        {
+          "id": "ek-461",
+          "height_cm": 274.32,
+          "width_cm": 243.205,
+          "long_edge_cm": 274.32,
+          "year_start": 1971,
+          "family": "chatham",
+          "selection_score": 0.01052,
+          "source_url": "https://ellsworthkelly.org/work/chatham-x-black-red/"
+        },
+        {
+          "id": "ek-455",
+          "height_cm": 274.3,
+          "width_cm": 251.5,
+          "long_edge_cm": 274.3,
+          "year_start": 1971,
+          "family": "chatham",
+          "selection_score": 0.01301,
+          "source_url": "https://www.moma.org/d/pdfs/W1siZiIsIjIwMTgvMDYvMTMvOGlvazUweWl5aF9LZWxseV9DaGF0aGFtX1BSRVZJRVcxLnBkZiJdXQ/Kelly_Chatham_PREVIEW1.pdf?sha=cc613fbfe3ec18ec"
+        },
+        {
+          "id": "ek-460",
+          "height_cm": 276.9,
+          "width_cm": 243.8,
+          "long_edge_cm": 276.9,
+          "year_start": 1971,
+          "family": "chatham",
+          "selection_score": 0.01536,
+          "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-chatham-series/"
+        }
+      ],
+      "comparison_context": {}
+    },
+    "guggenheim1996-essay-37-fig-34b": {
+      "is_estimate": true,
+      "height_cm": 227.0125,
+      "width_cm": 272.415,
+      "svg_aspect_ratio": 1.2,
+      "method": "comparable_median_long_edge",
+      "confidence": "very_low",
+      "reason": "No usable work-level dimensions. Median long edge of 7 nearby confirmed/measured comparators selected by panel, date context, support and aspect is 272.415 cm. This is a size prior, not an identity join or evidence of this work’s measurement.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 272.415,
+        "role": "robust comparison prior",
+        "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=37"
+      },
+      "comparison_ids": [
+        "ek-502",
+        "sothebys-en-auctions-ecatalogue-2005-contemporary-art-evening-n08092-lot-46-html",
+        "matthewmarks-two-grays-iii-1975-77-13148",
+        "moca-v3-two-panels-yellow-with-large-blue",
+        "matthewmarks-gray-panel-ii-1977-13150",
+        "north-v4-carnegie-greenorange",
+        "met-915129"
+      ],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed.",
+        "The SVG retains a photographed projection; estimated extent is not an orthographic physical measurement."
+      ],
+      "comparison_samples": [
+        {
+          "id": "ek-502",
+          "height_cm": 302.26,
+          "width_cm": 369.57,
+          "long_edge_cm": 369.57,
+          "year_start": 1973,
+          "family": "panel",
+          "selection_score": 0.01311,
+          "source_url": "https://ellsworthkelly.org/work/yellow-with-red-triangle/"
+        },
+        {
+          "id": "sothebys-en-auctions-ecatalogue-2005-contemporary-art-evening-n08092-lot-46-html",
+          "height_cm": 198.1,
+          "width_cm": 236.9,
+          "long_edge_cm": 236.9,
+          "year_start": 1972,
+          "family": "panel",
+          "selection_score": 0.10242,
+          "source_url": "https://www.sothebys.com/en/auctions/ecatalogue/2005/contemporary-art-evening-n08092/lot.46.html"
+        },
+        {
+          "id": "matthewmarks-two-grays-iii-1975-77-13148",
+          "height_cm": 254.0,
+          "width_cm": 254.0,
+          "long_edge_cm": 254.0,
+          "year_start": 1975,
+          "family": "panel",
+          "selection_score": 0.32763,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-gray-1975-77-05-2001/lightbox/works/two-grays-iii-1975-77-13148"
+        },
+        {
+          "id": "moca-v3-two-panels-yellow-with-large-blue",
+          "height_cm": 261.6,
+          "width_cm": 276.9,
+          "long_edge_cm": 276.9,
+          "year_start": 1970,
+          "family": "panel",
+          "selection_score": 0.38784,
+          "source_url": "https://www.moca.org/artworks/two-panels-yellow-with-large-blue"
+        },
+        {
+          "id": "matthewmarks-gray-panel-ii-1977-13150",
+          "height_cm": 229.0,
+          "width_cm": 249.0,
+          "long_edge_cm": 249.0,
+          "year_start": 1977,
+          "family": "panel",
+          "selection_score": 0.46901,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-gray-1975-77-05-2001/lightbox/works/gray-panel-ii-1977-13150"
+        },
+        {
+          "id": "north-v4-carnegie-greenorange",
+          "height_cm": 177.8,
+          "width_cm": 272.415,
+          "long_edge_cm": 272.415,
+          "year_start": 1970,
+          "family": "panel",
+          "selection_score": 0.47104,
+          "source_url": "https://collection.carnegieart.org/objects/188e525f-c11a-4a63-b255-7dafd6338eaf"
+        },
+        {
+          "id": "met-915129",
+          "height_cm": 177.8,
+          "width_cm": 273.1,
+          "long_edge_cm": 273.1,
+          "year_start": 1970,
+          "family": "panel",
+          "selection_score": 0.4728,
+          "source_url": "https://www.metmuseum.org/art/collection/search/915129"
+        }
+      ],
+      "comparison_context": {}
+    },
+    "north-v4-dallas-red-panel": {
+      "is_estimate": true,
+      "height_cm": 287.0,
+      "width_cm": 228.4577,
+      "svg_aspect_ratio": 0.7960199004975125,
+      "method": "comparable_median_long_edge",
+      "confidence": "very_low",
+      "reason": "No usable work-level dimensions. Median long edge of 7 nearby confirmed/measured comparators selected by panel, date context, support and aspect is 287 cm. This is a size prior, not an identity join or evidence of this work’s measurement.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 287.0,
+        "role": "robust comparison prior",
+        "source_url": "https://texashistory.unt.edu/ark:/67531/metapth307668/m1/88/"
+      },
+      "comparison_ids": [
+        "ek-609",
+        "ncma-8122",
+        "guggenheim1996-cat-78",
+        "ek-605",
+        "guggenheim1996-cat-79",
+        "guggenheim1996-cat-80",
+        "met-484636"
+      ],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed.",
+        "The SVG retains a photographed projection; estimated extent is not an orthographic physical measurement."
+      ],
+      "comparison_samples": [
+        {
+          "id": "ek-609",
+          "height_cm": 289.56,
+          "width_cm": 234.95,
+          "long_edge_cm": 289.56,
+          "year_start": 1980,
+          "family": "panel",
+          "selection_score": 0.0134,
+          "source_url": "https://ellsworthkelly.org/work/orange-panel/"
+        },
+        {
+          "id": "ncma-8122",
+          "height_cm": 278.1,
+          "width_cm": 241.3,
+          "long_edge_cm": 278.1,
+          "year_start": 1980,
+          "family": "panel",
+          "selection_score": 0.06033,
+          "source_url": "https://collection.ncartmuseum.org/objects/8122/blue-panel"
+        },
+        {
+          "id": "guggenheim1996-cat-78",
+          "height_cm": 256.5,
+          "width_cm": 257.8,
+          "long_edge_cm": 257.8,
+          "year_start": 1980,
+          "family": "panel",
+          "selection_score": 0.16323,
+          "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=210"
+        },
+        {
+          "id": "ek-605",
+          "height_cm": 267.97,
+          "width_cm": 299.72,
+          "long_edge_cm": 299.72,
+          "year_start": 1980,
+          "family": "panel",
+          "selection_score": 0.23807,
+          "source_url": "https://ellsworthkelly.org/work/green-panel-2/"
+        },
+        {
+          "id": "guggenheim1996-cat-79",
+          "height_cm": 231.1,
+          "width_cm": 287.0,
+          "long_edge_cm": 287.0,
+          "year_start": 1980,
+          "family": "panel",
+          "selection_score": 0.31133,
+          "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=212"
+        },
+        {
+          "id": "guggenheim1996-cat-80",
+          "height_cm": 262.9,
+          "width_cm": 370.8,
+          "long_edge_cm": 370.8,
+          "year_start": 1980,
+          "family": "panel",
+          "selection_score": 0.40041,
+          "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=211"
+        },
+        {
+          "id": "met-484636",
+          "height_cm": 240.0,
+          "width_cm": 241.9,
+          "long_edge_cm": 241.9,
+          "year_start": 1977,
+          "family": "panel",
+          "selection_score": 0.46521,
+          "source_url": "https://www.metmuseum.org/art/collection/search/484636"
+        }
+      ],
+      "comparison_context": {}
+    },
+    "moca-v3-red-orange": {
+      "is_estimate": true,
+      "height_cm": 232.41,
+      "width_cm": 287.02,
+      "svg_aspect_ratio": 1.2349726775,
+      "method": "reported_height_anchor",
+      "confidence": "medium",
+      "reason": "Use this work’s reported height 232.41 cm and derive width from its SVG aspect. Any projection, spacing or source qualification remains unresolved; this estimate does not make the measurement formally true-scale eligible.",
+      "anchor": {
+        "dimension": "height",
+        "value_cm": 232.41,
+        "reported_width_cm": 287.02,
+        "source_url": "https://www.moca.org/artworks/red-orange"
+      },
+      "comparison_ids": [],
+      "source_evidence": [
+        {
+          "source_id": "moca-v3:red-orange",
+          "source_record_id": "85.33",
+          "source_url": "https://www.moca.org/artworks/red-orange",
+          "height_cm": 232.41,
+          "width_cm": 287.02,
+          "dimensions_display": "113 x 91 1/2 x 1 1/2 in. (287.02 x 232.41 x 3.81 cm)"
+        }
+      ],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed."
+      ]
+    },
+    "guggenheim1996-essay-68-fig-2b": {
+      "is_estimate": true,
+      "height_cm": 225.552,
+      "width_cm": 281.94,
+      "svg_aspect_ratio": 1.25,
+      "method": "comparable_median_long_edge",
+      "confidence": "very_low",
+      "reason": "No usable work-level dimensions. Median long edge of 7 nearby confirmed/measured comparators selected by curve, date context, support and aspect is 281.94 cm. This is a size prior, not an identity join or evidence of this work’s measurement.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 281.94,
+        "role": "robust comparison prior",
+        "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=68"
+      },
+      "comparison_ids": [
+        "hirshhorn-07-31",
+        "christies-5792555",
+        "high-red-curve-vi",
+        "high-white-panel-ii",
+        "christies-6236039",
+        "ek-706",
+        "sothebys-en-auctions-ecatalogue-2014-contemporary-art-evening-sale-n09221-lot-30-html"
+      ],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed.",
+        "The SVG retains a photographed projection; estimated extent is not an orthographic physical measurement."
+      ],
+      "comparison_samples": [
+        {
+          "id": "hirshhorn-07-31",
+          "height_cm": 184.1,
+          "width_cm": 259.4,
+          "long_edge_cm": 259.4,
+          "year_start": 1982,
+          "family": "curve",
+          "selection_score": 0.08382,
+          "source_url": "https://hirshhorn.si.edu/collection/artwork/?edanUrl=edanmdm%3Ahmsg_07.31"
+        },
+        {
+          "id": "christies-5792555",
+          "height_cm": 230.5,
+          "width_cm": 384.8,
+          "long_edge_cm": 384.8,
+          "year_start": 1982,
+          "family": "curve",
+          "selection_score": 0.20253,
+          "source_url": "https://www.christies.com/en/lot/lot-5792555"
+        },
+        {
+          "id": "high-red-curve-vi",
+          "height_cm": 188.595,
+          "width_cm": 356.87,
+          "long_edge_cm": 356.87,
+          "year_start": 1982,
+          "family": "curve",
+          "selection_score": 0.29024,
+          "source_url": "https://high.org/collection/red-curve-vi/"
+        },
+        {
+          "id": "high-white-panel-ii",
+          "height_cm": 245.11,
+          "width_cm": 321.31,
+          "long_edge_cm": 321.31,
+          "year_start": 1985,
+          "family": "curve",
+          "selection_score": 0.33329,
+          "source_url": "https://high.org/collection/white-panel-ii/"
+        },
+        {
+          "id": "christies-6236039",
+          "height_cm": 281.9,
+          "width_cm": 211.4,
+          "long_edge_cm": 281.9,
+          "year_start": 1982,
+          "family": "curve",
+          "selection_score": 0.35766,
+          "source_url": "https://www.christies.com/en/lot/lot-6236039"
+        },
+        {
+          "id": "ek-706",
+          "height_cm": 246.38,
+          "width_cm": 281.94,
+          "long_edge_cm": 281.94,
+          "year_start": 1985,
+          "family": "curve",
+          "selection_score": 0.36183,
+          "source_url": "https://ellsworthkelly.org/work/dark-blue-panel/"
+        },
+        {
+          "id": "sothebys-en-auctions-ecatalogue-2014-contemporary-art-evening-sale-n09221-lot-30-html",
+          "height_cm": 213.4,
+          "width_cm": 241.3,
+          "long_edge_cm": 241.3,
+          "year_start": 1985,
+          "family": "curve",
+          "selection_score": 0.37019,
+          "source_url": "https://www.sothebys.com/en/auctions/ecatalogue/2014/contemporary-art-evening-sale-n09221/lot.30.html"
+        }
+      ],
+      "comparison_context": {}
+    },
+    "international-v4-stedelijk-blue-curve-vi": {
+      "is_estimate": true,
+      "height_cm": 216.8769,
+      "width_cm": 281.94,
+      "svg_aspect_ratio": 1.3,
+      "method": "comparable_median_long_edge",
+      "confidence": "very_low",
+      "reason": "No usable work-level dimensions. Median long edge of 7 nearby confirmed/measured comparators selected by curve, date context, support and aspect is 281.94 cm. This is a size prior, not an identity join or evidence of this work’s measurement.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 281.94,
+        "role": "robust comparison prior",
+        "source_url": "https://sbmk.nl/source/documents/MAWC-publ_web2.pdf"
+      },
+      "comparison_ids": [
+        "hirshhorn-07-31",
+        "christies-5792555",
+        "high-red-curve-vi",
+        "high-white-panel-ii",
+        "christies-6236039",
+        "ek-706",
+        "sothebys-en-auctions-ecatalogue-2014-contemporary-art-evening-sale-n09221-lot-30-html"
+      ],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed.",
+        "The SVG retains a photographed projection; estimated extent is not an orthographic physical measurement."
+      ],
+      "comparison_samples": [
+        {
+          "id": "hirshhorn-07-31",
+          "height_cm": 184.1,
+          "width_cm": 259.4,
+          "long_edge_cm": 259.4,
+          "year_start": 1982,
+          "family": "curve",
+          "selection_score": 0.05637,
+          "source_url": "https://hirshhorn.si.edu/collection/artwork/?edanUrl=edanmdm%3Ahmsg_07.31"
+        },
+        {
+          "id": "christies-5792555",
+          "height_cm": 230.5,
+          "width_cm": 384.8,
+          "long_edge_cm": 384.8,
+          "year_start": 1982,
+          "family": "curve",
+          "selection_score": 0.17508,
+          "source_url": "https://www.christies.com/en/lot/lot-5792555"
+        },
+        {
+          "id": "high-red-curve-vi",
+          "height_cm": 188.595,
+          "width_cm": 356.87,
+          "long_edge_cm": 356.87,
+          "year_start": 1982,
+          "family": "curve",
+          "selection_score": 0.26278,
+          "source_url": "https://high.org/collection/red-curve-vi/"
+        },
+        {
+          "id": "high-white-panel-ii",
+          "height_cm": 245.11,
+          "width_cm": 321.31,
+          "long_edge_cm": 321.31,
+          "year_start": 1985,
+          "family": "curve",
+          "selection_score": 0.30583,
+          "source_url": "https://high.org/collection/white-panel-ii/"
+        },
+        {
+          "id": "christies-6236039",
+          "height_cm": 281.9,
+          "width_cm": 211.4,
+          "long_edge_cm": 281.9,
+          "year_start": 1982,
+          "family": "curve",
+          "selection_score": 0.38512,
+          "source_url": "https://www.christies.com/en/lot/lot-6236039"
+        },
+        {
+          "id": "ek-706",
+          "height_cm": 246.38,
+          "width_cm": 281.94,
+          "long_edge_cm": 281.94,
+          "year_start": 1985,
+          "family": "curve",
+          "selection_score": 0.38928,
+          "source_url": "https://ellsworthkelly.org/work/dark-blue-panel/"
+        },
+        {
+          "id": "sothebys-en-auctions-ecatalogue-2014-contemporary-art-evening-sale-n09221-lot-30-html",
+          "height_cm": 213.4,
+          "width_cm": 241.3,
+          "long_edge_cm": 241.3,
+          "year_start": 1985,
+          "family": "curve",
+          "selection_score": 0.39764,
+          "source_url": "https://www.sothebys.com/en/auctions/ecatalogue/2014/contemporary-art-evening-sale-n09221/lot.30.html"
+        }
+      ],
+      "comparison_context": {}
+    },
+    "guggenheim1996-essay-68-fig-2a": {
+      "is_estimate": true,
+      "height_cm": 170.8727,
+      "width_cm": 281.94,
+      "svg_aspect_ratio": 1.65,
+      "method": "comparable_median_long_edge",
+      "confidence": "very_low",
+      "reason": "No usable work-level dimensions. Median long edge of 7 nearby confirmed/measured comparators selected by curve, date context, support and aspect is 281.94 cm. This is a size prior, not an identity join or evidence of this work’s measurement.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 281.94,
+        "role": "robust comparison prior",
+        "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=68"
+      },
+      "comparison_ids": [
+        "christies-5792555",
+        "high-red-curve-vi",
+        "hirshhorn-07-31",
+        "high-white-panel-ii",
+        "christies-6236039",
+        "ek-706",
+        "sothebys-en-auctions-ecatalogue-2014-contemporary-art-evening-sale-n09221-lot-30-html"
+      ],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed.",
+        "The SVG retains a photographed projection; estimated extent is not an orthographic physical measurement."
+      ],
+      "comparison_samples": [
+        {
+          "id": "christies-5792555",
+          "height_cm": 230.5,
+          "width_cm": 384.8,
+          "long_edge_cm": 384.8,
+          "year_start": 1982,
+          "family": "curve",
+          "selection_score": 0.00819,
+          "source_url": "https://www.christies.com/en/lot/lot-5792555"
+        },
+        {
+          "id": "high-red-curve-vi",
+          "height_cm": 188.595,
+          "width_cm": 356.87,
+          "long_edge_cm": 356.87,
+          "year_start": 1982,
+          "family": "curve",
+          "selection_score": 0.0959,
+          "source_url": "https://high.org/collection/red-curve-vi/"
+        },
+        {
+          "id": "hirshhorn-07-31",
+          "height_cm": 184.1,
+          "width_cm": 259.4,
+          "long_edge_cm": 259.4,
+          "year_start": 1982,
+          "family": "curve",
+          "selection_score": 0.11052,
+          "source_url": "https://hirshhorn.si.edu/collection/artwork/?edanUrl=edanmdm%3Ahmsg_07.31"
+        },
+        {
+          "id": "high-white-panel-ii",
+          "height_cm": 245.11,
+          "width_cm": 321.31,
+          "long_edge_cm": 321.31,
+          "year_start": 1985,
+          "family": "curve",
+          "selection_score": 0.46105,
+          "source_url": "https://high.org/collection/white-panel-ii/"
+        },
+        {
+          "id": "christies-6236039",
+          "height_cm": 281.9,
+          "width_cm": 211.4,
+          "long_edge_cm": 281.9,
+          "year_start": 1982,
+          "family": "curve",
+          "selection_score": 0.552,
+          "source_url": "https://www.christies.com/en/lot/lot-6236039"
+        },
+        {
+          "id": "ek-706",
+          "height_cm": 246.38,
+          "width_cm": 281.94,
+          "long_edge_cm": 281.94,
+          "year_start": 1985,
+          "family": "curve",
+          "selection_score": 0.55617,
+          "source_url": "https://ellsworthkelly.org/work/dark-blue-panel/"
+        },
+        {
+          "id": "sothebys-en-auctions-ecatalogue-2014-contemporary-art-evening-sale-n09221-lot-30-html",
+          "height_cm": 213.4,
+          "width_cm": 241.3,
+          "long_edge_cm": 241.3,
+          "year_start": 1985,
+          "family": "curve",
+          "selection_score": 0.56453,
+          "source_url": "https://www.sothebys.com/en/auctions/ecatalogue/2014/contemporary-art-evening-sale-n09221/lot.30.html"
+        }
+      ],
+      "comparison_context": {}
+    },
+    "guggenheim1996-essay-68-fig-2c": {
+      "is_estimate": true,
+      "height_cm": 201.3857,
+      "width_cm": 281.94,
+      "svg_aspect_ratio": 1.4,
+      "method": "comparable_median_long_edge",
+      "confidence": "very_low",
+      "reason": "No usable work-level dimensions. Median long edge of 7 nearby confirmed/measured comparators selected by curve, date context, support and aspect is 281.94 cm. This is a size prior, not an identity join or evidence of this work’s measurement.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 281.94,
+        "role": "robust comparison prior",
+        "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=68"
+      },
+      "comparison_ids": [
+        "hirshhorn-07-31",
+        "christies-5792555",
+        "high-red-curve-vi",
+        "high-white-panel-ii",
+        "christies-6236039",
+        "ek-706",
+        "sothebys-en-auctions-ecatalogue-2014-contemporary-art-evening-sale-n09221-lot-30-html"
+      ],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed.",
+        "The SVG retains a photographed projection; estimated extent is not an orthographic physical measurement."
+      ],
+      "comparison_samples": [
+        {
+          "id": "hirshhorn-07-31",
+          "height_cm": 184.1,
+          "width_cm": 259.4,
+          "long_edge_cm": 259.4,
+          "year_start": 1982,
+          "family": "curve",
+          "selection_score": 0.00449,
+          "source_url": "https://hirshhorn.si.edu/collection/artwork/?edanUrl=edanmdm%3Ahmsg_07.31"
+        },
+        {
+          "id": "christies-5792555",
+          "height_cm": 230.5,
+          "width_cm": 384.8,
+          "long_edge_cm": 384.8,
+          "year_start": 1982,
+          "family": "curve",
+          "selection_score": 0.1232,
+          "source_url": "https://www.christies.com/en/lot/lot-5792555"
+        },
+        {
+          "id": "high-red-curve-vi",
+          "height_cm": 188.595,
+          "width_cm": 356.87,
+          "long_edge_cm": 356.87,
+          "year_start": 1982,
+          "family": "curve",
+          "selection_score": 0.21091,
+          "source_url": "https://high.org/collection/red-curve-vi/"
+        },
+        {
+          "id": "high-white-panel-ii",
+          "height_cm": 245.11,
+          "width_cm": 321.31,
+          "long_edge_cm": 321.31,
+          "year_start": 1985,
+          "family": "curve",
+          "selection_score": 0.34604,
+          "source_url": "https://high.org/collection/white-panel-ii/"
+        },
+        {
+          "id": "christies-6236039",
+          "height_cm": 281.9,
+          "width_cm": 211.4,
+          "long_edge_cm": 281.9,
+          "year_start": 1982,
+          "family": "curve",
+          "selection_score": 0.43699,
+          "source_url": "https://www.christies.com/en/lot/lot-6236039"
+        },
+        {
+          "id": "ek-706",
+          "height_cm": 246.38,
+          "width_cm": 281.94,
+          "long_edge_cm": 281.94,
+          "year_start": 1985,
+          "family": "curve",
+          "selection_score": 0.44116,
+          "source_url": "https://ellsworthkelly.org/work/dark-blue-panel/"
+        },
+        {
+          "id": "sothebys-en-auctions-ecatalogue-2014-contemporary-art-evening-sale-n09221-lot-30-html",
+          "height_cm": 213.4,
+          "width_cm": 241.3,
+          "long_edge_cm": 241.3,
+          "year_start": 1985,
+          "family": "curve",
+          "selection_score": 0.44952,
+          "source_url": "https://www.sothebys.com/en/auctions/ecatalogue/2014/contemporary-art-evening-sale-n09221/lot.30.html"
+        }
+      ],
+      "comparison_context": {}
+    },
+    "matthewmarks-8332-1": {
+      "is_estimate": true,
+      "height_cm": 290.0,
+      "width_cm": 1046.0,
+      "svg_aspect_ratio": 3.60689655,
+      "method": "reported_height_anchor",
+      "confidence": "medium",
+      "reason": "Use this work’s reported height 290 cm and derive width from its SVG aspect. Any projection, spacing or source qualification remains unresolved; this estimate does not make the measurement formally true-scale eligible.",
+      "anchor": {
+        "dimension": "height",
+        "value_cm": 290.0,
+        "reported_width_cm": 1046.0,
+        "source_url": "https://matthewmarks.com/artists/ellsworth-kelly/lightbox/works/8332-1"
+      },
+      "comparison_ids": [],
+      "source_evidence": [
+        {
+          "source_id": "matthewmarks:8332-1",
+          "source_record_id": "8332-1",
+          "source_url": "https://matthewmarks.com/artists/ellsworth-kelly/lightbox/works/8332-1",
+          "height_cm": 290.0,
+          "width_cm": 1046.0,
+          "dimensions_display": "114 × 412 inches; 290 × 1046 cm"
+        }
+      ],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed.",
+        "The SVG retains a photographed projection; estimated extent is not an orthographic physical measurement.",
+        "Estimated overall extent includes the SVG’s chosen gaps/arrangement; installation spacing can vary."
+      ]
+    },
+    "international-v4-saint-etienne-blue-diagonal-curve": {
+      "is_estimate": true,
+      "height_cm": 273.1,
+      "width_cm": 237.0027,
+      "svg_aspect_ratio": 0.8678237650200267,
+      "method": "comparable_median_long_edge",
+      "confidence": "very_low",
+      "reason": "No usable work-level dimensions. Median long edge of 7 nearby confirmed/measured comparators selected by diagonal, date context, support and aspect is 273.1 cm. This is a size prior, not an identity join or evidence of this work’s measurement.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 273.1,
+        "role": "robust comparison prior",
+        "source_url": "https://mamc.saint-etienne-metropole.fr/en/collections?page=191"
+      },
+      "comparison_ids": [
+        "ek-562",
+        "north-v4-baltimore-diagonal-curve",
+        "guggenheim1996-essay-74-fig-3",
+        "sfmoma-v3-fc-310",
+        "christies-6110587",
+        "sfmoma-v3-fc-351",
+        "sothebys-en-buy-auction-2021-contemporary-art-evening-auction-3-blue-panel-with-green-curve"
+      ],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed."
+      ],
+      "comparison_samples": [
+        {
+          "id": "ek-562",
+          "height_cm": 276.86,
+          "width_cm": 266.7,
+          "long_edge_cm": 276.86,
+          "year_start": 1978,
+          "family": "diagonal",
+          "selection_score": 1.07307,
+          "source_url": "https://ellsworthkelly.org/work/diagonal-with-curve-i/"
+        },
+        {
+          "id": "north-v4-baltimore-diagonal-curve",
+          "height_cm": 242.6,
+          "width_cm": 247.7,
+          "long_edge_cm": 247.7,
+          "year_start": 1978,
+          "family": "diagonal",
+          "selection_score": 1.1138,
+          "source_url": "https://artbma.org/artwork/diagonal-with-curve-ii/"
+        },
+        {
+          "id": "guggenheim1996-essay-74-fig-3",
+          "height_cm": 342.9,
+          "width_cm": 251.5,
+          "long_edge_cm": 342.9,
+          "year_start": 1978,
+          "family": "diagonal",
+          "selection_score": 1.11776,
+          "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=74"
+        },
+        {
+          "id": "sfmoma-v3-fc-310",
+          "height_cm": 272.5,
+          "width_cm": 288.3,
+          "long_edge_cm": 288.3,
+          "year_start": 1976,
+          "family": "diagonal",
+          "selection_score": 1.33869,
+          "source_url": "https://www.sfmoma.org/artwork/FC.310/"
+        },
+        {
+          "id": "christies-6110587",
+          "height_cm": 273.1,
+          "width_cm": 132.0,
+          "long_edge_cm": 273.1,
+          "year_start": 1978,
+          "family": "diagonal",
+          "selection_score": 1.40969,
+          "source_url": "https://www.christies.com/en/lot/lot-6110587"
+        },
+        {
+          "id": "sfmoma-v3-fc-351",
+          "height_cm": 252.7,
+          "width_cm": 219.7,
+          "long_edge_cm": 252.7,
+          "year_start": 1989,
+          "family": "curve",
+          "selection_score": 1.70128,
+          "source_url": "https://www.sfmoma.org/artwork/FC.351/"
+        },
+        {
+          "id": "sothebys-en-buy-auction-2021-contemporary-art-evening-auction-3-blue-panel-with-green-curve",
+          "height_cm": 253.36,
+          "width_cm": 218.4,
+          "long_edge_cm": 253.36,
+          "year_start": 1989,
+          "family": "curve",
+          "selection_score": 1.7047,
+          "source_url": "https://www.sothebys.com/en/buy/auction/2021/contemporary-art-evening-auction-3/blue-panel-with-green-curve"
+        }
+      ],
+      "comparison_context": {}
+    },
+    "north-v4-slam-purple-panel": {
+      "is_estimate": true,
+      "height_cm": 280.67,
+      "width_cm": 209.4095,
+      "svg_aspect_ratio": 0.7461059190031153,
+      "method": "reported_long_edge_anchor",
+      "confidence": "low",
+      "reason": "Reported 280.67×280.67 cm disagrees with the SVG aspect. Preserve the larger reported edge 280.67 cm as the displayed long edge; derive its other axis without distorting the SVG.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 280.67,
+        "reported_height_cm": 280.67,
+        "reported_width_cm": 280.67,
+        "source_url": "https://www.slam.org/blog/ellsworth-kelly-was-a-diligent-student-of-nature/"
+      },
+      "comparison_ids": [],
+      "source_evidence": [
+        {
+          "source_id": "north-v4:slam-purple-panel",
+          "source_record_id": "2021.611",
+          "source_url": "https://www.slam.org/blog/ellsworth-kelly-was-a-diligent-student-of-nature/",
+          "height_cm": 280.67,
+          "width_cm": 280.67,
+          "dimensions_display": "110½×110½in"
+        }
+      ],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed.",
+        "The SVG retains a photographed projection; estimated extent is not an orthographic physical measurement."
+      ]
+    },
+    "artic-v4-152761": {
+      "is_estimate": true,
+      "height_cm": 212.3,
+      "width_cm": 189.7962,
+      "svg_aspect_ratio": 0.894,
+      "method": "inferred_axis_anchor",
+      "confidence": "low",
+      "reason": "Primary 189.5×212.3 cm is landscape while the inspected SVG is portrait with almost reciprocal aspect. Use the larger 212.3 cm as estimated vertical extent, explicitly inferring the axis rather than asserting a measurement correction.",
+      "anchor": {
+        "dimension": "height",
+        "value_cm": 212.3,
+        "source_url": "https://www.artic.edu/artworks/152761"
+      },
+      "comparison_ids": [],
+      "source_evidence": [
+        {
+          "source_id": "artic-v4:152761",
+          "source_record_id": "152761",
+          "source_url": "https://www.artic.edu/artworks/152761",
+          "height_cm": 189.5,
+          "width_cm": 212.3,
+          "dimensions_display": "189.5 × 212.3 cm (74 5/8 × 83 13/16 in.)"
+        }
+      ],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed."
+      ]
+    },
+    "ek-808": {
+      "is_estimate": true,
+      "height_cm": 145.3444,
+      "width_cm": 784.86,
+      "svg_aspect_ratio": 5.4,
+      "method": "floor_plan_long_edge_anchor",
+      "confidence": "low",
+      "reason": "Use a robust median of this work’s reported plan long edges as the SVG’s visible long span. The shorter projected axis is derived from the existing oblique SVG, not equated with the floor-plan short edge.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 784.86,
+        "role": "floor-plan long edge used only as display anchor",
+        "source_url": "https://ellsworthkelly.org/work/yellow-curve/"
+      },
+      "comparison_ids": [],
+      "source_evidence": [
+        {
+          "source_url": "https://ellsworthkelly.org/work/yellow-curve/",
+          "dimensions": "1 x 283 x 312 inches"
+        },
+        {
+          "source_id": "glenstone-v3:yellow-curve",
+          "source_record_id": "glenstone-v3:yellow-curve",
+          "source_url": "https://www.glenstone.org/artworks/yellow-curve",
+          "height_cm": 777.24,
+          "width_cm": 741.36,
+          "dimensions_display": "306 x 291 7/8 x 1 inches (777.24 x 741.36 x 2.54 cm)"
+        }
+      ],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed.",
+        "The SVG retains a photographed projection; estimated extent is not an orthographic physical measurement.",
+        "Floor-plan or wall/floor dimensions cannot describe this projected image on a single physical plane."
+      ]
+    },
+    "international-v4-maeght-blue-floor-panel-leo": {
+      "is_estimate": true,
+      "height_cm": 845.0771,
+      "width_cm": 1463.0,
+      "svg_aspect_ratio": 1.731203007518797,
+      "method": "floor_plan_long_edge_anchor",
+      "confidence": "low",
+      "reason": "Use a robust median of this work’s reported plan long edges as the SVG’s visible long span. The shorter projected axis is derived from the existing oblique SVG, not equated with the floor-plan short edge.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 1463.0,
+        "role": "floor-plan long edge used only as display anchor",
+        "source_url": "https://tlmagazine.com/fondation-maeght-summer-2026/?print=true"
+      },
+      "comparison_ids": [],
+      "source_evidence": [
+        {
+          "source_id": "international-v4:maeght-blue-floor-panel-leo",
+          "source_record_id": "maeght-blue-floor-panel-leo",
+          "source_url": "https://tlmagazine.com/fondation-maeght-summer-2026/?print=true",
+          "height_cm": 698.5,
+          "width_cm": 1463,
+          "depth_cm": 2.54,
+          "dimensions_display": "698.5 × 1463 cm",
+          "dimension_role": "planar floor bounding dimensions; source lists thickness × planar height × planar width"
+        }
+      ],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed.",
+        "The SVG retains a photographed projection; estimated extent is not an orthographic physical measurement.",
+        "Floor-plan or wall/floor dimensions cannot describe this projected image on a single physical plane."
+      ]
+    },
+    "ek-835": {
+      "is_estimate": true,
+      "height_cm": 215.988,
+      "width_cm": 1216.0125,
+      "svg_aspect_ratio": 5.63,
+      "method": "floor_plan_long_edge_anchor",
+      "confidence": "low",
+      "reason": "Use a robust median of this work’s reported plan long edges as the SVG’s visible long span. The shorter projected axis is derived from the existing oblique SVG, not equated with the floor-plan short edge.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 1216.0125,
+        "role": "floor-plan long edge used only as display anchor",
+        "source_url": "https://ellsworthkelly.org/work/red-floor-panel/"
+      },
+      "comparison_ids": [],
+      "source_evidence": [
+        {
+          "source_url": "https://ellsworthkelly.org/work/red-floor-panel/",
+          "dimensions": "1 x 316 1/2 x 478 3/4 inches"
+        },
+        {
+          "source_id": "matthewmarks:kele-sc-48655",
+          "source_record_id": "kele-sc-48655",
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-blue-green-black-red/lightbox/works/kele-sc-48655",
+          "height_cm": 804,
+          "width_cm": 1216,
+          "depth_cm": 3,
+          "dimensions_display": "1 × 316½ × 478¾ inches; 3 × 804 × 1216 cm",
+          "dimension_role": "floor-plan dimensions"
+        }
+      ],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed.",
+        "The SVG retains a photographed projection; estimated extent is not an orthographic physical measurement.",
+        "Floor-plan or wall/floor dimensions cannot describe this projected image on a single physical plane."
+      ]
+    },
+    "sfmoma-501-2": {
+      "is_estimate": true,
+      "height_cm": 160.02,
+      "width_cm": 462.28,
+      "svg_aspect_ratio": 2.888889,
+      "method": "component_height_anchor",
+      "confidence": "medium",
+      "reason": "Each panel is 160.02 cm high. The SVG uses the museum essay’s suggested 18 inch intervals; this produces one possible overall installation width.",
+      "anchor": {
+        "dimension": "height",
+        "value_cm": 160.02,
+        "role": "tallest/each component height",
+        "source_url": "https://fisher.access.sfmoma.org/501/"
+      },
+      "comparison_ids": [],
+      "source_evidence": [
+        {
+          "source_id": "sfmoma-v3:FC.558.A-D",
+          "source_record_id": "FC.558.A-D",
+          "source_url": "https://www.sfmoma.org/artwork/FC.558.A-D/",
+          "height_cm": 160.02,
+          "dimensions_display": "each panel: 63  × 32 in (160.02 × 81.28 cm); overall installed width unknown",
+          "dimension_role": "individual panels; overall width variable and unknown"
+        }
+      ],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed.",
+        "Estimated overall extent includes the SVG’s chosen gaps/arrangement; installation spacing can vary."
+      ]
+    },
+    "matthewmarks-blue-panel-1996-3729": {
+      "is_estimate": true,
+      "height_cm": 139.7,
+      "width_cm": 105.4735,
+      "svg_aspect_ratio": 0.755,
+      "method": "conflicting_source_height_anchor",
+      "confidence": "low",
+      "reason": "Caption 55×52 inches versus 140×142 cm agrees on height near 140 cm but contradicts width. Anchor 55 inch height and derive width from the SVG; the chosen width is an estimate, not a correction to the source.",
+      "anchor": {
+        "dimension": "height",
+        "value_cm": 139.7,
+        "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-an-installation-seven-new-paintings-10-1996/lightbox/works/blue-panel-1996-3729"
+      },
+      "comparison_ids": [],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed.",
+        "The SVG retains a photographed projection; estimated extent is not an orthographic physical measurement."
+      ]
+    },
+    "tate-26107": {
+      "is_estimate": true,
+      "height_cm": 355.6,
+      "width_cm": 214.5117,
+      "svg_aspect_ratio": 0.6032388663967612,
+      "method": "inferred_axis_anchor",
+      "confidence": "low",
+      "reason": "Primary 135.7×355.6 cm conflicts strongly with the tall official-image silhouette. Use reported long edge 355.6 cm as the estimated vertical extent; this inferred axis and derived width remain uncertain.",
+      "anchor": {
+        "dimension": "height",
+        "value_cm": 355.6,
+        "source_url": "https://www.tate.org.uk/art/artworks/kelly-yellow-curve-t07403"
+      },
+      "comparison_ids": [],
+      "source_evidence": [
+        {
+          "source_id": "tate:26107",
+          "source_record_id": "26107",
+          "source_url": "https://www.tate.org.uk/art/artworks/kelly-yellow-curve-t07403",
+          "height_cm": 135.7,
+          "width_cm": 355.6,
+          "dimensions_display": "support: 1357 x 3556 x 32 mm"
+        },
+        {
+          "source_id": "gap-museum-v6:tate-T07403-primary-image",
+          "source_record_id": "T07403",
+          "source_url": "https://www.tate.org.uk/art/artworks/kelly-yellow-curve-t07403",
+          "height_cm": 135.7,
+          "width_cm": 355.6,
+          "dimensions_display": "support: 1357 x 3556 x 32 mm (Tate; aspect conflict with official photograph)"
+        }
+      ],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed.",
+        "The SVG retains a photographed projection; estimated extent is not an orthographic physical measurement."
+      ]
+    },
+    "gap-blue-white-2006": {
+      "is_estimate": true,
+      "height_cm": 581.65,
+      "width_cm": 150.7375,
+      "svg_aspect_ratio": 0.25915492957499997,
+      "method": "architectural_height_comparison",
+      "confidence": "very_low",
+      "reason": "No work-level dimensions for this monumental lobby commission. Median measured HEIGHT of two monumental paintings (528.3 and 635 cm) gives a conservative 581.65 cm vertical prior. A 27.4 m-wide 18-panel installation is deliberately excluded as a poor height analogue. The photographed oblique projection remains unchanged.",
+      "anchor": {
+        "dimension": "height",
+        "value_cm": 581.65,
+        "role": "median measured architectural-painting heights",
+        "source_url": "https://ellsworthkelly.org/chronology/"
+      },
+      "comparison_ids": [
+        "international-v4-lwl-black-white",
+        "international-v4-flv-spectrum-viii"
+      ],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed.",
+        "The SVG retains a photographed projection; estimated extent is not an orthographic physical measurement."
+      ],
+      "comparison_samples": [
+        {
+          "id": "international-v4-lwl-black-white",
+          "height_cm": 528.3,
+          "width_cm": 259.1,
+          "year_start": 1992,
+          "source_url": "https://sammlung-online.lwl-museum-kunst-kultur.de/werke/6106"
+        },
+        {
+          "id": "international-v4-flv-spectrum-viii",
+          "height_cm": 635,
+          "width_cm": 584.2,
+          "year_start": 2014,
+          "source_url": "https://www.fondationlouisvuitton.fr/en/collection/artworks/spectrum-viii"
+        }
+      ]
+    },
+    "matthewmarks-white-curve-in-relief-over-white-belle-ile-2013-39467": {
+      "is_estimate": true,
+      "height_cm": 105.618,
+      "width_cm": 188.0,
+      "svg_aspect_ratio": 1.78,
+      "method": "comparable_median_long_edge",
+      "confidence": "very_low",
+      "reason": "No usable work-level dimensions. Median long edge of 7 nearby confirmed/measured comparators selected by curve, date context, support and aspect is 188 cm. This is a size prior, not an identity join or evidence of this work’s measurement.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 188.0,
+        "role": "robust comparison prior",
+        "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-05-2015/lightbox/works/white-curve-in-relief-over-white-belle-île-2013-39467"
+      },
+      "comparison_ids": [
+        "matthewmarks-two-curves-2012-37108",
+        "matthewmarks-black-relief-with-white-2011-34996",
+        "matthewmarks-white-curve-in-relief-over-gray-2012-37116",
+        "broad-v3-green-relief-blue",
+        "matthewmarks-gray-curved-relief-2012-37114",
+        "matthewmarks-red-curve-relief-2010-33753",
+        "matthewmarks-black-curve-relief-2010-33752"
+      ],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed.",
+        "The SVG retains a photographed projection; estimated extent is not an orthographic physical measurement."
+      ],
+      "comparison_samples": [
+        {
+          "id": "matthewmarks-two-curves-2012-37108",
+          "height_cm": 141.0,
+          "width_cm": 208.0,
+          "long_edge_cm": 208.0,
+          "year_start": 2012,
+          "family": "curve",
+          "selection_score": 0.23148,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-at-ninety-05-2013/lightbox/works/two-curves-2012-37108"
+        },
+        {
+          "id": "matthewmarks-black-relief-with-white-2011-34996",
+          "height_cm": 138.0,
+          "width_cm": 229.0,
+          "long_edge_cm": 229.0,
+          "year_start": 2011,
+          "family": "curve",
+          "selection_score": 0.2491,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-los-angeles-01-2012/lightbox/works/black-relief-with-white-2011-34996"
+        },
+        {
+          "id": "matthewmarks-white-curve-in-relief-over-gray-2012-37116",
+          "height_cm": 178.0,
+          "width_cm": 178.0,
+          "long_edge_cm": 178.0,
+          "year_start": 2012,
+          "family": "curve",
+          "selection_score": 0.50363,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-at-ninety-05-2013/lightbox/works/white-curve-in-relief-over-gray-2012-37116"
+        },
+        {
+          "id": "broad-v3-green-relief-blue",
+          "height_cm": 177.8,
+          "width_cm": 170.18,
+          "long_edge_cm": 177.8,
+          "year_start": 2011,
+          "family": "curve",
+          "selection_score": 0.63429,
+          "source_url": "https://www.thebroad.org/art/ellsworth-kelly/green-relief-blue"
+        },
+        {
+          "id": "matthewmarks-gray-curved-relief-2012-37114",
+          "height_cm": 178.0,
+          "width_cm": 147.0,
+          "long_edge_cm": 178.0,
+          "year_start": 2012,
+          "family": "curve",
+          "selection_score": 0.63758,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-at-ninety-05-2013/lightbox/works/gray-curved-relief-2012-37114"
+        },
+        {
+          "id": "matthewmarks-red-curve-relief-2010-33753",
+          "height_cm": 178.0,
+          "width_cm": 188.0,
+          "long_edge_cm": 188.0,
+          "year_start": 2010,
+          "family": "curve",
+          "selection_score": 0.66537,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-reliefs-2009-2010-02-2011/lightbox/works/red-curve-relief-2010-33753"
+        },
+        {
+          "id": "matthewmarks-black-curve-relief-2010-33752",
+          "height_cm": 191.0,
+          "width_cm": 166.0,
+          "long_edge_cm": 191.0,
+          "year_start": 2010,
+          "family": "curve",
+          "selection_score": 0.80183,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-reliefs-2009-2010-02-2011/lightbox/works/black-curve-relief-2010-33752"
+        }
+      ],
+      "comparison_context": {}
+    },
+    "international-v4-flv-colored-panels": {
+      "is_estimate": true,
+      "height_cm": 1250.1154,
+      "width_cm": 2556.1109,
+      "svg_aspect_ratio": 2.044699872286079,
+      "method": "partial_installation_component_median",
+      "confidence": "low",
+      "reason": "Take the median of five physical-component long edges divided by their drawn long spans, then apply that single scale to the five-panel SVG. Different wall planes make these ratios inconsistent; the median is a cautious display guess, not a room survey. The tall 1117.6 cm yellow component is included; a generic 3 m default would be inappropriate.",
+      "anchor": {
+        "dimension": "svg_user_unit",
+        "value_cm": 1.5965714285714285,
+        "role": "median component long-edge scale",
+        "source_url": "https://www.fondationlouisvuitton.fr/en/collection/artworks/colored-panels-red-yellow-blue-green-violet"
+      },
+      "comparison_ids": [],
+      "source_evidence": [
+        {
+          "source_id": "international-v4:flv-colored-panels",
+          "source_record_id": "flv-colored-panels",
+          "source_url": "https://www.fondationlouisvuitton.fr/en/collection/artworks/colored-panels-red-yellow-blue-green-violet",
+          "panel_dimensions_cm": {
+            "red": [
+              162.6,
+              198.1,
+              10.2
+            ],
+            "yellow": [
+              1117.6,
+              190.5,
+              10.2
+            ],
+            "blue": [
+              306.1,
+              287,
+              10.2
+            ],
+            "green": [
+              228.6,
+              294.6,
+              10.2
+            ],
+            "violet": [
+              243.8,
+              365.8,
+              10.2
+            ]
+          }
+        }
+      ],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed.",
+        "The SVG retains a photographed projection; estimated extent is not an orthographic physical measurement.",
+        "Estimated overall extent includes the SVG’s chosen gaps/arrangement; installation spacing can vary.",
+        "Only the five pictured panels are represented; the unspecified sixth panel is not estimated or drawn."
+      ],
+      "component_scale_samples": [
+        {
+          "color": "blue",
+          "physical_long_edge_cm": 306.1,
+          "svg_long_span": 376,
+          "cm_per_svg_unit": 0.8140957446808511
+        },
+        {
+          "color": "green",
+          "physical_long_edge_cm": 294.6,
+          "svg_long_span": 267,
+          "cm_per_svg_unit": 1.103370786516854
+        },
+        {
+          "color": "red",
+          "physical_long_edge_cm": 198.1,
+          "svg_long_span": 87,
+          "cm_per_svg_unit": 2.2770114942528736
+        },
+        {
+          "color": "violet",
+          "physical_long_edge_cm": 365.8,
+          "svg_long_span": 138,
+          "cm_per_svg_unit": 2.6507246376811593
+        },
+        {
+          "color": "yellow",
+          "physical_long_edge_cm": 1117.6,
+          "svg_long_span": 700,
+          "cm_per_svg_unit": 1.5965714285714285
+        }
+      ]
+    },
+    "foundation-exhib-v4-ek78-ellsworth-kelly-paris-new-york-1949-1959": {
+      "is_estimate": true,
+      "height_cm": 133.8792,
+      "width_cm": 160.655,
+      "svg_aspect_ratio": 1.2,
+      "method": "comparable_median_long_edge",
+      "confidence": "very_low",
+      "reason": "No usable work-level dimensions. Median long edge of 7 nearby confirmed/measured comparators selected by rectangle, date context, support and aspect is 160.655 cm. This is a size prior, not an identity join or evidence of this work’s measurement.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 160.655,
+        "role": "robust comparison prior",
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paris-new-york-1949-1959/"
+      },
+      "comparison_ids": [
+        "moma1973-pdf62-caption2",
+        "christies-4315175",
+        "ek-90",
+        "buffalo-k1959-11",
+        "whitney-2423",
+        "short-book-v4-ellsworthkellylastpaintings-201811-39-green-form",
+        "nga-75042"
+      ],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed."
+      ],
+      "comparison_samples": [
+        {
+          "id": "moma1973-pdf62-caption2",
+          "height_cm": 114.3,
+          "width_cm": 152.4,
+          "long_edge_cm": 152.4,
+          "year_start": 1955,
+          "family": "rectangle",
+          "selection_score": 0.07375,
+          "source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf"
+        },
+        {
+          "id": "christies-4315175",
+          "height_cm": 86.4,
+          "width_cm": 96.3,
+          "long_edge_cm": 96.3,
+          "year_start": 1956,
+          "family": "rectangle",
+          "selection_score": 0.15169,
+          "source_url": "https://www.christies.com/en/lot/lot-4315175"
+        },
+        {
+          "id": "ek-90",
+          "height_cm": 160.655,
+          "width_cm": 150.812,
+          "long_edge_cm": 160.655,
+          "year_start": 1955,
+          "family": "rectangle",
+          "selection_score": 0.17188,
+          "source_url": "https://ellsworthkelly.org/work/black-ripe/"
+        },
+        {
+          "id": "buffalo-k1959-11",
+          "height_cm": 187.33,
+          "width_cm": 228.6,
+          "long_edge_cm": 228.6,
+          "year_start": 1957,
+          "family": "rectangle",
+          "selection_score": 0.21175,
+          "source_url": "https://buffaloakg.org/artworks/k195911-new-york-ny"
+        },
+        {
+          "id": "whitney-2423",
+          "height_cm": 203.5,
+          "width_cm": 290.4,
+          "long_edge_cm": 290.4,
+          "year_start": 1956,
+          "family": "rectangle",
+          "selection_score": 0.22129,
+          "source_url": "https://whitney.org/collection/works/2423"
+        },
+        {
+          "id": "short-book-v4-ellsworthkellylastpaintings-201811-39-green-form",
+          "height_cm": 61,
+          "width_cm": 51,
+          "long_edge_cm": 61,
+          "year_start": 1955,
+          "family": "rectangle",
+          "selection_score": 0.25296,
+          "source_url": "https://archive.org/download/EllsworthKellyLastPaintings_201811/EllsworthKellyLastPaintings.pdf#page=39"
+        },
+        {
+          "id": "nga-75042",
+          "height_cm": 205.1,
+          "width_cm": 217.2,
+          "long_edge_cm": 217.2,
+          "year_start": 1953,
+          "family": "rectangle",
+          "selection_score": 0.2875,
+          "source_url": "https://www.nga.gov/artworks/75042"
+        }
+      ],
+      "comparison_context": {
+        "year_for_comparison": 1955,
+        "year_method": "median of five nearest explicit EK identifiers; selection context only, not an assigned creation date",
+        "year_comparison_ids": [
+          "ek-72",
+          "guggenheim1996-cat-26",
+          "guggenheim1996-cat-28",
+          "guggenheim1996-cat-27",
+          "ek-67"
+        ]
+      }
+    },
+    "foundation-exhib-v4-ek946-ellsworth-kelly-curated-by-jack-shear": {
+      "is_estimate": true,
+      "height_cm": 185.4545,
+      "width_cm": 204.0,
+      "svg_aspect_ratio": 1.1,
+      "method": "comparable_median_long_edge",
+      "confidence": "very_low",
+      "reason": "No usable work-level dimensions. Median long edge of 7 nearby confirmed/measured comparators selected by relief, date context, support and aspect is 204 cm. This is a size prior, not an identity join or evidence of this work’s measurement.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 204.0,
+        "role": "robust comparison prior",
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-curated-by-jack-shear/"
+      },
+      "comparison_ids": [
+        "matthewmarks-white-relief-2006-27486",
+        "matthewmarks-kele-pa-27489",
+        "museum-v2-pompidou-ckxarqp",
+        "matthewmarks-yellow-relief-over-red-2004-25971",
+        "ek-961",
+        "matthewmarks-dark-blue-relief-2008-31223",
+        "international-v4-wiesbaden-white-relief-black"
+      ],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed.",
+        "The SVG retains a photographed projection; estimated extent is not an orthographic physical measurement."
+      ],
+      "comparison_samples": [
+        {
+          "id": "matthewmarks-white-relief-2006-27486",
+          "height_cm": 204.0,
+          "width_cm": 208.0,
+          "long_edge_cm": 208.0,
+          "year_start": 2006,
+          "family": "relief",
+          "selection_score": 0.05312,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-new-paintings-11-2006/lightbox/works/white-relief-2006-27486"
+        },
+        {
+          "id": "matthewmarks-kele-pa-27489",
+          "height_cm": 204.0,
+          "width_cm": 185.0,
+          "long_edge_cm": 204.0,
+          "year_start": 2006,
+          "family": "relief",
+          "selection_score": 0.13515,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-black-and-white-11-2024/lightbox/works/kele-pa-27489"
+        },
+        {
+          "id": "museum-v2-pompidou-ckxarqp",
+          "height_cm": 177.8,
+          "width_cm": 209.7,
+          "long_edge_cm": 209.7,
+          "year_start": 2007,
+          "family": "relief",
+          "selection_score": 0.1488,
+          "source_url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/ckXaRqp"
+        },
+        {
+          "id": "matthewmarks-yellow-relief-over-red-2004-25971",
+          "height_cm": 203.0,
+          "width_cm": 211.0,
+          "long_edge_cm": 211.0,
+          "year_start": 2004,
+          "family": "relief",
+          "selection_score": 0.23966,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-new-paintings-11-2006/lightbox/works/yellow-relief-over-red-2004-25971"
+        },
+        {
+          "id": "ek-961",
+          "height_cm": 203.2,
+          "width_cm": 182.245,
+          "long_edge_cm": 203.2,
+          "year_start": 2007,
+          "family": "relief",
+          "selection_score": 0.2429,
+          "source_url": "https://ellsworthkelly.org/work/red-relief-with-white/"
+        },
+        {
+          "id": "matthewmarks-dark-blue-relief-2008-31223",
+          "height_cm": 203.0,
+          "width_cm": 203.0,
+          "long_edge_cm": 203.0,
+          "year_start": 2008,
+          "family": "relief",
+          "selection_score": 0.26672,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-diagonal-02-2009/lightbox/works/dark-blue-relief-2008-31223"
+        },
+        {
+          "id": "international-v4-wiesbaden-white-relief-black",
+          "height_cm": 145,
+          "width_cm": 144,
+          "long_edge_cm": 145,
+          "year_start": 2004,
+          "family": "relief",
+          "selection_score": 0.27156,
+          "source_url": "https://museum-wiesbaden.de/museumsgala"
+        }
+      ],
+      "comparison_context": {
+        "year_for_comparison": 2006,
+        "year_method": "median of five nearest explicit EK identifiers; selection context only, not an assigned creation date",
+        "year_comparison_ids": [
+          "cleveland-2026-5",
+          "ek-953",
+          "sothebys-en-buy-ellsworth-kelly-blue-black-green",
+          "ek-933",
+          "ek-961"
+        ]
+      }
+    },
+    "foundation-exhib-v4-ek951-ellsworth-kelly-sculpture-on-the-wall": {
+      "is_estimate": true,
+      "height_cm": 204.0,
+      "width_cm": 540.6,
+      "svg_aspect_ratio": 2.65,
+      "method": "joined_panel_height_comparison",
+      "confidence": "very_low",
+      "reason": "No dimensions for this three-panel horizontal work. Use median measured HEIGHT of seven nearby three-joined-panel paintings, rather than assigning the long edge of a small single panel to the entire triptych. Date 2006 is only EK-neighbour context; no creation date or medium is asserted. Overall width follows the SVG’s observed three-panel layout.",
+      "anchor": {
+        "dimension": "height",
+        "value_cm": 204.0,
+        "role": "robust whole-work/component-height analogy",
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture-on-the-wall/"
+      },
+      "comparison_ids": [
+        "sothebys-en-buy-ellsworth-kelly-blue-black-green",
+        "matthewmarks-green-black-white-2007-31217",
+        "matthewmarks-25976",
+        "ek-933",
+        "matthewmarks-black-with-two-whites-2013-39468",
+        "matthewmarks-blue-black-red-2015-42889",
+        "matthewmarks-gold-with-orange-reliefs-2013-37363"
+      ],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed.",
+        "The SVG retains a photographed projection; estimated extent is not an orthographic physical measurement.",
+        "Estimated overall extent includes the SVG’s chosen gaps/arrangement; installation spacing can vary."
+      ],
+      "comparison_samples": [
+        {
+          "id": "sothebys-en-buy-ellsworth-kelly-blue-black-green",
+          "height_cm": 269.9,
+          "width_cm": 208.3,
+          "year_start": 2006,
+          "source_url": "https://www.sothebys.com/en/buy/_ellsworth-kelly-blue-black-green"
+        },
+        {
+          "id": "matthewmarks-green-black-white-2007-31217",
+          "height_cm": 204.0,
+          "width_cm": 168.0,
+          "year_start": 2007,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-diagonal-02-2009/lightbox/works/green-black-white-2007-31217"
+        },
+        {
+          "id": "matthewmarks-25976",
+          "height_cm": 219.0,
+          "width_cm": 167.0,
+          "year_start": 2004,
+          "source_url": "https://matthewmarks.com/artists/ellsworth-kelly/lightbox/works/25976"
+        },
+        {
+          "id": "ek-933",
+          "height_cm": 213.995,
+          "width_cm": 162.56,
+          "year_start": 2004,
+          "source_url": "https://ellsworthkelly.org/work/black-relief-over-yellow-and-orange/"
+        },
+        {
+          "id": "matthewmarks-black-with-two-whites-2013-39468",
+          "height_cm": 153.0,
+          "width_cm": 178.0,
+          "year_start": 2013,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-05-2015/lightbox/works/black-with-two-whites-2013-39468"
+        },
+        {
+          "id": "matthewmarks-blue-black-red-2015-42889",
+          "height_cm": 187.0,
+          "width_cm": 331.0,
+          "year_start": 2015,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-last-paintings-05-2017/lightbox/works/blue-black-red-2015-42889"
+        },
+        {
+          "id": "matthewmarks-gold-with-orange-reliefs-2013-37363",
+          "height_cm": 201.0,
+          "width_cm": 185.0,
+          "year_start": 2013,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-at-ninety-05-2013/lightbox/works/gold-with-orange-reliefs-2013-37363"
+        }
+      ]
+    },
+    "foundation-exhib-v4-ek182-ellsworth-kelly-curated-by-jack-shear": {
+      "is_estimate": true,
+      "height_cm": 40.64,
+      "width_cm": 32.512,
+      "svg_aspect_ratio": 0.8,
+      "method": "comparable_median_long_edge",
+      "confidence": "very_low",
+      "reason": "No usable work-level dimensions. Median long edge of 7 nearby confirmed/measured comparators selected by small studies / painted paper, date context, support and aspect is 40.64 cm. This is a size prior, not an identity join or evidence of this work’s measurement.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 40.64,
+        "role": "robust comparison prior",
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-curated-by-jack-shear/"
+      },
+      "comparison_ids": [
+        "ek-137",
+        "freeman-pf0898",
+        "matthewmarks-kele-pa-50646",
+        "christies-5498495",
+        "whitney-67946",
+        "ek-a-29",
+        "matthewmarks-untitled-1959-31172"
+      ],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed."
+      ],
+      "comparison_samples": [
+        {
+          "id": "ek-137",
+          "height_cm": 40.64,
+          "width_cm": 30.48,
+          "long_edge_cm": 40.64,
+          "year_start": 1958,
+          "family": "small_study_or_paper",
+          "selection_score": 0.04518,
+          "source_url": "https://ellsworthkelly.org/work/west-coast-landscape-study/"
+        },
+        {
+          "id": "freeman-pf0898",
+          "height_cm": 61.0,
+          "width_cm": 50.8,
+          "long_edge_cm": 61.0,
+          "year_start": 1959,
+          "family": "small_study_or_paper",
+          "selection_score": 0.12812,
+          "source_url": "https://www.peterfreemaninc.com/exhibitions/ellsworth-kelly/selected-works?view=multiple-sliders"
+        },
+        {
+          "id": "matthewmarks-kele-pa-50646",
+          "height_cm": 61.0,
+          "width_cm": 87.0,
+          "long_edge_cm": 87.0,
+          "year_start": 1956,
+          "family": "small_study_or_paper",
+          "selection_score": 0.60472,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-black-and-white-11-2024/lightbox/works/kele-pa-50646"
+        },
+        {
+          "id": "christies-5498495",
+          "height_cm": 13.0,
+          "width_cm": 13.9,
+          "long_edge_cm": 13.9,
+          "year_start": 1963,
+          "family": "small_study_or_paper",
+          "selection_score": 0.70306,
+          "source_url": "https://www.christies.com/en/lot/lot-5498495"
+        },
+        {
+          "id": "whitney-67946",
+          "height_cm": 13.3,
+          "width_cm": 18.9,
+          "long_edge_cm": 18.9,
+          "year_start": 1963,
+          "family": "small_study_or_paper",
+          "selection_score": 0.90218,
+          "source_url": "https://whitney.org/collection/works/67946"
+        },
+        {
+          "id": "ek-a-29",
+          "height_cm": 54.61,
+          "width_cm": 45.72,
+          "long_edge_cm": 54.61,
+          "year_start": 1949,
+          "family": "small_study_or_paper",
+          "selection_score": 0.93182,
+          "source_url": "https://ellsworthkelly.org/work/kilometer-marker/"
+        },
+        {
+          "id": "matthewmarks-untitled-1959-31172",
+          "height_cm": 28.0,
+          "width_cm": 22.0,
+          "long_edge_cm": 28.0,
+          "year_start": 1959,
+          "family": "small_study_or_paper",
+          "selection_score": 1.11261,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-drawings-1954-1962-02-2009/lightbox/works/untitled-1959-31172"
+        }
+      ],
+      "comparison_context": {
+        "year_for_comparison": 1958,
+        "year_method": "median of five nearest explicit EK identifiers; selection context only, not an assigned creation date",
+        "year_comparison_ids": [
+          "ek-173",
+          "ek-172",
+          "guggenheim1996-cat-32",
+          "ek-167",
+          "tate-7889"
+        ]
+      }
+    },
+    "foundation-exhib-v4-ek746-ellsworth-kelly-sculpture-on-the-wall": {
+      "is_estimate": true,
+      "height_cm": 169.8434,
+      "width_cm": 281.94,
+      "svg_aspect_ratio": 1.66,
+      "method": "comparable_median_long_edge",
+      "confidence": "very_low",
+      "reason": "No usable work-level dimensions. Median long edge of 7 nearby confirmed/measured comparators selected by curve, date context, support and aspect is 281.94 cm. This is a size prior, not an identity join or evidence of this work’s measurement.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 281.94,
+        "role": "robust comparison prior",
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture-on-the-wall/"
+      },
+      "comparison_ids": [
+        "high-white-panel-ii",
+        "ek-706",
+        "sothebys-en-auctions-ecatalogue-2014-contemporary-art-evening-sale-n09221-lot-30-html",
+        "sothebys-en-auctions-ecatalogue-2017-contemporary-art-evening-auction-n09713-lot-42-html",
+        "sothebys-en-auctions-ecatalogue-2018-contemporary-art-evening-auction-n09858-lot-33-html",
+        "sothebys-en-buy-ellsworth-kelly-violet-1985",
+        "christies-5792555"
+      ],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed."
+      ],
+      "comparison_samples": [
+        {
+          "id": "high-white-panel-ii",
+          "height_cm": 245.11,
+          "width_cm": 321.31,
+          "long_edge_cm": 321.31,
+          "year_start": 1985,
+          "family": "curve",
+          "selection_score": 0.26528,
+          "source_url": "https://high.org/collection/white-panel-ii/"
+        },
+        {
+          "id": "ek-706",
+          "height_cm": 246.38,
+          "width_cm": 281.94,
+          "long_edge_cm": 281.94,
+          "year_start": 1985,
+          "family": "curve",
+          "selection_score": 0.3604,
+          "source_url": "https://ellsworthkelly.org/work/dark-blue-panel/"
+        },
+        {
+          "id": "sothebys-en-auctions-ecatalogue-2014-contemporary-art-evening-sale-n09221-lot-30-html",
+          "height_cm": 213.4,
+          "width_cm": 241.3,
+          "long_edge_cm": 241.3,
+          "year_start": 1985,
+          "family": "curve",
+          "selection_score": 0.36876,
+          "source_url": "https://www.sothebys.com/en/auctions/ecatalogue/2014/contemporary-art-evening-sale-n09221/lot.30.html"
+        },
+        {
+          "id": "sothebys-en-auctions-ecatalogue-2017-contemporary-art-evening-auction-n09713-lot-42-html",
+          "height_cm": 193.0,
+          "width_cm": 289.6,
+          "long_edge_cm": 289.6,
+          "year_start": 1989,
+          "family": "curve",
+          "selection_score": 0.3707,
+          "source_url": "https://www.sothebys.com/en/auctions/ecatalogue/2017/contemporary-art-evening-auction-n09713/lot.42.html"
+        },
+        {
+          "id": "sothebys-en-auctions-ecatalogue-2018-contemporary-art-evening-auction-n09858-lot-33-html",
+          "height_cm": 252.7,
+          "width_cm": 238.8,
+          "long_edge_cm": 252.7,
+          "year_start": 1986,
+          "family": "curve",
+          "selection_score": 0.39438,
+          "source_url": "https://www.sothebys.com/en/auctions/ecatalogue/2018/contemporary-art-evening-auction-n09858/lot.33.html"
+        },
+        {
+          "id": "sothebys-en-buy-ellsworth-kelly-violet-1985",
+          "height_cm": 219.7,
+          "width_cm": 238.8,
+          "long_edge_cm": 238.8,
+          "year_start": 1985,
+          "family": "curve",
+          "selection_score": 0.39642,
+          "source_url": "https://www.sothebys.com/en/buy/_ellsworth-kelly-violet-1985"
+        },
+        {
+          "id": "christies-5792555",
+          "height_cm": 230.5,
+          "width_cm": 384.8,
+          "long_edge_cm": 384.8,
+          "year_start": 1982,
+          "family": "curve",
+          "selection_score": 0.40396,
+          "source_url": "https://www.christies.com/en/lot/lot-5792555"
+        }
+      ],
+      "comparison_context": {
+        "year_for_comparison": 1986,
+        "year_method": "median of five nearest explicit EK identifiers; selection context only, not an assigned creation date",
+        "year_comparison_ids": [
+          "christies-6269992",
+          "christies-2056202",
+          "sothebys-en-auctions-ecatalogue-2018-contemporary-art-evening-auction-n09858-lot-33-html",
+          "ek-738",
+          "ek-765"
+        ]
+      }
+    },
+    "foundation-exhib-v4-ek180-ellsworth-kelly-curated-by-jack-shear": {
+      "is_estimate": true,
+      "height_cm": 42.0,
+      "width_cm": 35.7,
+      "svg_aspect_ratio": 0.85,
+      "method": "comparable_median_long_edge",
+      "confidence": "very_low",
+      "reason": "No usable work-level dimensions. Median long edge of 7 nearby confirmed/measured comparators selected by small studies / painted paper, date context, support and aspect is 42 cm. This is a size prior, not an identity join or evidence of this work’s measurement.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 42.0,
+        "role": "robust comparison prior",
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-curated-by-jack-shear/"
+      },
+      "comparison_ids": [
+        "ek-137",
+        "freeman-pf0898",
+        "matthewmarks-kele-pa-50646",
+        "christies-5498495",
+        "whitney-67946",
+        "ek-a-29",
+        "matthewmarks-42475"
+      ],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed."
+      ],
+      "comparison_samples": [
+        {
+          "id": "ek-137",
+          "height_cm": 40.64,
+          "width_cm": 30.48,
+          "long_edge_cm": 40.64,
+          "year_start": 1958,
+          "family": "small_study_or_paper",
+          "selection_score": 0.08761,
+          "source_url": "https://ellsworthkelly.org/work/west-coast-landscape-study/"
+        },
+        {
+          "id": "freeman-pf0898",
+          "height_cm": 61.0,
+          "width_cm": 50.8,
+          "long_edge_cm": 61.0,
+          "year_start": 1959,
+          "family": "small_study_or_paper",
+          "selection_score": 0.11432,
+          "source_url": "https://www.peterfreemaninc.com/exhibitions/ellsworth-kelly/selected-works?view=multiple-sliders"
+        },
+        {
+          "id": "matthewmarks-kele-pa-50646",
+          "height_cm": 61.0,
+          "width_cm": 87.0,
+          "long_edge_cm": 87.0,
+          "year_start": 1956,
+          "family": "small_study_or_paper",
+          "selection_score": 0.56229,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-black-and-white-11-2024/lightbox/works/kele-pa-50646"
+        },
+        {
+          "id": "christies-5498495",
+          "height_cm": 13.0,
+          "width_cm": 13.9,
+          "long_edge_cm": 13.9,
+          "year_start": 1963,
+          "family": "small_study_or_paper",
+          "selection_score": 0.66062,
+          "source_url": "https://www.christies.com/en/lot/lot-5498495"
+        },
+        {
+          "id": "whitney-67946",
+          "height_cm": 13.3,
+          "width_cm": 18.9,
+          "long_edge_cm": 18.9,
+          "year_start": 1963,
+          "family": "small_study_or_paper",
+          "selection_score": 0.85974,
+          "source_url": "https://whitney.org/collection/works/67946"
+        },
+        {
+          "id": "ek-a-29",
+          "height_cm": 54.61,
+          "width_cm": 45.72,
+          "long_edge_cm": 54.61,
+          "year_start": 1949,
+          "family": "small_study_or_paper",
+          "selection_score": 0.91061,
+          "source_url": "https://ellsworthkelly.org/work/kilometer-marker/"
+        },
+        {
+          "id": "matthewmarks-42475",
+          "height_cm": 42.0,
+          "width_cm": 35.0,
+          "long_edge_cm": 42.0,
+          "year_start": 1959,
+          "family": "small_study_or_paper",
+          "selection_score": 1.11386,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-plant-drawings-05-2017/lightbox/works/42475"
+        }
+      ],
+      "comparison_context": {
+        "year_for_comparison": 1958,
+        "year_method": "median of five nearest explicit EK identifiers; selection context only, not an assigned creation date",
+        "year_comparison_ids": [
+          "ek-173",
+          "ek-172",
+          "guggenheim1996-cat-32",
+          "ek-167",
+          "tate-7889"
+        ]
+      }
+    },
+    "foundation-exhib-v4-ek1046-ellsworth-kelly-sculpture-on-the-wall": {
+      "is_estimate": true,
+      "height_cm": 127.027,
+      "width_cm": 188.0,
+      "svg_aspect_ratio": 1.48,
+      "method": "comparable_median_long_edge",
+      "confidence": "very_low",
+      "reason": "No usable work-level dimensions. Median long edge of 7 nearby confirmed/measured comparators selected by curve, date context, support and aspect is 188 cm. This is a size prior, not an identity join or evidence of this work’s measurement.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 188.0,
+        "role": "robust comparison prior",
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture-on-the-wall/"
+      },
+      "comparison_ids": [
+        "matthewmarks-two-curves-2012-37108",
+        "matthewmarks-black-relief-with-white-2011-34996",
+        "matthewmarks-white-curve-in-relief-over-gray-2012-37116",
+        "broad-v3-green-relief-blue",
+        "matthewmarks-gray-curved-relief-2012-37114",
+        "matthewmarks-red-curve-relief-2010-33753",
+        "matthewmarks-black-curve-relief-2010-33752"
+      ],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed."
+      ],
+      "comparison_samples": [
+        {
+          "id": "matthewmarks-two-curves-2012-37108",
+          "height_cm": 141.0,
+          "width_cm": 208.0,
+          "long_edge_cm": 208.0,
+          "year_start": 2012,
+          "family": "curve",
+          "selection_score": 0.00228,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-at-ninety-05-2013/lightbox/works/two-curves-2012-37108"
+        },
+        {
+          "id": "matthewmarks-black-relief-with-white-2011-34996",
+          "height_cm": 138.0,
+          "width_cm": 229.0,
+          "long_edge_cm": 229.0,
+          "year_start": 2011,
+          "family": "curve",
+          "selection_score": 0.1801,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-los-angeles-01-2012/lightbox/works/black-relief-with-white-2011-34996"
+        },
+        {
+          "id": "matthewmarks-white-curve-in-relief-over-gray-2012-37116",
+          "height_cm": 178.0,
+          "width_cm": 178.0,
+          "long_edge_cm": 178.0,
+          "year_start": 2012,
+          "family": "curve",
+          "selection_score": 0.27443,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-at-ninety-05-2013/lightbox/works/white-curve-in-relief-over-gray-2012-37116"
+        },
+        {
+          "id": "broad-v3-green-relief-blue",
+          "height_cm": 177.8,
+          "width_cm": 170.18,
+          "long_edge_cm": 177.8,
+          "year_start": 2011,
+          "family": "curve",
+          "selection_score": 0.40509,
+          "source_url": "https://www.thebroad.org/art/ellsworth-kelly/green-relief-blue"
+        },
+        {
+          "id": "matthewmarks-gray-curved-relief-2012-37114",
+          "height_cm": 178.0,
+          "width_cm": 147.0,
+          "long_edge_cm": 178.0,
+          "year_start": 2012,
+          "family": "curve",
+          "selection_score": 0.40838,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-at-ninety-05-2013/lightbox/works/gray-curved-relief-2012-37114"
+        },
+        {
+          "id": "matthewmarks-red-curve-relief-2010-33753",
+          "height_cm": 178.0,
+          "width_cm": 188.0,
+          "long_edge_cm": 188.0,
+          "year_start": 2010,
+          "family": "curve",
+          "selection_score": 0.43617,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-reliefs-2009-2010-02-2011/lightbox/works/red-curve-relief-2010-33753"
+        },
+        {
+          "id": "matthewmarks-black-curve-relief-2010-33752",
+          "height_cm": 191.0,
+          "width_cm": 166.0,
+          "long_edge_cm": 191.0,
+          "year_start": 2010,
+          "family": "curve",
+          "selection_score": 0.57263,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-reliefs-2009-2010-02-2011/lightbox/works/black-curve-relief-2010-33752"
+        }
+      ],
+      "comparison_context": {
+        "year_for_comparison": 2012,
+        "year_method": "median of five nearest explicit EK identifiers; selection context only, not an assigned creation date",
+        "year_comparison_ids": [
+          "christies-6283808",
+          "christies-6141788",
+          "matthewmarks-white-curve-in-relief-over-white-belle-ile-2013-39467",
+          "ek-1030",
+          "matthewmarks-red-white-2014-39473"
+        ]
+      }
+    },
+    "foundation-exhib-v4-ek246-ellsworth-kelly-a-retrospective": {
+      "is_estimate": true,
+      "height_cm": 152.876,
+      "width_cm": 74.9092,
+      "svg_aspect_ratio": 0.49,
+      "method": "comparable_median_long_edge",
+      "confidence": "very_low",
+      "reason": "No usable work-level dimensions. Median long edge of 7 nearby confirmed/measured comparators selected by rectangle, date context, support and aspect is 152.876 cm. This is a size prior, not an identity join or evidence of this work’s measurement.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 152.876,
+        "role": "robust comparison prior",
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/"
+      },
+      "comparison_ids": [
+        "sothebys-en-auctions-ecatalogue-2019-contemporary-art-day-n10070-lot-139-html",
+        "ek-173",
+        "christies-6482948",
+        "nelson-v3-22857",
+        "guggenheim1996-cat-34",
+        "moma-78403",
+        "ek-206"
+      ],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed."
+      ],
+      "comparison_samples": [
+        {
+          "id": "sothebys-en-auctions-ecatalogue-2019-contemporary-art-day-n10070-lot-139-html",
+          "height_cm": 51.1,
+          "width_cm": 25.7,
+          "long_edge_cm": 51.1,
+          "year_start": 1958,
+          "family": "rectangle",
+          "selection_score": 0.11824,
+          "source_url": "https://www.sothebys.com/en/auctions/ecatalogue/2019/contemporary-art-day-n10070/lot.139.html"
+        },
+        {
+          "id": "ek-173",
+          "height_cm": 76.517,
+          "width_cm": 33.02,
+          "long_edge_cm": 76.517,
+          "year_start": 1958,
+          "family": "rectangle",
+          "selection_score": 0.18893,
+          "source_url": "https://ellsworthkelly.org/work/brooklyn-bridge-iii/"
+        },
+        {
+          "id": "christies-6482948",
+          "height_cm": 116.5,
+          "width_cm": 65.7,
+          "long_edge_cm": 116.5,
+          "year_start": 1960,
+          "family": "rectangle",
+          "selection_score": 0.19839,
+          "source_url": "https://www.christies.com/en/lot/lot-6482948"
+        },
+        {
+          "id": "nelson-v3-22857",
+          "height_cm": 218.76,
+          "width_cm": 124.78,
+          "long_edge_cm": 218.76,
+          "year_start": 1960,
+          "family": "rectangle",
+          "selection_score": 0.20635,
+          "source_url": "https://art.nelson-atkins.org/objects/22857/white-black"
+        },
+        {
+          "id": "guggenheim1996-cat-34",
+          "height_cm": 177.8,
+          "width_cm": 127.0,
+          "long_edge_cm": 177.8,
+          "year_start": 1959,
+          "family": "rectangle",
+          "selection_score": 0.26381,
+          "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=139"
+        },
+        {
+          "id": "moma-78403",
+          "height_cm": 223.6,
+          "width_cm": 172.2,
+          "long_edge_cm": 223.6,
+          "year_start": 1959,
+          "family": "rectangle",
+          "selection_score": 0.3165,
+          "source_url": "https://www.moma.org/collection/works/78403"
+        },
+        {
+          "id": "ek-206",
+          "height_cm": 152.876,
+          "width_cm": 124.619,
+          "long_edge_cm": 152.876,
+          "year_start": 1959,
+          "family": "rectangle",
+          "selection_score": 0.35629,
+          "source_url": "https://ellsworthkelly.org/work/falcon/"
+        }
+      ],
+      "comparison_context": {
+        "year_for_comparison": 1959,
+        "year_method": "median of five nearest explicit EK identifiers; selection context only, not an assigned creation date",
+        "year_comparison_ids": [
+          "christies-6482948",
+          "moma-78403",
+          "north-v4-yale-charter",
+          "ek-225",
+          "ek-273"
+        ]
+      }
+    },
+    "foundation-exhib-v4-ek1024-ellsworth-kelly-curated-by-jack-shear": {
+      "is_estimate": true,
+      "height_cm": 191.0,
+      "width_cm": 143.25,
+      "svg_aspect_ratio": 0.75,
+      "method": "comparable_median_long_edge",
+      "confidence": "very_low",
+      "reason": "No usable work-level dimensions. Median long edge of 7 nearby confirmed/measured comparators selected by curve, date context, support and aspect is 191 cm. This is a size prior, not an identity join or evidence of this work’s measurement.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 191.0,
+        "role": "robust comparison prior",
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-curated-by-jack-shear/"
+      },
+      "comparison_ids": [
+        "matthewmarks-gray-curved-relief-2012-37114",
+        "matthewmarks-white-curve-in-relief-over-gray-2012-37116",
+        "matthewmarks-white-curve-relief-2010-33755",
+        "broad-v3-green-relief-blue",
+        "matthewmarks-gray-curve-relief-2010-33754",
+        "ek-988",
+        "matthewmarks-black-curve-relief-2010-33752"
+      ],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed."
+      ],
+      "comparison_samples": [
+        {
+          "id": "matthewmarks-gray-curved-relief-2012-37114",
+          "height_cm": 178.0,
+          "width_cm": 147.0,
+          "long_edge_cm": 178.0,
+          "year_start": 2012,
+          "family": "curve",
+          "selection_score": 0.06743,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-at-ninety-05-2013/lightbox/works/gray-curved-relief-2012-37114"
+        },
+        {
+          "id": "matthewmarks-white-curve-in-relief-over-gray-2012-37116",
+          "height_cm": 178.0,
+          "width_cm": 178.0,
+          "long_edge_cm": 178.0,
+          "year_start": 2012,
+          "family": "curve",
+          "selection_score": 0.20138,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-at-ninety-05-2013/lightbox/works/white-curve-in-relief-over-gray-2012-37116"
+        },
+        {
+          "id": "matthewmarks-white-curve-relief-2010-33755",
+          "height_cm": 191.0,
+          "width_cm": 149.0,
+          "long_edge_cm": 191.0,
+          "year_start": 2010,
+          "family": "curve",
+          "selection_score": 0.22755,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-reliefs-2009-2010-02-2011/lightbox/works/white-curve-relief-2010-33755"
+        },
+        {
+          "id": "broad-v3-green-relief-blue",
+          "height_cm": 177.8,
+          "width_cm": 170.18,
+          "long_edge_cm": 177.8,
+          "year_start": 2011,
+          "family": "curve",
+          "selection_score": 0.27072,
+          "source_url": "https://www.thebroad.org/art/ellsworth-kelly/green-relief-blue"
+        },
+        {
+          "id": "matthewmarks-gray-curve-relief-2010-33754",
+          "height_cm": 204.0,
+          "width_cm": 134.0,
+          "long_edge_cm": 204.0,
+          "year_start": 2010,
+          "family": "curve",
+          "selection_score": 0.29282,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-reliefs-2009-2010-02-2011/lightbox/works/gray-curve-relief-2010-33754"
+        },
+        {
+          "id": "ek-988",
+          "height_cm": 203.2,
+          "width_cm": 151.765,
+          "long_edge_cm": 203.2,
+          "year_start": 2009,
+          "family": "curve",
+          "selection_score": 0.30292,
+          "source_url": "https://ellsworthkelly.org/work/blue-curves/"
+        },
+        {
+          "id": "matthewmarks-black-curve-relief-2010-33752",
+          "height_cm": 191.0,
+          "width_cm": 166.0,
+          "long_edge_cm": 191.0,
+          "year_start": 2010,
+          "family": "curve",
+          "selection_score": 0.30318,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-reliefs-2009-2010-02-2011/lightbox/works/black-curve-relief-2010-33752"
+        }
+      ],
+      "comparison_context": {
+        "year_for_comparison": 2012,
+        "year_method": "median of five nearest explicit EK identifiers; selection context only, not an assigned creation date",
+        "year_comparison_ids": [
+          "ek-1030",
+          "christies-6141788",
+          "christies-6283808",
+          "christies-6397675",
+          "matthewmarks-white-curve-in-relief-over-white-belle-ile-2013-39467"
+        ]
+      }
+    },
+    "foundation-exhib-v4-ek82-ellsworth-kelly-paris-new-york-1949-1959": {
+      "is_estimate": true,
+      "height_cm": 111.8,
+      "width_cm": 83.85,
+      "svg_aspect_ratio": 0.75,
+      "method": "comparable_median_long_edge",
+      "confidence": "very_low",
+      "reason": "No usable work-level dimensions. Median long edge of 7 nearby confirmed/measured comparators selected by rectangle, date context, support and aspect is 111.8 cm. This is a size prior, not an identity join or evidence of this work’s measurement.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 111.8,
+        "role": "robust comparison prior",
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paris-new-york-1949-1959/"
+      },
+      "comparison_ids": [
+        "short-book-v4-ellsworthkellylastpaintings-201811-39-green-form",
+        "ek-90",
+        "guggenheim1996-cat-27",
+        "christies-6172963",
+        "sothebys-en-auctions-ecatalogue-2015-contemporary-evening-n09345-lot-10-html",
+        "moma1973-pdf64-caption1",
+        "moma1973-pdf71-caption1"
+      ],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed.",
+        "The SVG retains a photographed projection; estimated extent is not an orthographic physical measurement."
+      ],
+      "comparison_samples": [
+        {
+          "id": "short-book-v4-ellsworthkellylastpaintings-201811-39-green-form",
+          "height_cm": 61,
+          "width_cm": 51,
+          "long_edge_cm": 61,
+          "year_start": 1955,
+          "family": "rectangle",
+          "selection_score": 0.07604,
+          "source_url": "https://archive.org/download/EllsworthKellyLastPaintings_201811/EllsworthKellyLastPaintings.pdf#page=39"
+        },
+        {
+          "id": "ek-90",
+          "height_cm": 160.655,
+          "width_cm": 150.812,
+          "long_edge_cm": 160.655,
+          "year_start": 1955,
+          "family": "rectangle",
+          "selection_score": 0.15712,
+          "source_url": "https://ellsworthkelly.org/work/black-ripe/"
+        },
+        {
+          "id": "guggenheim1996-cat-27",
+          "height_cm": 111.8,
+          "width_cm": 96.5,
+          "long_edge_cm": 111.8,
+          "year_start": 1956,
+          "family": "rectangle",
+          "selection_score": 0.19836,
+          "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=128"
+        },
+        {
+          "id": "christies-6172963",
+          "height_cm": 40.6,
+          "width_cm": 30.5,
+          "long_edge_cm": 40.6,
+          "year_start": 1957,
+          "family": "rectangle",
+          "selection_score": 0.20115,
+          "source_url": "https://www.christies.com/en/lot/lot-6172963"
+        },
+        {
+          "id": "sothebys-en-auctions-ecatalogue-2015-contemporary-evening-n09345-lot-10-html",
+          "height_cm": 40.5,
+          "width_cm": 30.0,
+          "long_edge_cm": 40.5,
+          "year_start": 1957,
+          "family": "rectangle",
+          "selection_score": 0.2087,
+          "source_url": "https://www.sothebys.com/en/auctions/ecatalogue/2015/contemporary-evening-n09345/lot.10.html"
+        },
+        {
+          "id": "moma1973-pdf64-caption1",
+          "height_cm": 228.6,
+          "width_cm": 200.66,
+          "long_edge_cm": 228.6,
+          "year_start": 1956,
+          "family": "rectangle",
+          "selection_score": 0.21012,
+          "source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf"
+        },
+        {
+          "id": "moma1973-pdf71-caption1",
+          "height_cm": 196.85,
+          "width_cm": 152.4,
+          "long_edge_cm": 196.85,
+          "year_start": 1957,
+          "family": "rectangle",
+          "selection_score": 0.22222,
+          "source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf"
+        }
+      ],
+      "comparison_context": {
+        "year_for_comparison": 1955,
+        "year_method": "median of five nearest explicit EK identifiers; selection context only, not an assigned creation date",
+        "year_comparison_ids": [
+          "guggenheim1996-cat-28",
+          "guggenheim1996-cat-27",
+          "ek-90",
+          "ek-72",
+          "guggenheim1996-cat-26"
+        ]
+      }
+    },
+    "foundation-exhib-v4-ek2-ellsworth-kelly-paris-new-york-1949-1959": {
+      "is_estimate": true,
+      "height_cm": 80.0104,
+      "width_cm": 100.013,
+      "svg_aspect_ratio": 1.25,
+      "method": "comparable_median_long_edge",
+      "confidence": "very_low",
+      "reason": "No usable work-level dimensions. Median long edge of 7 nearby confirmed/measured comparators selected by relief, date context, support and aspect is 100.013 cm. This is a size prior, not an identity join or evidence of this work’s measurement.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 100.013,
+        "role": "robust comparison prior",
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paris-new-york-1949-1959/"
+      },
+      "comparison_ids": [
+        "sfmoma-v3-fc-571",
+        "moma1973-pdf29-caption1",
+        "ek-14",
+        "ek-18",
+        "short-book-v4-ellsworthkelly20132-42-f-te-torcy",
+        "matthewmarks-yellow-relief-1954-55-12580",
+        "moma-82211"
+      ],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed."
+      ],
+      "comparison_samples": [
+        {
+          "id": "sfmoma-v3-fc-571",
+          "height_cm": 64.8,
+          "width_cm": 100.3,
+          "long_edge_cm": 100.3,
+          "year_start": 1950,
+          "family": "relief",
+          "selection_score": 0.1496,
+          "source_url": "https://www.sfmoma.org/artwork/FC.571/"
+        },
+        {
+          "id": "moma1973-pdf29-caption1",
+          "height_cm": 55.88,
+          "width_cm": 99.695,
+          "long_edge_cm": 99.695,
+          "year_start": 1950,
+          "family": "relief",
+          "selection_score": 0.24904,
+          "source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf"
+        },
+        {
+          "id": "ek-14",
+          "height_cm": 31.75,
+          "width_cm": 68.58,
+          "long_edge_cm": 68.58,
+          "year_start": 1950,
+          "family": "relief",
+          "selection_score": 0.38288,
+          "source_url": "https://ellsworthkelly.org/work/saint-louis-i/"
+        },
+        {
+          "id": "ek-18",
+          "height_cm": 100.013,
+          "width_cm": 70.168,
+          "long_edge_cm": 100.013,
+          "year_start": 1950,
+          "family": "relief",
+          "selection_score": 0.40429,
+          "source_url": "https://ellsworthkelly.org/work/white-relief/"
+        },
+        {
+          "id": "short-book-v4-ellsworthkelly20132-42-f-te-torcy",
+          "height_cm": 116,
+          "width_cm": 97,
+          "long_edge_cm": 116,
+          "year_start": 1952,
+          "family": "relief",
+          "selection_score": 0.48142,
+          "source_url": "https://archive.org/download/EllsworthKelly20132/EllsworthKelly20132.pdf#page=42"
+        },
+        {
+          "id": "matthewmarks-yellow-relief-1954-55-12580",
+          "height_cm": 61.0,
+          "width_cm": 61.0,
+          "long_edge_cm": 61.0,
+          "year_start": 1954,
+          "family": "relief",
+          "selection_score": 0.5562,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-relief-paintings-05-2001/lightbox/works/yellow-relief-1954-55-12580"
+        },
+        {
+          "id": "moma-82211",
+          "height_cm": 114.0,
+          "width_cm": 44.5,
+          "long_edge_cm": 114.0,
+          "year_start": 1950,
+          "family": "relief",
+          "selection_score": 0.8147,
+          "source_url": "https://www.moma.org/collection/works/82211"
+        }
+      ],
+      "comparison_context": {
+        "year_for_comparison": 1950,
+        "year_method": "median of five nearest explicit EK identifiers; selection context only, not an assigned creation date",
+        "year_comparison_ids": [
+          "ek-6",
+          "ek-10",
+          "ek-12",
+          "ek-14",
+          "ek-18"
+        ]
+      }
+    },
+    "foundation-exhib-v4-ek176-ellsworth-kelly-curated-by-jack-shear": {
+      "is_estimate": true,
+      "height_cm": 30.1037,
+      "width_cm": 40.64,
+      "svg_aspect_ratio": 1.35,
+      "method": "comparable_median_long_edge",
+      "confidence": "very_low",
+      "reason": "No usable work-level dimensions. Median long edge of 7 nearby confirmed/measured comparators selected by small studies / painted paper, date context, support and aspect is 40.64 cm. This is a size prior, not an identity join or evidence of this work’s measurement.",
+      "anchor": {
+        "dimension": "long_edge",
+        "value_cm": 40.64,
+        "role": "robust comparison prior",
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-curated-by-jack-shear/"
+      },
+      "comparison_ids": [
+        "matthewmarks-kele-pa-50646",
+        "ek-137",
+        "freeman-pf0898",
+        "whitney-67946",
+        "christies-5498495",
+        "matthewmarks-white-bands-on-yellow-1959-31174",
+        "ek-a-29"
+      ],
+      "source_evidence": [],
+      "caveats": [
+        "Estimated display dimensions only; catalogue measurements are unchanged.",
+        "SVG proportions are preserved; no perspective rectification or contour correction is performed."
+      ],
+      "comparison_samples": [
+        {
+          "id": "matthewmarks-kele-pa-50646",
+          "height_cm": 61.0,
+          "width_cm": 87.0,
+          "long_edge_cm": 87.0,
+          "year_start": 1956,
+          "family": "small_study_or_paper",
+          "selection_score": 0.23845,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-black-and-white-11-2024/lightbox/works/kele-pa-50646"
+        },
+        {
+          "id": "ek-137",
+          "height_cm": 40.64,
+          "width_cm": 30.48,
+          "long_edge_cm": 40.64,
+          "year_start": 1958,
+          "family": "small_study_or_paper",
+          "selection_score": 0.41145,
+          "source_url": "https://ellsworthkelly.org/work/west-coast-landscape-study/"
+        },
+        {
+          "id": "freeman-pf0898",
+          "height_cm": 61.0,
+          "width_cm": 50.8,
+          "long_edge_cm": 61.0,
+          "year_start": 1959,
+          "family": "small_study_or_paper",
+          "selection_score": 0.43816,
+          "source_url": "https://www.peterfreemaninc.com/exhibitions/ellsworth-kelly/selected-works?view=multiple-sliders"
+        },
+        {
+          "id": "whitney-67946",
+          "height_cm": 13.3,
+          "width_cm": 18.9,
+          "long_edge_cm": 18.9,
+          "year_start": 1963,
+          "family": "small_study_or_paper",
+          "selection_score": 0.53591,
+          "source_url": "https://whitney.org/collection/works/67946"
+        },
+        {
+          "id": "christies-5498495",
+          "height_cm": 13.0,
+          "width_cm": 13.9,
+          "long_edge_cm": 13.9,
+          "year_start": 1963,
+          "family": "small_study_or_paper",
+          "selection_score": 0.66322,
+          "source_url": "https://www.christies.com/en/lot/lot-5498495"
+        },
+        {
+          "id": "matthewmarks-white-bands-on-yellow-1959-31174",
+          "height_cm": 21.0,
+          "width_cm": 29.0,
+          "long_edge_cm": 29.0,
+          "year_start": 1959,
+          "family": "small_study_or_paper",
+          "selection_score": 1.11587,
+          "source_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-drawings-1954-1962-02-2009/lightbox/works/white-bands-on-yellow-1959-31174"
+        },
+        {
+          "id": "ek-a-29",
+          "height_cm": 54.61,
+          "width_cm": 45.72,
+          "long_edge_cm": 54.61,
+          "year_start": 1949,
+          "family": "small_study_or_paper",
+          "selection_score": 1.23445,
+          "source_url": "https://ellsworthkelly.org/work/kilometer-marker/"
+        }
+      ],
+      "comparison_context": {
+        "year_for_comparison": 1958,
+        "year_method": "median of five nearest explicit EK identifiers; selection context only, not an assigned creation date",
+        "year_comparison_ids": [
+          "ek-173",
+          "ek-172",
+          "guggenheim1996-cat-32",
+          "ek-167",
+          "tate-7889"
+        ]
+      }
+    }
+  }
+}

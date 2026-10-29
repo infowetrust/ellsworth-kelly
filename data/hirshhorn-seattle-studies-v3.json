@@ -1,0 +1,99 @@
+{
+  "hirshhorn:72.161": {
+    "path": "assets/studies/v3-hirshhorn-red-white-1961.svg",
+    "colors": [
+      "red",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.smithsonianmag.com/arts-culture/why-ellsworth-kelly-was-giant-world-american-art-180957652/",
+    "reference_id": "research/hirshhorn-seattle-v3/hmsg-redwhite-mag.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against cited photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Organic red/white contours approximated from the museum-supplied photograph; rectangular canvas retains its white painted field.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://www.si.edu/object/red-white%3Ahmsg_72.161"
+  },
+  "hirshhorn:07.2": {
+    "path": "assets/studies/v3-hirshhorn-red-yellow-blue-v.svg",
+    "colors": [
+      "red",
+      "yellow",
+      "blue"
+    ],
+    "shape_type": "joined trapezoids",
+    "reference_url": "https://matthewmarks.com/online/30-years-online",
+    "reference_id": "research/hirshhorn-seattle-v3/hmsg-rybv-marks.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against cited photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Tapering three-panel outline and joins approximated from two institution/dealer photographs; some perspective remains uncertain. It is a schematic study, not measured orthographic geometry.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://hirshhorn.si.edu/collection/artwork/?edanUrl=edanmdm%3Ahmsg_07.2"
+  },
+  "hirshhorn:07.31": {
+    "path": "assets/studies/v3-hirshhorn-dark-green-curve.svg",
+    "colors": [
+      "green"
+    ],
+    "shape_type": "curved polygon",
+    "reference_url": "https://ids.si.edu/ids/deliveryService?id=HMSG-HMSG-07.31",
+    "reference_id": "research/hirshhorn-seattle-v3/hmsg-07.31.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against cited photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Single dark-green shaped canvas: curved upper edge, pointed left end and straight sloping lower edge. Photo perspective is approximated; background omitted.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://hirshhorn.si.edu/collection/artwork/?edanUrl=edanmdm%3Ahmsg_07.31"
+  },
+  "hirshhorn:07.32": {
+    "path": "assets/studies/v3-hirshhorn-white-relief-over-dark-blue.svg",
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "shape_type": "joined rectangles with open corner",
+    "reference_url": "https://ids.si.edu/ids/deliveryService?id=HMSG-HMSG-07.32",
+    "reference_id": "research/hirshhorn-seattle-v3/hmsg-07.32.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against cited photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Two adjacent rectangles form a stepped silhouette. White-painted panel is opaque; empty upper-right area is transparent. Shallow relief thickness/shadows omitted.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://hirshhorn.si.edu/collection/artwork/?edanUrl=edanmdm%3Ahmsg_07.32"
+  },
+  "seattle:14331": {
+    "path": "assets/studies/v3-seattle-blue-green-red-ii.svg",
+    "colors": [
+      "blue",
+      "green",
+      "red"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.artsy.net/artwork/ellsworth-kelly-blue-green-red-ii",
+    "reference_id": "research/hirshhorn-seattle-v3/seattle-bgrII-artsy.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against cited photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Two large opposing half-ellipses touch near the center over a red field. Approximate curves; the museum-partner source image is not colorimetrically measured.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://art.seattleartmuseum.org/objects/14331/blue-green-red-ii"
+  },
+  "seattle:20691": {
+    "path": "assets/studies/v3-seattle-white-curve-v.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://scaruffi.com/museums/sam/index.html",
+    "reference_id": "research/hirshhorn-seattle-v3/whitecurvev-scaruffi.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against cited photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "White and black are painted areas within a rectangular canvas; neither is a transparent cutout. Curved division approximated from an installation photograph, with orientation cross-checked against the museum warning about the inverted historic cover.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://art.seattleartmuseum.org/objects/20691/white-curve-v"
+  }
+}

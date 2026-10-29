@@ -1,0 +1,217 @@
+[
+  {
+    "source_id": "hirshhorn:72.161",
+    "source_record_id": "hmsg_72.161",
+    "title": "Red White",
+    "year_start": 1961,
+    "year_end": 1961,
+    "date_display": "1961",
+    "medium": "Oil on canvas",
+    "height_cm": 159.5,
+    "width_cm": 216.6,
+    "dimensions_display": "62 3/4 × 85 1/4 in. (159.5 × 216.6 cm)",
+    "collection": "Hirshhorn Museum and Sculpture Garden, Smithsonian Institution, Washington, DC",
+    "accession": "72.161",
+    "ek_id": null,
+    "source_url": "https://www.si.edu/object/red-white%3Ahmsg_72.161",
+    "image_url": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/a4/47/a4471bb3-6eb4-4643-98d7-1f5b3bfc047f/72161cc.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Museum title/date identify this as a different painting from the two 1962 works also titled Red White.",
+      "Museum publication records an earlier reproduction upside down; study follows the Smithsonian museum-supplied photograph."
+    ],
+    "sources": [
+      {
+        "url": "https://www.si.edu/object/red-white%3Ahmsg_72.161",
+        "label": "Hirshhorn Museum and Sculpture Garden, Smithsonian Institution, Washington, DC primary collection record",
+        "accessed": "2026-10-27"
+      },
+      {
+        "url": "https://collections.si.edu/search/results.htm?fq=data_source%3A%22Hirshhorn+Museum+and+Sculpture+Garden%22&q=%22Parke-Bernet+Galleries%22",
+        "label": "Smithsonian collections search, dimensions",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "hirshhorn:07.2",
+    "source_record_id": "hmsg_07.2",
+    "title": "Red Yellow Blue V",
+    "year_start": 1968,
+    "year_end": 1968,
+    "date_display": "1968",
+    "medium": "Oil on canvas, three joined panels",
+    "height_cm": 226.0,
+    "width_cm": 422.9,
+    "dimensions_display": "89 × 166 1/2 in. (226 × 422.9 cm) [irreg.]",
+    "collection": "Hirshhorn Museum and Sculpture Garden, Smithsonian Institution, Washington, DC",
+    "accession": "07.2",
+    "ek_id": null,
+    "source_url": "https://hirshhorn.si.edu/collection/artwork/?edanUrl=edanmdm%3Ahmsg_07.2",
+    "image_url": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/4f/80/4f8080e8-6a04-4938-8fc2-203aabe42dfd/072.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Hirshhorn record gives Oil on canvas and irregular overall dimensions; Matthew Marks gallery identifies three joined panels.",
+      "Gift of Joseph H. Hirshhorn by Exchange, 2007."
+    ],
+    "sources": [
+      {
+        "url": "https://hirshhorn.si.edu/collection/artwork/?edanUrl=edanmdm%3Ahmsg_07.2",
+        "label": "Hirshhorn Museum and Sculpture Garden, Smithsonian Institution, Washington, DC primary collection record",
+        "accessed": "2026-10-27"
+      },
+      {
+        "url": "https://matthewmarks.com/online/30-years-online",
+        "label": "Artist representing gallery: panel count and source photograph",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "hirshhorn:07.31",
+    "source_record_id": "hmsg_07.31",
+    "title": "Dark Green Curve",
+    "year_start": 1982,
+    "year_end": 1982,
+    "date_display": "1982",
+    "medium": "Oil on canvas",
+    "height_cm": 184.1,
+    "width_cm": 259.4,
+    "dimensions_display": "72 1/2 × 102 1/8 in. (184.1 × 259.4 cm) [irreg.]",
+    "collection": "Hirshhorn Museum and Sculpture Garden, Smithsonian Institution, Washington, DC",
+    "accession": "07.31",
+    "ek_id": null,
+    "source_url": "https://hirshhorn.si.edu/collection/artwork/?edanUrl=edanmdm%3Ahmsg_07.31",
+    "image_url": "https://ids.si.edu/ids/deliveryService?id=HMSG-HMSG-07.31",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Gift of Joseph H. Hirshhorn by Exchange, 2007.",
+      "Public Smithsonian IDS image was visually verified; wall, cast shadow and outlet are outside the painted shape."
+    ],
+    "sources": [
+      {
+        "url": "https://hirshhorn.si.edu/collection/artwork/?edanUrl=edanmdm%3Ahmsg_07.31",
+        "label": "Hirshhorn Museum and Sculpture Garden, Smithsonian Institution, Washington, DC primary collection record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "hirshhorn:07.32",
+    "source_record_id": "hmsg_07.32",
+    "title": "White Relief over Dark Blue",
+    "year_start": 2002,
+    "year_end": 2002,
+    "date_display": "2002",
+    "medium": "Oil on canvas, two joined panels",
+    "height_cm": 203.2,
+    "width_cm": 191.8,
+    "dimensions_display": "80 × 75 1/2 × 2 5/8 in. (203.2 × 191.8 × 6.7 cm)",
+    "collection": "Hirshhorn Museum and Sculpture Garden, Smithsonian Institution, Washington, DC",
+    "accession": "07.32",
+    "ek_id": null,
+    "source_url": "https://hirshhorn.si.edu/collection/artwork/?edanUrl=edanmdm%3Ahmsg_07.32",
+    "image_url": "https://ids.si.edu/ids/deliveryService?id=HMSG-HMSG-07.32",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Museum object page gives Oil on canvas; its mobile collection page specifies two joined panels.",
+      "Gift of Joseph H. Hirshhorn by Exchange, 2007."
+    ],
+    "sources": [
+      {
+        "url": "https://hirshhorn.si.edu/collection/artwork/?edanUrl=edanmdm%3Ahmsg_07.32",
+        "label": "Hirshhorn Museum and Sculpture Garden, Smithsonian Institution, Washington, DC primary collection record",
+        "accessed": "2026-10-27"
+      },
+      {
+        "url": "https://hirshhorn.si.edu/wp-content/themes/Hirshhorn_Mobile/collection_works_on_view.php",
+        "label": "Museum mobile collection list: two joined panels; historical page last updated 2015",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "seattle:14331",
+    "source_record_id": "14331",
+    "title": "Blue Green Red II",
+    "year_start": 1965,
+    "year_end": 1965,
+    "date_display": "1965",
+    "medium": "Oil on canvas",
+    "height_cm": 222.3,
+    "width_cm": 257.5,
+    "dimensions_display": "87 1/2 × 101 3/8 in. (222.3 × 257.5 cm)",
+    "collection": "Seattle Art Museum",
+    "accession": "2007.119",
+    "ek_id": null,
+    "source_url": "https://art.seattleartmuseum.org/objects/14331/blue-green-red-ii",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Gift of the Virginia and Bagley Wright Collection, in honor of the 75th Anniversary of the Seattle Art Museum.",
+      "Museum record currently says Image Not Available; its dimensions take priority over Artsy museum-partner listing (223.5 × 259.1 cm).",
+      "Study reference is a reproduction posted under the Seattle Art Museum Artsy profile, credited to Susan Cole; a second collection-interior photo corroborates the color/shape arrangement."
+    ],
+    "sources": [
+      {
+        "url": "https://art.seattleartmuseum.org/objects/14331/blue-green-red-ii",
+        "label": "Seattle Art Museum primary collection record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "seattle:20691",
+    "source_record_id": "20691",
+    "title": "White Curve V",
+    "year_start": 1973,
+    "year_end": 1973,
+    "date_display": "1973",
+    "medium": "Oil on canvas",
+    "height_cm": 236.9,
+    "width_cm": 231.5,
+    "dimensions_display": "93 1/4 × 91 1/8 in. (236.9 × 231.5 cm)",
+    "collection": "Seattle Art Museum",
+    "accession": "76.10",
+    "ek_id": "EK 497",
+    "source_url": "https://art.seattleartmuseum.org/objects/20691/white-curve-v",
+    "image_url": "https://art.seattleartmuseum.org/internal/media/dispatcher/50248/preview",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Gift of Virginia and Bagley Wright (by exchange), Margaret E. Fuller Purchase Fund and National Endowment for the Arts funds.",
+      "Museum bibliography says the 1973 MoMA catalogue cover reproduced this upside down. Study follows the present installation photograph, black upper-left and white lower-right.",
+      "EK 497 is explicitly named in the Foundation 1979 Stedelijk exhibition page.",
+      "Museum image URL and SAM Stories image were publicly linked but returned HTTP403 on direct retrieval; the study uses a separately attributed installation photograph."
+    ],
+    "sources": [
+      {
+        "url": "https://art.seattleartmuseum.org/objects/20691/white-curve-v",
+        "label": "Seattle Art Museum primary collection record",
+        "accessed": "2026-10-27"
+      },
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-and-sculptures-1963-1979/",
+        "label": "Ellsworth Kelly Foundation, work identifier in exhibition gallery",
+        "accessed": "2026-10-27"
+      }
+    ]
+  }
+]

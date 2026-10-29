@@ -1,0 +1,16 @@
+{
+  "pace-v4:91799": {
+    "path": "assets/studies/v4-secondary-pace-dark-blue-panel-1999.svg",
+    "colors": [
+      "blue"
+    ],
+    "shape_type": "quadrilateral",
+    "reference_url": "https://www.pacegallery.com/artfairs/art-basel-miami-beach-2024/",
+    "reference_id": "research/core-museums-v4/reference-images/pace-dark-blue-panel-1999.webp",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate contour from the primary photograph",
+    "palette": "standardized vivid blue, not measured pigment",
+    "notes": "Interpretive SVG after inspecting primary Pace photograph. Four straight edges and clockwise lean retained. Approximate geometry; vivid blue palette, not calibrated paint.",
+    "reviewed_date": "2026-10-27"
+  }
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "source_id": "pace-v4:91799",
+    "source_record_id": "91799",
+    "title": "Dark Blue Panel",
+    "year_start": 1999,
+    "year_end": 1999,
+    "date_display": "1999",
+    "medium": "oil on canvas",
+    "height_cm": 254,
+    "width_cm": 162.6,
+    "dimensions_display": "8' 4\" ×64\" (254cm×162.6cm)",
+    "collection": "Collection unverified (documented by Pace in2024)",
+    "source_url": "https://www.pacegallery.com/artfairs/art-basel-miami-beach-2024/",
+    "image_url": "https://www.pacegallery.com/media/images/91799_web.original.webp",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "notes": [
+      "Pace Art Basel Miami Beach2024 fair listing establishes a public appearance; neither present ownership nor completion date is inferred from the fair date."
+    ],
+    "sources": [
+      {
+        "url": "https://www.pacegallery.com/artfairs/art-basel-miami-beach-2024/",
+        "label": "Pace primary fair artwork91799",
+        "accessed": "2026-10-27"
+      }
+    ]
+  }
+]

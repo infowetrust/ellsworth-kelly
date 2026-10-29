@@ -1,0 +1,128 @@
+[
+  {
+    "id": "museum-v2-mfah-60998",
+    "title": "Blue Red",
+    "outcome": "image_gap_retained",
+    "reason": "Primary image access remains blocked by a Cloudflare check in ordinary browser. New alternate searches followed exact EK 338, Porter/Chiat provenance, Sotheby 1988 lot 43, Christie 1993 lot 27, Mo MA travelling 1966–67 show, MCASD/Whitney 2003 and Paula Cooper 1999 exhibitions. No securely identified actual alternate image was recovered. Different Blue Red 1964/1966/1968 works and prints rejected.",
+    "reference_url": "https://emuseum.mfah.org/objects/60998/blue-red",
+    "reference_id": null,
+    "reviewed_date": "2026-10-28"
+  },
+  {
+    "id": "international-v4-fukuoka-blue-black-curve-iii",
+    "title": "Blue Black Curve III",
+    "outcome": "image_gap_retained",
+    "reason": "Reviewed and magnified actual 180×135 museumimage; support is visible but blue/black partition remains too dark/low resolution to trace responsibly. New exact English and Japanese title searches and Vasari index produce no stronger painting reference. Museum 2021 PDF was also checked in prior pass.",
+    "reference_url": "https://www.fukuoka-art-museum.jp/archives/modern_arts/2611",
+    "reference_id": "research/svg-gap-v6/museums/references/fukuoka-magnified-review.png",
+    "reviewed_date": "2026-10-28"
+  },
+  {
+    "id": "international-v4-vanabbe-black-curve-i",
+    "title": "Black Curve I",
+    "outcome": "scope_excluded_print_after_journal_photo_comparison",
+    "reason": "Recovered actual 2009 journal PDF through the museum’s publicly linked legacy host old-plone. PDFpages 5/6, printed 9/10, show these squared PAPER sheets with pencil edition/signature and broad margins; full illustrations visually compared to current inventories 1019/1018 photos. Current individual records explicitly identify pencil/lithograph on paper, acquired 1985. Historical interview’s schilderijen wording is contradicted by its own visible print illustrations. Exclusion now relies on actual visual identity plus current primary medium, not title/year alone. No painting SVG made. Detailed paired proof saved in vanabbe-scope-comparison.jpg.",
+    "reference_url": "https://vanabbemuseum.nl/en/collection-research/collection/black-curve-i",
+    "reference_id": "research/svg-gap-v6/museums/references/vanabbe-black-primary.html",
+    "reviewed_date": "2026-10-28"
+  },
+  {
+    "id": "international-v4-vanabbe-white-curve-i",
+    "title": "White Curve I",
+    "outcome": "scope_excluded_print_after_journal_photo_comparison",
+    "reason": "Recovered actual 2009 journal PDF through the museum’s publicly linked legacy host old-plone. PDFpages 5/6, printed 9/10, show these squared PAPER sheets with pencil edition/signature and broad margins; full illustrations visually compared to current inventories 1019/1018 photos. Current individual records explicitly identify pencil/lithograph on paper, acquired 1985. Historical interview’s schilderijen wording is contradicted by its own visible print illustrations. Exclusion now relies on actual visual identity plus current primary medium, not title/year alone. No painting SVG made. Detailed paired proof saved in vanabbe-scope-comparison.jpg.",
+    "reference_url": "https://vanabbemuseum.nl/en/collection-research/collection/white-curve-i",
+    "reference_id": "research/svg-gap-v6/museums/references/vanabbe-white-primary.html",
+    "reviewed_date": "2026-10-28"
+  },
+  {
+    "id": "international-v4-k20-concorde-iv",
+    "title": "Concorde IV",
+    "outcome": "image_gap_retained",
+    "reason": "Downloaded the explicitly linked full 3338×4000 primary lightbox image, not a guessed media variant. Top and right support edges remain outside the image. Checked Haus der Kunst 2011 gallery: five captioned views identify other works; none establishes this full outline. Same-title 1981–82 aquatints excluded.",
+    "reference_url": "https://sammlung.kunstsammlung.de/de/werke/68",
+    "reference_id": "research/svg-gap-v6/museums/references/k20-primary-full-linked.jpg",
+    "reviewed_date": "2026-10-28"
+  },
+  {
+    "id": "north-v4-cincinnati-5721",
+    "title": "Black Diamond with White",
+    "outcome": "image_gap_retained",
+    "reason": "Current museum record says Image Not Available. New exact-title, accession and PNC Bank donor searches found no reliable full photograph. Two joined canvas panels and 276.2×367 cm do not establish diamond/white relative geometry.",
+    "reference_url": "https://collection.cincinnatiartmuseum.org/objects/5721/black-diamond-with-white",
+    "reference_id": "research/svg-gap-v5/museums/references/north-v4-cincinnati-5721-0.html",
+    "reviewed_date": "2026-10-28"
+  },
+  {
+    "id": "museum-v2-mfah-12441",
+    "title": "Green Black",
+    "outcome": "image_gap_retained",
+    "reason": "Primary image blocked; indexed primary inscriptions identify EK 775 and green/black panels but do not establish their arrangement. Rechecked Am I Blue credits for printedpage 25: publicly available PDF only six excerpt/credit pages, without that illustration. Exact 1988/Blum Helman searches and image search yield different print or 1968 painting. No substitute used.",
+    "reference_url": "https://emuseum.mfah.org/objects/12441/green-black",
+    "reference_id": "research/north-american-v4/pages/mfah-amiblue.pdf",
+    "reviewed_date": "2026-10-28"
+  },
+  {
+    "id": "museum-v2-lenbach-documenta-a",
+    "title": "Blue Panel with Curve",
+    "outcome": "image_gap_retained",
+    "reason": "Primary collection group G 17734 a–d withholds image. Rechecked 2022 museum exhibition, prior 43 image inventory/contact, new Art Daily installation lead, documenta IXofficial archive and d’Offay 1992 exhibition route. Available views do not securely identify this named curved support; blue/red corner installation photographs lack component caption/curve proof and cannot be substituted. No title-only shape invented.",
+    "reference_url": "https://www.lenbachhaus.de/en/digital/collection-online/detail/the-documenta-room-a-blue-panel-with-curve-1991-b-red-panel-with-curve-1991-c-green-panel-with-curve-1992-d-white-panel-with-curve-1992-30014052",
+    "reference_id": "research/international-v4/lenbach-contact.jpg",
+    "reviewed_date": "2026-10-28"
+  },
+  {
+    "id": "museum-v2-lenbach-documenta-b",
+    "title": "Red Panel with Curve",
+    "outcome": "image_gap_retained",
+    "reason": "Primary collection group G 17734 a–d withholds image. Rechecked 2022 museum exhibition, prior 43 image inventory/contact, new Art Daily installation lead, documenta IXofficial archive and d’Offay 1992 exhibition route. Available views do not securely identify this named curved support; blue/red corner installation photographs lack component caption/curve proof and cannot be substituted. No title-only shape invented.",
+    "reference_url": "https://www.lenbachhaus.de/en/digital/collection-online/detail/the-documenta-room-a-blue-panel-with-curve-1991-b-red-panel-with-curve-1991-c-green-panel-with-curve-1992-d-white-panel-with-curve-1992-30014052",
+    "reference_id": "research/international-v4/lenbach-contact.jpg",
+    "reviewed_date": "2026-10-28"
+  },
+  {
+    "id": "museum-v2-lenbach-documenta-c",
+    "title": "Green Panel with Curve",
+    "outcome": "image_gap_retained",
+    "reason": "Primary collection group G 17734 a–d withholds image. Rechecked 2022 museum exhibition, prior 43 image inventory/contact, new Art Daily installation lead, documenta IXofficial archive and d’Offay 1992 exhibition route. Available views do not securely identify this named curved support; blue/red corner installation photographs lack component caption/curve proof and cannot be substituted. No title-only shape invented.",
+    "reference_url": "https://www.lenbachhaus.de/en/digital/collection-online/detail/the-documenta-room-a-blue-panel-with-curve-1991-b-red-panel-with-curve-1991-c-green-panel-with-curve-1992-d-white-panel-with-curve-1992-30014052",
+    "reference_id": "research/international-v4/lenbach-contact.jpg",
+    "reviewed_date": "2026-10-28"
+  },
+  {
+    "id": "museum-v2-lenbach-documenta-d",
+    "title": "White Panel with Curve",
+    "outcome": "image_gap_retained",
+    "reason": "Primary collection group G 17734 a–d withholds image. Rechecked 2022 museum exhibition, prior 43 image inventory/contact, new Art Daily installation lead, documenta IXofficial archive and d’Offay 1992 exhibition route. Available views do not securely identify this named curved support; blue/red corner installation photographs lack component caption/curve proof and cannot be substituted. No title-only shape invented.",
+    "reference_url": "https://www.lenbachhaus.de/en/digital/collection-online/detail/the-documenta-room-a-blue-panel-with-curve-1991-b-red-panel-with-curve-1991-c-green-panel-with-curve-1992-d-white-panel-with-curve-1992-30014052",
+    "reference_id": "research/international-v4/lenbach-contact.jpg",
+    "reviewed_date": "2026-10-28"
+  },
+  {
+    "id": "tate-26107",
+    "title": "Yellow Curve",
+    "outcome": "svg_created",
+    "reason": "Tate’s exact T 07403 collection page supplied the full official image, viewed and downloaded through its ordinary public image element. Three yellow edges are visible: nearly horizontal top, long sloping left and gently bowed right. The source photograph is slightly oblique. Current Tate details still report support 1357 × 3556 × 32 mm, in conflict with the tall observed support. No dimension swap, physical-size correction or identity with another Yellow Curve is inferred. Study keeps the observed support proportions and is excluded from true-scale plotting.",
+    "reference_url": "https://media.tate.org.uk/art/images/work/T/T07/T07403_10.jpg",
+    "reference_id": "research/svg-gap-v6/museums/references/tate-yellow-primary.jpg",
+    "reviewed_date": "2026-10-28"
+  },
+  {
+    "id": "north-v4-mfa-white-relief-over-white",
+    "title": "White Relief Over White",
+    "outcome": "image_gap_retained",
+    "reason": "New Lubin/title searches reconfirm 2014 promised gift of two joined panels, without accession, dimensions, image or completed gift confirmation. Marks 2012 same-title relief already has a study, but source identity is not established beyond title/year/panel count. No duplicated SVG or forced merge.",
+    "reference_url": "https://www.mfa.org/news/mr20-weekend",
+    "reference_id": "research/svg-gap-v5/museums/references/north-v4-mfa-white-relief-over-white-0.html",
+    "reviewed_date": "2026-10-28"
+  },
+  {
+    "id": "international-v4-flv-colored-panels",
+    "title": "Colored Panels (Red, Yellow, Blue, Green, Violet)",
+    "outcome": "svg_created",
+    "reason": "Partial installation study: five displayed panels of the museum’s stated six-panel work. The sixth panel is not specified or pictured and is not invented. This is the five panels’ observed perspective arrangement in the official auditorium photograph, with all architecture and empty wall transparent; it is not a canonical flat arrangement of the complete work. Individual panels are physically rectangular on different wall planes. Museum component dimensions are retained separately; no aggregate physical size is inferred. Violet is represented by the searchable purple color family. Excluded from true-scale plotting.",
+    "reference_url": "https://www.fondationlouisvuitton.fr/en/collection/artworks/colored-panels-red-yellow-blue-green-violet",
+    "reference_id": "research/svg-gap-v6/museums/references/flv-panel-view1.jpg",
+    "reviewed_date": "2026-10-28"
+  }
+]

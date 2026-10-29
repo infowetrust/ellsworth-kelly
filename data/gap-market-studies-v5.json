@@ -1,0 +1,594 @@
+{
+  "matthewmarks-two-yellows-1952-44150": {
+    "path": "assets/studies/v5-market-03-matthewmarks-two-yellows-1952-44150.svg",
+    "colors": [
+      "yellow"
+    ],
+    "shape_type": "square grid",
+    "reference_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-color-panels-for-a-large-wall-11-2018/lightbox/works/two-yellows-1952-44150",
+    "reference_id": "research/svg-gap-v5/market/ref-03.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. Twenty-five joined squares. Contrasting pale and deep yellows share the yellow recoloring family; placement traced from the actual gallery image.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": true
+  },
+  "guggenheim1996-cat-33": {
+    "path": "assets/studies/v5-market-13-guggenheim1996-cat-33.svg",
+    "colors": [
+      "red",
+      "orange"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://levygorvy.com/wp-content/uploads/Miami-Basel-Brochure-2017-lo-res.pdf#page=7",
+    "reference_id": "research/svg-gap-v5/market/sumac-caption.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. Independent 2017 Lévy Gorvy primary dealer brochure supplies complete Tom Powel photograph and matching 188 × 160 cm dimensions. Asymmetric orange-red X on crimson rectangular ground is clearly visible; this replaces the former unresolved faint 1996 reference.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": true
+  },
+  "guggenheim1996-cat-127": {
+    "path": "assets/studies/v5-market-05-guggenheim1996-cat-127.svg",
+    "colors": [
+      "white",
+      "yellow",
+      "black"
+    ],
+    "shape_type": "square",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=280",
+    "reference_id": "research/svg-gap-v5/market/ref-05.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. White paper margin remains part of support; yellow fill and narrow black lower band are visible. Pencil/brush texture omitted.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": true
+  },
+  "christies-6172963": {
+    "path": "assets/studies/v5-market-06-christies-6172963.svg",
+    "colors": [
+      "blue",
+      "orange"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.christies.com/en/lot/lot-6172963",
+    "reference_id": "research/svg-gap-v5/market/ref-06.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. Blue is painted ground; no transparency cut through the biomorphic orange figure. Silhouette hand traced from high-resolution Christie photograph.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": true
+  },
+  "sothebys-en-auctions-ecatalogue-2015-contemporary-evening-n09345-lot-10-html": {
+    "path": "assets/studies/v5-market-07-sothebys-en-auctions-ecatalogue-2015-contemporary-evening-n09345-lot-10-html.svg",
+    "colors": [
+      "yellow",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.sothebys.com/en/auctions/ecatalogue/2015/contemporary-evening-n09345/lot.10.html",
+    "reference_id": "research/svg-gap-v5/market/ref-07.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. White biomorphic figure independently hand traced from Sotheby photograph on yellow rectangular painted ground. Shape differs from Orange Blue despite related motif; all white regions remain artwork.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": true
+  },
+  "christies-5623231": {
+    "path": "assets/studies/v5-market-08-christies-5623231.svg",
+    "colors": [
+      "white",
+      "yellow"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.christies.com/en/lot/lot-5623231",
+    "reference_id": "research/svg-gap-v5/market/aloes2012-full.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. Five yellow angular/curved areas are visible, not a naturalistic aloe illustration. Exact signed title/date match the official sale caption. Both original2012and2026official photos show the same portrait sheet while the2012caption dimensions imply landscape; use observed paper ratio only and flag conflict. Pencil contours, signature and watercolour texture omitted.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": false,
+    "true_scale_note": "Normalized study only: physical size unknown or oblique installation reference cannot establish exact frontal proportions. Five yellow angular/curved areas are visible, not a naturalistic aloe illustration. Exact signed title/date match the official sale caption. Both original2012and2026official photos show the same portrait sheet while the2012caption dimensions imply landscape; use observed paper ratio only and flag conflict. Pencil contours, signature and watercolour texture omitted."
+  },
+  "sothebys-en-auctions-ecatalogue-2019-contemporary-art-day-n10070-lot-139-html": {
+    "path": "assets/studies/v5-market-09-sothebys-en-auctions-ecatalogue-2019-contemporary-art-day-n10070-lot-139-html.svg",
+    "colors": [
+      "white",
+      "black"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.sothebys.com/en/auctions/ecatalogue/2019/contemporary-art-day-n10070/lot.139.html",
+    "reference_id": "research/svg-gap-v5/market/ref-09.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. All black wedges are paint on a continuous white rectangular canvas, not missing support. External photograph margin omitted.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": true
+  },
+  "matthewmarks-47213": {
+    "path": "assets/studies/v5-market-11-matthewmarks-47213.svg",
+    "colors": [
+      "white",
+      "blue",
+      "green"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-blue-curve-09-2020/lightbox/works/47213",
+    "reference_id": "research/svg-gap-v5/market/ref-11.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. Two stacked biomorphic painted forms on paper. White/cream paper support retained; wavering brush edges simplified.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": true
+  },
+  "matthewmarks-untitled-1959-31172": {
+    "path": "assets/studies/v5-market-14-matthewmarks-untitled-1959-31172.svg",
+    "colors": [
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-drawings-1954-1962-02-2009/lightbox/works/untitled-1959-31172",
+    "reference_id": "research/svg-gap-v5/market/ref-14.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. Painted white cutout-like form is on cream paper; paper and form share white recolor family with distinct default shades. Pencil contour and aging omitted.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": true
+  },
+  "matthewmarks-white-bands-on-yellow-1959-31174": {
+    "path": "assets/studies/v5-market-15-matthewmarks-white-bands-on-yellow-1959-31174.svg",
+    "colors": [
+      "yellow",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-drawings-1954-1962-02-2009/lightbox/works/white-bands-on-yellow-1959-31174",
+    "reference_id": "research/svg-gap-v5/market/ref-15.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. Two white curving bands on yellow painted-paper ground. The left band forms a closed loop; the right opens beyond the top and right support edges.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": true
+  },
+  "guggenheim1996-essay-40-fig-37": {
+    "path": "assets/studies/v5-market-16-guggenheim1996-essay-40-fig-37.svg",
+    "colors": [
+      "white",
+      "green"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=40",
+    "reference_id": "research/svg-gap-v5/market/ref-16.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. Painted green stem and eight tapering blades observed in essayfigure37; white paper preserved. Thin pencil construction and brush texture omitted.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": true
+  },
+  "sothebys-en-buy-auction-2021-contemporary-art-day-auction-5-untitled-17": {
+    "path": "assets/studies/v5-market-18-sothebys-en-buy-auction-2021-contemporary-art-day-auction-5-untitled-17.svg",
+    "colors": [
+      "white",
+      "brown"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.sothebys.com/en/buy/auction/2021/contemporary-art-day-auction-5/untitled-17",
+    "reference_id": "research/svg-gap-v5/market/ref-18.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. Brown wash occupies a bent angular polygon on full paper sheet. Wash variation and pencil outline are simplified; corners traced from primary sale image.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": true
+  },
+  "christies-5315261": {
+    "path": "assets/studies/v5-market-19-christies-5315261.svg",
+    "colors": [
+      "white",
+      "yellow"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-2/",
+    "reference_id": "research/svg-gap-v5/market/alt-reference-19.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. Confirmed Foundation 1962 Tooth installation photo labels Yellow CurveEK293, above fireplace; corresponds to Christie exhibition provenance. Tall rounded yellow figure lies on white rectangular ground. Photographic skew removed approximately.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": true
+  },
+  "christies-5498495": {
+    "path": "assets/studies/v5-market-20-christies-5498495.svg",
+    "colors": [
+      "white",
+      "red",
+      "green",
+      "blue"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.christies.com/en/lot/lot-5498495",
+    "reference_id": "research/svg-gap-v5/market/ref-20.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. The primary image shows red rectangular painted ground, green vertical form and blue pointed oval on a small paper support. External margin retained only as paper, not mounting mat.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": true
+  },
+  "sothebys-en-buy-auction-2025-contemporary-day-auction-green-and-red": {
+    "path": "assets/studies/v5-market-21-sothebys-en-buy-auction-2025-contemporary-day-auction-green-and-red.svg",
+    "colors": [
+      "white",
+      "red",
+      "green"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.sothebys.com/en/buy/auction/2025/contemporary-day-auction/green-and-red",
+    "reference_id": "research/svg-gap-v5/market/ref-21.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. Green rounded canopy/stem-like painted figure on red field with white paper margin. Brushed texture omitted; all colors observed in Sotheby image.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": true
+  },
+  "christies-6369842": {
+    "path": "assets/studies/v5-market-22-christies-6369842.svg",
+    "colors": [
+      "white",
+      "green",
+      "red"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.christies.com/en/lot/lot-6369842",
+    "reference_id": "research/svg-gap-v5/market/ref-22.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. Red inner quadrilateral in rounded green field on white paper. Paint texture and signature omitted.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": true
+  },
+  "guggenheim1996-essay-58-fig-19": {
+    "path": "assets/studies/v5-market-23-guggenheim1996-essay-58-fig-19.svg",
+    "colors": [
+      "blue",
+      "green",
+      "yellow",
+      "orange",
+      "red"
+    ],
+    "shape_type": "installation perspective study",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=58",
+    "reference_id": "research/svg-gap-v5/market/ref-23.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. Only an oblique1996 catalogue photograph is available. Five colored joined panels and visible sequence are observed; perspective taper is not asserted to be actual support geometry. Excluded from physical-size view.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": false,
+    "true_scale_note": "Normalized study only: physical size unknown or oblique installation reference cannot establish exact frontal proportions. Only an oblique1996 catalogue photograph is available. Five colored joined panels and visible sequence are observed; perspective taper is not asserted to be actual support geometry. Excluded from physical-size view."
+  },
+  "phillips-73998": {
+    "path": "assets/studies/v5-market-24-phillips-73998.svg",
+    "colors": [
+      "black",
+      "green"
+    ],
+    "shape_type": "irregular polygon",
+    "reference_url": "https://www.phillips.com/detail/ellsworth-kelly/73998",
+    "reference_id": "research/svg-gap-v5/market/ref-24.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. Phillips explicitly states a single canvas with two painted color fields. Six-sided outline and angled green lower-right quadrilateral were inspected; wall outside outline transparent.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": true
+  },
+  "guggenheim1996-essay-56-fig-13": {
+    "path": "assets/studies/v5-market-25-guggenheim1996-essay-56-fig-13.svg",
+    "colors": [
+      "red",
+      "blue"
+    ],
+    "shape_type": "joined triangular panels",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=56",
+    "reference_id": "research/svg-gap-v5/market/ref-25.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. Red inverted triangle left and blue upright triangle right form a slanted quadrilateral, as primary printed figure13 shows. Mounting shadow omitted.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": true
+  },
+  "guggenheim1996-cat-52": {
+    "path": "assets/studies/v5-market-26-guggenheim1996-cat-52.svg",
+    "colors": [
+      "red",
+      "green"
+    ],
+    "shape_type": "joined quadrilaterals",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=168",
+    "reference_id": "research/svg-gap-v5/market/ref-26.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. Red upper-left panel joined to green lower-right panel, overall hanging diagonal. Artwork outline hand traced; surrounding gray is wall, not paint.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": true
+  },
+  "bonhams-29474-15a": {
+    "path": "assets/studies/v5-market-27-bonhams-29474-15a.svg",
+    "colors": [
+      "red",
+      "white"
+    ],
+    "shape_type": "joined triangular panels",
+    "reference_url": "https://images2.bonhams.com/original?src=Images%2Flive%2F2024-04%2F30%2FS-29474-0-3.pdf#page=71",
+    "reference_id": "research/svg-gap-v5/market/ref-27.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. Bonhams’s full 2024 PDF, page 71, provides complete frontal photograph. Broad red diagonal and white lower-right triangle form a right triangular overall support; gray wall and wooden floor removed.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": true
+  },
+  "sothebys-en-auctions-ecatalogue-2005-contemporary-art-evening-n08092-lot-46-html": {
+    "path": "assets/studies/v5-market-29-sothebys-en-auctions-ecatalogue-2005-contemporary-art-evening-n08092-lot-46-html.svg",
+    "colors": [
+      "white",
+      "black"
+    ],
+    "shape_type": "joined quadrilateral and triangle",
+    "reference_url": "https://www.sothebys.com/en/auctions/ecatalogue/2005/contemporary-art-evening-n08092/lot.46.html",
+    "reference_id": "research/svg-gap-v5/market/ref-29.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. White rotated rectangular panel joins black inverted triangle. Wall and shadows excluded; narrow photographed side edge not treated as a painted black border.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": true
+  },
+  "guggenheim1996-essay-37-fig-34b": {
+    "path": "assets/studies/v5-market-30-guggenheim1996-essay-37-fig-34b.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "joined quadrilateral and triangle",
+    "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+    "reference_id": "research/svg-gap-v5/market/alt-reference-30.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. The Foundation’s 1973 MoMA installation photograph explicitly labels EK501; matches the 1996 Guggenheim studio photograph. White inverted triangle joins rotated black rectangle. Dimensions unknown; observed proportions normalized.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": false,
+    "true_scale_note": "Normalized study only: physical size unknown or oblique installation reference cannot establish exact frontal proportions. The Foundation’s 1973 MoMA installation photograph explicitly labels EK501; matches the 1996 Guggenheim studio photograph. White inverted triangle joins rotated black rectangle. Dimensions unknown; observed proportions normalized."
+  },
+  "matthewmarks-color-panels-for-a-large-wall-ii-1978-43938": {
+    "path": "assets/studies/v5-market-32-matthewmarks-color-panels-for-a-large-wall-ii-1978-43938.svg",
+    "colors": [
+      "brown",
+      "black",
+      "purple",
+      "orange",
+      "green",
+      "yellow",
+      "blue",
+      "red"
+    ],
+    "shape_type": "separated rectangular panels",
+    "reference_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-color-panels-for-a-large-wall-11-2018/lightbox/works/color-panels-for-a-large-wall-ii-1978-43938",
+    "reference_id": "research/svg-gap-v5/market/ref-32.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. Gallery installation reference: two horizontal rows of nine colored panels. Relative gaps and reported overall installation dimensions approximate. Colors manually counted; precise pigments standardized.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": true
+  },
+  "guggenheim1996-essay-74-fig-3": {
+    "path": "assets/studies/v5-market-33-guggenheim1996-essay-74-fig-3.svg",
+    "colors": [
+      "blue"
+    ],
+    "shape_type": "curved diagonal panel",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=74",
+    "reference_id": "research/svg-gap-v5/market/ref-33.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. Guggenheim essayfigure3 provides a complete dark-blue diagonal support with curved upper-left edge and straight lower-right edge. Wall and display rail excluded.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": true
+  },
+  "guggenheim1996-essay-68-fig-2b": {
+    "path": "assets/studies/v5-market-35-guggenheim1996-essay-68-fig-2b.svg",
+    "colors": [
+      "black"
+    ],
+    "shape_type": "curved triangular panel",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=68",
+    "reference_id": "research/svg-gap-v5/market/ref-35.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. Second painting from left in the explicitly captioned 1982 studio photograph. Curved upper edge and downward apex observed. No dimensions reported; normalized approximate frontal study.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": false,
+    "true_scale_note": "Normalized study only: physical size unknown or oblique installation reference cannot establish exact frontal proportions. Second painting from left in the explicitly captioned 1982 studio photograph. Curved upper edge and downward apex observed. No dimensions reported; normalized approximate frontal study."
+  },
+  "guggenheim1996-essay-68-fig-2a": {
+    "path": "assets/studies/v5-market-36-guggenheim1996-essay-68-fig-2a.svg",
+    "colors": [
+      "blue"
+    ],
+    "shape_type": "curved triangular panel",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=68",
+    "reference_id": "research/svg-gap-v5/market/ref-36.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. First painting from left in the explicitly captioned 1982 studio photograph. Primary blue-violet is mapped to the blue recolor family with a violet-blue default shade, so the work appears among blue paintings. Exact pigment is unmeasured. Dimensions unknown.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": false,
+    "true_scale_note": "Normalized study only: physical size unknown or oblique installation reference cannot establish exact frontal proportions. First painting from left in the explicitly captioned 1982 studio photograph. Primary blue-violet is mapped to the blue recolor family with a violet-blue default shade, so the work appears among blue paintings. Exact pigment is unmeasured. Dimensions unknown."
+  },
+  "guggenheim1996-essay-68-fig-2c": {
+    "path": "assets/studies/v5-market-37-guggenheim1996-essay-68-fig-2c.svg",
+    "colors": [
+      "orange"
+    ],
+    "shape_type": "curved triangular panel",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=68",
+    "reference_id": "research/svg-gap-v5/market/ref-37.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. Third painting from left in the explicitly captioned 1982 studio photograph. Broad curved top and downward apex. No dimensions reported; normalized approximate study.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": false,
+    "true_scale_note": "Normalized study only: physical size unknown or oblique installation reference cannot establish exact frontal proportions. Third painting from left in the explicitly captioned 1982 studio photograph. Broad curved top and downward apex. No dimensions reported; normalized approximate study."
+  },
+  "christies-2056202": {
+    "path": "assets/studies/v5-market-40-christies-2056202.svg",
+    "colors": [
+      "black"
+    ],
+    "shape_type": "triangle",
+    "reference_url": "https://www.christies.com/en/lot/lot-2056202",
+    "reference_id": "research/svg-gap-v5/market/ref-40.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. Christie’s official photograph recovered through the .com.cn image host; black scalene triangular canvas, EK741. Photo wall and mounting shadow omitted.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": true
+  },
+  "matthewmarks-8332-1": {
+    "path": "assets/studies/v5-market-42-matthewmarks-8332-1.svg",
+    "colors": [
+      "gray"
+    ],
+    "shape_type": "separated curved panels",
+    "reference_url": "https://matthewmarks.com/artists/ellsworth-kelly/lightbox/works/8332-1",
+    "reference_id": "research/svg-gap-v5/market/ref-42.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. Three distinct gray panels across an installation, with different tones sharing editable gray family. Gallery photograph is oblique: relative geometry and spacing approximate. Kept out of physical-size comparison.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": false,
+    "true_scale_note": "Normalized study only: physical size unknown or oblique installation reference cannot establish exact frontal proportions. Three distinct gray panels across an installation, with different tones sharing editable gray family. Gallery photograph is oblique: relative geometry and spacing approximate. Kept out of physical-size comparison."
+  },
+  "matthewmarks-blue-panel-1996-3729": {
+    "path": "assets/studies/v5-market-43-matthewmarks-blue-panel-1996-3729.svg",
+    "colors": [
+      "blue"
+    ],
+    "shape_type": "quadrilateral",
+    "reference_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-an-installation-seven-new-paintings-10-1996/lightbox/works/blue-panel-1996-3729",
+    "reference_id": "research/svg-gap-v5/market/ref-43.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. Complete blue quadrilateral in gallery reference. Public caption has contradictory dimensions (55×52in versus140×142cm), so normalized observed ratio only; source dimension fields remain unknown.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": false,
+    "true_scale_note": "Normalized study only: physical size unknown or oblique installation reference cannot establish exact frontal proportions. Complete blue quadrilateral in gallery reference. Public caption has contradictory dimensions (55×52in versus140×142cm), so normalized observed ratio only; source dimension fields remain unknown."
+  },
+  "matthewmarks-25976": {
+    "path": "assets/studies/v5-market-45-matthewmarks-25976.svg",
+    "colors": [
+      "green",
+      "orange",
+      "yellow"
+    ],
+    "shape_type": "joined rectangles",
+    "reference_url": "https://matthewmarks.com/artists/ellsworth-kelly/lightbox/works/25976",
+    "reference_id": "research/svg-gap-v5/market/ref-45.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. Three horizontal joined canvases: narrow green top, large orange middle, yellow lower band. Proportions visually observed; reported overall 219 × 167 cm retained.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": true
+  },
+  "matthewmarks-white-curve-in-relief-over-white-belle-ile-2013-39467": {
+    "path": "assets/studies/v5-market-46-matthewmarks-white-curve-in-relief-over-white-belle-ile-2013-39467.svg",
+    "colors": [
+      "white"
+    ],
+    "shape_type": "joined curved triangle",
+    "reference_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-05-2015/lightbox/works/white-curve-in-relief-over-white-belle-île-2013-39467",
+    "reference_id": "research/svg-gap-v5/market/ref-46.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. Complete gallery silo shows a pale triangular backing with a curving white raised panel. Two white shades distinguish panels while sharing recolor family. No exact dimensions: normalized only; external shadow omitted.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": false,
+    "true_scale_note": "Normalized study only: physical size unknown or oblique installation reference cannot establish exact frontal proportions. Complete gallery silo shows a pale triangular backing with a curving white raised panel. Two white shades distinguish panels while sharing recolor family. No exact dimensions: normalized only; external shadow omitted."
+  },
+  "freeman:PF0405": {
+    "path": "assets/studies/v5-market-48-freeman-pf0405.svg",
+    "colors": [
+      "yellow",
+      "blue",
+      "red"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.peterfreemaninc.com/exhibitions/ellsworth-kelly/selected-works?view=multiple-sliders",
+    "reference_id": "research/svg-gap-v5/market/freeman-red-blue-yellow.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. Primary Peter Freeman 2005 PF0405 photograph: small yellow rectangular canvas, one upright blue bar and one upright red bar with rounded ends. Distinct20.3×25.4cm painting; mounting shadow omitted.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": true
+  },
+  "freeman:PF0900": {
+    "path": "assets/studies/v5-market-49-freeman-pf0900.svg",
+    "colors": [
+      "red",
+      "green",
+      "blue"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.peterfreemaninc.com/exhibitions/ellsworth-kelly/selected-works?view=multiple-sliders",
+    "reference_id": "research/svg-gap-v5/market/freeman-blue-green-red.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. Primary Peter Freeman 2005 PF0900 caption explicitly gives EK303,12×16inches. Small red-ground painting with two rounded vertical green/blue bars; distinct from the large Met 1963 work. Brush texture omitted.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": true
+  },
+  "freeman:PF0898": {
+    "path": "assets/studies/v5-market-50-freeman-pf0898.svg",
+    "colors": [
+      "orange"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.peterfreemaninc.com/exhibitions/ellsworth-kelly/selected-works?view=multiple-sliders",
+    "reference_id": "research/svg-gap-v5/market/freeman-sumac-study.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; same-family shades retained where composition depends on them",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; paint texture, photographic perspective and external framing omitted. Primary Peter Freeman 2005 PF0898 photograph: orange-on-orange asymmetricX, with two distinct default shades in one editable orange family. The small 24 × 20 inch Sumac Study is distinct from the 188 × 160 cm Sumac; physical aspect follows actualcaption.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": true
+  }
+}

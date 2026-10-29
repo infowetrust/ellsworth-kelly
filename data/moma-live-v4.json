@@ -1,0 +1,147 @@
+[
+  {
+    "source_id": "moma-live-v4:79145",
+    "source_record_id": "79145",
+    "title": "Meschers",
+    "year_start": 1951,
+    "year_end": 1951,
+    "date_display": "1951",
+    "medium": "Oil on canvas",
+    "height_cm": 149.9,
+    "width_cm": 149.9,
+    "dimensions_display": "149.9×149.9cm",
+    "collection": "Museum of Modern Art, New York (promised gift)",
+    "collection_status": "promised_gift",
+    "credit_line": "Promised gift of Jo Carole and Ronald S. Lauder",
+    "accession": "PG207.1999",
+    "source_url": "https://www.moma.org/collection/works/79145",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "notes": [
+      "Promised gift of Jo Carole and Ronald S. Lauder. Promised gift is not an assertion of completed accession or transfer. Object appears in338-work live public artist inventory but is absent from the2207-row exactartist open dataset."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/collection/works/79145",
+        "label": "MoMA current public object page",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "moma-live-v4:169712",
+    "source_record_id": "169712",
+    "title": "Fête à Torcy",
+    "year_start": 1952,
+    "year_end": 1952,
+    "date_display": "1952",
+    "medium": "Oil on canvas and wood",
+    "height_cm": 115.6,
+    "width_cm": 96.5,
+    "dimensions_display": "115.6×96.5cm",
+    "collection": "Museum of Modern Art, New York (promised gift)",
+    "collection_status": "promised_gift",
+    "credit_line": "Promised gift of Marie-Josée and Henry R. Kravis",
+    "accession": "PG541.2013",
+    "source_url": "https://www.moma.org/collection/works/169712",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "notes": [
+      "Promised gift of Marie-Josée and Henry R. Kravis. Promised gift is not an assertion of completed accession or transfer. Object appears in338-work live public artist inventory but is absent from the2207-row exactartist open dataset."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/collection/works/169712",
+        "label": "MoMA current public object page",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "moma-live-v4:169713",
+    "source_record_id": "169713",
+    "title": "Two Blacks, White and Blue",
+    "year_start": 1955,
+    "year_end": 1955,
+    "date_display": "1955",
+    "medium": "Oil on canvas",
+    "height_cm": 233.7,
+    "width_cm": 61,
+    "dimensions_display": "233.7×61cm",
+    "collection": "Museum of Modern Art, New York (promised gift)",
+    "collection_status": "promised_gift",
+    "credit_line": "Promised gift of Eva and Glenn Dubin",
+    "accession": "PG542.2013",
+    "source_url": "https://www.moma.org/collection/works/169713",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "notes": [
+      "Promised gift of Eva and Glenn Dubin. Promised gift is not an assertion of completed accession or transfer. Object appears in338-work live public artist inventory but is absent from the2207-row exactartist open dataset."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/collection/works/169713",
+        "label": "MoMA current public object page",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "moma-live-v4:169949",
+    "source_record_id": "169949",
+    "title": "Orange Green",
+    "year_start": 1964,
+    "year_end": 1964,
+    "date_display": "1964",
+    "medium": "Oil on canvas",
+    "height_cm": 170.2,
+    "width_cm": 127,
+    "dimensions_display": "170.2×127cm",
+    "collection": "Museum of Modern Art, New York (promised gift)",
+    "collection_status": "promised_gift",
+    "credit_line": "Promised gift of Agnes Gund in honor of Jack Shear",
+    "accession": "PG543.2013",
+    "source_url": "https://www.moma.org/collection/works/169949",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "notes": [
+      "Promised gift of Agnes Gund in honor of Jack Shear. Promised gift is not an assertion of completed accession or transfer. Object appears in338-work live public artist inventory but is absent from the2207-row exactartist open dataset."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/collection/works/169949",
+        "label": "MoMA current public object page",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "moma-live-v4:216552",
+    "source_record_id": "216552",
+    "title": "Gold with Orange Reliefs",
+    "year_start": 2013,
+    "year_end": 2013,
+    "date_display": "2013",
+    "medium": "Oil on canvas and wood, three panels",
+    "height_cm": 201,
+    "width_cm": 185,
+    "dimensions_display": "201×185cm",
+    "collection": "Museum of Modern Art, New York (promised gift)",
+    "collection_status": "promised_gift",
+    "credit_line": "Promised gift of Jo Carole and Ronald S. Lauder",
+    "accession": "PG1341.2016",
+    "source_url": "https://www.moma.org/collection/works/216552",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "notes": [
+      "Promised gift of Jo Carole and Ronald S. Lauder. Promised gift is not an assertion of completed accession or transfer. Object appears in338-work live public artist inventory but is absent from the2207-row exactartist open dataset."
+    ],
+    "sources": [
+      {
+        "url": "https://www.moma.org/collection/works/216552",
+        "label": "MoMA current public object page",
+        "accessed": "2026-10-27"
+      }
+    ]
+  }
+]

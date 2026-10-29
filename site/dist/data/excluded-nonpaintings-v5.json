@@ -1,0 +1,2195 @@
+[
+  {
+    "id": "foundation-exhib-v4-ek694-blue-green-black-red",
+    "canonical_id": "EK 694",
+    "title": "Untitled",
+    "year_start": null,
+    "year_end": null,
+    "date_display": null,
+    "medium": null,
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": null,
+    "collection": null,
+    "sources": [
+      {
+        "url": "https://ellsworthkelly.org/exhibition/blue-green-black-red/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 694"
+      },
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-at-100/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 694"
+      },
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-shapes-and-colors-1949-2015/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 694"
+      }
+    ],
+    "notes": [
+      "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+      "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+      "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+    ],
+    "record_status": "named_candidate",
+    "record_kind": "painting_candidate",
+    "source_records": [
+      {
+        "source_id": "foundation-exhib-v4:EK694:blue-green-black-red",
+        "source_record_id": "EK 694",
+        "ek_id": "EK 694",
+        "title": "Untitled",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/blue-green-black-red/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/blue-green-black-red/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 694"
+          }
+        ],
+        "notes": [
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": []
+      },
+      {
+        "source_id": "foundation-exhib-v4:EK694:ellsworth-kelly-at-100",
+        "source_record_id": "EK 694",
+        "ek_id": "EK 694",
+        "title": "Untitled",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-at-100/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-at-100/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 694"
+          }
+        ],
+        "notes": [
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": []
+      },
+      {
+        "source_id": "foundation-exhib-v4:EK694:ellsworth-kelly-shapes-and-colors-1949-2015",
+        "source_record_id": "EK 694",
+        "ek_id": "EK 694",
+        "title": "Untitled",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-shapes-and-colors-1949-2015/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-shapes-and-colors-1949-2015/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 694"
+          }
+        ],
+        "notes": [
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": []
+      }
+    ],
+    "source_image_url": null,
+    "title_aliases": [],
+    "exclusion_evidence": [
+      {
+        "record_id": "foundation-exhib-v4-ek694-blue-green-black-red",
+        "canonical_id": "EK 694",
+        "primary_medium": "Weathering Steel",
+        "primary_url": "https://ellsworthkelly.org/work/untitled-6/",
+        "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+        "index_url": "https://ellsworthkelly.org/work/",
+        "source_ids": [
+          "foundation-exhib-v4:EK694:blue-green-black-red",
+          "foundation-exhib-v4:EK694:ellsworth-kelly-at-100",
+          "foundation-exhib-v4:EK694:ellsworth-kelly-shapes-and-colors-1949-2015"
+        ],
+        "primary_fields": [
+          "1983",
+          "",
+          "Weathering Steel",
+          "99 1/8 x 83 7/8 x 3/8 inches",
+          "EK 694"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "foundation-exhib-v4-ek806-blue-green-black-red",
+    "canonical_id": "EK 806",
+    "title": "Blue Green Black Red",
+    "year_start": null,
+    "year_end": null,
+    "date_display": null,
+    "medium": null,
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": null,
+    "collection": null,
+    "sources": [
+      {
+        "url": "https://ellsworthkelly.org/exhibition/blue-green-black-red/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 806"
+      }
+    ],
+    "notes": [
+      "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+    ],
+    "record_status": "named_candidate",
+    "record_kind": "painting_candidate",
+    "source_records": [
+      {
+        "source_id": "foundation-exhib-v4:EK806:blue-green-black-red",
+        "source_record_id": "EK 806",
+        "ek_id": "EK 806",
+        "title": "Blue Green Black Red",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/blue-green-black-red/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/blue-green-black-red/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 806"
+          }
+        ],
+        "notes": [
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": []
+      }
+    ],
+    "source_image_url": null,
+    "title_aliases": [],
+    "exclusion_evidence": [
+      {
+        "record_id": "foundation-exhib-v4-ek806-blue-green-black-red",
+        "canonical_id": "EK 806",
+        "primary_medium": "painted aluminum",
+        "primary_url": "https://ellsworthkelly.org/work/blue-green-black-red/",
+        "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+        "index_url": "https://ellsworthkelly.org/work/",
+        "source_ids": [
+          "foundation-exhib-v4:EK806:blue-green-black-red"
+        ],
+        "primary_fields": [
+          "1989",
+          "",
+          "painted aluminum",
+          "120 x 110 3/4 x 2 1/2 inches",
+          "EK 806"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "foundation-exhib-v4-ek228-ellsworth-kelly-3",
+    "canonical_id": "EK 228",
+    "title": "Gate",
+    "year_start": null,
+    "year_end": null,
+    "date_display": null,
+    "medium": null,
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": null,
+    "collection": null,
+    "sources": [
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-3/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 228"
+      },
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 228"
+      },
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-at-100/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 228"
+      },
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 228"
+      },
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-shapes-and-colors-1949-2015/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 228"
+      }
+    ],
+    "notes": [
+      "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+      "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+      "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+      "Historical Sculpture exhibition includes painted wood reliefs as well as sculpture. Caption alone cannot distinguish; retained provisional candidate with null medium.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+      "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+    ],
+    "record_status": "named_candidate",
+    "record_kind": "painting_candidate",
+    "source_records": [
+      {
+        "source_id": "foundation-exhib-v4:EK228:ellsworth-kelly-3",
+        "source_record_id": "EK 228",
+        "ek_id": "EK 228",
+        "title": "Gate",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-3/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-3/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 228"
+          }
+        ],
+        "notes": [
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+          "Historical Sculpture exhibition includes painted wood reliefs as well as sculpture. Caption alone cannot distinguish; retained provisional candidate with null medium.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": [
+          "https://ellsworthkelly.org/wp-content/uploads/2017/12/1966-DAP-66.7-Ferus-300x224.jpg"
+        ]
+      },
+      {
+        "source_id": "foundation-exhib-v4:EK228:ellsworth-kelly-a-retrospective",
+        "source_record_id": "EK 228",
+        "ek_id": "EK 228",
+        "title": "Gate",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 228"
+          }
+        ],
+        "notes": [
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": [
+          "https://ellsworthkelly.org/wp-content/uploads/2017/12/1996-DAP-96.4-D-Heald-300x232.jpg",
+          "https://ellsworthkelly.org/wp-content/uploads/2017/12/1996-DAP-96.13-D-Heald-300x237.jpg"
+        ]
+      },
+      {
+        "source_id": "foundation-exhib-v4:EK228:ellsworth-kelly-at-100",
+        "source_record_id": "EK 228",
+        "ek_id": "EK 228",
+        "title": "Gate",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-at-100/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-at-100/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 228"
+          }
+        ],
+        "notes": [
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": []
+      },
+      {
+        "source_id": "foundation-exhib-v4:EK228:ellsworth-kelly-sculpture",
+        "source_record_id": "EK 228",
+        "ek_id": "EK 228",
+        "title": "Gate",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 228"
+          }
+        ],
+        "notes": [
+          "Historical Sculpture exhibition includes painted wood reliefs as well as sculpture. Caption alone cannot distinguish; retained provisional candidate with null medium.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": []
+      },
+      {
+        "source_id": "foundation-exhib-v4:EK228:ellsworth-kelly-shapes-and-colors-1949-2015",
+        "source_record_id": "EK 228",
+        "ek_id": "EK 228",
+        "title": "Gate",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-shapes-and-colors-1949-2015/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-shapes-and-colors-1949-2015/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 228"
+          }
+        ],
+        "notes": [
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": []
+      }
+    ],
+    "source_image_url": null,
+    "title_aliases": [],
+    "exclusion_evidence": [
+      {
+        "record_id": "foundation-exhib-v4-ek228-ellsworth-kelly-3",
+        "canonical_id": "EK 228",
+        "primary_medium": "painted aluminum",
+        "primary_url": "https://ellsworthkelly.org/work/gate/",
+        "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+        "index_url": "https://ellsworthkelly.org/work/",
+        "source_ids": [
+          "foundation-exhib-v4:EK228:ellsworth-kelly-3",
+          "foundation-exhib-v4:EK228:ellsworth-kelly-a-retrospective",
+          "foundation-exhib-v4:EK228:ellsworth-kelly-at-100",
+          "foundation-exhib-v4:EK228:ellsworth-kelly-sculpture",
+          "foundation-exhib-v4:EK228:ellsworth-kelly-shapes-and-colors-1949-2015"
+        ],
+        "primary_fields": [
+          "1959",
+          "1959",
+          "painted aluminum",
+          "67 x 63 x 17 inches",
+          "EK 228"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "foundation-exhib-v4-ek321-ellsworth-kelly-4",
+    "canonical_id": "EK 321",
+    "title": "Blue Red Rocker",
+    "year_start": null,
+    "year_end": null,
+    "date_display": null,
+    "medium": null,
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": null,
+    "collection": null,
+    "sources": [
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 321"
+      },
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-and-sculptures-1963-1979/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 321"
+      },
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 321"
+      }
+    ],
+    "notes": [
+      "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+      "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+      "Historical Sculpture exhibition includes painted wood reliefs as well as sculpture. Caption alone cannot distinguish; retained provisional candidate with null medium.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+    ],
+    "record_status": "named_candidate",
+    "record_kind": "painting_candidate",
+    "source_records": [
+      {
+        "source_id": "foundation-exhib-v4:EK321:ellsworth-kelly-4",
+        "source_record_id": "EK 321",
+        "ek_id": "EK 321",
+        "title": "Blue Red Rocker",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 321"
+          }
+        ],
+        "notes": [
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+          "Historical Sculpture exhibition includes painted wood reliefs as well as sculpture. Caption alone cannot distinguish; retained provisional candidate with null medium.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": [
+          "https://ellsworthkelly.org/wp-content/uploads/2017/12/1973-DAP-73.18-R-Mates_P-Katz-300x194.jpg",
+          "https://ellsworthkelly.org/wp-content/uploads/2017/12/1973-DAP-73.26-J-Mitchell-300x202.jpg",
+          "https://ellsworthkelly.org/wp-content/uploads/2017/12/1973-DAP-73.55-J-Mitchell-300x201.jpg",
+          "https://ellsworthkelly.org/wp-content/uploads/2017/12/1973-DAP-73.56-Jack-Mitchell-300x201.jpg",
+          "https://ellsworthkelly.org/wp-content/uploads/2018/01/1973-EK-DAP-73.36-eks-300x203.jpg",
+          "https://ellsworthkelly.org/wp-content/uploads/2018/01/1973-EK-DAP-73.68-eks-300x204.jpg"
+        ]
+      },
+      {
+        "source_id": "foundation-exhib-v4:EK321:ellsworth-kelly-paintings-and-sculptures-1963-1979",
+        "source_record_id": "EK 321",
+        "ek_id": "EK 321",
+        "title": "Blue Red Rocker",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-and-sculptures-1963-1979/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-and-sculptures-1963-1979/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 321"
+          }
+        ],
+        "notes": [
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": []
+      },
+      {
+        "source_id": "foundation-exhib-v4:EK321:ellsworth-kelly-sculpture",
+        "source_record_id": "EK 321",
+        "ek_id": "EK 321",
+        "title": "Blue Red Rocker",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 321"
+          }
+        ],
+        "notes": [
+          "Historical Sculpture exhibition includes painted wood reliefs as well as sculpture. Caption alone cannot distinguish; retained provisional candidate with null medium.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": []
+      }
+    ],
+    "source_image_url": null,
+    "title_aliases": [],
+    "exclusion_evidence": [
+      {
+        "record_id": "foundation-exhib-v4-ek321-ellsworth-kelly-4",
+        "canonical_id": "EK 321",
+        "primary_medium": "painted aluminum",
+        "primary_url": "https://ellsworthkelly.org/work/blue-red-rocker/",
+        "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+        "index_url": "https://ellsworthkelly.org/work/",
+        "source_ids": [
+          "foundation-exhib-v4:EK321:ellsworth-kelly-4",
+          "foundation-exhib-v4:EK321:ellsworth-kelly-paintings-and-sculptures-1963-1979",
+          "foundation-exhib-v4:EK321:ellsworth-kelly-sculpture"
+        ],
+        "primary_fields": [
+          "1963",
+          "1963",
+          "painted aluminum",
+          "72 x 66 1/2 x 37 1/2 inches",
+          "EK 321"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "foundation-exhib-v4-ek506-ellsworth-kelly-4",
+    "canonical_id": "EK 506",
+    "title": "Curve I",
+    "year_start": null,
+    "year_end": null,
+    "date_display": null,
+    "medium": null,
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": null,
+    "collection": null,
+    "sources": [
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 506"
+      },
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-5/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 506"
+      },
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 506"
+      }
+    ],
+    "notes": [
+      "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+      "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+      "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+    ],
+    "record_status": "named_candidate",
+    "record_kind": "painting_candidate",
+    "source_records": [
+      {
+        "source_id": "foundation-exhib-v4:EK506:ellsworth-kelly-4",
+        "source_record_id": "EK 506",
+        "ek_id": "EK 506",
+        "title": "Curve I",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 506"
+          }
+        ],
+        "notes": [
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": [
+          "https://ellsworthkelly.org/wp-content/uploads/2017/12/1973-DAP-73.22-R-Mates_P-Katz-300x220.jpg"
+        ]
+      },
+      {
+        "source_id": "foundation-exhib-v4:EK506:ellsworth-kelly-5",
+        "source_record_id": "EK 506",
+        "ek_id": "EK 506",
+        "title": "Curve I",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-5/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-5/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 506"
+          }
+        ],
+        "notes": [
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": []
+      },
+      {
+        "source_id": "foundation-exhib-v4:EK506:ellsworth-kelly-a-retrospective",
+        "source_record_id": "EK 506",
+        "ek_id": "EK 506",
+        "title": "Curve I",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 506"
+          }
+        ],
+        "notes": [
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": []
+      }
+    ],
+    "source_image_url": null,
+    "title_aliases": [],
+    "exclusion_evidence": [
+      {
+        "record_id": "foundation-exhib-v4-ek506-ellsworth-kelly-4",
+        "canonical_id": "EK 506",
+        "primary_medium": "weathering steel",
+        "primary_url": "https://ellsworthkelly.org/work/curve-i/",
+        "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+        "index_url": "https://ellsworthkelly.org/work/",
+        "source_ids": [
+          "foundation-exhib-v4:EK506:ellsworth-kelly-4",
+          "foundation-exhib-v4:EK506:ellsworth-kelly-5",
+          "foundation-exhib-v4:EK506:ellsworth-kelly-a-retrospective"
+        ],
+        "primary_fields": [
+          "1973",
+          "1973",
+          "weathering steel",
+          "1 x 144 x 118 1/4 inches",
+          "EK 506"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "foundation-exhib-v4-ek323-ellsworth-kelly-4",
+    "canonical_id": "EK 323",
+    "title": "Blue Disk",
+    "year_start": null,
+    "year_end": null,
+    "date_display": null,
+    "medium": null,
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": null,
+    "collection": null,
+    "sources": [
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 323"
+      }
+    ],
+    "notes": [
+      "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+    ],
+    "record_status": "named_candidate",
+    "record_kind": "painting_candidate",
+    "source_records": [
+      {
+        "source_id": "foundation-exhib-v4:EK323:ellsworth-kelly-4",
+        "source_record_id": "EK 323",
+        "ek_id": "EK 323",
+        "title": "Blue Disk",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 323"
+          }
+        ],
+        "notes": [
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": [
+          "https://ellsworthkelly.org/wp-content/uploads/2018/01/1973-EK-DAP-73.64-eks-300x204.jpg",
+          "https://ellsworthkelly.org/wp-content/uploads/2018/01/1973-EK-DAP-73.73-eks-300x203.jpg"
+        ]
+      }
+    ],
+    "source_image_url": null,
+    "title_aliases": [],
+    "exclusion_evidence": [
+      {
+        "record_id": "foundation-exhib-v4-ek323-ellsworth-kelly-4",
+        "canonical_id": "EK 323",
+        "primary_medium": "Painted aluminum",
+        "primary_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=83",
+        "reason": "The primary MoMA 1973 catalogue caption on PDF83 explicitly identifies Blue Disk 1963 as painted aluminum,70in×6ft. The Foundation-captioned 1973 installation labels the same freestanding blue disk EK323. This is a metal sculpture, outside the canvas, wood and painted-relief scope.",
+        "source_ids": [
+          "foundation-exhib-v4:EK323:ellsworth-kelly-4"
+        ],
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-65.jpg",
+        "evidence_file": "research/svg-gap-v5/foundation/moma-pages/page-83.png"
+      }
+    ]
+  },
+  {
+    "id": "foundation-exhib-v4-ek322-ellsworth-kelly-5",
+    "canonical_id": "EK 322",
+    "title": "White Ring",
+    "year_start": null,
+    "year_end": null,
+    "date_display": null,
+    "medium": null,
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": null,
+    "collection": null,
+    "sources": [
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-5/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 322"
+      },
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 322"
+      }
+    ],
+    "notes": [
+      "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+      "Historical Sculpture exhibition includes painted wood reliefs as well as sculpture. Caption alone cannot distinguish; retained provisional candidate with null medium.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+    ],
+    "record_status": "named_candidate",
+    "record_kind": "painting_candidate",
+    "source_records": [
+      {
+        "source_id": "foundation-exhib-v4:EK322:ellsworth-kelly-5",
+        "source_record_id": "EK 322",
+        "ek_id": "EK 322",
+        "title": "White Ring",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-5/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-5/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 322"
+          }
+        ],
+        "notes": [
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+          "Historical Sculpture exhibition includes painted wood reliefs as well as sculpture. Caption alone cannot distinguish; retained provisional candidate with null medium.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": []
+      },
+      {
+        "source_id": "foundation-exhib-v4:EK322:ellsworth-kelly-sculpture",
+        "source_record_id": "EK 322",
+        "ek_id": "EK 322",
+        "title": "White Ring",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 322"
+          }
+        ],
+        "notes": [
+          "Historical Sculpture exhibition includes painted wood reliefs as well as sculpture. Caption alone cannot distinguish; retained provisional candidate with null medium.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": []
+      }
+    ],
+    "source_image_url": null,
+    "title_aliases": [],
+    "exclusion_evidence": [
+      {
+        "record_id": "foundation-exhib-v4-ek322-ellsworth-kelly-5",
+        "canonical_id": "EK 322",
+        "primary_medium": "painted aluminum",
+        "primary_url": "https://ellsworthkelly.org/work/white-ring/",
+        "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+        "index_url": "https://ellsworthkelly.org/work/",
+        "source_ids": [
+          "foundation-exhib-v4:EK322:ellsworth-kelly-5",
+          "foundation-exhib-v4:EK322:ellsworth-kelly-sculpture"
+        ],
+        "primary_fields": [
+          "1963",
+          "1963",
+          "painted aluminum",
+          "70 x 72 x  1/4 inches",
+          "EK 322"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "foundation-exhib-v4-ek416-ellsworth-kelly-5",
+    "canonical_id": "EK 416",
+    "title": "Yellow Blue",
+    "year_start": null,
+    "year_end": null,
+    "date_display": null,
+    "medium": null,
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": null,
+    "collection": null,
+    "sources": [
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-5/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 416"
+      }
+    ],
+    "notes": [
+      "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+    ],
+    "record_status": "named_candidate",
+    "record_kind": "painting_candidate",
+    "source_records": [
+      {
+        "source_id": "foundation-exhib-v4:EK416:ellsworth-kelly-5",
+        "source_record_id": "EK 416",
+        "ek_id": "EK 416",
+        "title": "Yellow Blue",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-5/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-5/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 416"
+          }
+        ],
+        "notes": [
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": []
+      }
+    ],
+    "source_image_url": null,
+    "title_aliases": [],
+    "exclusion_evidence": [
+      {
+        "record_id": "foundation-exhib-v4-ek416-ellsworth-kelly-5",
+        "canonical_id": "EK 416",
+        "primary_medium": "painted steel",
+        "primary_url": "https://ellsworthkelly.org/work/yellow-blue/",
+        "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+        "index_url": "https://ellsworthkelly.org/work/",
+        "source_ids": [
+          "foundation-exhib-v4:EK416:ellsworth-kelly-5"
+        ],
+        "primary_fields": [
+          "1968",
+          "",
+          "painted steel",
+          "111 x 190 x 109",
+          "EK 416"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "foundation-exhib-v4-ek527-ellsworth-kelly-5",
+    "canonical_id": "EK 527",
+    "title": "Curve XII",
+    "year_start": null,
+    "year_end": null,
+    "date_display": null,
+    "medium": null,
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": null,
+    "collection": null,
+    "sources": [
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-5/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 527"
+      },
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-and-sculptures-1963-1979/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 527"
+      },
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 527"
+      }
+    ],
+    "notes": [
+      "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+      "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+      "Historical Sculpture exhibition includes painted wood reliefs as well as sculpture. Caption alone cannot distinguish; retained provisional candidate with null medium.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+    ],
+    "record_status": "named_candidate",
+    "record_kind": "painting_candidate",
+    "source_records": [
+      {
+        "source_id": "foundation-exhib-v4:EK527:ellsworth-kelly-5",
+        "source_record_id": "EK 527",
+        "ek_id": "EK 527",
+        "title": "Curve XII",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-5/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-5/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 527"
+          }
+        ],
+        "notes": [
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+          "Historical Sculpture exhibition includes painted wood reliefs as well as sculpture. Caption alone cannot distinguish; retained provisional candidate with null medium.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": []
+      },
+      {
+        "source_id": "foundation-exhib-v4:EK527:ellsworth-kelly-paintings-and-sculptures-1963-1979",
+        "source_record_id": "EK 527",
+        "ek_id": "EK 527",
+        "title": "Curve XII",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-and-sculptures-1963-1979/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-and-sculptures-1963-1979/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 527"
+          }
+        ],
+        "notes": [
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": [
+          "https://ellsworthkelly.org/wp-content/uploads/2017/12/1979-DAP-79.21-300x174.jpg"
+        ]
+      },
+      {
+        "source_id": "foundation-exhib-v4:EK527:ellsworth-kelly-sculpture",
+        "source_record_id": "EK 527",
+        "ek_id": "EK 527",
+        "title": "Curve XII",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 527"
+          }
+        ],
+        "notes": [
+          "Historical Sculpture exhibition includes painted wood reliefs as well as sculpture. Caption alone cannot distinguish; retained provisional candidate with null medium.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": [
+          "https://ellsworthkelly.org/wp-content/uploads/2018/01/1982-DAP-82.24-300x236.jpg"
+        ]
+      }
+    ],
+    "source_image_url": null,
+    "title_aliases": [],
+    "exclusion_evidence": [
+      {
+        "record_id": "foundation-exhib-v4-ek527-ellsworth-kelly-5",
+        "canonical_id": "EK 527",
+        "primary_medium": "Weathering Steel",
+        "primary_url": "https://ellsworthkelly.org/work/curve-xii/",
+        "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+        "index_url": "https://ellsworthkelly.org/work/",
+        "source_ids": [
+          "foundation-exhib-v4:EK527:ellsworth-kelly-5",
+          "foundation-exhib-v4:EK527:ellsworth-kelly-paintings-and-sculptures-1963-1979",
+          "foundation-exhib-v4:EK527:ellsworth-kelly-sculpture"
+        ],
+        "primary_fields": [
+          "1974",
+          "",
+          "Weathering Steel",
+          "120 x 13 1/2 x 3/4",
+          "EK 527"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "foundation-exhib-v4-ek866-ellsworth-kelly-5",
+    "canonical_id": "EK 866",
+    "title": "Untitled",
+    "year_start": null,
+    "year_end": null,
+    "date_display": null,
+    "medium": null,
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": null,
+    "collection": null,
+    "sources": [
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-5/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 866"
+      }
+    ],
+    "notes": [
+      "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+    ],
+    "record_status": "named_candidate",
+    "record_kind": "painting_candidate",
+    "source_records": [
+      {
+        "source_id": "foundation-exhib-v4:EK866:ellsworth-kelly-5",
+        "source_record_id": "EK 866",
+        "ek_id": "EK 866",
+        "title": "Untitled",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-5/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-5/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 866"
+          }
+        ],
+        "notes": [
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": []
+      }
+    ],
+    "source_image_url": null,
+    "title_aliases": [],
+    "exclusion_evidence": [
+      {
+        "record_id": "foundation-exhib-v4-ek866-ellsworth-kelly-5",
+        "canonical_id": "EK 866",
+        "primary_medium": "Stainless steel",
+        "primary_url": "https://ellsworthkelly.org/work/untitled-8/",
+        "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+        "index_url": "https://ellsworthkelly.org/work/",
+        "source_ids": [
+          "foundation-exhib-v4:EK866:ellsworth-kelly-5"
+        ],
+        "primary_fields": [
+          "1996",
+          "",
+          "Stainless steel",
+          "191 1/2 x 45 1/4 x 23 1/2",
+          "EK 866"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "foundation-exhib-v4-ek1086-ellsworth-kelly-5",
+    "canonical_id": "EK 1086",
+    "title": "Double Curves",
+    "year_start": null,
+    "year_end": null,
+    "date_display": null,
+    "medium": null,
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": null,
+    "collection": null,
+    "sources": [
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-5/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 1086"
+      }
+    ],
+    "notes": [
+      "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+    ],
+    "record_status": "named_candidate",
+    "record_kind": "painting_candidate",
+    "source_records": [
+      {
+        "source_id": "foundation-exhib-v4:EK1086:ellsworth-kelly-5",
+        "source_record_id": "EK 1086",
+        "ek_id": "EK 1086",
+        "title": "Double Curves",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-5/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-5/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 1086"
+          }
+        ],
+        "notes": [
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": []
+      }
+    ],
+    "source_image_url": null,
+    "title_aliases": [],
+    "exclusion_evidence": [
+      {
+        "record_id": "foundation-exhib-v4-ek1086-ellsworth-kelly-5",
+        "canonical_id": "EK 1086",
+        "primary_medium": "painted stainless steel",
+        "primary_url": "https://ellsworthkelly.org/work/double-curves/",
+        "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+        "index_url": "https://ellsworthkelly.org/work/",
+        "source_ids": [
+          "foundation-exhib-v4:EK1086:ellsworth-kelly-5"
+        ],
+        "primary_fields": [
+          "2015",
+          "",
+          "painted stainless steel",
+          "360 x 62 1/8 x 7 1/2 inches",
+          "EK 1086"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "foundation-exhib-v4-ek1087-ellsworth-kelly-5",
+    "canonical_id": "EK 1087",
+    "title": "White Curve",
+    "year_start": null,
+    "year_end": null,
+    "date_display": null,
+    "medium": null,
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": null,
+    "collection": null,
+    "sources": [
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-5/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 1087"
+      }
+    ],
+    "notes": [
+      "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+    ],
+    "record_status": "named_candidate",
+    "record_kind": "painting_candidate",
+    "source_records": [
+      {
+        "source_id": "foundation-exhib-v4:EK1087:ellsworth-kelly-5",
+        "source_record_id": "EK 1087",
+        "ek_id": "EK 1087",
+        "title": "White Curve",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-5/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-5/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 1087"
+          }
+        ],
+        "notes": [
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": []
+      }
+    ],
+    "source_image_url": null,
+    "title_aliases": [],
+    "exclusion_evidence": [
+      {
+        "record_id": "foundation-exhib-v4-ek1087-ellsworth-kelly-5",
+        "canonical_id": "EK 1087",
+        "primary_medium": "painted stainless steel",
+        "primary_url": "https://ellsworthkelly.org/work/white-curve-2/",
+        "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+        "index_url": "https://ellsworthkelly.org/work/",
+        "source_ids": [
+          "foundation-exhib-v4:EK1087:ellsworth-kelly-5"
+        ],
+        "primary_fields": [
+          "2015",
+          "",
+          "painted stainless steel",
+          "114 5/16 x 115 x 1 1/2 inches",
+          "EK 1087"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "foundation-exhib-v4-ek112-ellsworth-kelly-a-centennial-celebration",
+    "canonical_id": "EK 112",
+    "title": "Sculpture for a Large Wall",
+    "year_start": null,
+    "year_end": null,
+    "date_display": null,
+    "medium": null,
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": null,
+    "collection": null,
+    "sources": [
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-centennial-celebration/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 112"
+      },
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture-on-the-wall/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 112"
+      }
+    ],
+    "notes": [
+      "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+      "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+    ],
+    "record_status": "named_candidate",
+    "record_kind": "painting_candidate",
+    "source_records": [
+      {
+        "source_id": "foundation-exhib-v4:EK112:ellsworth-kelly-a-centennial-celebration",
+        "source_record_id": "EK 112",
+        "ek_id": "EK 112",
+        "title": "Sculpture for a Large Wall",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-centennial-celebration/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-centennial-celebration/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 112"
+          }
+        ],
+        "notes": [
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": []
+      },
+      {
+        "source_id": "foundation-exhib-v4:EK112:ellsworth-kelly-sculpture-on-the-wall",
+        "source_record_id": "EK 112",
+        "ek_id": "EK 112",
+        "title": "Sculpture for a Large Wall",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture-on-the-wall/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture-on-the-wall/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 112"
+          }
+        ],
+        "notes": [
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": [
+          "https://ellsworthkelly.org/wp-content/uploads/2017/12/2013-DAP-13.15-Barnes-Fnd-300x177.jpg",
+          "https://ellsworthkelly.org/wp-content/uploads/2017/12/2013-DAP-13.116-Barnes-Fnd-300x115.jpg"
+        ]
+      }
+    ],
+    "source_image_url": null,
+    "title_aliases": [],
+    "exclusion_evidence": [
+      {
+        "record_id": "foundation-exhib-v4-ek112-ellsworth-kelly-a-centennial-celebration",
+        "canonical_id": "EK 112",
+        "primary_medium": "anodized aluminum, one hundred and four panels",
+        "primary_url": "https://ellsworthkelly.org/work/sculpture-for-a-large-wall/",
+        "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+        "index_url": "https://ellsworthkelly.org/work/",
+        "source_ids": [
+          "foundation-exhib-v4:EK112:ellsworth-kelly-a-centennial-celebration",
+          "foundation-exhib-v4:EK112:ellsworth-kelly-sculpture-on-the-wall"
+        ],
+        "primary_fields": [
+          "1956-1957",
+          "1956",
+          "anodized aluminum, one hundred and four panels",
+          "138 x 785 x 13 inches",
+          "EK 112"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "foundation-exhib-v4-ek229-ellsworth-kelly-a-retrospective",
+    "canonical_id": "EK 229",
+    "title": "Pony",
+    "year_start": null,
+    "year_end": null,
+    "date_display": null,
+    "medium": null,
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": null,
+    "collection": null,
+    "sources": [
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 229"
+      },
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 229"
+      }
+    ],
+    "notes": [
+      "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+      "Historical Sculpture exhibition includes painted wood reliefs as well as sculpture. Caption alone cannot distinguish; retained provisional candidate with null medium.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+    ],
+    "record_status": "named_candidate",
+    "record_kind": "painting_candidate",
+    "source_records": [
+      {
+        "source_id": "foundation-exhib-v4:EK229:ellsworth-kelly-a-retrospective",
+        "source_record_id": "EK 229",
+        "ek_id": "EK 229",
+        "title": "Pony",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 229"
+          }
+        ],
+        "notes": [
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+          "Historical Sculpture exhibition includes painted wood reliefs as well as sculpture. Caption alone cannot distinguish; retained provisional candidate with null medium.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": [
+          "https://ellsworthkelly.org/wp-content/uploads/2017/12/1996-DAP-96.4-D-Heald-300x232.jpg"
+        ]
+      },
+      {
+        "source_id": "foundation-exhib-v4:EK229:ellsworth-kelly-sculpture",
+        "source_record_id": "EK 229",
+        "ek_id": "EK 229",
+        "title": "Pony",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 229"
+          }
+        ],
+        "notes": [
+          "Historical Sculpture exhibition includes painted wood reliefs as well as sculpture. Caption alone cannot distinguish; retained provisional candidate with null medium.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": []
+      }
+    ],
+    "source_image_url": null,
+    "title_aliases": [],
+    "exclusion_evidence": [
+      {
+        "record_id": "foundation-exhib-v4-ek229-ellsworth-kelly-a-retrospective",
+        "canonical_id": "EK 229",
+        "primary_medium": "painted aluminum",
+        "primary_url": "https://ellsworthkelly.org/work/pony/",
+        "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+        "index_url": "https://ellsworthkelly.org/work/",
+        "source_ids": [
+          "foundation-exhib-v4:EK229:ellsworth-kelly-a-retrospective",
+          "foundation-exhib-v4:EK229:ellsworth-kelly-sculpture"
+        ],
+        "primary_fields": [
+          "1959",
+          "1959",
+          "painted aluminum",
+          "31 x 78 x 64 inches",
+          "EK 229"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "foundation-exhib-v4-ek357-ellsworth-kelly-a-retrospective",
+    "canonical_id": "EK 357",
+    "title": "White Angle",
+    "year_start": null,
+    "year_end": null,
+    "date_display": null,
+    "medium": null,
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": null,
+    "collection": null,
+    "sources": [
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 357"
+      },
+      {
+        "url": "https://ellsworthkelly.org/exhibition/exhibition-biennale-xxxiii/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 357"
+      }
+    ],
+    "notes": [
+      "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+      "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+    ],
+    "record_status": "named_candidate",
+    "record_kind": "painting_candidate",
+    "source_records": [
+      {
+        "source_id": "foundation-exhib-v4:EK357:ellsworth-kelly-a-retrospective",
+        "source_record_id": "EK 357",
+        "ek_id": "EK 357",
+        "title": "White Angle",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 357"
+          }
+        ],
+        "notes": [
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": [
+          "https://ellsworthkelly.org/wp-content/uploads/2017/12/1996-DAP-96.5-D-Heald-300x236.jpg"
+        ]
+      },
+      {
+        "source_id": "foundation-exhib-v4:EK357:exhibition-biennale-xxxiii",
+        "source_record_id": "EK 357",
+        "ek_id": "EK 357",
+        "title": "White Angle",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/exhibition-biennale-xxxiii/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/exhibition-biennale-xxxiii/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 357"
+          }
+        ],
+        "notes": [
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": [
+          "https://ellsworthkelly.org/wp-content/uploads/2017/12/1966-DAP-66.1-300x207.jpg",
+          "https://ellsworthkelly.org/wp-content/uploads/2017/12/1966-DAP-66.3-300x198.jpg",
+          "https://ellsworthkelly.org/wp-content/uploads/2017/12/1966-DAP-66.4-300x207.jpg"
+        ]
+      }
+    ],
+    "source_image_url": null,
+    "title_aliases": [],
+    "exclusion_evidence": [
+      {
+        "record_id": "foundation-exhib-v4-ek357-ellsworth-kelly-a-retrospective",
+        "canonical_id": "EK 357",
+        "primary_medium": "Painted aluminum",
+        "primary_url": "https://www.guggenheim.org/artwork/2072",
+        "reason": "Foundation explicitEK357WhiteAngle installation photo shows the same L-shaped floor sculpture as current Guggenheim WhiteAngle 1966. Museum artist/object record explicitly painted aluminum183.5×91.4×183.5cm;1996 catalogue47 corroborates material. Not canvas wall/floor BlueRed.",
+        "source_ids": [
+          "foundation-exhib-v4:EK357:ellsworth-kelly-a-retrospective",
+          "foundation-exhib-v4:EK357:exhibition-biennale-xxxiii"
+        ],
+        "evidence_file": "research/north-american-v4/guggenheim-artist-images.json",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-0.jpg"
+      }
+    ]
+  },
+  {
+    "id": "foundation-exhib-v4-ek516-ellsworth-kelly-paintings-and-sculptures-1963-1979",
+    "canonical_id": "EK 516",
+    "title": "White Curve",
+    "year_start": null,
+    "year_end": null,
+    "date_display": null,
+    "medium": null,
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": null,
+    "collection": null,
+    "sources": [
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-and-sculptures-1963-1979/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 516"
+      }
+    ],
+    "notes": [
+      "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+    ],
+    "record_status": "named_candidate",
+    "record_kind": "painting_candidate",
+    "source_records": [
+      {
+        "source_id": "foundation-exhib-v4:EK516:ellsworth-kelly-paintings-and-sculptures-1963-1979",
+        "source_record_id": "EK 516",
+        "ek_id": "EK 516",
+        "title": "White Curve",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-and-sculptures-1963-1979/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-and-sculptures-1963-1979/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 516"
+          }
+        ],
+        "notes": [
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": [
+          "https://ellsworthkelly.org/wp-content/uploads/2017/12/1979-DAP-79.42-300x197.jpg"
+        ]
+      }
+    ],
+    "source_image_url": null,
+    "title_aliases": [],
+    "exclusion_evidence": [
+      {
+        "record_id": "foundation-exhib-v4-ek516-ellsworth-kelly-paintings-and-sculptures-1963-1979",
+        "canonical_id": "EK 516",
+        "primary_medium": "painted aluminium",
+        "primary_url": "https://ellsworthkelly.org/work/white-curve/",
+        "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+        "index_url": "https://ellsworthkelly.org/work/",
+        "source_ids": [
+          "foundation-exhib-v4:EK516:ellsworth-kelly-paintings-and-sculptures-1963-1979"
+        ],
+        "primary_fields": [
+          "1974",
+          "1974",
+          "painted aluminium",
+          "63 3/4 x 202 x 4 1/8 inches",
+          "EK 516"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "foundation-exhib-v4-ek590-ellsworth-kelly-paintings-and-sculptures-1963-1979",
+    "canonical_id": "EK 590",
+    "title": "Untitled",
+    "year_start": null,
+    "year_end": null,
+    "date_display": null,
+    "medium": null,
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": null,
+    "collection": null,
+    "sources": [
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-and-sculptures-1963-1979/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 590"
+      },
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 590"
+      }
+    ],
+    "notes": [
+      "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+      "Historical Sculpture exhibition includes painted wood reliefs as well as sculpture. Caption alone cannot distinguish; retained provisional candidate with null medium.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+    ],
+    "record_status": "named_candidate",
+    "record_kind": "painting_candidate",
+    "source_records": [
+      {
+        "source_id": "foundation-exhib-v4:EK590:ellsworth-kelly-paintings-and-sculptures-1963-1979",
+        "source_record_id": "EK 590",
+        "ek_id": "EK 590",
+        "title": "Untitled",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-and-sculptures-1963-1979/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-and-sculptures-1963-1979/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 590"
+          }
+        ],
+        "notes": [
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction.",
+          "Historical Sculpture exhibition includes painted wood reliefs as well as sculpture. Caption alone cannot distinguish; retained provisional candidate with null medium.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": []
+      },
+      {
+        "source_id": "foundation-exhib-v4:EK590:ellsworth-kelly-sculpture",
+        "source_record_id": "EK 590",
+        "ek_id": "EK 590",
+        "title": "Untitled",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 590"
+          }
+        ],
+        "notes": [
+          "Historical Sculpture exhibition includes painted wood reliefs as well as sculpture. Caption alone cannot distinguish; retained provisional candidate with null medium.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": [
+          "https://ellsworthkelly.org/wp-content/uploads/2018/01/1982-DAP-82.21-300x235.jpg"
+        ]
+      }
+    ],
+    "source_image_url": null,
+    "title_aliases": [],
+    "exclusion_evidence": [
+      {
+        "record_id": "foundation-exhib-v4-ek590-ellsworth-kelly-paintings-and-sculptures-1963-1979",
+        "canonical_id": "EK 590",
+        "primary_medium": "weathering steel",
+        "primary_url": "https://ellsworthkelly.org/work/untitled-2/",
+        "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+        "index_url": "https://ellsworthkelly.org/work/",
+        "source_ids": [
+          "foundation-exhib-v4:EK590:ellsworth-kelly-paintings-and-sculptures-1963-1979",
+          "foundation-exhib-v4:EK590:ellsworth-kelly-sculpture"
+        ],
+        "primary_fields": [
+          "1979",
+          "1979",
+          "weathering steel",
+          "92 x 112 1/2 x 3/8 inches",
+          "EK 590"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "foundation-exhib-v4-ek1025-ellsworth-kelly-sculpture-on-the-wall",
+    "canonical_id": "EK 1025",
+    "title": "Black Form I",
+    "year_start": null,
+    "year_end": null,
+    "date_display": null,
+    "medium": null,
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": null,
+    "collection": null,
+    "sources": [
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture-on-the-wall/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 1025"
+      }
+    ],
+    "notes": [
+      "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+    ],
+    "record_status": "named_candidate",
+    "record_kind": "painting_candidate",
+    "source_records": [
+      {
+        "source_id": "foundation-exhib-v4:EK1025:ellsworth-kelly-sculpture-on-the-wall",
+        "source_record_id": "EK 1025",
+        "ek_id": "EK 1025",
+        "title": "Black Form I",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture-on-the-wall/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture-on-the-wall/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 1025"
+          }
+        ],
+        "notes": [
+          "Foundation caption gives title and catalogue number, but no work medium. Exhibition contains multiple media; candidate retained pending scope verification.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": [
+          "https://ellsworthkelly.org/wp-content/uploads/2017/12/2013-DAP-13.117-Barnes-Fnd-300x225.jpg"
+        ]
+      }
+    ],
+    "source_image_url": null,
+    "title_aliases": [],
+    "exclusion_evidence": [
+      {
+        "record_id": "foundation-exhib-v4-ek1025-ellsworth-kelly-sculpture-on-the-wall",
+        "canonical_id": "EK 1025",
+        "primary_medium": "painted aluminum",
+        "primary_url": "https://ellsworthkelly.org/work/black-form-i/",
+        "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+        "index_url": "https://ellsworthkelly.org/work/",
+        "source_ids": [
+          "foundation-exhib-v4:EK1025:ellsworth-kelly-sculpture-on-the-wall"
+        ],
+        "primary_fields": [
+          "2011",
+          "2011",
+          "painted aluminum",
+          "80 x 71 3/4 x 4 1/4 inches",
+          "EK 1025"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "foundation-exhib-v4-ek654-ellsworth-kelly-sculpture",
+    "canonical_id": "EK 654",
+    "title": "Concorde Angle",
+    "year_start": null,
+    "year_end": null,
+    "date_display": null,
+    "medium": null,
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": null,
+    "collection": null,
+    "sources": [
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+        "label": "Ellsworth Kelly Foundation exhibition caption: EK 654"
+      }
+    ],
+    "notes": [
+      "Historical Sculpture exhibition includes painted wood reliefs as well as sculpture. Caption alone cannot distinguish; retained provisional candidate with null medium.",
+      "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+    ],
+    "record_status": "named_candidate",
+    "record_kind": "painting_candidate",
+    "source_records": [
+      {
+        "source_id": "foundation-exhib-v4:EK654:ellsworth-kelly-sculpture",
+        "source_record_id": "EK 654",
+        "ek_id": "EK 654",
+        "title": "Concorde Angle",
+        "year_start": null,
+        "year_end": null,
+        "date_display": null,
+        "medium": null,
+        "height_cm": null,
+        "width_cm": null,
+        "collection": null,
+        "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+        "image_url": null,
+        "record_kind": "painting_candidate",
+        "record_status": "named_candidate",
+        "source_confidence": "primary_foundation_exhibition_caption",
+        "retrieved_date": "2026-10-27",
+        "sources": [
+          {
+            "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+            "label": "Ellsworth Kelly Foundation exhibition caption: EK 654"
+          }
+        ],
+        "notes": [
+          "Historical Sculpture exhibition includes painted wood reliefs as well as sculpture. Caption alone cannot distinguish; retained provisional candidate with null medium.",
+          "Exhibition page dates describe the exhibition, not creation of this work. No creation date, dimensions, medium or current owner inferred. Installation photographs may contain several works; no individual SVG assigned from this extraction."
+        ],
+        "installation_image_urls": [
+          "https://ellsworthkelly.org/wp-content/uploads/2018/01/1982-DAP-82.23-300x236.jpg",
+          "https://ellsworthkelly.org/wp-content/uploads/2018/01/1982-DAP-82.18-300x381.jpg"
+        ]
+      }
+    ],
+    "source_image_url": null,
+    "title_aliases": [],
+    "exclusion_evidence": [
+      {
+        "record_id": "foundation-exhib-v4-ek654-ellsworth-kelly-sculpture",
+        "canonical_id": "EK 654",
+        "primary_medium": "weathering steel",
+        "primary_url": "https://ellsworthkelly.org/work/concorde-angle/",
+        "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+        "index_url": "https://ellsworthkelly.org/work/",
+        "source_ids": [
+          "foundation-exhib-v4:EK654:ellsworth-kelly-sculpture"
+        ],
+        "primary_fields": [
+          "1982",
+          "1982",
+          "weathering steel",
+          "108 x 109 x 91 1/4 inches",
+          "EK 654"
+        ]
+      }
+    ]
+  }
+]

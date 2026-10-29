@@ -1,0 +1,477 @@
+[
+  {
+    "source_id": "artic-v4:157156",
+    "source_record_id": "157156",
+    "title": "Red Yellow Blue White and Black II",
+    "year_start": 1953,
+    "year_end": 1953,
+    "date_display": "1953",
+    "medium": "Oil on canvas; 7 joined panels",
+    "height_cm": 99.1,
+    "width_cm": 351.2,
+    "dimensions_display": "Each: 99.1 × 50.2 cm (39 × 19 3/4 in.); Overall: 99.1 × 351.2 cm (39 × 138 1/4 in.)",
+    "collection": "Art Institute of Chicago",
+    "accession": "2001.157",
+    "source_url": "https://www.artic.edu/artworks/157156",
+    "image_url": "https://www.artic.edu/iiif/2/8b12267b-6fde-3424-281a-0cb74bb7e36a/full/843,/0/default.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "credit_line": "Gift of the Anstiss and Ronald Krueck Collection",
+    "notes": [
+      "Exact artist_id35235 and museum Painting classification; broad search result total is not the artist holdings count."
+    ],
+    "sources": [
+      {
+        "url": "https://www.artic.edu/artworks/157156",
+        "label": "Art Institute of Chicago primary API record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "artic-v4:185779",
+    "source_record_id": "185779",
+    "title": "Train Landscape",
+    "year_start": 1953,
+    "year_end": 1953,
+    "date_display": "1953",
+    "medium": "Oil on canvas; three joined panels",
+    "height_cm": 111.8,
+    "width_cm": 111.8,
+    "dimensions_display": "111.8 × 111.8 cm (44 × 44 in.)",
+    "collection": "Art Institute of Chicago",
+    "accession": "2025.108",
+    "source_url": "https://www.artic.edu/artworks/185779",
+    "image_url": "https://www.artic.edu/iiif/2/0e4128b8-7ec7-11e7-5eed-4e9ebc9aa0a4/full/843,/0/default.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "credit_line": "Gift of the Ellsworth Kelly Foundation and Jack Shear",
+    "notes": [
+      "Exact artist_id35235 and museum Painting classification; broad search result total is not the artist holdings count."
+    ],
+    "sources": [
+      {
+        "url": "https://www.artic.edu/artworks/185779",
+        "label": "Art Institute of Chicago primary API record",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "ek-61"
+  },
+  {
+    "source_id": "artic-v4:198303",
+    "source_record_id": "198303",
+    "title": "Tableau Vert",
+    "year_start": 1952,
+    "year_end": 1952,
+    "date_display": "1952",
+    "medium": "Oil on wood",
+    "height_cm": 74.3,
+    "width_cm": 99.7,
+    "dimensions_display": "74.3 × 99.7 cm (29 1/4 × 39 1/4 in.)",
+    "collection": "Art Institute of Chicago",
+    "accession": "2009.51",
+    "source_url": "https://www.artic.edu/artworks/198303",
+    "image_url": "https://www.artic.edu/iiif/2/019be102-5584-b599-4e81-782a2dba1789/full/843,/0/default.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "credit_line": "Gift of the artist",
+    "notes": [
+      "Exact artist_id35235 and museum Painting classification; broad search result total is not the artist holdings count."
+    ],
+    "sources": [
+      {
+        "url": "https://www.artic.edu/artworks/198303",
+        "label": "Art Institute of Chicago primary API record",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "ek-62"
+  },
+  {
+    "source_id": "artic-v4:88580",
+    "source_record_id": "88580",
+    "title": "Black and White",
+    "year_start": 1960,
+    "year_end": 1961,
+    "date_display": "1960/61",
+    "medium": "Oil on canvas",
+    "height_cm": 228.6,
+    "width_cm": 304.8,
+    "dimensions_display": "228.6 × 304.8 cm (90 × 120 in.)",
+    "collection": "Art Institute of Chicago",
+    "accession": "1962.146",
+    "source_url": "https://www.artic.edu/artworks/88580",
+    "image_url": "https://www.artic.edu/iiif/2/0dab311a-1ed9-f30f-a3c5-28601749db72/full/843,/0/default.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "credit_line": "Purchased with funds provided by Mr. and Mrs. Arnold H. Maremont through the Kate Maremont Foundation",
+    "notes": [
+      "Exact artist_id35235 and museum Painting classification; broad search result total is not the artist holdings count."
+    ],
+    "sources": [
+      {
+        "url": "https://www.artic.edu/artworks/88580",
+        "label": "Art Institute of Chicago primary API record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "artic-v4:57211",
+    "source_record_id": "57211",
+    "title": "East River",
+    "year_start": 1959,
+    "year_end": 1959,
+    "date_display": "1959",
+    "medium": "Oil on canvas",
+    "height_cm": 119.4,
+    "width_cm": 254.0,
+    "dimensions_display": "119.4 × 254 cm (47 × 100 in.)",
+    "collection": "Art Institute of Chicago",
+    "accession": "1968.606",
+    "source_url": "https://www.artic.edu/artworks/57211",
+    "image_url": "https://www.artic.edu/iiif/2/2d98899d-b5c8-7e1a-260d-6e084f664863/full/843,/0/default.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "credit_line": "Gift of Mr. and Mrs. Albert L. Arenberg",
+    "notes": [
+      "Exact artist_id35235 and museum Painting classification; broad search result total is not the artist holdings count."
+    ],
+    "sources": [
+      {
+        "url": "https://www.artic.edu/artworks/57211",
+        "label": "Art Institute of Chicago primary API record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "artic-v4:152752",
+    "source_record_id": "152752",
+    "title": "Black Panel",
+    "year_start": 1989,
+    "year_end": 1999,
+    "date_display": "1989/99",
+    "medium": "Acrylic on fiberglass and plywood",
+    "height_cm": 230.6,
+    "width_cm": 232.6,
+    "dimensions_display": "230.6 × 232.6 cm (90 7/8 × 91 9/16 in.)",
+    "collection": "Art Institute of Chicago",
+    "accession": "1999.237a",
+    "source_url": "https://www.artic.edu/artworks/152752",
+    "image_url": "https://www.artic.edu/iiif/2/e763fafc-fc52-6f6b-a12e-5772dda7d12a/full/843,/0/default.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "credit_line": "Harold L. Stuart Endowment",
+    "notes": [
+      "Exact artist_id35235 and museum Painting classification; broad search result total is not the artist holdings count."
+    ],
+    "sources": [
+      {
+        "url": "https://www.artic.edu/artworks/152752",
+        "label": "Art Institute of Chicago primary API record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "artic-v4:152758",
+    "source_record_id": "152758",
+    "title": "Green Panel",
+    "year_start": 1989,
+    "year_end": 1999,
+    "date_display": "1989/99",
+    "medium": "Acrylic on fiberglass and plywood",
+    "height_cm": 269.8,
+    "width_cm": 208.0,
+    "dimensions_display": "269.8 × 208 cm (106 1/4 × 81 13/16 in.)",
+    "collection": "Art Institute of Chicago",
+    "accession": "1999.237c",
+    "source_url": "https://www.artic.edu/artworks/152758",
+    "image_url": "https://www.artic.edu/iiif/2/09a1e448-d439-7616-ca91-02347e1934f9/full/843,/0/default.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "credit_line": "Harold L. Stuart Endowment",
+    "notes": [
+      "Exact artist_id35235 and museum Painting classification; broad search result total is not the artist holdings count."
+    ],
+    "sources": [
+      {
+        "url": "https://www.artic.edu/artworks/152758",
+        "label": "Art Institute of Chicago primary API record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "artic-v4:152757",
+    "source_record_id": "152757",
+    "title": "Red Panel",
+    "year_start": 1989,
+    "year_end": 1999,
+    "date_display": "1989/99",
+    "medium": "Acrylic on fiberglass and plywood",
+    "height_cm": 190.0,
+    "width_cm": 200.0,
+    "dimensions_display": "190 × 200 cm (75 × 78 3/4 in.)",
+    "collection": "Art Institute of Chicago",
+    "accession": "1999.237b",
+    "source_url": "https://www.artic.edu/artworks/152757",
+    "image_url": "https://www.artic.edu/iiif/2/9e8f1d07-97b6-bbd8-3b11-c488130e77dd/full/843,/0/default.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "credit_line": "Harold L. Stuart Endowment",
+    "notes": [
+      "Exact artist_id35235 and museum Painting classification; broad search result total is not the artist holdings count."
+    ],
+    "sources": [
+      {
+        "url": "https://www.artic.edu/artworks/152757",
+        "label": "Art Institute of Chicago primary API record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "artic-v4:154131",
+    "source_record_id": "154131",
+    "title": "Yuri Gagarin",
+    "year_start": 1960,
+    "year_end": 1960,
+    "date_display": "1960",
+    "medium": "Oil on canvas",
+    "height_cm": 56.0,
+    "width_cm": 50.8,
+    "dimensions_display": "56 × 50.8 cm (22 × 20 in.)",
+    "collection": "Art Institute of Chicago",
+    "accession": "1999.942",
+    "source_url": "https://www.artic.edu/artworks/154131",
+    "image_url": "https://www.artic.edu/iiif/2/165e3dc6-7cfd-317f-9220-0c01314e917e/full/843,/0/default.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "credit_line": "Gift of David P. Robinson",
+    "notes": [
+      "Exact artist_id35235 and museum Painting classification; broad search result total is not the artist holdings count."
+    ],
+    "sources": [
+      {
+        "url": "https://www.artic.edu/artworks/154131",
+        "label": "Art Institute of Chicago primary API record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "artic-v4:152761",
+    "source_record_id": "152761",
+    "title": "Yellow Panel",
+    "year_start": 1989,
+    "year_end": 1999,
+    "date_display": "1989/99",
+    "medium": "Acrylic on fiberglass and plywood",
+    "height_cm": 189.5,
+    "width_cm": 212.3,
+    "dimensions_display": "189.5 × 212.3 cm (74 5/8 × 83 13/16 in.)",
+    "collection": "Art Institute of Chicago",
+    "accession": "1999.237f",
+    "source_url": "https://www.artic.edu/artworks/152761",
+    "image_url": "https://www.artic.edu/iiif/2/fec58d3b-be37-a4df-d174-c516f98cbc4c/full/843,/0/default.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "credit_line": "Harold L. Stuart Endowment",
+    "notes": [
+      "Exact artist_id35235 and museum Painting classification; broad search result total is not the artist holdings count."
+    ],
+    "sources": [
+      {
+        "url": "https://www.artic.edu/artworks/152761",
+        "label": "Art Institute of Chicago primary API record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "artic-v4:152760",
+    "source_record_id": "152760",
+    "title": "Blue Panel",
+    "year_start": 1989,
+    "year_end": 1999,
+    "date_display": "1989/99",
+    "medium": "Acrylic on fiberglass and plywood",
+    "height_cm": 231.3,
+    "width_cm": 233.0,
+    "dimensions_display": "231.3 × 233 cm (91 × 91 3/4 in.)",
+    "collection": "Art Institute of Chicago",
+    "accession": "1999.237e",
+    "source_url": "https://www.artic.edu/artworks/152760",
+    "image_url": "https://www.artic.edu/iiif/2/6a429252-c5c6-f60e-18e4-ac47614d2198/full/843,/0/default.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "credit_line": "Harold L. Stuart Endowment",
+    "notes": [
+      "Exact artist_id35235 and museum Painting classification; broad search result total is not the artist holdings count."
+    ],
+    "sources": [
+      {
+        "url": "https://www.artic.edu/artworks/152760",
+        "label": "Art Institute of Chicago primary API record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "artic-v4:152759",
+    "source_record_id": "152759",
+    "title": "Orange Panel",
+    "year_start": 1989,
+    "year_end": 1999,
+    "date_display": "1989/99",
+    "medium": "Acrylic on fiberglass and plywood",
+    "height_cm": 237.0,
+    "width_cm": 198.0,
+    "dimensions_display": "237 × 198 cm (93 7/16 × 78 1/4 in.)",
+    "collection": "Art Institute of Chicago",
+    "accession": "1999.237d",
+    "source_url": "https://www.artic.edu/artworks/152759",
+    "image_url": "https://www.artic.edu/iiif/2/fa3516e0-fc3d-e5e8-a723-e33b733a41ab/full/843,/0/default.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "credit_line": "Harold L. Stuart Endowment",
+    "notes": [
+      "Exact artist_id35235 and museum Painting classification; broad search result total is not the artist holdings count."
+    ],
+    "sources": [
+      {
+        "url": "https://www.artic.edu/artworks/152759",
+        "label": "Art Institute of Chicago primary API record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "artic-v4:66184",
+    "source_record_id": "66184",
+    "title": "White/Black Curve",
+    "year_start": 1973,
+    "year_end": 1973,
+    "date_display": "1973",
+    "medium": "Oil on canvas",
+    "height_cm": 178.4,
+    "width_cm": 295.0,
+    "dimensions_display": "178.4 × 295 cm (70 1/4 × 118 in.)",
+    "collection": "Art Institute of Chicago",
+    "accession": "1986.1419",
+    "source_url": "https://www.artic.edu/artworks/66184",
+    "image_url": "https://www.artic.edu/iiif/2/1fdee71c-bf45-fdb6-b38d-b5b9cb6a7a85/full/843,/0/default.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "credit_line": "Bequest of Solomon B. Smith",
+    "notes": [
+      "Exact artist_id35235 and museum Painting classification; broad search result total is not the artist holdings count."
+    ],
+    "sources": [
+      {
+        "url": "https://www.artic.edu/artworks/66184",
+        "label": "Art Institute of Chicago primary API record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "artic-v4:196413",
+    "source_record_id": "196413",
+    "title": "Red Diagonal",
+    "year_start": 2007,
+    "year_end": 2007,
+    "date_display": "2007",
+    "medium": "Oil on canvas, two joined panels",
+    "height_cm": 213.4,
+    "width_cm": 277.9,
+    "dimensions_display": "213.4 × 277.9 × 6.7 cm (84 × 109 3/8 × 2 5/8 in.)",
+    "collection": "Art Institute of Chicago",
+    "accession": "2023.3106",
+    "source_url": "https://www.artic.edu/artworks/196413",
+    "image_url": "https://www.artic.edu/iiif/2/9ba11ea1-addb-0d04-8903-44a60e1b2ab3/full/843,/0/default.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "credit_line": "Gift of Donna and Howard Stone",
+    "notes": [
+      "Exact artist_id35235 and museum Painting classification; broad search result total is not the artist holdings count."
+    ],
+    "sources": [
+      {
+        "url": "https://www.artic.edu/artworks/196413",
+        "label": "Art Institute of Chicago primary API record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "artic-v4:274590",
+    "source_record_id": "274590",
+    "title": "Chatham XII: Yellow Black",
+    "year_start": 1971,
+    "year_end": 1971,
+    "date_display": "1971",
+    "medium": "Oil on canvas",
+    "height_cm": 213.0,
+    "width_cm": 194.0,
+    "dimensions_display": "213 × 194 cm (83 7/8 × 76 7/16 in.)",
+    "collection": "Art Institute of Chicago",
+    "accession": "2024.451",
+    "source_url": "https://www.artic.edu/artworks/274590",
+    "image_url": "https://www.artic.edu/iiif/2/7ffcc679-9009-e202-aa64-72f7e7535295/full/843,/0/default.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "credit_line": "Through prior bequests of Maxine Kunstadter and Solomon B. Smith",
+    "notes": [
+      "Exact artist_id35235 and museum Painting classification; broad search result total is not the artist holdings count.",
+      "Exact title/year and rounded dimensions identify Foundation EK463; current museum accession2024.451."
+    ],
+    "sources": [
+      {
+        "url": "https://www.artic.edu/artworks/274590",
+        "label": "Art Institute of Chicago primary API record",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "ek-463"
+  },
+  {
+    "source_id": "artic-v4:193544",
+    "source_record_id": "193544",
+    "title": "The Chicago Panels",
+    "year_start": 1989,
+    "year_end": 1999,
+    "date_display": "1989–1999",
+    "medium": "Six panels:  acrylic on fiberglass and plywood",
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": "Black Panel: 230.6 × 232.6 cm (90 7/8 × 91 9/16 in.); Red-Orange Panel: 190 × 200 cm (75 × 78 3/4 in.); Light Green Panel: 269.8 × 208 cm (106 1/4 × 81 13/16 in.); Orange Panel: 237 × 198 cm (93 7/16 × 78 1/4 in.); Blue Panel: 231.3 × 233 cm (91 × 91 3/4 in.); Yellow Panel: 189.5 × 212.3 cm (74 5/8 × 83 13/16 in.)",
+    "collection": "Art Institute of Chicago",
+    "accession": "1999.237a-f",
+    "source_url": "https://www.artic.edu/artworks/193544",
+    "image_url": null,
+    "record_kind": "painting_group",
+    "record_status": "sourced_metadata",
+    "component_source_ids": [
+      "artic-v4:152752",
+      "artic-v4:152757",
+      "artic-v4:152758",
+      "artic-v4:152759",
+      "artic-v4:152760",
+      "artic-v4:152761"
+    ],
+    "notes": [
+      "Named installation group, not an additional independent canvas. Six component panels are separately recorded under their colour titles. No combined planar dimensions asserted."
+    ],
+    "sources": [
+      {
+        "url": "https://www.artic.edu/artworks/193544",
+        "label": "Art Institute of Chicago installation group record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  }
+]

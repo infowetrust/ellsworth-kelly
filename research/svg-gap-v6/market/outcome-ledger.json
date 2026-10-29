@@ -1,0 +1,142 @@
+[
+  {
+    "id": "guggenheim1996-essay-24-fig-7",
+    "outcome": "remaining_gap",
+    "reason": "Complete1996color essay illustration inspected. Figurative painted face requires detailed modeling that cannot be faithfully represented by this simple study approach; no generic head substituted.",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=24",
+    "reference_id": "research/svg-gap-v5/market/ref-00.png"
+  },
+  {
+    "id": "guggenheim1996-essay-21-fig-2",
+    "outcome": "remaining_gap",
+    "reason": "Complete1996color essay illustration inspected. Gouache self-portrait retains complex facial planes and brushwork; no faithful simplified vector warranted.",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=21",
+    "reference_id": "research/svg-gap-v5/market/ref-01.png"
+  },
+  {
+    "id": "guggenheim1996-cat-111",
+    "outcome": "new_svg",
+    "reason": "MoMA current object496.1997 provides the complete color photograph and13.3×21cm sheet size. Seven rectangles retain their observed differing blue depths; gray is pencil outline, not a third painted field. Faint erasures and signature omitted.",
+    "reference_url": "https://www.moma.org/collection/works/37179",
+    "reference_id": "research/svg-gap-v6/market/references/awnings.jpg"
+  },
+  {
+    "id": "moma1973-pdf40-caption2",
+    "outcome": "new_svg",
+    "reason": "Complete Foundation color photograph explicitly labeled LaCombeII1951 shows black stair-shadow lines on white hinged screen. All nine panels retained; equal panel widths and planar arrangement are an interpretive unfolding of the photographed folds, so normalized only. This is distinct from the red-on-white flat LaCombeI canvas.",
+    "reference_url": "https://discoveringek.ellsworthkelly.org/ek-100-chapter-3",
+    "reference_id": "research/svg-gap-v6/market/references/la-combe-color.png"
+  },
+  {
+    "id": "moma1973-pdf29-caption1",
+    "outcome": "new_svg",
+    "reason": "The adjacent primary1973text explicitly states Kelly painted this relief white. Nine horizontal incised grooves and three upper trapezoid fragments observed in the complete opposite plate. Pale same-family gray lines indicate relief shadow, not black pigment; external book page omitted.",
+    "reference_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=30",
+    "reference_id": "research/svg-gap-v6/market/references/moma-30.png"
+  },
+  {
+    "id": "north-v4-dallas-kite-i-loan",
+    "outcome": "remaining_gap",
+    "reason": "1989Dallas primary checklist establishes artist-owned loan but supplies no dimensions or illustration. A seven-panelKiteI1952with SVG already exists from MatthewMarks; no shared accession, source image or specific exhibition bridge yet proves physical identity. Do not count borrowed existing study as new.",
+    "reference_url": "https://texashistory.unt.edu/ark:/67531/metapth307668/m1/88/",
+    "reference_id": null
+  },
+  {
+    "id": "guggenheim1996-cat-19",
+    "outcome": "remaining_gap",
+    "reason": "Numbered1996caption missing. Narrative describes seven panels with black centre and blue at both ends, conflicting with six-stripFoundationEK56/Marks45015. Candidate remains unresolved; title/year alone do not establish identity.",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf",
+    "reference_id": null
+  },
+  {
+    "id": "moma1973-pdf71-caption1",
+    "outcome": "new_svg",
+    "reason": "E.ON institutional collection publication supplies an actual color installation photograph and explicitly calls Paname black-and-white. Exact five white intrusions transcribed from the full1973frontal plate; reflections in the later glazed installation are excluded. White areas are painted rectangular support, not missing canvas.",
+    "reference_url": "https://www.kunst-im-blauen-haus.de/img/aktuell/EON_Art.pdf#page=7",
+    "reference_id": "research/svg-gap-v6/market/references/moma-71.png"
+  },
+  {
+    "id": "matthewmarks-42475",
+    "outcome": "new_svg",
+    "reason": "Actual primary gallery color photograph reviewed again. Five green leaves individually transcribed with central painted stems; complete cream paper retained. Brush variation and signature omitted. Remains a painted-paper scope candidate, not promoted to canvas painting.",
+    "reference_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-plant-drawings-05-2017/lightbox/works/42475",
+    "reference_id": "research/svg-gap-v5/market/ref-10.jpg"
+  },
+  {
+    "id": "matthewmarks-green-form-1959-31173",
+    "outcome": "remaining_gap",
+    "reason": "Green oil form lies over legible vintage newspaper/collage. Complete color gallery image viewed; replacing textual support with a plain tan rectangle would misrepresent the work, and a generic ring is insufficient.",
+    "reference_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-drawings-1954-1962-02-2009/lightbox/works/green-form-1959-31173",
+    "reference_id": "research/svg-gap-v5/market/ref-12.jpg"
+  },
+  {
+    "id": "christies-5261477",
+    "outcome": "remaining_gap",
+    "reason": "Ordinary Christie lot page currently exposes only a roundel placeholder. All six public Pulitzer2002installation photographs viewed without an identified match. FoundationEK246matches title/year/aspect only; no lotphoto or shared catalogue/provenance link proves identity.",
+    "reference_url": "https://www.christies.com/en/lot/lot-5261477",
+    "reference_id": "research/svg-gap-v5/market/ref-17.jpg"
+  },
+  {
+    "id": "moma1973-pdf86-caption1",
+    "outcome": "new_svg",
+    "reason": "All five current museum color photographs inspected. Pairs shown in published photo order: red/yellow, red/blue, blue/green, black/white, yellow/blue. Museum explicitly says no prescribed order and prefers separated installation. This stacked comparison layout is not an actual installation or an overall physical width/height. Each part178×356cm; blue-green part uses observed teal-blue shade in the blue family.",
+    "reference_url": "https://www.krollermuller.nl/en/what-s-on/exhibitions/birds-of-a-feather",
+    "reference_id": "research/svg-gap-v6/market/references/series-contact.jpg"
+  },
+  {
+    "id": "short-book-v4-surfaceedgecolor25whit-20-red-yellow-blue-vi",
+    "outcome": "remaining_gap",
+    "reason": "Whitney1976publication is text-only. Exact-title/owner searches did not recover a verified primary color illustration; cannot infer three-color placement from title.",
+    "reference_url": "https://archive.org/download/surfaceedgecolor25whit/surfaceedgecolor25whit.pdf#page=20",
+    "reference_id": "research/svg-gap-v5/market/ref-28.png"
+  },
+  {
+    "id": "short-book-v4-surfaceedgecolor25whit-20-grey-panels-ii",
+    "outcome": "remaining_gap",
+    "reason": "Whitney1976publication is text-only. Exact Grey/GrayPanelsII1974searches yielded no authenticated primary image. FoundationEK540GrayPanels is a different likely1976lead, not assumed same as this92×102in work.",
+    "reference_url": "https://archive.org/download/surfaceedgecolor25whit/surfaceedgecolor25whit.pdf#page=20",
+    "reference_id": "research/svg-gap-v5/market/ref-31.png"
+  },
+  {
+    "id": "christies-2364185",
+    "outcome": "remaining_gap",
+    "reason": "Christie2364185metadata survives but lotphoto remains unavailable; cited1982MFApublicationp59not publicly recovered in this pass. StudyforBlueWhite1980postcard is a different object and does not establish actual painted contour.",
+    "reference_url": "https://www.christies.com/en/lot/lot-2364185",
+    "reference_id": null
+  },
+  {
+    "id": "christies-6172919",
+    "outcome": "remaining_gap",
+    "reason": "Complete original primary auction color photo viewed. Detailed portrait relies on fine lines and smudged colored-pencil modeling; no generic face reconstruction substituted.",
+    "reference_url": "https://www.christies.com/en/lot/lot-6172919",
+    "reference_id": "research/svg-gap-v5/market/ref-38.jpg"
+  },
+  {
+    "id": "sothebys-en-buy-auction-2019-contemporary-art-online-fe5e6b04-63bb-47a9-8ace-a38e561bc649",
+    "outcome": "remaining_gap",
+    "reason": "Larger primary Sotheby1024×755photograph recovered and viewed. Blue corner and fine pencil still-life drawing are jointly material; no vector supplied that drops the drawing.",
+    "reference_url": "https://www.sothebys.com/en/buy/auction/2019/contemporary-art-online/fe5e6b04-63bb-47a9-8ace-a38e561bc649",
+    "reference_id": "research/svg-gap-v6/market/references/still-life.jpg"
+  },
+  {
+    "id": "guggenheim1996-cat-85",
+    "outcome": "remaining_gap",
+    "reason": "1996catalogue plate221shows only cropped right edge; nearby pages checked for foldout/complete image. Primary chronology identifies RafflesCityHotel commission but medium and complete contour remain unresolved. Not joined to another RedCurve merely by title.",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=221",
+    "reference_id": "research/svg-gap-v6/market/references/gug-221.png"
+  },
+  {
+    "id": "christies-onlineonly-23553-123",
+    "outcome": "remaining_gap",
+    "reason": "Actual auction color photo viewed: two distinct lipstick face impressions. Irregular transferred texture and facial information cannot be faithfully reduced to generic painted polygons.",
+    "reference_url": "https://onlineonly.christies.com/s/first-open-post-war-contemporary-art/ellsworth-kelly-1923-2015-123/263626",
+    "reference_id": "research/svg-gap-v5/market/ref-44.jpg"
+  },
+  {
+    "id": "short-book-v4-ellsworthkellylastpaintings-201811-40-four-panels-blue-black-green-red",
+    "outcome": "remaining_gap",
+    "reason": "Primary2017last-paintingsessay explicitly describes unfinished2015black/whitegesso stage; intended blue/black/green/red were not completed. No actual complete studio image recovered; no invented finished-color SVG.",
+    "reference_url": "https://archive.org/download/EllsworthKellyLastPaintings_201811/EllsworthKellyLastPaintings.pdf#page=40",
+    "reference_id": "research/svg-gap-v5/market/ref-47.png"
+  }
+]

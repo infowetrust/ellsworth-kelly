@@ -1,0 +1,97 @@
+{
+  "artic-v4:157156": {
+    "path": "assets/studies/v4-core-artic-v4-157156.svg",
+    "colors": [
+      "blue",
+      "red",
+      "white",
+      "black",
+      "yellow"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.artic.edu/artworks/157156",
+    "reference_id": "research/core-museums-v4/aic-preview-observation.md",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized vivid screen colours, not measured pigments",
+    "notes": "Seven equal joined panels in the observed blue/red/white/black/yellow/white/blue order. Ordinary museum preview viewed; research download returned403.",
+    "reviewed_date": "2026-10-27"
+  },
+  "whitney-67946": {
+    "path": "assets/studies/v4-core-whitney-67946.svg",
+    "colors": [
+      "red",
+      "green",
+      "blue",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://whitney.org/collection/works/67946",
+    "reference_id": "research/core-museums-v4/reference-images/whitney-67946.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized vivid screen colours, not measured pigments",
+    "notes": "Study on paper: off-white support retained. Main red field and two irregular green/blue forms observed directly; small paint flecks and brushwork omitted.",
+    "reviewed_date": "2026-10-27"
+  },
+  "whitney-17193": {
+    "path": "assets/studies/v4-core-whitney-17193.svg",
+    "colors": [
+      "red",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://whitney.org/collection/works/17193",
+    "reference_id": "research/core-museums-v4/reference-images/whitney-17193.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized vivid screen colours, not measured pigments",
+    "notes": "Red angular strokes transcribed by eye from Whitney recto photograph. Cluster positions, interruptions and large empty lower band retained; exact stroke edges and subtle off-white texture simplified.",
+    "reviewed_date": "2026-10-27"
+  },
+  "artic-v4:88580": {
+    "path": "assets/studies/v4-core-artic-v4-88580.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.artic.edu/artworks/88580",
+    "reference_id": "research/core-museums-v4/aic-preview-observation.md",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized vivid screen colours, not measured pigments",
+    "notes": "Two curving white bands interrupt black rectangular field; observed top/bottom boundary contacts retained. Fine curvature approximated by eye from ordinary museum preview.",
+    "reviewed_date": "2026-10-27"
+  },
+  "saam-13463": {
+    "path": "assets/studies/v4-core-saam-13463.svg",
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://americanart.si.edu/artwork/blue-white-13463",
+    "reference_id": "research/core-museums-v4/reference-images/saam-13463.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized vivid screen colours, not measured pigments",
+    "notes": "White rectangular painted support retained. Rounded blue upper mass, right-side notch and long lower hook transcribed from actual Smithsonian reference; fine contours and paint texture simplified.",
+    "reviewed_date": "2026-10-27"
+  },
+  "moma1973-pdf45-caption1": {
+    "path": "assets/studies/v4-core-moma1973-pdf45-caption1.svg",
+    "colors": [
+      "blue",
+      "green"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.moma.org/collection/works/79145",
+    "reference_id": "research/core-museums-v4/moma-meschers-observation.md",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized vivid screen colours, not measured pigments",
+    "notes": "Actual MoMA lightbox inspected. Major scattered green bands on a blue square transcribed by eye; strip contours and junctions approximate, brush texture omitted. Download403; ordinary source preview available.",
+    "reviewed_date": "2026-10-27"
+  }
+}

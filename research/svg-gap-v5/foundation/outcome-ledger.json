@@ -1,0 +1,1257 @@
+{
+  "baseline_count": 136,
+  "counts": {
+    "unresolved": 80,
+    "new_svg": 16,
+    "identity_merged": 21,
+    "scope_excluded": 19
+  },
+  "reviewed_date": "2026-10-27",
+  "outcomes": [
+    {
+      "id": "moma1973-pdf40-caption2",
+      "title": "La Combe II",
+      "canonical_id": null,
+      "outcome": "unresolved",
+      "reason": "The 1950 nine-panel folding screen is visible in the 1973 photograph and a later colour installation. Several panels are folded or obscured; a complete rectified sequence of all nine black fragment arrangements was not established. The candidate EK34 joins this slot, but no replacement line pattern was invented.",
+      "reference_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=40",
+      "reference_id": "research/svg-gap-v5/foundation/moma-pages/page-40.png"
+    },
+    {
+      "id": "moma1973-pdf42-caption1",
+      "title": "November Painting",
+      "canonical_id": null,
+      "outcome": "new_svg",
+      "reason": "Black fragment positions and contours traced from the actually inspected colour reproduction in the MACBA publication, printed page197, and compared with the 1973 MoMA plate. Cream ground standardized as off-white; subtle white-on-cream paper fragment boundaries, brush texture and aging are simplified. This is an interpretive diagram of the observed arrangement, not a photographic facsimile.",
+      "reference_url": "https://img.macba.cat/wp-content/uploads/2024/03/Bois_eng.pdf#page=10",
+      "reference_id": "research/svg-gap-v5/foundation/bois-macba-10.png"
+    },
+    {
+      "id": "gap-ormesson-1950",
+      "title": "Ormesson",
+      "canonical_id": null,
+      "outcome": "unresolved",
+      "reason": "The chronology names Ormesson 1950 and the 1951 Foundation installation labels Ormesson EK29. Only a grayscale view of its wavy strip pattern was inspected; an explicit bridge between the chronology slot and the EK object, and original pigment placement, remain unresolved.",
+      "reference_url": "https://ellsworthkelly.org/chronology/",
+      "reference_id": "research/svg-gap-v5/foundation-historical-assigned.json"
+    },
+    {
+      "id": "moma1973-pdf29-caption1",
+      "title": "Saint-Louis II",
+      "canonical_id": null,
+      "outcome": "unresolved",
+      "reason": "The 1973 plate identifies Saint-Louis II 1950, but its complex fragment arrangement is reproduced only in grayscale in the inspected source. Exact original colour placement was not independently established.",
+      "reference_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=29",
+      "reference_id": "research/svg-gap-v5/foundation/moma-pages/page-29.png"
+    },
+    {
+      "id": "ek-35",
+      "title": "Red Yellow and Blue",
+      "canonical_id": "EK 35",
+      "outcome": "unresolved",
+      "reason": "The Foundation work page explicitly confirms Red Yellow and Blue 1951, oil on canvas, but the actual image is black-and-white. The three colour names do not identify which irregular fragments received each colour; no speculative recolouring was published.",
+      "reference_url": "https://ellsworthkelly.org/work/red-yellow-and-blue/",
+      "reference_id": "research/svg-gap-v5/foundation-historical-assigned.json"
+    },
+    {
+      "id": "moma1973-pdf57-caption1",
+      "title": "Sanary",
+      "canonical_id": "EK 48",
+      "outcome": "new_svg",
+      "reason": "Six rows and seven columns transcribed in source order from actual colour plate. Small differences between blue/teal/orange hues simplified; neither frame nor page is included. Historical caption PDF57 gives51¼x60in; normalized grid aspect used because central overall measurements remain unverified.",
+      "reference_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=58",
+      "reference_id": "research/svg-gap-v5/foundation/moma-pages/page-58.png"
+    },
+    {
+      "id": "moma1973-pdf62-caption2",
+      "title": "Black and White",
+      "canonical_id": null,
+      "outcome": "new_svg",
+      "reason": "Actual black-and-white painting at lower right of PDF62. Rectangular painted white ground retained; tapering white needle divides the left black field from the upper-right field. Approximate division positions; no surrounding page or wall.",
+      "reference_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=62",
+      "reference_id": "research/svg-gap-v5/foundation/moma-pages/page-62.png"
+    },
+    {
+      "id": "moma1973-pdf68-caption1",
+      "title": "Bar",
+      "canonical_id": null,
+      "outcome": "identity_merged",
+      "reason": "Bar: the actual 1973 and 1996 plates show the same distinctive long black bar with two shallow troughs along the upper edge and an asymmetric peaked indentation at the lower middle. Both captions give96in width and oil on canvas. The 1973 height32¾in differs slightly from 1996 height33in; the 1973 date 1956 differs from 1996 date 1955. The Foundation 1956 exhibition labels the matching bar EK87. These source discrepancies remain explicit; no generic black rectangle was joined by title alone.",
+      "reference_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=68",
+      "reference_id": "research/svg-gap-v5/foundation/moma-pages/page-68.png",
+      "keep_id": "guggenheim1996-cat-28"
+    },
+    {
+      "id": "moma1973-pdf83-caption1",
+      "title": "Painting in Five Panels",
+      "canonical_id": null,
+      "outcome": "identity_merged",
+      "reason": "Painting in Five Panels: all five unequal separated canvases have the same distinctive curved and angular field arrangements. The historical caption names Mr. and Mrs. Charles H. Carpenter; Whitney records a gift of Charles H. Carpenter Jr. Height is36in in both sources. The old 1956 date differs from Whitney 1955, and historical144in installation width differs from Whitney 1405/16in; these source conflicts are retained rather than silently reconciled.",
+      "reference_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=83",
+      "reference_id": "research/svg-gap-v5/foundation/moma-pages/page-83.png",
+      "keep_id": "whitney-9295"
+    },
+    {
+      "id": "moma1973-pdf71-caption1",
+      "title": "Paname",
+      "canonical_id": null,
+      "outcome": "unresolved",
+      "reason": "The identified Paname 1957 plate was actually viewed, but it is grayscale. The angular motif is legible; original pigment placement and painted ground colour were not independently established.",
+      "reference_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=71",
+      "reference_id": "research/svg-gap-v5/foundation/moma-pages/page-71.png"
+    },
+    {
+      "id": "gap-blue-white-1962",
+      "title": "Blue White",
+      "canonical_id": null,
+      "outcome": "unresolved",
+      "reason": "Named work preserved from published existence evidence. No independently identified complete painting photograph with verified original colour placement was obtained; other same-title Blue White works cannot substitute.",
+      "reference_url": "https://ellsworthkelly.org/chronology/",
+      "reference_id": "research/svg-gap-v5/foundation-historical-assigned.json"
+    },
+    {
+      "id": "gap-red-green-blue-ii-1965",
+      "title": "Red Green Blue II",
+      "canonical_id": null,
+      "outcome": "unresolved",
+      "reason": "The Roman-numeral II/date 1965 slot remains distinct from Walker Red Green Blue 1964/EK332. No specific primary photograph was tied to this variant; the earlier nested-panel layout was not reused.",
+      "reference_url": "https://ellsworthkelly.org/chronology/",
+      "reference_id": "research/svg-gap-v5/foundation-historical-assigned.json"
+    },
+    {
+      "id": "moma1973-pdf86-caption1",
+      "title": "Series of Five Paintings",
+      "canonical_id": null,
+      "outcome": "unresolved",
+      "reason": "The actual Series of Five Paintings 1966 colour photograph shows only part of the five-work installation; the missing panels and their colour assignments cannot be reconstructed from that partial view.",
+      "reference_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=86",
+      "reference_id": "research/svg-gap-v5/foundation/moma-pages/page-86.png"
+    },
+    {
+      "id": "moma1973-pdf82-caption1",
+      "title": "Spectrum III",
+      "canonical_id": null,
+      "outcome": "identity_merged",
+      "reason": "Spectrum III: exact title and 1967 date, thirteen equal joined panels, and exact published overall33¼×108⅝in agree. The historical grayscale plate,1999 dealer installation photograph and current Fort Worth photograph have the same wide support and strip order. Historical MoMA/Janis ownership is retained as a dated source statement; the transition to the Modern’s 2022 Anne Windfohr Marion gift is not reconstructed here.",
+      "reference_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=82",
+      "reference_id": "research/svg-gap-v5/foundation/moma-pages/page-82.png",
+      "keep_id": "modern-v3-8497"
+    },
+    {
+      "id": "gap-blue-curve-i-1969",
+      "title": "Blue Curve I",
+      "canonical_id": null,
+      "outcome": "unresolved",
+      "reason": "The 1969 Roman-numeral I record remains an existence-evidence slot. Generic blue curves from other dates provide insufficient physical identity or geometry evidence.",
+      "reference_url": "https://ellsworthkelly.org/chronology/",
+      "reference_id": "research/svg-gap-v5/foundation-historical-assigned.json"
+    },
+    {
+      "id": "moma1973-pdf95-caption1",
+      "title": "Black Square with Red",
+      "canonical_id": null,
+      "outcome": "new_svg",
+      "reason": "Black upper-right square joined at side to smaller red lower-left square. Empty upper-left and lower-right areas are transparent wall, not white canvas. Actual colour plate PDF96; caption isPDF95. Historical outer ratio91¾/78in.",
+      "reference_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=96",
+      "reference_id": "research/svg-gap-v5/foundation/moma-pages/page-96.png"
+    },
+    {
+      "id": "ek-808",
+      "title": "Yellow Curve",
+      "canonical_id": "EK 808",
+      "outcome": "new_svg",
+      "reason": "Schematic silhouette in the actually photographed FLOOR PROJECTION; yellow panel only, no gallery floor/wall. This is not a reconstructed plan and cannot be compared at physical scale. Vivid yellow is interpretive.",
+      "reference_url": "https://ellsworthkelly.org/work/yellow-curve/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/ek-808.jpg"
+    },
+    {
+      "id": "ek-835",
+      "title": "Red Floor Panel",
+      "canonical_id": "EK 835",
+      "outcome": "new_svg",
+      "reason": "Schematic silhouette of the actual photographed FLOOR PROJECTION. All four observed panel corners retained, floor and mounting shadows omitted. Plan outline and rectified aspect are not asserted; excluded from physical scaling.",
+      "reference_url": "https://ellsworthkelly.org/work/red-floor-panel/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/ek-835.jpg"
+    },
+    {
+      "id": "gap-blue-white-2006",
+      "title": "Blue White",
+      "canonical_id": null,
+      "outcome": "unresolved",
+      "reason": "Named 2006 work preserved as an open slot. A specific complete photograph tied to this date and identity was not established; similarly titled blue/white paintings remain separate.",
+      "reference_url": "https://ellsworthkelly.org/chronology/",
+      "reference_id": "research/svg-gap-v5/foundation-historical-assigned.json"
+    },
+    {
+      "id": "international-v4-flv-colored-panels",
+      "title": "Colored Panels (Red, Yellow, Blue, Green, Violet)",
+      "canonical_id": null,
+      "outcome": "unresolved",
+      "reason": "This source describes a 2014 group of coloured panels. The individual component identities, overall support boundaries and installation relationships remain unverified; no invented five-panel arrangement was substituted.",
+      "reference_url": "https://www.fondationlouisvuitton.fr/en/collection/artworks/colored-panels-red-yellow-blue-green-violet",
+      "reference_id": "research/svg-gap-v5/foundation-historical-assigned.json"
+    },
+    {
+      "id": "foundation-exhib-v4-ek87-ellsworth-kelly-paintings-1951-1956",
+      "title": "Bar",
+      "canonical_id": "EK 87",
+      "outcome": "identity_merged",
+      "reason": "Bar: the actual 1973 and 1996 plates show the same distinctive long black bar with two shallow troughs along the upper edge and an asymmetric peaked indentation at the lower middle. Both captions give96in width and oil on canvas. The 1973 height32¾in differs slightly from 1996 height33in; the 1973 date 1956 differs from 1996 date 1955. The Foundation 1956 exhibition labels the matching bar EK87. These source discrepancies remain explicit; no generic black rectangle was joined by title alone.",
+      "reference_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=68",
+      "reference_id": "research/svg-gap-v5/foundation/moma-pages/page-68.png",
+      "keep_id": "guggenheim1996-cat-28"
+    },
+    {
+      "id": "foundation-exhib-v4-ek78-ellsworth-kelly-paris-new-york-1949-1959",
+      "title": "Barge",
+      "canonical_id": "EK 78",
+      "outcome": "new_svg",
+      "reason": "Near-black field has straight top and sides, with rounded lower corners on a narrow white rectangular painted ground. Frame and glazing are excluded. Approximate border thickness and corner curvature. Foundation photograph explicitly labels this title and EK identifier; medium classification remains as sourced.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paris-new-york-1949-1959/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-48.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek292-ellsworth-kelly-2",
+      "title": "Black Curve",
+      "canonical_id": "EK 292",
+      "outcome": "unresolved",
+      "reason": "The 1962 Tooth photograph labels Black Curve EK292, but the work is partly cut by the doorway and image edge. Its whole rectangular ground, curve and pigment assignment are not established by the inspected view.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-2/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-38.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek1025-ellsworth-kelly-sculpture-on-the-wall",
+      "title": "Black Form I",
+      "canonical_id": "EK 1025",
+      "outcome": "scope_excluded",
+      "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+      "reference_url": "https://ellsworthkelly.org/work/black-form-i/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-44.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek431-ellsworth-kelly-4",
+      "title": "Black Green",
+      "canonical_id": "EK 431",
+      "outcome": "unresolved",
+      "reason": "Black Green is visible in the 1973 installation. A possible Glenstone 1970 match exists, but a generic two-panel colour division without an independent EK/dimension or provenance bridge is insufficient to merge; no duplicate study was attached.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-52.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek946-ellsworth-kelly-curated-by-jack-shear",
+      "title": "Black Relief with White",
+      "canonical_id": "EK 946",
+      "outcome": "new_svg",
+      "reason": "Black trapezoidal raised panel on a rectangular white backing; the white backing is part of the work and retained. The oblique photographed outline has been approximately flattened. No identity with another same-title relief is asserted. Foundation photograph explicitly labels this title and EK identifier; medium classification remains as sourced.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-curated-by-jack-shear/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-26.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek65-ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954",
+      "title": "Black Square",
+      "canonical_id": "EK 65",
+      "outcome": "unresolved",
+      "reason": "Black Square is only partly visible at the far left of the colour installation. A generic black square cannot be merged to the 1953 historical slot without a more specific physical-identity bridge.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-75.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek380-ellsworth-kelly-a-retrospective",
+      "title": "Black White",
+      "canonical_id": "EK 380",
+      "outcome": "unresolved",
+      "reason": "The retrospective image shows a horizontal black-and-white division, but several same-title works exist. The oblique view does not establish overall dimensions or a reliable independent match to the 1967 book record.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-79.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek396-ellsworth-kelly-a-retrospective",
+      "title": "Black White",
+      "canonical_id": "EK 396",
+      "outcome": "unresolved",
+      "reason": "The retrospective identifies a square black-and-white diagonal work. A possible 1968 historical counterpart exists, but no exact EK or dimension/provenance bridge was independently verified; retained separately.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-79.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek415-ellsworth-kelly-sculpture",
+      "title": "Black White",
+      "canonical_id": "EK 415",
+      "outcome": "unresolved",
+      "reason": "The inspected sculpture installation shows a leaning black-and-white object partly behind another work. Medium, complete support and rectified geometry remain unresolved.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-14.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek951-ellsworth-kelly-sculpture-on-the-wall",
+      "title": "Black White Black",
+      "canonical_id": "EK 951",
+      "outcome": "new_svg",
+      "reason": "Three adjacent full-height painted panels: a narrower black panel at left, white at centre, and wider black at right. Width divisions are approximate after allowing for the oblique gallery view; they are not measured dimensions. Foundation photograph explicitly labels this title and EK identifier; medium classification remains as sourced.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture-on-the-wall/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-42.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek433-ellsworth-kelly-4",
+      "title": "Black Yellow-Orange",
+      "canonical_id": "EK 433",
+      "outcome": "unresolved",
+      "reason": "A black field inside a yellow-orange border appears in the 1973 installation. A possible 1970 historical match is plausible, but it was not completed with independent support dimensions or an exact primary identity bridge during this pass.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-52.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek501-ellsworth-kelly-4",
+      "title": "Black with White Triangle",
+      "canonical_id": "EK 501",
+      "outcome": "identity_merged",
+      "reason": "Black with White Triangle: the Foundation 1973 MoMA installation and the 1996 essay studio photograph show the same distinctive angled black quadrilateral joined to a white inverted triangle, with matching panel arrangement and unusually pointed joint. The book figure34 caption dates the painting 1973; the Foundation labels the installation work EK501. These are different photographs of the same specific configuration, independently checked by the market and museum researchers. The Foundation installation caption explicitly supplies EK 501. Source and target photographs were independently viewed in the saved paired comparison.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-53.jpg",
+      "keep_id": "guggenheim1996-essay-37-fig-34b"
+    },
+    {
+      "id": "foundation-exhib-v4-ek323-ellsworth-kelly-4",
+      "title": "Blue Disk",
+      "canonical_id": "EK 323",
+      "outcome": "scope_excluded",
+      "reason": "The primary MoMA 1973 catalogue caption on PDF83 explicitly identifies Blue Disk 1963 as painted aluminum,70in×6ft. The Foundation-captioned 1973 installation labels the same freestanding blue disk EK323. This is a metal sculpture, outside the canvas, wood and painted-relief scope.",
+      "reference_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=83",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-65.jpg"
+    },
+    {
+      "id": "gap-blue-green-undated",
+      "title": "Blue Green",
+      "canonical_id": null,
+      "outcome": "unresolved",
+      "reason": "The source preserves a named work, but a specifically identified complete image with verified support boundaries, original colour placement and painting-scope material was not established. No generic same-title work was substituted.",
+      "reference_url": "https://ellsworthkelly.org/chronology/",
+      "reference_id": "research/svg-gap-v5/foundation-historical-assigned.json"
+    },
+    {
+      "id": "foundation-exhib-v4-ek806-blue-green-black-red",
+      "title": "Blue Green Black Red",
+      "canonical_id": "EK 806",
+      "outcome": "scope_excluded",
+      "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+      "reference_url": "https://ellsworthkelly.org/work/blue-green-black-red/",
+      "reference_id": "research/svg-gap-v5/foundation-historical-assigned.json"
+    },
+    {
+      "id": "foundation-exhib-v4-ek249-ellsworth-kelly-2",
+      "title": "Blue Pale Gray",
+      "canonical_id": "EK 249",
+      "outcome": "identity_merged",
+      "reason": "Blue Pale Gray: identical distinctive blue double-lobed form with long curling lower stem, on the same narrow portrait support. The dated 1960 work precedes the documented 1962 Tooth installation. This is not a generic blue panel. The Foundation installation caption explicitly supplies EK 249. Source and target photographs were independently viewed in the saved paired comparison.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-2/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-39.jpg",
+      "keep_id": "christies-6482948"
+    },
+    {
+      "id": "foundation-exhib-v4-ek321-ellsworth-kelly-4",
+      "title": "Blue Red Rocker",
+      "canonical_id": "EK 321",
+      "outcome": "scope_excluded",
+      "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+      "reference_url": "https://ellsworthkelly.org/work/blue-red-rocker/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-53.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek521-ellsworth-kelly-paintings-and-sculptures-1963-1979",
+      "title": "Blue Red Rocker",
+      "canonical_id": "EK 521",
+      "outcome": "unresolved",
+      "reason": "The source preserves a named work, but a specifically identified complete image with verified support boundaries, original colour placement and painting-scope material was not established. No generic same-title work was substituted.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-and-sculptures-1963-1979/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-37.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek317-ellsworth-kelly-4",
+      "title": "Blue over Blue",
+      "canonical_id": "EK 317",
+      "outcome": "unresolved",
+      "reason": "Blue over Blue is visible in colour, but the possible LACMA Blue on Blue 1963 comparison has a name and height/depth discrepancy; the 1973 catalogue also describes a similar painted-aluminium work. Neither scope nor physical identity was assumed.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-55.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek162-ellsworth-kelly",
+      "title": "Brooklyn Bridge II",
+      "canonical_id": "EK 162",
+      "outcome": "unresolved",
+      "reason": "Brooklyn Bridge II is visible in a grayscale 1958 installation only. Original colour placement and the painted support boundaries cannot be safely inferred from that image.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-22.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek226-sixteen-americans",
+      "title": "Charter",
+      "canonical_id": "EK 226",
+      "outcome": "unresolved",
+      "reason": "Charter is visible in the 1959 grayscale installation. The two tonal fields do not establish their original pigments; a painting was not recoloured using title or tonal rank alone.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/sixteen-americans/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-68.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek33-kelly-peintures-et-reliefs",
+      "title": "Colors on Wood",
+      "canonical_id": "EK 33",
+      "outcome": "unresolved",
+      "reason": "Colors on Wood is visible only in a small grayscale 1951 installation view. Original colours and precise fragment placements remain unresolved.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/kelly-peintures-et-reliefs/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-17.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek654-ellsworth-kelly-sculpture",
+      "title": "Concorde Angle",
+      "canonical_id": "EK 654",
+      "outcome": "scope_excluded",
+      "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+      "reference_url": "https://ellsworthkelly.org/work/concorde-angle/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-11.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek506-ellsworth-kelly-4",
+      "title": "Curve I",
+      "canonical_id": "EK 506",
+      "outcome": "scope_excluded",
+      "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+      "reference_url": "https://ellsworthkelly.org/work/curve-i/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-54.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek517-ellsworth-kelly-paintings-and-sculptures-1963-1979",
+      "title": "Curve III",
+      "canonical_id": "EK 517",
+      "outcome": "unresolved",
+      "reason": "Curve III appears in a 1979 installation photograph with freestanding sculptures. Exact material and the complete curve/support relation were not independently established; it remains a provisional candidate.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-and-sculptures-1963-1979/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-34.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek527-ellsworth-kelly-5",
+      "title": "Curve XII",
+      "canonical_id": "EK 527",
+      "outcome": "scope_excluded",
+      "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+      "reference_url": "https://ellsworthkelly.org/work/curve-xii/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-12.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek528-ellsworth-kelly-sculpture",
+      "title": "Curve XIII",
+      "canonical_id": "EK 528",
+      "outcome": "unresolved",
+      "reason": "The photographed folded sheet-like Curve XIII could be sculpture; exact primary material and unfolded support geometry were not verified. No wall-like white polygon was invented.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-9.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek627-ellsworth-kelly-sculpture",
+      "title": "Curve XXV",
+      "canonical_id": "EK 627",
+      "outcome": "unresolved",
+      "reason": "Curve XXV is partly obscured in a sculpture installation; the material and complete support are unverified.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-9.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek630-ellsworth-kelly-sculpture",
+      "title": "Curve XXVII",
+      "canonical_id": "EK 630",
+      "outcome": "unresolved",
+      "reason": "Curve XXVII appears as a freestanding curved form. Its exact primary medium, full rear boundary and projection remain unresolved.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-12.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek651-ellsworth-kelly-sculpture",
+      "title": "Curve XXX",
+      "canonical_id": "EK 651",
+      "outcome": "unresolved",
+      "reason": "Curve XXX appears among freestanding sheets in a sculpture exhibition; exact medium and full outline remain unverified.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-7.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek653-ellsworth-kelly-sculpture",
+      "title": "Curve XXXII",
+      "canonical_id": "EK 653",
+      "outcome": "unresolved",
+      "reason": "Curve XXXII is a probable metal-sculpture counterpart of a historical catalogue entry, but an exact EK/material bridge was not completed. It remains a candidate rather than an inferred exclusion.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-7.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek674-ellsworth-kelly-sculpture",
+      "title": "Curve XXXIII",
+      "canonical_id": "EK 674",
+      "outcome": "unresolved",
+      "reason": "Curve XXXIII appears as a black leaf-like wall form in a sculpture installation. Material and an exact independent physical-identity match remain unverified.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-13.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek657-ellsworth-kelly-sculpture",
+      "title": "Dark Blue Panel",
+      "canonical_id": "EK 657",
+      "outcome": "unresolved",
+      "reason": "Dark Blue Panel is visible as a small dark leaning panel in a sculpture installation; exact medium and complete silhouette are not independently established.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-5.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek346-ellsworth-kelly-3",
+      "title": "Dark Blue Red",
+      "canonical_id": "EK 346",
+      "outcome": "unresolved",
+      "reason": "Dark Blue Red appears in a grayscale Ferus 1966 photograph. Which observed tonal field is blue versus red was not independently confirmed in colour or a placement description.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-3/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-24.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek248-ellsworth-kelly-2",
+      "title": "Dark Blue White",
+      "canonical_id": "EK 248",
+      "outcome": "unresolved",
+      "reason": "Dark Blue White appears as two rounded dark lobes on white in a grayscale 1962 installation. A complete independently identified colour reference and exact support proportions were not obtained.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-2/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-40.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek663-ellsworth-kelly-sculpture",
+      "title": "Dark Red-Violet Panel",
+      "canonical_id": "EK 663",
+      "outcome": "unresolved",
+      "reason": "Dark Red-Violet Panel is a small leaning form in a sculpture installation; medium and complete rectified outline remain unresolved.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-5.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek7-ellsworth-kelly-paris-new-york-1949-1959",
+      "title": "Deesis I",
+      "canonical_id": "EK 7",
+      "outcome": "unresolved",
+      "reason": "Deesis I appears in a historical-works installation, but the small image does not resolve the marks and support sufficiently for a faithful vector reconstruction.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paris-new-york-1949-1959/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-45.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek564-ellsworth-kelly-paintings-and-sculptures-1963-1979",
+      "title": "Diagonal with Curve III",
+      "canonical_id": "EK 564",
+      "outcome": "unresolved",
+      "reason": "A possible 1978 Diagonal with Curve III book counterpart exists. The source installation is grayscale and the exact EK identity/dimensions bridge has not been completed; no generic diagonal curve was merged.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-and-sculptures-1963-1979/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-35.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek593-ellsworth-kelly-paintings-and-sculptures-1963-1979",
+      "title": "Diagonal with Curve IX",
+      "canonical_id": "EK 593",
+      "outcome": "unresolved",
+      "reason": "Diagonal with Curve IX appears as a narrow dark diagonal panel in a sculpture installation. Complete support boundaries and primary medium remain uncertain.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-9.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek1086-ellsworth-kelly-5",
+      "title": "Double Curves",
+      "canonical_id": "EK 1086",
+      "outcome": "scope_excluded",
+      "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+      "reference_url": "https://ellsworthkelly.org/work/double-curves/",
+      "reference_id": "research/svg-gap-v5/foundation-historical-assigned.json"
+    },
+    {
+      "id": "foundation-exhib-v4-ek182-ellsworth-kelly-curated-by-jack-shear",
+      "title": "Falcon Study",
+      "canonical_id": "EK 182",
+      "outcome": "new_svg",
+      "reason": "Central study has a narrow tapering black wedge at left, a broad cut-off black shape at upper right, and a pointed black triangle rising from the lower edge. White rectangular support retained, surrounding frame omitted. Foundation photograph explicitly labels this title and EK identifier; medium classification remains as sourced.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-curated-by-jack-shear/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-27.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek31-kelly-peintures-et-reliefs",
+      "title": "Fond Noir",
+      "canonical_id": "EK 31",
+      "outcome": "unresolved",
+      "reason": "Fond Noir is known from the 1951 grayscale installation. The title confirms a dark ground, but the fragment pigments and complete arrangement are not established.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/kelly-peintures-et-reliefs/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-19.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek228-ellsworth-kelly-3",
+      "title": "Gate",
+      "canonical_id": "EK 228",
+      "outcome": "scope_excluded",
+      "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+      "reference_url": "https://ellsworthkelly.org/work/gate/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-24.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek540-ellsworth-kelly-paintings-and-sculptures-1963-1979",
+      "title": "Gray Panels",
+      "canonical_id": "EK 540",
+      "outcome": "unresolved",
+      "reason": "Gray Panels is visible in grayscale, but the tonal rank of four panels does not establish their original neutral pigment values or exact panel widths. No substitute gray palette was published.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-and-sculptures-1963-1979/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-33.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek414-ellsworth-kelly-4",
+      "title": "Green Blue",
+      "canonical_id": "EK 414",
+      "outcome": "unresolved",
+      "reason": "Green Blue is visible in grayscale near sculptures. Colour placement, complete support and medium remain unresolved; the title alone cannot assign the observed tones.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-9.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek859-ellsworth-kelly-a-retrospective",
+      "title": "Green Curve",
+      "canonical_id": "EK 859",
+      "outcome": "identity_merged",
+      "reason": "Green Curve: the same distinctive green wedge has a vertical left edge, short convex upper edge and long diagonal descending to the lower-left point. The colour photograph is from the same 1996 retrospective as the dated 1996 catalogue entry104; the outline and aspect agree. This is not the later 1999 High Museum work. The Foundation installation caption explicitly supplies EK 859. Source and target photographs were independently viewed in the saved paired comparison.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-81.jpg",
+      "keep_id": "guggenheim1996-cat-104"
+    },
+    {
+      "id": "foundation-exhib-v4-ek215-ellsworth-kelly-2",
+      "title": "Green White",
+      "canonical_id": "EK 215",
+      "outcome": "unresolved",
+      "reason": "Green White appears as a rounded field on a rectangular support in a grayscale photograph. Exact pigment placement and independently rectified geometry remain unresolved.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-2/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-40.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek169-ellsworth-kelly-a-retrospective",
+      "title": "Jersey",
+      "canonical_id": "EK 169",
+      "outcome": "unresolved",
+      "reason": "Jersey appears small and distant in the 1996 installation. A possible historical 1958 counterpart exists, but the small generic diagonal fields and missing independent dimensions were insufficient for a physical-identity join.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-76.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek34-ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954",
+      "title": "La Combe II",
+      "canonical_id": "EK 34",
+      "outcome": "identity_merged",
+      "reason": "La Combe II: the nine-panel hinged wooden screen has the same distinctive black stair-shadow fragments on white. The actual 1950 screen reproduced beside the historical caption and the colour 1992 Foundation installation agree in panel count, format and fragment arrangement. This is distinct from the flat canvas La Combe I. Historical 1973 date 1950 and 1996 essay date 1950–1951 remain reported source differences.",
+      "reference_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=40",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-70.jpg",
+      "keep_id": "moma1973-pdf40-caption2"
+    },
+    {
+      "id": "foundation-exhib-v4-ek665-ellsworth-kelly-sculpture",
+      "title": "Light Green Panel",
+      "canonical_id": "EK 665",
+      "outcome": "unresolved",
+      "reason": "Light Green Panel is visible leaning against a wall in a sculpture installation. The medium and exact physical form were not independently confirmed.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-5.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek144-ellsworth-kelly",
+      "title": "Manhattan",
+      "canonical_id": "EK 144",
+      "outcome": "unresolved",
+      "reason": "Manhattan appears in the 1958 grayscale installation as curved vertical strips. Its original pigments and exact strip outlines remain unresolved.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-20.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek17-kelly-peintures-et-reliefs",
+      "title": "Medieval Landscape",
+      "canonical_id": "EK 17",
+      "outcome": "unresolved",
+      "reason": "Medieval Landscape is visible only as a small grayscale early work. Detailed drawn/painted marks and original pigment placement cannot be reconstructed faithfully from this reference.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/kelly-peintures-et-reliefs/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-18.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek211-ellsworth-kelly-4",
+      "title": "Orange Red Relief",
+      "canonical_id": "EK 211",
+      "outcome": "identity_merged",
+      "reason": "Orange Red Relief: the same two tall panels join vertically, orange at left and red at right, with the left panel projecting slightly. Both the Foundation photograph and the historical caption document the 1973 MoMA retrospective, where the caption dates it 1959; the later Marks image shows the same relief junction. The Foundation installation caption explicitly supplies EK 211. Source and target photographs were independently viewed in the saved paired comparison.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-62.jpg",
+      "keep_id": "moma1973-pdf66-caption1"
+    },
+    {
+      "id": "foundation-exhib-v4-ek268-ellsworth-kelly-2",
+      "title": "Orange White",
+      "canonical_id": "EK 268",
+      "outcome": "unresolved",
+      "reason": "Orange White appears in a grayscale 1962 installation. The broad rounded field and narrow wedges are visible, but original colour placement is not independently established.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-2/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-38.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek446-ellsworth-kelly-4",
+      "title": "Orange with Green",
+      "canonical_id": "EK 446",
+      "outcome": "unresolved",
+      "reason": "Orange with Green appears only partly in the inspected 1973 colour installation. Its full panel boundaries and layout are obscured; no unseen fields were invented.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-58.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek29-kelly-peintures-et-reliefs",
+      "title": "Ormesson",
+      "canonical_id": "EK 29",
+      "outcome": "unresolved",
+      "reason": "Ormesson EK29 is explicitly labelled in the 1951 grayscale installation. The shape is visible, but original pigments are not established; the separate chronology 1950 named slot has no explicit identity bridge.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/kelly-peintures-et-reliefs/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-18.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek229-ellsworth-kelly-a-retrospective",
+      "title": "Pony",
+      "canonical_id": "EK 229",
+      "outcome": "scope_excluded",
+      "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+      "reference_url": "https://ellsworthkelly.org/work/pony/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-76.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek796-ellsworth-kelly-a-retrospective",
+      "title": "Purple Panel with Blue Curve",
+      "canonical_id": "EK 796",
+      "outcome": "identity_merged",
+      "reason": "Purple Panel with Blue Curve: identical blue curved sector joined along its vertical right edge to a lower purple rectangle. The unusual joined silhouette, colour placement and support proportions agree with the 1989 auction painting shown in the 1996 retrospective. The Foundation installation caption explicitly supplies EK 796. Source and target photographs were independently viewed in the saved paired comparison.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-80.jpg",
+      "keep_id": "sothebys-en-auctions-ecatalogue-2017-contemporary-art-evening-auction-n09713-lot-42-html"
+    },
+    {
+      "id": "foundation-exhib-v4-ek291-ellsworth-kelly-2",
+      "title": "Red Black Blue",
+      "canonical_id": "EK 291",
+      "outcome": "unresolved",
+      "reason": "Red Black Blue is visible in a grayscale 1962 installation. Three colour names do not identify which tonal fields received those pigments; it remains open.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-2/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-40.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek746-ellsworth-kelly-sculpture-on-the-wall",
+      "title": "Red Curve",
+      "canonical_id": "EK 746",
+      "outcome": "new_svg",
+      "reason": "Red sector-shaped support identified at left in the Barnes installation. Two straight lower edges meet at a low point beneath a broad convex upper arc. Approximate outline only; painted support separated from the wall. Foundation photograph explicitly labels this title and EK identifier; medium classification remains as sourced.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture-on-the-wall/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-41.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek491-la-couleur-seule-lexperience-du-monochrome-color-alone-the-monochrome-as-experiment",
+      "title": "Red Curve IV",
+      "canonical_id": "EK 491",
+      "outcome": "unresolved",
+      "reason": "The source preserves a named work, but a specifically identified complete image with verified support boundaries, original colour placement and painting-scope material was not established. No generic same-title work was substituted.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/la-couleur-seule-lexperience-du-monochrome-color-alone-the-monochrome-as-experiment/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-50.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek81-ellsworth-kelly-paintings-1951-1956",
+      "title": "Red Curves",
+      "canonical_id": "EK 81",
+      "outcome": "unresolved",
+      "reason": "The 1956 Foundation photo explicitly labels Red Curves EK81 and shows the paired curved motif. The primary Menil 2017–18 article confirms 1955 oil on linen,45×35in, but its old CloudFront host failed DNS/web502; the current site path is404 and native search returned504. No actual colour image was acquired, so no speculative red/white study was published.",
+      "reference_url": "https://d27m4mjhi8p0i4.cloudfront.net/read/articles/23-ellsworth-kelly-at-the-menil",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-32.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek852-ellsworth-kelly-a-retrospective",
+      "title": "Red Curves",
+      "canonical_id": "EK 852",
+      "outcome": "identity_merged",
+      "reason": "Red Curves: identical tall red shape bounded by two curved edges, with the same pointed lower end and narrow upper-left end. Its distinctive outline and portrait aspect agree with the 1996 SFMOMA painting, shown in the 1996 retrospective. The Foundation installation caption explicitly supplies EK 852. Source and target photographs were independently viewed in the saved paired comparison.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-81.jpg",
+      "keep_id": "sfmoma-513-3"
+    },
+    {
+      "id": "foundation-exhib-v4-ek388-ellsworth-kelly-4",
+      "title": "Red Green",
+      "canonical_id": "EK 388",
+      "outcome": "identity_merged",
+      "reason": "Red Green: two unequal quadrilateral canvases join diagonally in the same distinctive descending silhouette and proportions. The 1968 SFMOMA work precedes the documented 1979 installation. The support outline, not merely the two colour names, establishes the match. The Foundation installation caption explicitly supplies EK 388. Source and target photographs were independently viewed in the saved paired comparison.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-and-sculptures-1963-1979/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-33.jpg",
+      "keep_id": "sfmoma-501-4"
+    },
+    {
+      "id": "foundation-exhib-v4-ek332-ellsworth-kelly-3",
+      "title": "Red Green Blue",
+      "canonical_id": "EK 332",
+      "outcome": "identity_merged",
+      "reason": "Red Green Blue: the same distinctive nested rectangular arrangement appears on the same portrait support, with a small lower-left red rectangle inside a larger green rectangle and a blue outer L-shaped panel. Walker dates its painting 1964; the source installation is Ferus 1966. The separately named 1965 Red Green Blue II has not been joined. The Foundation installation caption explicitly supplies EK 332. Source and target photographs were independently viewed in the saved paired comparison.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-3/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-25.jpg",
+      "keep_id": "museum-v2-walker-red-green-blue"
+    },
+    {
+      "id": "foundation-exhib-v4-ek141-ellsworth-kelly",
+      "title": "Red White",
+      "canonical_id": "EK 141",
+      "outcome": "unresolved",
+      "reason": "Red White appears as an angular field in a grayscale 1958 installation. Exact colour placement and support boundaries remain unresolved.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-21.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek296-exhibition-biennale-xxxiii",
+      "title": "Red White",
+      "canonical_id": "EK 296",
+      "outcome": "unresolved",
+      "reason": "Red White appears in a grayscale Venice 1966 installation; the rounded two-lobed field is legible, but independent colour placement was not confirmed. The title alone was not used to assign pigments.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/exhibition-biennale-xxxiii/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-1.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek56-ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954",
+      "title": "Red Yellow Blue White and Black",
+      "canonical_id": "EK 56",
+      "outcome": "identity_merged",
+      "reason": "Red Yellow Blue White and Black: the same SIX equal vertical strips occur in the exact order red, white, black, yellow, white, blue. The specific 1953 Marks work agrees with this unusual repeated-white sequence and landscape aspect. Guggenheim 1996 catalogue19 is expressly NOT included: its identity remains under separate review. The Foundation installation caption explicitly supplies EK 56. Source and target photographs were independently viewed in the saved paired comparison.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-74.jpg",
+      "keep_id": "matthewmarks-kele-pa-45015"
+    },
+    {
+      "id": "foundation-exhib-v4-ek16-ellsworth-kelly-paris-new-york-1949-1959",
+      "title": "Romantic Landscape",
+      "canonical_id": "EK 16",
+      "outcome": "unresolved",
+      "reason": "Romantic Landscape is too small in the inspected historical-works installation for its detailed marks and support to be reconstructed accurately.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paris-new-york-1949-1959/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-45.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek30-kelly-peintures-et-reliefs",
+      "title": "Royan",
+      "canonical_id": "EK 30",
+      "outcome": "unresolved",
+      "reason": "Royan appears in the 1951 grayscale installation as a long composition with curved line fragments. Original colours and exact fragment geometry remain unresolved.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/kelly-peintures-et-reliefs/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-15.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek230-sixteen-americans",
+      "title": "Running White",
+      "canonical_id": "EK 230",
+      "outcome": "identity_merged",
+      "reason": "Running White: the same distinctive off-centre tilted white ring crosses the black rectangular support and continues as a separate sloping lower band. The Foundation photograph documents Sixteen Americans at MoMA in 1959, matching the dated 1959 MoMA object and its unique form. The Foundation installation caption explicitly supplies EK 230. Source and target photographs were independently viewed in the saved paired comparison.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/sixteen-americans/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-66.jpg",
+      "keep_id": "moma-78403"
+    },
+    {
+      "id": "foundation-exhib-v4-ek112-ellsworth-kelly-a-centennial-celebration",
+      "title": "Sculpture for a Large Wall",
+      "canonical_id": "EK 112",
+      "outcome": "scope_excluded",
+      "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+      "reference_url": "https://ellsworthkelly.org/work/sculpture-for-a-large-wall/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-41.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-eka-31-ellsworth-kelly-paris-new-york-1949-1959",
+      "title": "Seaweed",
+      "canonical_id": "EK A.31",
+      "outcome": "unresolved",
+      "reason": "The source preserves a named work, but a specifically identified complete image with verified support boundaries, original colour placement and painting-scope material was not established. No generic same-title work was substituted.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paris-new-york-1949-1959/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-45.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek180-ellsworth-kelly-curated-by-jack-shear",
+      "title": "Slip Study",
+      "canonical_id": "EK 180",
+      "outcome": "new_svg",
+      "reason": "Small black-and-white study at left of the explicitly captioned installation photograph. Broad black upper field and white lower field with a rounded lower-left transition; frame excluded. Paper or canvas medium remains unverified. Foundation photograph explicitly labels this title and EK identifier; medium classification remains as sourced.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-curated-by-jack-shear/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-27.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek384-ellsworth-kelly-4",
+      "title": "Spectrum IV",
+      "canonical_id": "EK 384",
+      "outcome": "identity_merged",
+      "reason": "Spectrum IV: the thirteen equal full-height strips form the same nearly square joined support. The Foundation photograph is the 1973 MoMA retrospective installation, matching the named 1967 MoMA painting; the Roman numeral distinguishes it from the much wider Spectrum III. The Foundation installation caption explicitly supplies EK 384. Source and target photographs were independently viewed in the saved paired comparison.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-55.jpg",
+      "keep_id": "moma-79739"
+    },
+    {
+      "id": "foundation-exhib-v4-ek98-ellsworth-kelly-paris-new-york-1949-1959",
+      "title": "Study for Atlantic",
+      "canonical_id": "EK 98",
+      "outcome": "identity_merged",
+      "reason": "Study for Atlantic: identical two-part black ground with two different white curved bands, including the narrow upward-pointing centre junction. The 1956 study and 2006 historical installation have the same landscape support and distinctive unequal curves. The Foundation installation caption explicitly supplies EK 98. Source and target photographs were independently viewed in the saved paired comparison.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paris-new-york-1949-1959/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-48.jpg",
+      "keep_id": "matthewmarks-kele-pa-50646"
+    },
+    {
+      "id": "foundation-exhib-v4-ek672-ellsworth-kelly-sculpture",
+      "title": "Study for Large Red Panel",
+      "canonical_id": "EK 672",
+      "outcome": "unresolved",
+      "reason": "Study for Large Red Panel is a small diamond-like object in the sculpture installation. The primary medium and exact three-dimensional support relation remain unresolved.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-5.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek60-ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954",
+      "title": "Tiger",
+      "canonical_id": "EK 60",
+      "outcome": "identity_merged",
+      "reason": "Tiger: the exact five-panel arrangement and colour order agree: yellow, red and orange across the top, with large white and black panels below. The 1953 NGA painting falls within the 1948–1954 scope of this Foundation-captioned exhibition. Both the unequal panel widths and the low top-row height agree. The Foundation installation caption explicitly supplies EK 60. Source and target photographs were independently viewed in the saved paired comparison.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-75.jpg",
+      "keep_id": "nga-75042"
+    },
+    {
+      "id": "foundation-exhib-v4-ek89-ellsworth-kelly",
+      "title": "Times Square",
+      "canonical_id": "EK 89",
+      "outcome": "unresolved",
+      "reason": "Times Square appears in a grayscale 1958 installation; its opposed rounded fields are visible, but original colour placement is unverified.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-21.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek70-ellsworth-kelly-paintings-1951-1956",
+      "title": "Two Blacks, White and Blue",
+      "canonical_id": "EK 70",
+      "outcome": "unresolved",
+      "reason": "Two Blacks, White and Blue is visible only obliquely in a grayscale 1956 installation. Exact panel order, original blue location and overall support were not established independently.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-1951-1956/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-31.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek1046-ellsworth-kelly-sculpture-on-the-wall",
+      "title": "Two Curves",
+      "canonical_id": "EK 1046",
+      "outcome": "new_svg",
+      "reason": "White lens-shaped painted support with two different convex curves meeting at pointed ends. This white work remains separate from the black Two Curves 2012 Marks painting; no identity based on title alone. Foundation photograph explicitly labels this title and EK identifier; medium classification remains as sourced.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture-on-the-wall/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-42.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek52-ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954",
+      "title": "Two Yellows",
+      "canonical_id": "EK 52",
+      "outcome": "unresolved",
+      "reason": "Two Yellows is visible in colour as a5×5 grid. A likely 1952 dealer counterpart exists, but the individual yellow values and physical identity were not fully resolved; no invented alternation of yellow shades was published.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-1951-1956/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-32.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-eka-21-ellsworth-kelly-paris-new-york-1949-1959",
+      "title": "Ubu",
+      "canonical_id": "EK A.21",
+      "outcome": "unresolved",
+      "reason": "The source preserves a named work, but a specifically identified complete image with verified support boundaries, original colour placement and painting-scope material was not established. No generic same-title work was substituted.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paris-new-york-1949-1959/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-45.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek582-ellsworth-kelly-sculpture",
+      "title": "Untitled",
+      "canonical_id": "EK 582",
+      "outcome": "unresolved",
+      "reason": "Untitled EK582 appears in a sculpture installation. Its exact material and full support relation remain unverified; similarly titled objects cannot supply them.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-10.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek583-ellsworth-kelly-sculpture",
+      "title": "Untitled",
+      "canonical_id": "EK 583",
+      "outcome": "unresolved",
+      "reason": "Untitled EK583 appears as a rust-coloured upright slab in a sculpture installation. Its exact primary material is unverified; appearance alone was not used to declare a metal exclusion.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-5.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek590-ellsworth-kelly-paintings-and-sculptures-1963-1979",
+      "title": "Untitled",
+      "canonical_id": "EK 590",
+      "outcome": "scope_excluded",
+      "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+      "reference_url": "https://ellsworthkelly.org/work/untitled-2/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-14.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek650-ellsworth-kelly-sculpture",
+      "title": "Untitled",
+      "canonical_id": "EK 650",
+      "outcome": "unresolved",
+      "reason": "Untitled EK650 appears among freestanding sheets. Exact medium and complete outline remain unresolved.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-7.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek656-ellsworth-kelly-sculpture",
+      "title": "Untitled",
+      "canonical_id": "EK 656",
+      "outcome": "unresolved",
+      "reason": "Untitled EK656 appears in a sculpture installation, but exact medium and complete support geometry remain unresolved.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-11.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek694-blue-green-black-red",
+      "title": "Untitled",
+      "canonical_id": "EK 694",
+      "outcome": "scope_excluded",
+      "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+      "reference_url": "https://ellsworthkelly.org/work/untitled-6/",
+      "reference_id": "research/svg-gap-v5/foundation-historical-assigned.json"
+    },
+    {
+      "id": "foundation-exhib-v4-ek750-ellsworth-kelly-a-retrospective",
+      "title": "Untitled",
+      "canonical_id": "EK 750",
+      "outcome": "unresolved",
+      "reason": "Untitled EK750 is a long thin black standing form in a 1996 colour installation. Exact material, depth and rectified silhouette are unverified; no painting medium was inferred.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-80.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek866-ellsworth-kelly-5",
+      "title": "Untitled",
+      "canonical_id": "EK 866",
+      "outcome": "scope_excluded",
+      "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+      "reference_url": "https://ellsworthkelly.org/work/untitled-8/",
+      "reference_id": "research/svg-gap-v5/foundation-historical-assigned.json"
+    },
+    {
+      "id": "foundation-exhib-v4-ek217-sixteen-americans",
+      "title": "Wave Motif",
+      "canonical_id": "EK 217",
+      "outcome": "unresolved",
+      "reason": "Wave Motif is visible in a 1959 grayscale installation. Its original palette and the boundary between painted support and surrounding wall were not independently established.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/sixteen-americans/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-67.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek357-ellsworth-kelly-a-retrospective",
+      "title": "White Angle",
+      "canonical_id": "EK 357",
+      "outcome": "scope_excluded",
+      "reason": "Foundation explicitEK357WhiteAngle installation photo shows the same L-shaped floor sculpture as current Guggenheim WhiteAngle 1966. Museum artist/object record explicitly painted aluminum183.5×91.4×183.5cm;1996 catalogue47 corroborates material. Not canvas wall/floor BlueRed.",
+      "reference_url": "https://www.guggenheim.org/artwork/2072",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-0.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek246-ellsworth-kelly-a-retrospective",
+      "title": "White Black",
+      "canonical_id": "EK 246",
+      "outcome": "unresolved",
+      "reason": "White Black EK246 is clearly visible in the colour 1996 installation as a tall white ground with black triangular intrusions. A Christie 1961 painting has compatible dimensions, but its actual primary image/provenance bridge was unavailable. No identity merge was made; this identified Foundation image remains an available drawing lead after this frozen pass.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-78.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek282-ellsworth-kelly-2",
+      "title": "White Black",
+      "canonical_id": "EK 282",
+      "outcome": "identity_merged",
+      "reason": "White Black: identical square black ground crossed by a broad white curved band at the top; the distinctive endpoints and thin black top-right corner agree. Christie’s dates the painting 1962, consistent with the 1962 Tooth installation. EK246 is a different angular composition and remains separate. The Foundation installation caption explicitly supplies EK 282. Source and target photographs were independently viewed in the saved paired comparison.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-2/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-38.jpg",
+      "keep_id": "christies-6606713"
+    },
+    {
+      "id": "foundation-exhib-v4-ek1087-ellsworth-kelly-5",
+      "title": "White Curve",
+      "canonical_id": "EK 1087",
+      "outcome": "scope_excluded",
+      "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+      "reference_url": "https://ellsworthkelly.org/work/white-curve-2/",
+      "reference_id": "research/svg-gap-v5/foundation-historical-assigned.json"
+    },
+    {
+      "id": "foundation-exhib-v4-ek516-ellsworth-kelly-paintings-and-sculptures-1963-1979",
+      "title": "White Curve",
+      "canonical_id": "EK 516",
+      "outcome": "scope_excluded",
+      "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+      "reference_url": "https://ellsworthkelly.org/work/white-curve/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-36.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek1057-monet-kelly",
+      "title": "White Curve in Relief over White (Belle–Île)",
+      "canonical_id": "EK 1057",
+      "outcome": "identity_merged",
+      "reason": "Identical distinctive downward white triangular support with a shallow raised curved white panel crossing its upper edge. The Foundation Monet/Kelly photograph labels EK 1057; the specific Marks 2013 Belle-Île work has the same support, relief contour and unusual subtitle. The market researcher independently confirmed this pair.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/monet-kelly/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-4.jpg",
+      "keep_id": "matthewmarks-white-curve-in-relief-over-white-belle-ile-2013-39467"
+    },
+    {
+      "id": "foundation-exhib-v4-ek294-ellsworth-kelly-2",
+      "title": "White Dark Blue",
+      "canonical_id": "EK 294",
+      "outcome": "unresolved",
+      "reason": "White Dark Blue is visible in a grayscale 1962 installation. Although its jagged motif is clear, original colour placement and exact support proportions remain unresolved.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-2/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-39.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek276-ellsworth-kelly-sculpture",
+      "title": "White Disk III",
+      "canonical_id": "EK 276",
+      "outcome": "unresolved",
+      "reason": "White Disk III is visible as a white disk in a sculpture installation. A possible Art Institute work exists, but no independent EK/dimension bridge was verified here; generic disk similarity alone did not justify merging.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-6.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek149-ellsworth-kelly",
+      "title": "White Green",
+      "canonical_id": "EK 149",
+      "outcome": "unresolved",
+      "reason": "White Green appears in a grayscale 1958 installation. The original green placement and complete support boundary are not verified.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-20.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek1024-ellsworth-kelly-curated-by-jack-shear",
+      "title": "White Plaque: Bridge Arch and Reflection II",
+      "canonical_id": "EK 1024",
+      "outcome": "new_svg",
+      "reason": "Two rounded white lobes meet at a shallow inward waist. The centre is painted white, not a hole. Cast shadows and gallery wall omitted; subtle surface seam simplified. Foundation photograph explicitly labels this title and EK identifier; medium classification remains as sourced.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-curated-by-jack-shear/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-29.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek322-ellsworth-kelly-5",
+      "title": "White Ring",
+      "canonical_id": "EK 322",
+      "outcome": "scope_excluded",
+      "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+      "reference_url": "https://ellsworthkelly.org/work/white-ring/",
+      "reference_id": "research/svg-gap-v5/foundation-historical-assigned.json"
+    },
+    {
+      "id": "foundation-exhib-v4-ek419-ellsworth-kelly-4",
+      "title": "White Sculpture I",
+      "canonical_id": "EK 419",
+      "outcome": "unresolved",
+      "reason": "White Sculpture I is a freestanding irregular white object; medium, rear boundary and rectified form remain unresolved.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-8.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek417-ellsworth-kelly-sculpture",
+      "title": "White Sculpture II",
+      "canonical_id": "EK 417",
+      "outcome": "unresolved",
+      "reason": "White Sculpture II is a leaning white quadrilateral photographed obliquely. Exact medium and true outline were not independently confirmed.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-10.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek64-ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954",
+      "title": "White Square",
+      "canonical_id": "EK 64",
+      "outcome": "unresolved",
+      "reason": "White Square is a generic white square in the historical exhibition. No independent EK/dimension or provenance bridge to the 1953 historical book work was established; it remains separate.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-75.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek134-ellsworth-kelly",
+      "title": "White Yellow",
+      "canonical_id": "EK 134",
+      "outcome": "unresolved",
+      "reason": "White Yellow appears in a grayscale 1958 installation; exact yellow placement and support relationship remain unverified.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-21.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek100-ellsworth-kelly",
+      "title": "White and Black",
+      "canonical_id": "EK 100",
+      "outcome": "unresolved",
+      "reason": "White and Black is photographed obliquely in grayscale. The support and white field cannot be reliably separated from the wall at this resolution, so no invented cutout was produced.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-20.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek82-ellsworth-kelly-paris-new-york-1949-1959",
+      "title": "White and Black",
+      "canonical_id": "EK 82",
+      "outcome": "new_svg",
+      "reason": "White rectangular painted support with two black horizontal fields separated by a white band. The oblique installation view establishes the two fields but only an approximate normalized aspect. Foundation photograph explicitly labels this title and EK identifier; medium classification remains as sourced.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paris-new-york-1949-1959/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-48.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek156-ellsworth-kelly-sculpture",
+      "title": "White and Black Relief",
+      "canonical_id": "EK 156",
+      "outcome": "unresolved",
+      "reason": "White and Black Relief appears small and oblique in a sculpture installation. Full panel layout and medium remain unresolved.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-6.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek2-ellsworth-kelly-paris-new-york-1949-1959",
+      "title": "Window III",
+      "canonical_id": "EK 2",
+      "outcome": "unresolved",
+      "reason": "Window III appears in colour but its faint white-on-white linear marks and panel boundaries are too small to transcribe faithfully. A generic empty white rectangle was not substituted.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paris-new-york-1949-1959/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-49.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek5-kelly-peintures-et-reliefs",
+      "title": "Wood Cutout with String III",
+      "canonical_id": "EK 5",
+      "outcome": "unresolved",
+      "reason": "Wood Cutout with String III is visible in grayscale with slots and strings. Exact support gaps, string paths and original surface colours remain unresolved.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/kelly-peintures-et-reliefs/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-16.jpg"
+    },
+    {
+      "id": "foundation-exhib-v4-ek416-ellsworth-kelly-5",
+      "title": "Yellow Blue",
+      "canonical_id": "EK 416",
+      "outcome": "scope_excluded",
+      "reason": "Exact Foundation catalogue identifier and all-media Works index classify this metal work as Sculpture. Excluded consistently with metal sculpture policy; raw caption rows retained.",
+      "reference_url": "https://ellsworthkelly.org/work/yellow-blue/",
+      "reference_id": "research/svg-gap-v5/foundation-historical-assigned.json"
+    },
+    {
+      "id": "foundation-exhib-v4-ek293-ellsworth-kelly-2",
+      "title": "Yellow Curve",
+      "canonical_id": "EK 293",
+      "outcome": "identity_merged",
+      "reason": "Yellow Curve: Christie’s provenance identifies the 1962 Tooth exhibition, and the actual installation image places the same portrait oval-on-rectangular-ground painting above the fireplace. The43×33in support agrees with the auction description. This join was independently checked by the market researcher; it is not the 1996 Yellow Curve. The Foundation installation caption explicitly supplies EK 293. Source and target photographs were independently viewed in the saved paired comparison.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-2/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-38.jpg",
+      "keep_id": "christies-5315261"
+    },
+    {
+      "id": "foundation-exhib-v4-ek176-ellsworth-kelly-curated-by-jack-shear",
+      "title": "York Study",
+      "canonical_id": "EK 176",
+      "outcome": "new_svg",
+      "reason": "Right-hand study: white asymmetrical rounded field against black rectangular painted support. White field meets the top, right and bottom edges as observed. Frame excluded; curvature is approximate. Foundation photograph explicitly labels this title and EK identifier; medium classification remains as sourced.",
+      "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-curated-by-jack-shear/",
+      "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-27.jpg"
+    }
+  ]
+}

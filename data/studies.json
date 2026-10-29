@@ -1,0 +1,904 @@
+{
+  "EK 225": {
+    "path": "assets/studies/ek-225.svg",
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/north-river/",
+    "reference_id": "research/reference-images/EK-225.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 90": {
+    "path": "assets/studies/ek-90.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/black-ripe/",
+    "reference_id": "research/reference-images/EK-90.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 72": {
+    "path": "assets/studies/ek-72.svg",
+    "colors": [
+      "white"
+    ],
+    "shape_type": "curved relief",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/white-plaque-bridge-arch-and-reflection/",
+    "reference_id": "research/reference-images/EK-72.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 67": {
+    "path": "assets/studies/ek-67.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/black-curves/",
+    "reference_id": "research/reference-images/EK-67.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 61": {
+    "path": "assets/studies/ek-61.svg",
+    "colors": [
+      "green",
+      "yellow"
+    ],
+    "shape_type": "joined rectangles",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/train-landscape/",
+    "reference_id": "research/reference-images/EK-61.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 59": {
+    "path": "assets/studies/ek-59.svg",
+    "colors": [
+      "yellow",
+      "green",
+      "blue",
+      "purple",
+      "red",
+      "orange"
+    ],
+    "shape_type": "rectangle",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/spectrum-i/",
+    "reference_id": "research/reference-images/EK-59.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Spectrum colours simplified to a standardized vivid palette; band proportions approximate.",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 54": {
+    "path": "assets/studies/ek-54.svg",
+    "colors": [
+      "black",
+      "pink",
+      "orange",
+      "white",
+      "blue"
+    ],
+    "shape_type": "joined rectangles",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/painting-for-a-white-wall/",
+    "reference_id": "research/reference-images/EK-54.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 422": {
+    "path": "assets/studies/ek-422.svg",
+    "colors": [
+      "yellow",
+      "green",
+      "blue",
+      "purple",
+      "red",
+      "orange"
+    ],
+    "shape_type": "separate panels",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/spectrum-v/",
+    "reference_id": "research/reference-images/EK-422.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Thirteen separate panels shown frontally; spacing schematic.",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 407": {
+    "path": "assets/studies/ek-407.svg",
+    "colors": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "shape_type": "parallelogram",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/red-white-blue/",
+    "reference_id": "research/reference-images/EK-407.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 363": {
+    "path": "assets/studies/ek-363.svg",
+    "colors": [
+      "yellow"
+    ],
+    "shape_type": "rounded corners",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/yellow-piece/",
+    "reference_id": "research/reference-images/EK-363.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 360": {
+    "path": "assets/studies/ek-360.svg",
+    "colors": [
+      "blue",
+      "green",
+      "yellow",
+      "orange",
+      "red"
+    ],
+    "shape_type": "joined rectangles",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/blue-green-yellow-orange-red/",
+    "reference_id": "research/reference-images/EK-360.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 350": {
+    "path": "assets/studies/ek-350.svg",
+    "colors": [
+      "red",
+      "yellow",
+      "blue"
+    ],
+    "shape_type": "separate panels",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/red-yellow-blue-ii/",
+    "reference_id": "research/reference-images/EK-350.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 316": {
+    "path": "assets/studies/ek-316.svg",
+    "colors": [
+      "red",
+      "blue",
+      "green"
+    ],
+    "shape_type": "rectangle",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/red-blue-green/",
+    "reference_id": "research/reference-images/EK-316.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 289": {
+    "path": "assets/studies/ek-289.svg",
+    "colors": [
+      "blue",
+      "green"
+    ],
+    "shape_type": "rectangle",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/blue-green/",
+    "reference_id": "research/reference-images/EK-289.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 288": {
+    "path": "assets/studies/ek-288.svg",
+    "colors": [
+      "yellow",
+      "orange"
+    ],
+    "shape_type": "rectangle",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/yellow-yellow-orange/",
+    "reference_id": "research/reference-images/EK-288.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 609": {
+    "path": "assets/studies/ek-609.svg",
+    "colors": [
+      "orange"
+    ],
+    "shape_type": "polygon",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/orange-panel/",
+    "reference_id": "research/reference-images/EK-609.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 562": {
+    "path": "assets/studies/ek-562.svg",
+    "colors": [
+      "white"
+    ],
+    "shape_type": "diagonal with curve",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/diagonal-with-curve-i/",
+    "reference_id": "research/reference-images/EK-562.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 502": {
+    "path": "assets/studies/ek-502.svg",
+    "colors": [
+      "yellow",
+      "red"
+    ],
+    "shape_type": "joined polygons",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/yellow-with-red-triangle/",
+    "reference_id": "research/reference-images/EK-502.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 490": {
+    "path": "assets/studies/ek-490.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/black-curve-v/",
+    "reference_id": "research/reference-images/EK-490.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 461": {
+    "path": "assets/studies/ek-461.svg",
+    "colors": [
+      "black",
+      "red"
+    ],
+    "shape_type": "L shaped joined rectangles",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/chatham-x-black-red/",
+    "reference_id": "research/reference-images/EK-461.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 451": {
+    "path": "assets/studies/ek-451.svg",
+    "colors": [
+      "blue",
+      "yellow",
+      "red"
+    ],
+    "shape_type": "joined rectangles",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/blue-yellow-red-iii/",
+    "reference_id": "research/reference-images/EK-451.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 818": {
+    "path": "assets/studies/ek-818.svg",
+    "colors": [
+      "orange",
+      "green"
+    ],
+    "shape_type": "curved relief",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/orange-relief-with-green/",
+    "reference_id": "research/reference-images/EK-818.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 809": {
+    "path": "assets/studies/ek-809.svg",
+    "colors": [
+      "orange",
+      "red"
+    ],
+    "shape_type": "polygon relief",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/orange-red-relief-for-delphine-seyrig/",
+    "reference_id": "research/reference-images/EK-809.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 781": {
+    "path": "assets/studies/ek-781.svg",
+    "colors": [
+      "yellow",
+      "black"
+    ],
+    "shape_type": "joined polygons",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/yellow-black/",
+    "reference_id": "research/reference-images/EK-781.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 738": {
+    "path": "assets/studies/ek-738.svg",
+    "colors": [
+      "orange",
+      "gray",
+      "green"
+    ],
+    "shape_type": "separate curved panels",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/three-panels-orange-dark-gray-green/",
+    "reference_id": "research/reference-images/EK-738.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Panel orientations and spacing approximate; based on frontal installation reference.",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 700": {
+    "path": "assets/studies/ek-700.svg",
+    "colors": [
+      "green"
+    ],
+    "shape_type": "curved polygon",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/green-panel/",
+    "reference_id": "research/reference-images/EK-700.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 933": {
+    "path": "assets/studies/ek-933.svg",
+    "colors": [
+      "black",
+      "yellow",
+      "orange"
+    ],
+    "shape_type": "rectangle relief",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/black-relief-over-yellow-and-orange/",
+    "reference_id": "research/reference-images/EK-933.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 924": {
+    "path": "assets/studies/ek-924.svg",
+    "colors": [
+      "blue",
+      "green"
+    ],
+    "shape_type": "rectangle relief",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/blue-relief-over-green/",
+    "reference_id": "research/reference-images/EK-924.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 896": {
+    "path": "assets/studies/ek-896.svg",
+    "colors": [
+      "blue",
+      "black",
+      "red",
+      "green"
+    ],
+    "shape_type": "separate polygons",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/blue-black-red-green/",
+    "reference_id": "research/reference-images/EK-896.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Four shapes normalized to an overall bounding box; orientations approximate.",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 856": {
+    "path": "assets/studies/ek-856.svg",
+    "colors": [
+      "blue"
+    ],
+    "shape_type": "curved polygon",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/dark-blue-curve/",
+    "reference_id": "research/reference-images/EK-856.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 167": {
+    "path": "assets/studies/ek-167.svg",
+    "colors": [
+      "yellow",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/city-island/",
+    "reference_id": "research/reference-images/EK-167.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 137": {
+    "path": "assets/studies/ek-137.svg",
+    "colors": [
+      "blue",
+      "green",
+      "black",
+      "red"
+    ],
+    "shape_type": "rectangle",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/west-coast-landscape-study/",
+    "reference_id": "research/reference-images/EK-137.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 124": {
+    "path": "assets/studies/ek-124.svg",
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/west-side/",
+    "reference_id": "research/reference-images/EK-124.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 62": {
+    "path": "assets/studies/ek-62.svg",
+    "colors": [
+      "green"
+    ],
+    "shape_type": "rectangle",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/tableau-vert/",
+    "reference_id": "research/reference-images/EK-62.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Texture deliberately omitted.",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 1081": {
+    "path": "assets/studies/ek-1081.svg",
+    "colors": [
+      "white",
+      "black"
+    ],
+    "shape_type": "rectangle relief",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/white-over-black-iii/",
+    "reference_id": "research/reference-images/EK-1081.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 1030": {
+    "path": "assets/studies/ek-1030.svg",
+    "colors": [
+      "red",
+      "blue",
+      "yellow",
+      "green"
+    ],
+    "shape_type": "separate curved panels",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/curves-on-white-four-panels/",
+    "reference_id": "research/reference-images/EK-1030.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 988": {
+    "path": "assets/studies/ek-988.svg",
+    "colors": [
+      "blue"
+    ],
+    "shape_type": "curved silhouette",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/blue-curves/",
+    "reference_id": "research/reference-images/EK-988.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 961": {
+    "path": "assets/studies/ek-961.svg",
+    "colors": [
+      "red",
+      "white"
+    ],
+    "shape_type": "polygon relief",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/red-relief-with-white/",
+    "reference_id": "research/reference-images/EK-961.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 953": {
+    "path": "assets/studies/ek-953.svg",
+    "colors": [
+      "white",
+      "black"
+    ],
+    "shape_type": "diagonal relief",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/white-diagonal-relief/",
+    "reference_id": "research/reference-images/EK-953.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 706": {
+    "path": "assets/studies/ek-706.svg",
+    "colors": [
+      "blue"
+    ],
+    "shape_type": "curved rectangle",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/dark-blue-panel/",
+    "reference_id": "research/reference-images/EK-706.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "The dark blue is intentionally more vivid than the near-black source photograph.",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 605": {
+    "path": "assets/studies/ek-605.svg",
+    "colors": [
+      "green"
+    ],
+    "shape_type": "polygon",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/green-panel-2/",
+    "reference_id": "research/reference-images/EK-605.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 558": {
+    "path": "assets/studies/ek-558.svg",
+    "colors": [
+      "gray"
+    ],
+    "shape_type": "curved rectangle",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/curved-gray-panel/",
+    "reference_id": "research/reference-images/EK-558.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 535": {
+    "path": "assets/studies/ek-535.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/white-curve-vii/",
+    "reference_id": "research/reference-images/EK-535.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 515": {
+    "path": "assets/studies/ek-515.svg",
+    "colors": [
+      "gray"
+    ],
+    "shape_type": "joined rectangles",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/three-grays/",
+    "reference_id": "research/reference-images/EK-515.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 463": {
+    "path": "assets/studies/ek-463.svg",
+    "colors": [
+      "yellow",
+      "black"
+    ],
+    "shape_type": "L shaped joined rectangles",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/chatham-xii-yellow-black/",
+    "reference_id": "research/reference-images/EK-463.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 351": {
+    "path": "assets/studies/ek-351.svg",
+    "colors": [
+      "green",
+      "red",
+      "yellow",
+      "blue"
+    ],
+    "shape_type": "separate panels",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/green-red-yellow-blue/",
+    "reference_id": "research/reference-images/EK-351.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 295": {
+    "path": "assets/studies/ek-295.svg",
+    "colors": [
+      "blue"
+    ],
+    "shape_type": "rectangle relief",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/blue-tablet/",
+    "reference_id": "research/reference-images/EK-295.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 290": {
+    "path": "assets/studies/ek-290.svg",
+    "colors": [
+      "red",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/red-white/",
+    "reference_id": "research/reference-images/EK-290.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 278": {
+    "path": "assets/studies/ek-278.svg",
+    "colors": [
+      "green",
+      "blue"
+    ],
+    "shape_type": "rectangle",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/leaf-castor-bean/",
+    "reference_id": "research/reference-images/EK-278.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 273": {
+    "path": "assets/studies/ek-273.svg",
+    "colors": [
+      "yellow",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/yellow-white/",
+    "reference_id": "research/reference-images/EK-273.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 206": {
+    "path": "assets/studies/ek-206.svg",
+    "colors": [
+      "red",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/falcon/",
+    "reference_id": "research/reference-images/EK-206.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 205": {
+    "path": "assets/studies/ek-205.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/york/",
+    "reference_id": "research/reference-images/EK-205.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 173": {
+    "path": "assets/studies/ek-173.svg",
+    "colors": [
+      "black",
+      "brown"
+    ],
+    "shape_type": "rectangle",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/brooklyn-bridge-iii/",
+    "reference_id": "research/reference-images/EK-173.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 172": {
+    "path": "assets/studies/ek-172.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/wall/",
+    "reference_id": "research/reference-images/EK-172.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 765": {
+    "path": "assets/studies/ek-765.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/black-white/",
+    "reference_id": "research/reference-images/EK-765.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 699": {
+    "path": "assets/studies/ek-699.svg",
+    "colors": [
+      "red"
+    ],
+    "shape_type": "curved polygon",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/red-panel/",
+    "reference_id": "research/reference-images/EK-699.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 922": {
+    "path": "assets/studies/ek-922.svg",
+    "colors": [
+      "blue",
+      "red",
+      "green",
+      "black"
+    ],
+    "shape_type": "separate curved panels",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/blue-red-green-black/",
+    "reference_id": "research/reference-images/EK-922.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 6": {
+    "path": "assets/studies/ek-6.svg",
+    "colors": [
+      "black",
+      "white",
+      "gray"
+    ],
+    "shape_type": "rectangle relief",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/window-museum-of-modern-art-paris/",
+    "reference_id": "research/reference-images/EK-6.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 10": {
+    "path": "assets/studies/ek-10.svg",
+    "colors": [
+      "white",
+      "black"
+    ],
+    "shape_type": "polygon",
+    "method": "hand_authored_svg_after_visual_reference",
+    "reference_url": "https://ellsworthkelly.org/work/window-v/",
+    "reference_id": "research/reference-images/EK-10.jpg",
+    "geometry_confidence": "approximate",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  }
+}

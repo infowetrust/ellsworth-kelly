@@ -1,0 +1,303 @@
+{
+  "museum-v2-mumok-blue-curve": {
+    "path": "assets/studies/v5-museum-museum-v2-mumok-blue-curve.svg",
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.mumok.at/fileadmin/Bibliothek/7_Presse/2016/We_Pioneers/wir_wegbereiter_werkliste_pdf.pdf#page=55",
+    "reference_id": "research/svg-gap-v5/museums/references/mumok-checklist-p55.png",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate; visually reviewed",
+    "palette": "standardized color families; not colorimetric",
+    "notes": "Blue convex form grows from full left edge to touch right edge; white upper/lower-right painted regions retained. Actual museum 2016 checklist thumbnail, not another Blue Curve numbered series.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://www.mumok.at/onlinesammlung/detail/blue-curve-1552"
+  },
+  "international-v4-mot-red-yellow-blue": {
+    "path": "assets/studies/v5-museum-international-v4-mot-red-yellow-blue.svg",
+    "colors": [
+      "red",
+      "yellow",
+      "blue"
+    ],
+    "shape_type": "three joined rectangles",
+    "reference_url": "https://www.praemiumimperiale.org/en/laureate/kelly/",
+    "reference_id": "research/svg-gap-v5/museums/references/tokyo-ryb.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate; visually reviewed",
+    "palette": "standardized color families; not colorimetric",
+    "notes": "Japan Art Association award biography explicitly credits Museum of Contemporary Art Tokyo and supplies 165.1 x 495.3 cm; source museum’s current size, 165.3 × 495.8 cm, retained. Three equal adjoining color panels in red-yellow-blue order.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://museumcollection.tokyo/works/6382954/"
+  },
+  "north-v4-baltimore-two-blacks-white": {
+    "path": "assets/studies/v5-museum-north-v4-baltimore-two-blacks-white.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "three stepped joined rectangles",
+    "reference_url": "https://artsandculture.google.com/asset/two-blacks-and-white/vwEStKIHqwBQOw",
+    "reference_id": "research/svg-gap-v5/museums/references/baltimore-twoblacks.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate; visually reviewed",
+    "palette": "standardized color families; not colorimetric",
+    "notes": "Museum-supplied Google Arts & Culture image: lower-left black rectangle, middle white square, upper-right black rectangle. Open stepped spaces remain transparent; the middle white panel is painted support.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://artbma.org/artwork/two-blacks-and-white/"
+  },
+  "north-v4-philadelphia-seaweed": {
+    "path": "assets/studies/v5-museum-north-v4-philadelphia-seaweed.svg",
+    "colors": [
+      "white",
+      "black"
+    ],
+    "shape_type": "rectangle with branching lines",
+    "reference_url": "https://greg.org/archive/tag/ellsworth-kelly",
+    "reference_id": "research/svg-gap-v5/museums/references/philadelphia-seaweed.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate; visually reviewed",
+    "palette": "standardized color families; not colorimetric",
+    "notes": "Photographed at Philadelphia in 2026, with explicit 1949 painting/caption. Thin branching painted lines represented as filled vector strips; distressed off-white field and brushtexture simplified. Entire painted rectangular canvas retained; frame omitted. Physical size unresolved in primary catalogue.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://press.philamuseum.org/museum-receives-major-gift-of-eighteen-drawings-an-early-painting-and-a-steel-sculpture-by-ellsworth-kelly/",
+    "true_scale_eligible": false,
+    "true_scale_note": "Observed reference proportions only; physical dimensions or orientation unresolved. Photographed at Philadelphia in 2026, with explicit 1949 painting/caption. Thin branching painted lines represented as filled vector strips; distressed off-white field and brushtexture simplified. Entire painted rectangular canvas retained; frame omitted. Physical size unresolved in primary catalogue.",
+    "dimension_unit": "normalized_observed_proportions"
+  },
+  "international-v4-maeght-blue-floor-panel-leo": {
+    "path": "assets/studies/v5-museum-international-v4-maeght-blue-floor-panel-leo.svg",
+    "colors": [
+      "blue"
+    ],
+    "shape_type": "projected floor quadrilateral",
+    "reference_url": "https://tlmagazine.com/fondation-maeght-summer-2026/?print=true",
+    "reference_id": "research/svg-gap-v5/museums/references/maeght-0017-hdr.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate; visually reviewed",
+    "palette": "standardized color families; not colorimetric",
+    "notes": "Museum-supplied 2026 installation photograph and caption explicitly identify Blue Floor Panel for Leo (1992). Observed floor projection only; four edges visible. No claim that projected outline is an orthographic plan. Known floor-plan dimensions do not establish projected wall-style geometry.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://tlmagazine.com/fondation-maeght-summer-2026/?print=true",
+    "true_scale_eligible": false,
+    "true_scale_note": "Observed reference proportions only; physical dimensions or orientation unresolved. Museum-supplied 2026 installation photograph and caption explicitly identify Blue Floor Panel for Leo (1992). Observed floor projection only; four edges visible. No claim that projected outline is an orthographic plan. Known floor-plan dimensions do not establish projected wall-style geometry.",
+    "dimension_unit": "normalized_observed_proportions"
+  },
+  "international-v4-tate-red-white-1966": {
+    "path": "assets/studies/v5-museum-international-v4-tate-red-white-1966.svg",
+    "colors": [
+      "red",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.e-flux.com/announcements/121707/christopher-klineo-k-the-musicalellsworth-kelly-in-focusconstellations",
+    "reference_id": "research/svg-gap-v5/museums/references/tate-redwhite-eflux-contact.png",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate; visually reviewed",
+    "palette": "standardized color families; not colorimetric",
+    "notes": "Tate Liverpool authored 2017 announcement GIF frame 2 supplies actual red/white painting. Two bulbous red forms touch right edge and meet at central leftward cusp; white upper/lower-right regions retained. Overall support 165.4 x 229.5 cm verified in Tate 2014–15 full annual report PDF page 72, accession T 14156.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://assets.publishing.service.gov.uk/media/5a809668ed915d74e622f50b/Tate_annual_report_and_accounts_2014_-_15.pdf"
+  },
+  "north-v4-dallas-red-panel": {
+    "path": "assets/studies/v5-museum-north-v4-dallas-red-panel.svg",
+    "colors": [
+      "red"
+    ],
+    "shape_type": "observed quadrilateral",
+    "reference_url": "https://blog.dma.org/2015/10/26/red-hot/",
+    "reference_id": "research/svg-gap-v5/museums/references/north-v4-dallas-red-panel-0.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate; visually reviewed",
+    "palette": "standardized color families; not colorimetric",
+    "notes": "Museum staff’s 2015 installation photograph explicitly shows this 1980 work. Four visible support corners are reproduced as an observed projection. Photographic perspective is substantial and reliable physical size is absent; not flattened into an invented rectangle.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://texashistory.unt.edu/ark:/67531/metapth307668/m1/88/",
+    "true_scale_eligible": false,
+    "true_scale_note": "Observed reference proportions only; physical dimensions or orientation unresolved. Museum staff’s 2015 installation photograph explicitly shows this 1980 work. Four visible support corners are reproduced as an observed projection. Photographic perspective is substantial and reliable physical size is absent; not flattened into an invented rectangle.",
+    "dimension_unit": "normalized_observed_proportions"
+  },
+  "international-v4-kawamura-black-curve": {
+    "path": "assets/studies/v5-museum-international-v4-kawamura-black-curve.svg",
+    "colors": [
+      "black"
+    ],
+    "shape_type": "curved wedge",
+    "reference_url": "https://www3.dic-global.com/dic-global/ir/library/dic_ir_tsushin122h.pdf#page=11",
+    "reference_id": "research/svg-gap-v5/museums/references/kawamura2019-p11.png",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate; visually reviewed",
+    "palette": "standardized color families; not colorimetric",
+    "notes": "Museum-owning company’s 2019 report page 11 identifies newly acquired Black Curve 1994 and shows it at the far left of the gallery photograph, apart from smaller prints. Bowed upper-left contour and two straight edges approximated from the small photo; no surrounding white wall included.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://www3.dic-global.com/dic-global/dic_report/dic_report_en_2020_detail.pdf"
+  },
+  "whitney-9295": {
+    "path": "assets/studies/v5-museum-whitney-9295.svg",
+    "colors": [
+      "black",
+      "white",
+      "green"
+    ],
+    "shape_type": "five separated rectangular canvases",
+    "reference_url": "https://www.hausderkunst.de/eintauchen/ellsworth-kelly-schwarz-weiss",
+    "reference_id": "research/svg-gap-v5/museums/references/fivepanels-hdk.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate; visually reviewed",
+    "palette": "standardized color families; not colorimetric",
+    "notes": "Haus der Kunst 2011 colorinstallation image caption identifies Whitney’s Painting in Five Panels (1955). Five differently sized painted rectangles separated by transparent wall gaps. White backfields and small green lower-left wedge of central canvas retained. Relative installation spacings and small-panel details approximate; no claim of exact reinstall dimensions. Normalized to observed installation because photograph perspective and variable gaps do not securely establish orthographic spacing.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://whitney.org/collection/works/9295",
+    "true_scale_eligible": false,
+    "true_scale_note": "Observed reference proportions only; physical dimensions or orientation unresolved. Haus der Kunst 2011 colorinstallation image caption identifies Whitney’s Painting in Five Panels (1955). Five differently sized painted rectangles separated by transparent wall gaps. White backfields and small green lower-left wedge of central canvas retained. Relative installation spacings and small-panel details approximate; no claim of exact reinstall dimensions. Normalized to observed installation because photograph perspective and variable gaps do not securely establish orthographic spacing.",
+    "dimension_unit": "normalized_observed_proportions"
+  },
+  "whitney-16879": {
+    "path": "assets/studies/v5-museum-whitney-16879.svg",
+    "colors": [
+      "red",
+      "blue"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=77",
+    "reference_id": "research/svg-gap-v5/museums/references/whitney-red-blue-moma1973-p77.png",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate; visually reviewed",
+    "palette": "standardized color families; not colorimetric",
+    "notes": "Primary 1973 retrospective colorplate PDF page 77 matches exact 1964 title,90 × 66 in. and historical Hornick collection. Red form rises from lower-left, bows upward and right to touch right edge at about 62 percent height; blue surrounding field retained. Canvas rather than page margin is represented.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://whitney.org/collection/works/16879"
+  },
+  "north-v4-blanton-high-yellow": {
+    "path": "assets/studies/v5-museum-north-v4-blanton-high-yellow.svg",
+    "colors": [
+      "yellow",
+      "blue",
+      "green"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.artsy.net/artwork/ellsworth-kelly-high-yellow",
+    "reference_id": "research/svg-gap-v5/museums/references/blanton-high-yellow.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate; visually reviewed",
+    "palette": "standardized color families; not colorimetric",
+    "notes": "Artsy image explicitly provided by Blanton Museum; independent viewing-room caption also identifies Blanton’s High Yellow (1960). Broad irregular yellow oval on blue upper field; green full-width lower panel. Yellow contour is deliberately asymmetric, not a circle.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://blantonmuseum.org/wp-content/uploads/2021/10/Blanton-SEL-FindingJoy-Journal-10.2.pdf"
+  },
+  "north-v4-yale-charter": {
+    "path": "assets/studies/v5-museum-north-v4-yale-charter.svg",
+    "colors": [
+      "orange",
+      "white",
+      "black"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://greg.org/archive/2023/01/16/gober-kelly-red-blue.html",
+    "reference_id": "research/svg-gap-v5/museums/references/yale-charter.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate; visually reviewed",
+    "palette": "standardized color families; not colorimetric",
+    "notes": "Museum painting photo explicitly identified as Charter (1959), Yale with gift provenance. Foundation’s 1959 Sixteen Americans exhibition also names Charter, EK 226. Rounded orange quadrilateral on white upper field above black lower rectangle. Physical dimensions unresolved in current primary record; normalized to photograph.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://artgallery.yale.edu/sites/default/files/publication/pdfs/ag-doc-2106-0001-doc.pdf",
+    "true_scale_eligible": false,
+    "true_scale_note": "Observed reference proportions only; physical dimensions or orientation unresolved. Museum painting photo explicitly identified as Charter (1959), Yale with gift provenance. Foundation’s 1959 Sixteen Americans exhibition also names Charter, EK 226. Rounded orange quadrilateral on white upper field above black lower rectangle. Physical dimensions unresolved in current primary record; normalized to photograph.",
+    "dimension_unit": "normalized_observed_proportions"
+  },
+  "north-v4-slam-purple-panel": {
+    "path": "assets/studies/v5-museum-north-v4-slam-purple-panel.svg",
+    "colors": [
+      "purple"
+    ],
+    "shape_type": "projected triangle with curved upper edge",
+    "reference_url": "https://www.artistrewilding.com/rewilding-1/sv34ggb43i3u33tbokskyp76zv2huq",
+    "reference_id": "research/svg-gap-v5/museums/references/slam-purple1988.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate; visually reviewed",
+    "palette": "standardized color families; not colorimetric",
+    "notes": "January 2024 photographed Saint Louis galleryvisit explicitly identifies Purple Panel (1988). Purple triangular front face has slightly bowed upper edge, long left diagonal, near-vertical right edge. Exposed wooden thickness and wall shadows omitted. Photograph oblique: observed proportions only, despite known square physical bounding dimensions.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://www.slam.org/blog/ellsworth-kelly-was-a-diligent-student-of-nature/",
+    "true_scale_eligible": false,
+    "true_scale_note": "Observed reference proportions only; physical dimensions or orientation unresolved. January 2024 photographed Saint Louis galleryvisit explicitly identifies Purple Panel (1988). Purple triangular front face has slightly bowed upper edge, long left diagonal, near-vertical right edge. Exposed wooden thickness and wall shadows omitted. Photograph oblique: observed proportions only, despite known square physical bounding dimensions.",
+    "dimension_unit": "normalized_observed_proportions"
+  },
+  "nga-au-orange-curve-116211": {
+    "path": "assets/studies/v5-museum-nga-au-orange-curve-116211.svg",
+    "colors": [
+      "orange",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://artblart.com/tag/lorraine-connelly-northey-lap-lap/",
+    "reference_id": "research/svg-gap-v5/museums/references/nga-orange-curve.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate; visually reviewed",
+    "palette": "standardized color families; not colorimetric",
+    "notes": "Public exhibition review identifies Orange Curve (1964–65), oil on canvas, National Gallery of Australia. Primary American Masters record describes this orange curve. Off-white upper/lower-left painted corners retained; curved orange field touches left edge and occupies whole right edge. Physical dimensions unresolved; normalized to full rectangular support shown in reproduction.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://nga.gov.au/stories-ideas/artists-artists-virginia-cuppaidge/",
+    "true_scale_eligible": false,
+    "true_scale_note": "Observed reference proportions only; physical dimensions or orientation unresolved. Public exhibition review identifies Orange Curve (1964–65), oil on canvas, National Gallery of Australia. Primary American Masters record describes this orange curve. Off-white upper/lower-left painted corners retained; curved orange field touches left edge and occupies whole right edge. Physical dimensions unresolved; normalized to full rectangular support shown in reproduction.",
+    "dimension_unit": "normalized_observed_proportions"
+  },
+  "international-v4-kroller-plant-i": {
+    "path": "assets/studies/v5-museum-international-v4-kroller-plant-i.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle with plant silhouette",
+    "reference_url": "https://discoveringek.ellsworthkelly.org/ek-100-chapter-3#abstract-paintings",
+    "reference_id": "research/svg-gap-v5/museums/references/plant-i-foundation.png",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate; visually reviewed",
+    "palette": "standardized color families; not colorimetric",
+    "notes": "Foundation centenary microsite (EK100), chapter 3 explicitly labels this image Plant I (1949), distinct from neighboring Plant II. Hand-drawn white plant silhouette on black rectangular field; leaf outlines approximate, paint texture and rubbed canvas edge omitted. Current primary museum size unresolved; normalized to reproduction.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://krollermuller.nl/media/jaaroverzichten/jaarverslag_kmm_2006lr3.pdf",
+    "true_scale_eligible": false,
+    "true_scale_note": "Observed reference proportions only; physical dimensions or orientation unresolved. Foundation centenary microsite (EK100), chapter 3 explicitly labels this image Plant I (1949), distinct from neighboring Plant II. Hand-drawn white plant silhouette on black rectangular field; leaf outlines approximate, paint texture and rubbed canvas edge omitted. Current primary museum size unresolved; normalized to reproduction.",
+    "dimension_unit": "normalized_observed_proportions"
+  },
+  "international-v4-saint-etienne-blue-diagonal-curve": {
+    "path": "assets/studies/v5-museum-international-v4-saint-etienne-blue-diagonal-curve.svg",
+    "colors": [
+      "blue"
+    ],
+    "shape_type": "diagonal curved quadrilateral",
+    "reference_url": "https://mamc.saint-etienne-metropole.fr/en/collections?combine=Kelly&field_type_oeuvre_target_id=All",
+    "reference_id": "research/svg-gap-v5/museums/references/saint-etienne-blue-diagonal.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate; visually reviewed",
+    "palette": "standardized color families; not colorimetric",
+    "notes": "Museum collection keyword form returned exact Blue Diagonal with Curve (1988) and image 5 D 22669.jpg. Four-edged elongated diagonal form with curved upper-left edge. Entire painted front face included; exposed thickness and wallshadow omitted. Physical dimensions unresolved; normalized to observed support proportions.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://mamc.saint-etienne-metropole.fr/en/collections?page=191",
+    "true_scale_eligible": false,
+    "true_scale_note": "Observed reference proportions only; physical dimensions or orientation unresolved. Museum collection keyword form returned exact Blue Diagonal with Curve (1988) and image 5 D 22669.jpg. Four-edged elongated diagonal form with curved upper-left edge. Entire painted front face included; exposed thickness and wallshadow omitted. Physical dimensions unresolved; normalized to observed support proportions.",
+    "dimension_unit": "normalized_observed_proportions"
+  },
+  "international-v4-louisiana-yellow-black": {
+    "path": "assets/studies/v5-museum-international-v4-louisiana-yellow-black.svg",
+    "colors": [
+      "yellow",
+      "black"
+    ],
+    "shape_type": "observed parallelogram with two color fields",
+    "reference_url": "https://www.flickr.com/photos/jpellgen/42883722960/",
+    "reference_id": "research/svg-gap-v5/museums/references/louisiana-yellow-black.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate; visually reviewed",
+    "palette": "standardized color families; not colorimetric",
+    "notes": "Photographer’s August 2018 museum visit explicitly identifies Yellow Black (1968), Louisiana. Ordinary public photo loaded after initial navigation timeout and was downloaded from the visible image element. Yellow L-shaped field wraps left and lower edges of a black upper-right parallelogram. Wall, label and cast shadow omitted. Source owner gives physical dimensions, but observed oblique outline is normalized rather than asserting an orthographic contour.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://www.museumsfonden.dk/pdf/Museumsfonden_deponeret_p%C3%A5_museet_2022.pdf",
+    "true_scale_eligible": false,
+    "true_scale_note": "Observed reference proportions only; physical dimensions or orientation unresolved. Photographer’s August 2018 museum visit explicitly identifies Yellow Black (1968), Louisiana. Ordinary public photo loaded after initial navigation timeout and was downloaded from the visible image element. Yellow L-shaped field wraps left and lower edges of a black upper-right parallelogram. Wall, label and cast shadow omitted. Source owner gives physical dimensions, but observed oblique outline is normalized rather than asserting an orthographic contour.",
+    "dimension_unit": "normalized_observed_proportions"
+  }
+}

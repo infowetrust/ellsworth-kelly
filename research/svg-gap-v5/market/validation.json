@@ -1,0 +1,15 @@
+{
+  "assigned": 48,
+  "baseline_new": 33,
+  "additional_new_records": 3,
+  "new_studies": 36,
+  "retained_gaps": 15,
+  "new_by_kind": {
+    "painting": 27,
+    "painting_candidate": 9
+  },
+  "normalized_only": 9,
+  "all_rendered": true,
+  "paired_sheets": 3,
+  "errors": []
+}

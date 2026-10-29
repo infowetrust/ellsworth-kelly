@@ -1,0 +1,78 @@
+{
+  "short-book-v4:EllsworthKelly20132:19:orange-green": {
+    "path": "assets/studies/v4-short-orange-green-1964.svg",
+    "colors": [
+      "orange",
+      "green"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://archive.org/download/EllsworthKelly20132/EllsworthKelly20132.pdf#page=19",
+    "reference_id": "research/core-museums-v4/reference-images/marks2013-orange-green.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate contours visually inspected",
+    "palette": "standardized vivid screen colours, not measured pigments",
+    "reviewed_date": "2026-10-27",
+    "notes": "Interpretive SVG after inspecting a public publisher PDF plate. Approximate contour and vivid palette. Orange bulb curves from left middle to right side and lower-left; green rectangular painted support retained."
+  },
+  "short-book-v4:EllsworthKelly20132:22:black-relief-over-white-ii": {
+    "path": "assets/studies/v4-short-black-relief-over-white-ii-2012.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "joined relief panels",
+    "reference_url": "https://archive.org/download/EllsworthKelly20132/EllsworthKelly20132.pdf#page=22",
+    "reference_id": "research/core-museums-v4/reference-images/marks2013-black-relief-ii.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate contours visually inspected",
+    "palette": "standardized vivid screen colours, not measured pigments",
+    "reviewed_date": "2026-10-27",
+    "notes": "Interpretive SVG after inspecting a public publisher PDF plate. Approximate contour and vivid palette. White backing rectangle and two joined black facets retained; casts shadows and perspective omitted. Plate PDF page23 follows caption page22."
+  },
+  "short-book-v4:EllsworthKellyLastPaintings_201811:39:green-form": {
+    "path": "assets/studies/v4-short-green-form-1955.svg",
+    "colors": [
+      "green",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://archive.org/download/EllsworthKellyLastPaintings_201811/EllsworthKellyLastPaintings.pdf#page=39",
+    "reference_id": "research/core-museums-v4/reference-images/last-green-form.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate contours visually inspected",
+    "palette": "standardized vivid screen colours, not measured pigments",
+    "reviewed_date": "2026-10-27",
+    "notes": "Interpretive SVG after inspecting a public publisher PDF plate. Approximate contour and vivid palette. White full rectangular painted support retained around a green mass with rounded left corners."
+  },
+  "short-book-v4:EllsworthKellyLastPaintings_201811:50:green-angle-over-white": {
+    "path": "assets/studies/v4-short-green-angle-over-white-2015.svg",
+    "colors": [
+      "green",
+      "white"
+    ],
+    "shape_type": "joined relief panels",
+    "reference_url": "https://archive.org/download/EllsworthKellyLastPaintings_201811/EllsworthKellyLastPaintings.pdf#page=50",
+    "reference_id": "research/core-museums-v4/reference-images/last-green-angle.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate contours visually inspected",
+    "palette": "standardized vivid screen colours, not measured pigments",
+    "reviewed_date": "2026-10-27",
+    "notes": "Interpretive SVG after inspecting a public publisher PDF plate. Approximate contour and vivid palette. Six-edged green chevron over a white rectangular support. Relief depth and cast shadows omitted. Plate page51 follows caption page50."
+  },
+  "short-book-v4:EllsworthKelly20132:42:f-te-torcy": {
+    "path": "assets/studies/v4-short-f-te-torcy-1952.svg",
+    "colors": [
+      "blue",
+      "yellow",
+      "black"
+    ],
+    "shape_type": "joined relief panels",
+    "reference_url": "https://archive.org/download/EllsworthKelly20132/EllsworthKelly20132.pdf#page=42",
+    "reference_id": "research/core-museums-v4/reference-images/marks2013-fete-torcy.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate contours visually inspected",
+    "palette": "standardized vivid screen colours, not measured pigments",
+    "reviewed_date": "2026-10-27",
+    "notes": "Interpretive SVG after inspecting a public publisher PDF plate. Approximate contour and vivid palette. Two blue/yellow rectangular panel sections separated by a dark wooden strip. Overall dimensions from caption; subtle paint texture omitted."
+  }
+}

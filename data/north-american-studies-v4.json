@@ -1,0 +1,453 @@
+{
+  "north-v4:walker-black-relief-with-white": {
+    "path": "assets/studies/v4-north-american-walker-black-relief-with-white.svg",
+    "title": "Black Relief with White",
+    "year_start": 1991,
+    "colors": [
+      "white",
+      "black"
+    ],
+    "shape_type": "overlapping rectangles",
+    "reference_url": "https://www.walkerart.org/collections/artwork/black-relief-with-white/",
+    "reference_image_url": "https://imgix-proxy.walkerart.org/wac_42848.tif?fm=jpg&w=1024&h=1024&fit=fit",
+    "reference_id": "research/north-american-v4/reference-images/walker-black-relief-with-white.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary reference",
+    "palette": "standardized vivid screen colours; not measured pigment values",
+    "notes": "White backing panel and clockwise-rotated black panel observed. Wall, shadows and depth omitted; open corners transparent.",
+    "reviewed_date": "2026-10-27"
+  },
+  "north-v4:walker-yellow-red": {
+    "path": "assets/studies/v4-north-american-walker-yellow-red.svg",
+    "title": "Yellow/Red",
+    "year_start": 1968,
+    "colors": [
+      "yellow",
+      "red"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.walkerart.org/collections/artwork/yellow-red/",
+    "reference_image_url": "https://imgix-proxy.walkerart.org/wac_3709.tif?fm=jpg&w=1024&h=1024&fit=fit",
+    "reference_id": "research/north-american-v4/reference-images/walker-yellow-red.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary reference",
+    "palette": "standardized vivid screen colours; not measured pigment values",
+    "notes": "Observed two vertical colour areas on rectangular canvas; photographic perspective rectified. Museum publishes framed size only, so physical scale is disabled.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": false,
+    "true_scale_note": "Only framed dimensions located; exact canvas extent not verified."
+  },
+  "north-v4:walker-red-yellow-blue-iii": {
+    "path": "assets/studies/v4-north-american-walker-red-yellow-blue-iii.svg",
+    "title": "Red Yellow Blue III",
+    "year_start": 1966,
+    "colors": [
+      "red",
+      "yellow",
+      "blue"
+    ],
+    "shape_type": "separate rectangles",
+    "reference_url": "https://www.walkerart.org/collections/artwork/red-yellow-blue-iii/",
+    "reference_image_url": "https://imgix-proxy.walkerart.org/wac_15888.tif?fm=jpg&w=1024&h=1024&fit=fit",
+    "reference_id": "research/north-american-v4/reference-images/walker-red-yellow-blue-iii.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary reference",
+    "palette": "standardized vivid screen colours; not measured pigment values",
+    "notes": "Three separate almost-square panels in observed red/yellow/blue order. Individual aspect uses each-panel dimensions; gaps approximate, overall width unknown.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": false,
+    "true_scale_note": "Separate panels with installation-dependent spacing; no verified overall width."
+  },
+  "north-v4:walker-red-green-blue": {
+    "path": "assets/studies/v4-north-american-walker-red-green-blue.svg",
+    "title": "Red Green Blue",
+    "year_start": 1964,
+    "colors": [
+      "red",
+      "green",
+      "blue"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.walkerart.org/collections/artwork/red-green-blue/",
+    "reference_image_url": "https://imgix-proxy.walkerart.org/wac_423.tif?fm=jpg&w=1024&h=1024&fit=fit",
+    "reference_id": "research/north-american-v4/reference-images/walker-red-green-blue.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary reference",
+    "palette": "standardized vivid screen colours; not measured pigment values",
+    "notes": "Observed nested rectangles share the lower-left canvas corner; blue painted ground retained.",
+    "reviewed_date": "2026-10-27"
+  },
+  "north-v4:walker-black-curve": {
+    "path": "assets/studies/v4-north-american-walker-black-curve.svg",
+    "title": "Black Curve",
+    "year_start": 1962,
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle with curved colour field",
+    "reference_url": "https://www.walkerart.org/collections/artwork/black-curve/",
+    "reference_image_url": "https://imgix-proxy.walkerart.org/wac_2158.tif?fm=jpg&w=1024&h=1024&fit=fit",
+    "reference_id": "research/north-american-v4/reference-images/walker-black-curve.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary reference",
+    "palette": "standardized vivid screen colours; not measured pigment values",
+    "notes": "White right corners are painted rectangular support, not missing wall. Black curved field meets both left corners.",
+    "reviewed_date": "2026-10-27"
+  },
+  "north-v4:buffalo-newyork": {
+    "path": "assets/studies/v4-north-american-buffalo-newyork.svg",
+    "title": "New York, NY",
+    "year_start": 1957,
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle with angular colour fields",
+    "reference_url": "https://buffaloakg.org/artworks/k195911-new-york-ny",
+    "reference_image_url": "https://buffaloakg.org/sites/default/files/styles/fixed_height_medium/public/artwork/K1959_011_o2.jpg?itok=rIAZYd3n",
+    "reference_id": "research/north-american-v4/reference-images/buffalo-newyork.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary reference",
+    "palette": "standardized vivid screen colours; not measured pigment values",
+    "notes": "Six observed black angular regions on white rectangular ground; isolated triangles and edge contacts retained.",
+    "reviewed_date": "2026-10-27"
+  },
+  "north-v4:buffalo-blueyellowred": {
+    "path": "assets/studies/v4-north-american-buffalo-blueyellowred.svg",
+    "title": "Blue, Yellow and Red",
+    "year_start": 1968,
+    "colors": [
+      "blue",
+      "yellow",
+      "red"
+    ],
+    "shape_type": "parallelogram",
+    "reference_url": "https://buffaloakg.org/artworks/k19693-blue-yellow-and-red",
+    "reference_image_url": "https://buffaloakg.org/sites/default/files/styles/fixed_height_medium/public/artwork/K1969_003_o2.jpg?itok=V0BRTvdB",
+    "reference_id": "research/north-american-v4/reference-images/buffalo-blueyellowred.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary reference",
+    "palette": "standardized vivid screen colours; not measured pigment values",
+    "notes": "Actual support is a leaning parallelogram, with three equal strips. Observed bounding aspect retained; published short-edge width cannot establish physical bounding width.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": false,
+    "true_scale_note": "Published width appears to describe the short edge of the parallelogram, not its bounding box; full horizontal extent not verified."
+  },
+  "north-v4:buffalo-greencurve": {
+    "path": "assets/studies/v4-north-american-buffalo-greencurve.svg",
+    "title": "Green Curve I",
+    "year_start": 1969,
+    "colors": [
+      "green",
+      "white"
+    ],
+    "shape_type": "parallelogram with curved colour field",
+    "reference_url": "https://buffaloakg.org/artworks/2023222-green-curve-i",
+    "reference_image_url": "https://buffaloakg.org/sites/default/files/styles/fixed_height_medium/public/artwork/2023_222_o2.jpg?itok=MiX_oCC1",
+    "reference_id": "research/north-american-v4/reference-images/buffalo-greencurve.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary reference",
+    "palette": "standardized vivid screen colours; not measured pigment values",
+    "notes": "Painted white upper-left area retained inside the parallelogram. Only surrounding wall is transparent; curved boundary is approximate.",
+    "reviewed_date": "2026-10-27"
+  },
+  "north-v4:lacma-33211": {
+    "path": "assets/studies/v4-north-american-lacma-33211.svg",
+    "title": "Blue Curve III",
+    "year_start": 1972,
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "shape_type": "diamond with curved colour field",
+    "reference_url": "https://collections.lacma.org/object/33211",
+    "reference_image_url": "https://collections-images.lacma.org/images/33211/33211-1-primary.webp",
+    "reference_id": "research/north-american-v4/reference-images/lacma-33211.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary reference",
+    "palette": "standardized vivid screen colours; not measured pigment values",
+    "notes": "Wide diamond-shaped support. White top triangle belongs to painting; curved blue-white division retained.",
+    "reviewed_date": "2026-10-27"
+  },
+  "north-v4:lacma-33895": {
+    "path": "assets/studies/v4-north-american-lacma-33895.svg",
+    "title": "Blue on Blue",
+    "year_start": 1963,
+    "colors": [
+      "blue"
+    ],
+    "shape_type": "curved relief on rectangle",
+    "reference_url": "https://collections.lacma.org/object/33895",
+    "reference_image_url": "https://collections-images.lacma.org/images/33895/33895-1-primary.webp",
+    "reference_id": "research/north-american-v4/reference-images/lacma-33895.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary reference",
+    "palette": "standardized vivid screen colours; not measured pigment values",
+    "notes": "Museum-classified painted-aluminum painting. Two blue supports, backing rectangle and curved overlay, use distinguishable interpretive blues. Cast shadows omitted.",
+    "reviewed_date": "2026-10-27"
+  },
+  "north-v4:dia-50442": {
+    "path": "assets/studies/v4-north-american-dia-50442.svg",
+    "title": "Blue Red",
+    "year_start": 1964,
+    "colors": [
+      "blue",
+      "red"
+    ],
+    "shape_type": "rectangle with rounded colour field",
+    "reference_url": "https://dia.org/collection/blue-red/50442",
+    "reference_image_url": "https://dia.widen.net/content/ouxtgcy9j6/webp/75.32-d1-2024-05-17.webp?quality=75",
+    "reference_id": "research/north-american-v4/reference-images/dia-50442.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary reference",
+    "palette": "standardized vivid screen colours; not measured pigment values",
+    "notes": "Blue upright round-ended capsule touches top/bottom of red rectangular ground. Current museum oil/height metadata disagrees with older labels and verso; source notes retain conflict.",
+    "reviewed_date": "2026-10-27"
+  },
+  "north-v4:dia-50445": {
+    "path": "assets/studies/v4-north-american-dia-50445.svg",
+    "title": "Black White",
+    "year_start": 1966,
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle with paired curved fields",
+    "reference_url": "https://dia.org/collection/black-white/50445",
+    "reference_image_url": "https://dia.widen.net/content/umnqk2kfqb/webp/67.13-d1-2024-05-17.webp?quality=75",
+    "reference_id": "research/north-american-v4/reference-images/dia-50445.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary reference",
+    "palette": "standardized vivid screen colours; not measured pigment values",
+    "notes": "Two joined black lobes meet at the right edge; inward central white point and white left corners retained.",
+    "reviewed_date": "2026-10-27"
+  },
+  "north-v4:slam-spectrum": {
+    "path": "assets/studies/v4-north-american-slam-spectrum.svg",
+    "title": "Spectrum II",
+    "year_start": 1966,
+    "colors": [
+      "yellow",
+      "green",
+      "blue",
+      "purple",
+      "red",
+      "orange"
+    ],
+    "shape_type": "joined rectangles",
+    "reference_url": "https://www.slam.org/collection/objects/5746/",
+    "reference_image_url": "https://www.slam.org/wp-content/uploads/piction/image-cache/7113.jpg",
+    "reference_id": "research/north-american-v4/reference-images/slam-spectrum.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary reference",
+    "palette": "standardized vivid screen colours; not measured pigment values",
+    "notes": "Thirteen observed strips in source order, including two blue, purple and red-violet transitions. Interpretive palette is not calibrated.",
+    "reviewed_date": "2026-10-27"
+  },
+  "north-v4:carnegie-greenorange": {
+    "path": "assets/studies/v4-north-american-carnegie-greenorange.svg",
+    "title": "Two Panels: Green Orange",
+    "year_start": 1970,
+    "colors": [
+      "green",
+      "orange"
+    ],
+    "shape_type": "joined triangles",
+    "reference_url": "https://collection.carnegieart.org/objects/188e525f-c11a-4a63-b255-7dafd6338eaf",
+    "reference_image_url": "https://cmoa-collection-images.s3.amazonaws.com/thing/119271/362.jpg",
+    "reference_id": "research/north-american-v4/reference-images/carnegie-greenorange.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary reference",
+    "palette": "standardized vivid screen colours; not measured pigment values",
+    "notes": "Two triangular joined panels create an upright triangle; surrounding wall stays transparent.",
+    "reviewed_date": "2026-10-27"
+  },
+  "north-v4:carnegie-aubade": {
+    "path": "assets/studies/v4-north-american-carnegie-aubade.svg",
+    "title": "Aubade",
+    "year_start": 1957,
+    "colors": [
+      "yellow",
+      "white"
+    ],
+    "shape_type": "rectangle with curved colour fields",
+    "reference_url": "https://collection.carnegieart.org/objects/34bc4285-1106-46cd-b6b7-8346c4cde531",
+    "reference_image_url": "https://cmoa-collection-images.s3.amazonaws.com/thing/193846/1010911.jpg",
+    "reference_id": "research/north-american-v4/reference-images/carnegie-aubade.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary reference",
+    "palette": "standardized vivid screen colours; not measured pigment values",
+    "notes": "Observed white square with narrow yellow upper-left wedge, separate upper-right curved wedge and yellow lower-left field. White ground retained.",
+    "reviewed_date": "2026-10-27"
+  },
+  "north-v4:ago-whiteblue": {
+    "path": "assets/studies/v4-north-american-ago-whiteblue.svg",
+    "title": "White Blue",
+    "year_start": 1960,
+    "colors": [
+      "white",
+      "blue"
+    ],
+    "shape_type": "rectangle with curved colour fields",
+    "reference_url": "https://ago.ca/events/ellsworth-kelly-curators-talk",
+    "reference_image_url": "https://ago.ca/sites/default/files/styles/max_800x800/public/2024-10/AGO.51671.a01-1200px-72dpi.jpg?itok=_rYzc2HF",
+    "reference_id": "research/north-american-v4/reference-images/ago-whiteblue.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary reference",
+    "palette": "standardized vivid screen colours; not measured pigment values",
+    "notes": "Three observed blue regions on white rectangular ground, including lower-left curl and blue pointed area at right. Curves approximate.",
+    "reviewed_date": "2026-10-27"
+  },
+  "north-v4:desmoines-yellowblue": {
+    "path": "assets/studies/v4-north-american-desmoines-yellowblue.svg",
+    "title": "Yellow Blue",
+    "year_start": 1963,
+    "colors": [
+      "yellow",
+      "blue"
+    ],
+    "shape_type": "rectangle with curved colour field",
+    "reference_url": "https://desmoinesartcenter.org/news/ellsworth-kelly-foundation-gift/",
+    "reference_image_url": null,
+    "reference_id": "research/north-american-v4/reference-images/desmoines-yellowblue.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary reference",
+    "palette": "standardized vivid screen colours; not measured pigment values",
+    "notes": "Original Kelly painting is the small lower-left image in museum guide PDF3/printed4. The four larger quilt images are Ben Millett works and are not transcribed.",
+    "reviewed_date": "2026-10-27"
+  },
+  "north-v4:addison-green-red-orange": {
+    "path": "assets/studies/v4-north-american-addison-green-red-orange.svg",
+    "title": "Green Red-Orange",
+    "year_start": 1974,
+    "colors": [
+      "green",
+      "orange"
+    ],
+    "shape_type": "joined rectangles",
+    "reference_url": "https://addison.andover.edu/wp-content/uploads/Image-Highlights_Playing-to-Our-Strengths.pdf",
+    "reference_image_url": null,
+    "reference_id": "research/north-american-v4/reference-images/addison-greeredorange.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary reference",
+    "palette": "standardized vivid screen colours; not measured pigment values",
+    "notes": "Two joined panels form a rectangular overall canvas with slanted green/red-orange seam. Study groups red-orange as orange.",
+    "reviewed_date": "2026-10-27"
+  },
+  "north-v4:vmfa-four-panels": {
+    "path": "assets/studies/v4-north-american-vmfa-four-panels.svg",
+    "title": "Green Black Red Blue",
+    "year_start": 1966,
+    "colors": [
+      "green",
+      "black",
+      "red",
+      "blue"
+    ],
+    "shape_type": "separate rectangles",
+    "reference_url": "https://www.sfmoma.org/essay/how-to-install-an-ellsworth-kelly-artwork-blue-green-black-red-1996-as-a-case-study/",
+    "reference_image_url": null,
+    "reference_id": "research/north-american-v4/reference-images/vmfa-fourpanels.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary reference",
+    "palette": "standardized vivid screen colours; not measured pigment values",
+    "notes": "Four observed separated portrait panels; each-panel physical aspect preserved. Gaps approximate and no overall width verified.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": false,
+    "true_scale_note": "Only per-panel dimensions verified; installation width varies."
+  },
+  "north-v4:philadelphia-black-red-orange": {
+    "path": "assets/studies/v4-north-american-philadelphia-black-red-orange.svg",
+    "title": "Black Red Orange",
+    "year_start": 1966,
+    "colors": [
+      "black",
+      "orange"
+    ],
+    "shape_type": "joined rectangles",
+    "reference_url": "https://press.philamuseum.org/embracing-the-contemporary-the-keith-l-and-katherine-sachs-collection/",
+    "reference_image_url": "https://content.presspage.com/uploads/1935/800_sachscollectionimage3-kelly.jpg?10000",
+    "reference_id": "research/north-american-v4/reference-images/philadelphia-sachs-4.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary reference",
+    "palette": "standardized vivid screen colours; not measured pigment values",
+    "notes": "Observed upper black and lower red-orange joined panels. Museum2016 caption reports promised gift; dimensions unknown, so comparable-size display only.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": false,
+    "true_scale_note": "Physical measurements not yet verified in primary source."
+  },
+  "north-v4:wadsworth-maya": {
+    "path": "assets/studies/v4-north-american-wadsworth-maya.svg",
+    "title": "Red Orange (Maya)",
+    "year_start": 1959,
+    "colors": [
+      "red",
+      "orange"
+    ],
+    "shape_type": "rectangle with paired curved fields",
+    "reference_url": "https://www.incollect.com/articles/the-winter-antiques-show-loan-exhibition-legacy-for-the-future-the-wadsworth-atheneum-museum-of-art",
+    "reference_image_url": "https://dwty444dk0mlr.cloudfront.net/s3fs-public/uploads/Figure-10.jpg",
+    "reference_id": "research/north-american-v4/reference-images/wadsworth-maya.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary reference",
+    "palette": "standardized vivid screen colours; not measured pigment values",
+    "notes": "Two observed red rounded forms on an orange rectangular ground, touching at the centre. Museum checklist width19in and curator article18½in disagree; museum checklist aspect retained. Visual reference is the museum chief curator’s illustrated article, Fig.10.",
+    "reviewed_date": "2026-10-27"
+  },
+  "north-v4:cincinnati-5722": {
+    "path": "assets/studies/v4-north-american-cincinnati-5722.svg",
+    "title": "Green Panel with Orange Curve",
+    "year_start": 1989,
+    "colors": [
+      "green",
+      "orange"
+    ],
+    "shape_type": "rectangle joined to curved triangle",
+    "reference_url": "https://collection.cincinnatiartmuseum.org/objects/5722/green-panel-with-orange-curve",
+    "reference_image_url": "https://collection.cincinnatiartmuseum.org/internal/media/dispatcher/141877/preview",
+    "reference_id": "research/north-american-v4/reference-images/cincinnati-greenorange-browser.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary reference",
+    "palette": "standardized vivid screen colours; not measured pigment values",
+    "notes": "Observed green square at upper left joined to orange curved triangular panel on right. Surrounding open corners are transparent; physical aspect from current museum object metadata.",
+    "reviewed_date": "2026-10-27"
+  },
+  "north-v4:baltimore-green-red-yellow-blue": {
+    "path": "assets/studies/v4-north-american-baltimore-green-red-yellow-blue.svg",
+    "title": "Green Red Yellow Blue",
+    "year_start": 1966,
+    "colors": [
+      "green",
+      "red",
+      "yellow",
+      "blue"
+    ],
+    "shape_type": "separate rectangles",
+    "reference_url": "https://artbma.org/artwork/green-red-yellow-blue/",
+    "reference_image_url": "https://artbma.org/wp-content/uploads/resized/2026/06/53153_26259073-3000x0-c-default.jpg",
+    "reference_id": "research/north-american-v4/reference-images/baltimore-greenredyellowblue.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary reference",
+    "palette": "standardized vivid screen colours; not measured pigment values",
+    "notes": "Four separated portrait canvases in observed green/red/yellow/blue order. Museum supplies overall dimensions53x107in and each52.5x22.5in; differences in installation extent retained. Gaps approximate.",
+    "reviewed_date": "2026-10-27"
+  },
+  "north-v4:baltimore-diagonal-curve": {
+    "path": "assets/studies/v4-north-american-baltimore-diagonal-curve.svg",
+    "title": "Diagonal with Curve II",
+    "year_start": 1978,
+    "colors": [
+      "gray"
+    ],
+    "shape_type": "curved diagonal quadrilateral",
+    "reference_url": "https://artbma.org/artwork/diagonal-with-curve-ii/",
+    "reference_image_url": "https://artbma.org/wp-content/uploads/resized/2026/08/38421_12993446-2560x0-c-default.jpg",
+    "reference_id": "research/north-american-v4/reference-images/baltimore-diagonal-curve.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary reference",
+    "palette": "standardized vivid screen colours; not measured pigment values",
+    "notes": "Observed slate-gray shaped canvas: convex upper boundary, straight lower diagonal and short upright ends. Oblique source photograph approximately rectified using museum overall dimensions; vivid gray is not calibrated.",
+    "reviewed_date": "2026-10-27"
+  }
+}

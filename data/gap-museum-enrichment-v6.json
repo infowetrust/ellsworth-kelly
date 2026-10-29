@@ -1,0 +1,35 @@
+[
+  {
+    "source_id": "gap-museum-v6:tate-T07403-primary-image",
+    "source_record_id": "T07403",
+    "verified_identity_of": "tate-26107",
+    "title": "Yellow Curve",
+    "year_start": 1996,
+    "year_end": 1996,
+    "date_display": "1996",
+    "medium": "Oil paint on canvas",
+    "height_cm": 135.7,
+    "width_cm": 355.6,
+    "dimensions_display": "support: 1357 x 3556 x 32 mm (Tate; aspect conflict with official photograph)",
+    "collection": "Tate",
+    "accession": "T07403",
+    "source_url": "https://www.tate.org.uk/art/artworks/kelly-yellow-curve-t07403",
+    "image_url": "https://media.tate.org.uk/art/images/work/T/T07/T07403_10.jpg",
+    "record_kind": "painting",
+    "record_status": "documented",
+    "source_confidence": "primary_collection_record_and_viewed_image",
+    "retrieved_date": "2026-10-28",
+    "true_scale_eligible": false,
+    "true_scale_note": "Tate’s exact T07403 collection page supplied the full official image, viewed and downloaded through its ordinary public image element. Three yellow edges are visible: nearly horizontal top, long sloping left and gently bowed right. The source photograph is slightly oblique. Current Tate details still report support 1357 × 3556 × 32 mm, in conflict with the tall observed support. No dimension swap, physical-size correction or identity with another Yellow Curve is inferred. Study keeps the observed support proportions and is excluded from true-scale plotting.",
+    "notes": [
+      "Current Tate Details panel: artist Ellsworth Kelly 1923–2015; oil paint on canvas; support 1357×3556×32 mm; Presented by the artist 1998; referenceT 07403. Full official photograph shows a tall triangular support, conflicting with reported bounding dimensions. No correction or swapped dimensions inferred. Observed normalized study only."
+    ],
+    "sources": [
+      {
+        "url": "https://www.tate.org.uk/art/artworks/kelly-yellow-curve-t07403",
+        "label": "Current Tate collection page and ordinary public image, viewed2026-10-28",
+        "accessed": "2026-10-28"
+      }
+    ]
+  }
+]

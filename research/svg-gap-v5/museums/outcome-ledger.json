@@ -1,0 +1,547 @@
+[
+  {
+    "id": "sfmoma-v3-99-351",
+    "outcome": "deferred_complex_reference",
+    "reason": "Actual SFMOMA cloudfront image downloaded and visually reviewed. This early painting has figurative or detailed painterly forms and tonal texture; a defensible reconstruction needs detailed tracing. No simplified title-derived icon substituted.",
+    "reference_id": "research/svg-gap-v5/museums/references/sfmoma-v3-99-351-0.jpg",
+    "reference_url": "https://www.sfmoma.org/artwork/99.351/",
+    "attempts": [
+      "Public museum image downloaded successfully; object HTML returned 403."
+    ],
+    "title": "Self-Portrait with Thorn",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "sfmoma-v3-99-340",
+    "outcome": "deferred_complex_reference",
+    "reason": "Actual SFMOMA cloudfront image downloaded and visually reviewed. This early painting has figurative or detailed painterly forms and tonal texture; a defensible reconstruction needs detailed tracing. No simplified title-derived icon substituted.",
+    "reference_id": "research/svg-gap-v5/museums/references/sfmoma-v3-99-340-0.jpg",
+    "reference_url": "https://www.sfmoma.org/artwork/99.340/",
+    "attempts": [
+      "Public museum image downloaded successfully; object HTML returned 403."
+    ],
+    "title": "Chuan-Shu",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "sfmoma-v3-99-348",
+    "outcome": "deferred_complex_reference",
+    "reason": "Actual SFMOMA cloudfront image downloaded and visually reviewed. This early painting has figurative or detailed painterly forms and tonal texture; a defensible reconstruction needs detailed tracing. No simplified title-derived icon substituted.",
+    "reference_id": "research/svg-gap-v5/museums/references/sfmoma-v3-99-348-0.jpg",
+    "reference_url": "https://www.sfmoma.org/artwork/99.348/",
+    "attempts": [
+      "Public museum image downloaded successfully; object HTML returned 403."
+    ],
+    "title": "Mandorla",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "international-v4-kroller-plant-i",
+    "outcome": "svg_study_added",
+    "reason": "Foundation EK 100 chapter 3 explicitly labels this image Plant I (1949), distinct from neighboring Plant II. Hand-drawn white plant silhouette on black rectangular field; leaf outlines approximate, paint texture and rubbed canvas edge omitted. Current primary museum size unresolved; normalized to reproduction.",
+    "reference_url": "https://discoveringek.ellsworthkelly.org/ek-100-chapter-3#abstract-paintings",
+    "reference_id": "research/svg-gap-v5/museums/references/plant-i-foundation.png",
+    "study_path": "assets/studies/v5-museum-international-v4-kroller-plant-i.svg",
+    "true_scale_eligible": false,
+    "attempts": [
+      "Viewed the actual cited visual reference.",
+      "Authored pure vector geometry and retained painted white fields.",
+      "Rendered SVG and visually checked paired reference/study contact sheet."
+    ],
+    "title": "Plant I",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "sfmoma-v3-99-350",
+    "outcome": "deferred_complex_reference",
+    "reason": "Actual SFMOMA cloudfront image downloaded and visually reviewed. This early painting has figurative or detailed painterly forms and tonal texture; a defensible reconstruction needs detailed tracing. No simplified title-derived icon substituted.",
+    "reference_id": "research/svg-gap-v5/museums/references/sfmoma-v3-99-350-0.jpg",
+    "reference_url": "https://www.sfmoma.org/artwork/99.350/",
+    "attempts": [
+      "Public museum image downloaded successfully; object HTML returned 403."
+    ],
+    "title": "Seated Figure",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "north-v4-philadelphia-seaweed",
+    "outcome": "svg_study_added",
+    "reason": "Photographed at Philadelphia in 2026, with explicit 1949 painting/caption. Thin branching painted lines represented as filled vector strips; distressed off-white field and brushtexture simplified. Entire painted rectangular canvas retained; frame omitted. Physical size unresolved in primary catalogue.",
+    "reference_url": "https://greg.org/archive/tag/ellsworth-kelly",
+    "reference_id": "research/svg-gap-v5/museums/references/philadelphia-seaweed.jpg",
+    "study_path": "assets/studies/v5-museum-north-v4-philadelphia-seaweed.svg",
+    "true_scale_eligible": false,
+    "attempts": [
+      "Viewed the actual cited visual reference.",
+      "Authored pure vector geometry and retained painted white fields.",
+      "Rendered SVG and visually checked paired reference/study contact sheet."
+    ],
+    "title": "Seaweed",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "north-v4-dallas-kite-i-loan",
+    "outcome": "unresolved_same_work_candidate",
+    "reason": "Historical Dallas loan checklist confirms Kite I (1952), lent by the artist. An already illustrated Marks work has the same title/year, EK 51, but this loan entry gives no size or EK number. No duplicate SVG copied without exact identity proof.",
+    "reference_id": null,
+    "reference_url": "https://texashistory.unt.edu/ark:/67531/metapth307668/m1/88/",
+    "attempts": [
+      "Read historical loan record.",
+      "Reviewed 2026 Maeght exhibition photograph including a Kite painting; no exact Dallas identity established."
+    ],
+    "title": "Kite I",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "whitney-9295",
+    "outcome": "svg_study_added",
+    "reason": "Haus der Kunst 2011 colorinstallation image caption identifies Whitney’s Painting in Five Panels (1955). Five differently sized painted rectangles separated by transparent wall gaps. White backfields and small green lower-left wedge of central canvas retained. Relative installation spacings and small-panel details approximate; no claim of exact reinstall dimensions. Normalized to observed installation because photograph perspective and variable gaps do not securely establish orthographic spacing.",
+    "reference_url": "https://www.hausderkunst.de/eintauchen/ellsworth-kelly-schwarz-weiss",
+    "reference_id": "research/svg-gap-v5/museums/references/fivepanels-hdk.jpg",
+    "study_path": "assets/studies/v5-museum-whitney-9295.svg",
+    "true_scale_eligible": false,
+    "attempts": [
+      "Viewed the actual cited visual reference.",
+      "Authored pure vector geometry and retained painted white fields.",
+      "Rendered SVG and visually checked paired reference/study contact sheet."
+    ],
+    "title": "Painting in Five Panels",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "north-v4-yale-charter",
+    "outcome": "svg_study_added",
+    "reason": "Museum painting photo explicitly identified as Charter (1959), Yale with gift provenance. Foundation’s 1959 Sixteen Americans exhibition also names Charter, EK 226. Rounded orange quadrilateral on white upper field above black lower rectangle. Physical dimensions unresolved in current primary record; normalized to photograph.",
+    "reference_url": "https://greg.org/archive/2023/01/16/gober-kelly-red-blue.html",
+    "reference_id": "research/svg-gap-v5/museums/references/yale-charter.jpg",
+    "study_path": "assets/studies/v5-museum-north-v4-yale-charter.svg",
+    "true_scale_eligible": false,
+    "attempts": [
+      "Viewed the actual cited visual reference.",
+      "Authored pure vector geometry and retained painted white fields.",
+      "Rendered SVG and visually checked paired reference/study contact sheet."
+    ],
+    "title": "Charter",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "north-v4-blanton-high-yellow",
+    "outcome": "svg_study_added",
+    "reason": "Artsy image explicitly provided by Blanton Museum; independent viewing-room caption also identifies Blanton’s High Yellow (1960). Broad irregular yellow oval on blue upper field; green full-width lower panel. Yellow contour is deliberately asymmetric, not a circle.",
+    "reference_url": "https://www.artsy.net/artwork/ellsworth-kelly-high-yellow",
+    "reference_id": "research/svg-gap-v5/museums/references/blanton-high-yellow.jpg",
+    "study_path": "assets/studies/v5-museum-north-v4-blanton-high-yellow.svg",
+    "true_scale_eligible": true,
+    "attempts": [
+      "Viewed the actual cited visual reference.",
+      "Authored pure vector geometry and retained painted white fields.",
+      "Rendered SVG and visually checked paired reference/study contact sheet."
+    ],
+    "title": "High Yellow",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "museum-v2-mumok-blue-curve",
+    "outcome": "svg_study_added",
+    "reason": "Blue convex form grows from full left edge to touch right edge; white upper/lower-right painted regions retained. Actual museum 2016 checklist thumbnail, not another Blue Curve numbered series.",
+    "reference_url": "https://www.mumok.at/fileadmin/Bibliothek/7_Presse/2016/We_Pioneers/wir_wegbereiter_werkliste_pdf.pdf#page=55",
+    "reference_id": "research/svg-gap-v5/museums/references/mumok-checklist-p55.png",
+    "study_path": "assets/studies/v5-museum-museum-v2-mumok-blue-curve.svg",
+    "true_scale_eligible": true,
+    "attempts": [
+      "Viewed the actual cited visual reference.",
+      "Authored pure vector geometry and retained painted white fields.",
+      "Rendered SVG and visually checked paired reference/study contact sheet."
+    ],
+    "title": "Blue Curve",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "nga-au-orange-curve-116211",
+    "outcome": "svg_study_added",
+    "reason": "Public exhibition review identifies Orange Curve (1964–65), oil on canvas, National Gallery of Australia. Primary American Masters record describes this orange curve. Off-white upper/lower-left painted corners retained; curved orange field touches left edge and occupies whole right edge. Physical dimensions unresolved; normalized to full rectangular support shown in reproduction.",
+    "reference_url": "https://artblart.com/tag/lorraine-connelly-northey-lap-lap/",
+    "reference_id": "research/svg-gap-v5/museums/references/nga-orange-curve.jpg",
+    "study_path": "assets/studies/v5-museum-nga-au-orange-curve-116211.svg",
+    "true_scale_eligible": false,
+    "attempts": [
+      "Viewed the actual cited visual reference.",
+      "Authored pure vector geometry and retained painted white fields.",
+      "Rendered SVG and visually checked paired reference/study contact sheet."
+    ],
+    "title": "Orange Curve",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "whitney-16879",
+    "outcome": "svg_study_added",
+    "reason": "Primary 1973 retrospective colorplate PDF page 77 matches exact 1964 title,90 × 66 in. and historical Hornick collection. Red form rises from lower-left, bows upward and right to touch right edge at about 62 percent height; blue surrounding field retained. Canvas rather than page margin is represented.",
+    "reference_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=77",
+    "reference_id": "research/svg-gap-v5/museums/references/whitney-red-blue-moma1973-p77.png",
+    "study_path": "assets/studies/v5-museum-whitney-16879.svg",
+    "true_scale_eligible": true,
+    "attempts": [
+      "Viewed the actual cited visual reference.",
+      "Authored pure vector geometry and retained painted white fields.",
+      "Rendered SVG and visually checked paired reference/study contact sheet."
+    ],
+    "title": "Red Blue",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "museum-v2-mfah-60998",
+    "outcome": "access_boundary",
+    "reason": "Museum object metadata is indexed, but direct retrieval returned 403 and ordinary browser reached a Cloudflare challenge. The public image could not be viewed. Searches for title/year/exhibition history produced no verified alternate full painting reference; differently dated prints and other paintings with related titles excluded.",
+    "reference_id": null,
+    "reference_url": "https://emuseum.mfah.org/objects/60998/blue-red",
+    "attempts": [
+      "Direct primary object page read:403.",
+      "Ordinary Chrome primary object page: Cloudflare challenge; not bypassed.",
+      "Exact title/year and provenance search; no defensible alternate image.",
+      "For Green Black, inspected the available6-page Am I Blue PDF: credits only, not a reproduction of this painting."
+    ],
+    "title": "Blue Red",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "international-v4-tate-red-white-1966",
+    "outcome": "svg_study_added",
+    "reason": "Tate Liverpool authored 2017 announcement GIF frame 2 supplies actual red/white painting. Two bulbous red forms touch right edge and meet at central leftward cusp; white upper/lower-right regions retained. Overall support 165.4 x 229.5 cm verified in Tate 2014–15 full annual report PDF page 72, accession T 14156.",
+    "reference_url": "https://www.e-flux.com/announcements/121707/christopher-klineo-k-the-musicalellsworth-kelly-in-focusconstellations",
+    "reference_id": "research/svg-gap-v5/museums/references/tate-redwhite-eflux-contact.png",
+    "study_path": "assets/studies/v5-museum-international-v4-tate-red-white-1966.svg",
+    "true_scale_eligible": true,
+    "attempts": [
+      "Viewed the actual cited visual reference.",
+      "Authored pure vector geometry and retained painted white fields.",
+      "Rendered SVG and visually checked paired reference/study contact sheet."
+    ],
+    "title": "Red White",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "international-v4-mot-red-yellow-blue",
+    "outcome": "svg_study_added",
+    "reason": "Japan Art Association award biography explicitly credits Museum of Contemporary Art Tokyo and supplies 165.1 x 495.3 cm; source museum’s current size, 165.3 × 495.8 cm, retained. Three equal adjoining color panels in red-yellow-blue order.",
+    "reference_url": "https://www.praemiumimperiale.org/en/laureate/kelly/",
+    "reference_id": "research/svg-gap-v5/museums/references/tokyo-ryb.jpg",
+    "study_path": "assets/studies/v5-museum-international-v4-mot-red-yellow-blue.svg",
+    "true_scale_eligible": true,
+    "attempts": [
+      "Viewed the actual cited visual reference.",
+      "Authored pure vector geometry and retained painted white fields.",
+      "Rendered SVG and visually checked paired reference/study contact sheet."
+    ],
+    "title": "Red Yellow Blue",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "mfa-blue-green-yellow-orange-red-1968",
+    "outcome": "existing_study_reconciled",
+    "reason": "MFA 2010 announcement identifies donated 1968 five-panel painting, approximately 10×22 ft, from Bank of America. Actual 2012 visitor photo and donor 2017 publicationpage 6 show the same distinctive five-color/tapered installation as 1996 PDFpage 58 fig 19,304.8×688.3 cm, Boatmen’s Bank. Market agent independently viewed both images and confirmed identity. Reuse its v 5 study after root merges the records; retain current MFA ownership and 2010 gift evidence.",
+    "reference_id": "research/svg-gap-v5/museums/references/mfa-colors-visitor.jpg",
+    "reference_url": "https://www.mfa.org/news/press-releases/09-20-2010",
+    "attempts": [
+      "Read full official2010 gift announcement, including approximately10×22ft paragraph.",
+      "Downloaded/read donor Bank of America ArtsMatter2017 PDFpage6.",
+      "Viewed museum visitor photo and compared with1996 book figure; independent second agent confirmed."
+    ],
+    "title": "Blue Green Yellow Orange Red",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "international-v4-louisiana-yellow-black",
+    "outcome": "svg_study_added",
+    "reason": "Photographer’s August 2018 museum visit explicitly identifies Yellow Black (1968), Louisiana. Ordinary public photo loaded after initial navigation timeout and was downloaded from the visible image element. Yellow L-shaped field wraps left and lower edges of a black upper-right parallelogram. Wall, label and cast shadow omitted. Source owner gives physical dimensions, but observed oblique outline is normalized rather than asserting an orthographic contour.",
+    "reference_url": "https://www.flickr.com/photos/jpellgen/42883722960/",
+    "reference_id": "research/svg-gap-v5/museums/references/louisiana-yellow-black.jpg",
+    "study_path": "assets/studies/v5-museum-international-v4-louisiana-yellow-black.svg",
+    "true_scale_eligible": false,
+    "attempts": [
+      "Viewed the actual cited visual reference.",
+      "Authored pure vector geometry and retained painted white fields.",
+      "Rendered SVG and visually checked paired reference/study contact sheet."
+    ],
+    "title": "Yellow Black",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "moca-v3-two-panels-blackwhite",
+    "outcome": "existing_study_reconciled",
+    "reason": "MOCA accession 2005.13, Two Panels: Black/White (1970), oil on canvas,111×64 in, Gift of Robert H.Halff, matches Guggenheim 1996 cat 59 White Black: two joined panels,1970,111×64 in, Robert M.Halff, promised gift to MOCA. Existing v 4-public-guggenheim 1996-59.svg reused after root identity reconciliation; no new SVG.",
+    "reference_id": "research/public-catalogues-v4/pages/page-178.png",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=178",
+    "attempts": [
+      "Read MOCA full current object metadata and explicit no-image state.",
+      "Read primary1996 plate caption and compare exact dimensions, year and donor/recipient."
+    ],
+    "title": "Two Panels: Black/White",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "international-v4-fukuoka-blue-black-curve-iii",
+    "outcome": "reference_inadequate",
+    "reason": "Primary collection API gives the exact 1972 painting and its image URL. The available 180×135 image is too dark to distinguish the blue/black partition. The 2021 museum annual-report installation view is tiny and grayscale. No guessed single-color or invented two-color geometry substituted.",
+    "reference_id": "research/svg-gap-v5/museums/references/international-v4-fukuoka-blue-black-curve-iii-0.jpg",
+    "reference_url": "https://www.fukuoka-art-museum.jp/archives/img/modern/2611/2611_1.jpg",
+    "attempts": [
+      "Read published artist-search API and exact image record.",
+      "Viewed primary thumbnail.",
+      "Searched/rendered2021 museum annual report PDFpage7; small grayscale gallery image does not resolve color partition."
+    ],
+    "title": "Blue Black Curve III",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "international-v4-vanabbe-black-curve-i",
+    "outcome": "access_boundary",
+    "reason": "Indexed 2009 museum friends journal explicitly calls the two 1973 works paintings and captions photographs by Peter Cox. Current canonical/download/API routes return migrated 404 HTML. No painting photo retrieved. Same-name 1973 lithographs are documented but deliberately excluded as visual substitutes.",
+    "reference_id": "research/international-v4/raw/deep-71.txt",
+    "reference_url": "https://vanabbemuseum.nl/nl/museum/vriendenvereniging/journaals/journaal_2009_nr_4.pdf/@@download/file",
+    "attempts": [
+      "Read indexed full journal excerpt including the word schilderijen (paintings).",
+      "Canonical PDF and publicly indexed API download links returned404.",
+      "Searched exact titles; alternate sale results were lithographs, not these paintings."
+    ],
+    "title": "Black Curve I",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "international-v4-vanabbe-white-curve-i",
+    "outcome": "access_boundary",
+    "reason": "Indexed 2009 museum friends journal explicitly calls the two 1973 works paintings and captions photographs by Peter Cox. Current canonical/download/API routes return migrated 404 HTML. No painting photo retrieved. Same-name 1973 lithographs are documented but deliberately excluded as visual substitutes.",
+    "reference_id": "research/international-v4/raw/deep-71.txt",
+    "reference_url": "https://vanabbemuseum.nl/nl/museum/vriendenvereniging/journaals/journaal_2009_nr_4.pdf/@@download/file",
+    "attempts": [
+      "Read indexed full journal excerpt including the word schilderijen (paintings).",
+      "Canonical PDF and publicly indexed API download links returned404.",
+      "Searched exact titles; alternate sale results were lithographs, not these paintings."
+    ],
+    "title": "White Curve I",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "international-v4-k20-concorde-iv",
+    "outcome": "reference_inadequate",
+    "reason": "Primary 1976 painting image is cropped through its top and right edges, so the full support cannot be established. Same-name 1981–82 aquatints are different objects and excluded. No complete painting reference found in the checked alternate route.",
+    "reference_id": "research/svg-gap-v5/museums/references/international-v4-k20-concorde-iv-0.jpg",
+    "reference_url": "https://sammlung.kunstsammlung.de/de/werke/68",
+    "attempts": [
+      "Viewed full available2000px primary image; upper/right support clipped.",
+      "Searched exact title/year and collection.",
+      "Rejected later prints as substitutes."
+    ],
+    "title": "Concorde IV",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "north-v4-dallas-red-panel",
+    "outcome": "svg_study_added",
+    "reason": "Museum staff’s 2015 installation photograph explicitly shows this 1980 work. Four visible support corners are reproduced as an observed projection. Photographic perspective is substantial and reliable physical size is absent; not flattened into an invented rectangle.",
+    "reference_url": "https://blog.dma.org/2015/10/26/red-hot/",
+    "reference_id": "research/svg-gap-v5/museums/references/north-v4-dallas-red-panel-0.jpg",
+    "study_path": "assets/studies/v5-museum-north-v4-dallas-red-panel.svg",
+    "true_scale_eligible": false,
+    "attempts": [
+      "Viewed the actual cited visual reference.",
+      "Authored pure vector geometry and retained painted white fields.",
+      "Rendered SVG and visually checked paired reference/study contact sheet."
+    ],
+    "title": "Red Panel",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "north-v4-cincinnati-5721",
+    "outcome": "reference_inadequate",
+    "reason": "Current museum object page explicitly says no image available. A descriptive black square/white rectangle account does not establish exact support positions or proportions, so no generic diagram was substituted.",
+    "reference_id": "research/svg-gap-v5/museums/references/north-v4-cincinnati-5721-0.html",
+    "reference_url": "https://collection.cincinnatiartmuseum.org/objects/5721/black-diamond-with-white",
+    "attempts": [
+      "Read museum object record and no-media state.",
+      "Exact title/year alternate image search found no verified full painting photo."
+    ],
+    "title": "Black Diamond with White",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "international-v4-saint-etienne-blue-diagonal-curve",
+    "outcome": "svg_study_added",
+    "reason": "Museum collection keyword form returned exact Blue Diagonal with Curve (1988) and image 5 D 22669.jpg. Four-edged elongated diagonal form with curved upper-left edge. Entire painted front face included; exposed thickness and wallshadow omitted. Physical dimensions unresolved; normalized to observed support proportions.",
+    "reference_url": "https://mamc.saint-etienne-metropole.fr/en/collections?combine=Kelly&field_type_oeuvre_target_id=All",
+    "reference_id": "research/svg-gap-v5/museums/references/saint-etienne-blue-diagonal.jpg",
+    "study_path": "assets/studies/v5-museum-international-v4-saint-etienne-blue-diagonal-curve.svg",
+    "true_scale_eligible": false,
+    "attempts": [
+      "Viewed the actual cited visual reference.",
+      "Authored pure vector geometry and retained painted white fields.",
+      "Rendered SVG and visually checked paired reference/study contact sheet."
+    ],
+    "title": "Blue Diagonal with Curve",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "museum-v2-mfah-12441",
+    "outcome": "access_boundary",
+    "reason": "Museum object metadata is indexed, but direct retrieval returned 403 and ordinary browser reached a Cloudflare challenge. The public image could not be viewed. Searches for title/year/exhibition history produced no verified alternate full painting reference; differently dated prints and other paintings with related titles excluded.",
+    "reference_id": null,
+    "reference_url": "https://emuseum.mfah.org/objects/12441/green-black",
+    "attempts": [
+      "Direct primary object page read:403.",
+      "Ordinary Chrome primary object page: Cloudflare challenge; not bypassed.",
+      "Exact title/year and provenance search; no defensible alternate image.",
+      "For Green Black, inspected the available6-page Am I Blue PDF: credits only, not a reproduction of this painting."
+    ],
+    "title": "Green Black",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "north-v4-slam-purple-panel",
+    "outcome": "svg_study_added",
+    "reason": "January 2024 photographed Saint Louis galleryvisit explicitly identifies Purple Panel (1988). Purple triangular front face has slightly bowed upper edge, long left diagonal, near-vertical right edge. Exposed wooden thickness and wall shadows omitted. Photograph oblique: observed proportions only, despite known square physical bounding dimensions.",
+    "reference_url": "https://www.artistrewilding.com/rewilding-1/sv34ggb43i3u33tbokskyp76zv2huq",
+    "reference_id": "research/svg-gap-v5/museums/references/slam-purple1988.jpg",
+    "study_path": "assets/studies/v5-museum-north-v4-slam-purple-panel.svg",
+    "true_scale_eligible": false,
+    "attempts": [
+      "Viewed the actual cited visual reference.",
+      "Authored pure vector geometry and retained painted white fields.",
+      "Rendered SVG and visually checked paired reference/study contact sheet."
+    ],
+    "title": "Purple Panel",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "museum-v2-lenbach-documenta-a",
+    "outcome": "reference_inadequate",
+    "reason": "Primary collection page identifies the four Documenta Room components, but image is a generic placeholder. Reviewed museum installation/contact photographs; the visible blue/red panels cannot be securely matched to all four exact 1991–92 components, and green/white full supports are unresolved. No color rectangle guessed from the title.",
+    "reference_id": "research/international-v4/lenbach-contact.jpg",
+    "reference_url": "https://www.lenbachhaus.de/en/digital/collection-online/detail/the-documenta-room-a-blue-panel-with-curve-1991-b-red-panel-with-curve-1991-c-green-panel-with-curve-1992-d-white-panel-with-curve-1992-30014052",
+    "attempts": [
+      "Read primary four-component collection entry.",
+      "Viewed museum installation and header contact sheets, including lenbach-install-070.jpg.",
+      "Searched Documenta Room history/1992 exhibition references; no individually identified complete front views."
+    ],
+    "title": "Blue Panel with Curve",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "museum-v2-lenbach-documenta-b",
+    "outcome": "reference_inadequate",
+    "reason": "Primary collection page identifies the four Documenta Room components, but image is a generic placeholder. Reviewed museum installation/contact photographs; the visible blue/red panels cannot be securely matched to all four exact 1991–92 components, and green/white full supports are unresolved. No color rectangle guessed from the title.",
+    "reference_id": "research/international-v4/lenbach-contact.jpg",
+    "reference_url": "https://www.lenbachhaus.de/en/digital/collection-online/detail/the-documenta-room-a-blue-panel-with-curve-1991-b-red-panel-with-curve-1991-c-green-panel-with-curve-1992-d-white-panel-with-curve-1992-30014052",
+    "attempts": [
+      "Read primary four-component collection entry.",
+      "Viewed museum installation and header contact sheets, including lenbach-install-070.jpg.",
+      "Searched Documenta Room history/1992 exhibition references; no individually identified complete front views."
+    ],
+    "title": "Red Panel with Curve",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "north-v4-baltimore-two-blacks-white",
+    "outcome": "svg_study_added",
+    "reason": "Museum-supplied Google Arts & Culture image: lower-left black rectangle, middle white square, upper-right black rectangle. Open stepped spaces remain transparent; the middle white panel is painted support.",
+    "reference_url": "https://artsandculture.google.com/asset/two-blacks-and-white/vwEStKIHqwBQOw",
+    "reference_id": "research/svg-gap-v5/museums/references/baltimore-twoblacks.jpg",
+    "study_path": "assets/studies/v5-museum-north-v4-baltimore-two-blacks-white.svg",
+    "true_scale_eligible": true,
+    "attempts": [
+      "Viewed the actual cited visual reference.",
+      "Authored pure vector geometry and retained painted white fields.",
+      "Rendered SVG and visually checked paired reference/study contact sheet."
+    ],
+    "title": "Two Blacks and White",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "international-v4-maeght-blue-floor-panel-leo",
+    "outcome": "svg_study_added",
+    "reason": "Museum-supplied 2026 installation photograph and caption explicitly identify Blue Floor Panel for Leo (1992). Observed floor projection only; four edges visible. No claim that projected outline is an orthographic plan. Known floor-plan dimensions do not establish projected wall-style geometry.",
+    "reference_url": "https://tlmagazine.com/fondation-maeght-summer-2026/?print=true",
+    "reference_id": "research/svg-gap-v5/museums/references/maeght-0017-hdr.jpg",
+    "study_path": "assets/studies/v5-museum-international-v4-maeght-blue-floor-panel-leo.svg",
+    "true_scale_eligible": false,
+    "attempts": [
+      "Viewed the actual cited visual reference.",
+      "Authored pure vector geometry and retained painted white fields.",
+      "Rendered SVG and visually checked paired reference/study contact sheet."
+    ],
+    "title": "Blue Floor Panel for Leo",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "museum-v2-lenbach-documenta-c",
+    "outcome": "reference_inadequate",
+    "reason": "Primary collection page identifies the four Documenta Room components, but image is a generic placeholder. Reviewed museum installation/contact photographs; the visible blue/red panels cannot be securely matched to all four exact 1991–92 components, and green/white full supports are unresolved. No color rectangle guessed from the title.",
+    "reference_id": "research/international-v4/lenbach-contact.jpg",
+    "reference_url": "https://www.lenbachhaus.de/en/digital/collection-online/detail/the-documenta-room-a-blue-panel-with-curve-1991-b-red-panel-with-curve-1991-c-green-panel-with-curve-1992-d-white-panel-with-curve-1992-30014052",
+    "attempts": [
+      "Read primary four-component collection entry.",
+      "Viewed museum installation and header contact sheets, including lenbach-install-070.jpg.",
+      "Searched Documenta Room history/1992 exhibition references; no individually identified complete front views."
+    ],
+    "title": "Green Panel with Curve",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "museum-v2-lenbach-documenta-d",
+    "outcome": "reference_inadequate",
+    "reason": "Primary collection page identifies the four Documenta Room components, but image is a generic placeholder. Reviewed museum installation/contact photographs; the visible blue/red panels cannot be securely matched to all four exact 1991–92 components, and green/white full supports are unresolved. No color rectangle guessed from the title.",
+    "reference_id": "research/international-v4/lenbach-contact.jpg",
+    "reference_url": "https://www.lenbachhaus.de/en/digital/collection-online/detail/the-documenta-room-a-blue-panel-with-curve-1991-b-red-panel-with-curve-1991-c-green-panel-with-curve-1992-d-white-panel-with-curve-1992-30014052",
+    "attempts": [
+      "Read primary four-component collection entry.",
+      "Viewed museum installation and header contact sheets, including lenbach-install-070.jpg.",
+      "Searched Documenta Room history/1992 exhibition references; no individually identified complete front views."
+    ],
+    "title": "White Panel with Curve",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "international-v4-kawamura-black-curve",
+    "outcome": "svg_study_added",
+    "reason": "Museum-owning company’s 2019 report page 11 identifies newly acquired Black Curve 1994 and shows it at the far left of the gallery photograph, apart from smaller prints. Bowed upper-left contour and two straight edges approximated from the small photo; no surrounding white wall included.",
+    "reference_url": "https://www3.dic-global.com/dic-global/ir/library/dic_ir_tsushin122h.pdf#page=11",
+    "reference_id": "research/svg-gap-v5/museums/references/kawamura2019-p11.png",
+    "study_path": "assets/studies/v5-museum-international-v4-kawamura-black-curve.svg",
+    "true_scale_eligible": true,
+    "attempts": [
+      "Viewed the actual cited visual reference.",
+      "Authored pure vector geometry and retained painted white fields.",
+      "Rendered SVG and visually checked paired reference/study contact sheet."
+    ],
+    "title": "Black Curve",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "tate-26107",
+    "outcome": "unresolved_reference_identity",
+    "reason": "A secondary image labeled Tate Yellow Curve 1996 is portrait-oriented (about 0.60 width/height), incompatible with the current Tate record’s 135.7×355.6 cm dimensions. Another 1996 Yellow Curve in the 1996 retrospective has a similar portrait ratio, so misattribution is plausible. Tate primary hero CDN was blocked; Tate Images reached a human security check. No forced stretching or unverified identity.",
+    "reference_id": "research/svg-gap-v5/museums/references/tate-yellow-secondary.jpg",
+    "reference_url": "https://www.tate.org.uk/art/artworks/kelly-yellow-curve-t07403",
+    "attempts": [
+      "Read primary Tate object page and CSV metadata.",
+      "Viewed secondary reproduction and compared its aspect with the metadata.",
+      "Ordinary browser Tate image: blocked by client.",
+      "Followed Tate’s exact TateImages link: human security check; not bypassed.",
+      "Read alternate quotation/academic citation; no reliable contradictory dimensions resolved."
+    ],
+    "title": "Yellow Curve",
+    "reviewed_date": "2026-10-27"
+  },
+  {
+    "id": "north-v4-mfa-white-relief-over-white",
+    "outcome": "unresolved_same_work_candidate",
+    "reason": "MFA 2014 announcement identifies a 2012 White Relief Over White promised gift. A Marks 2012 work with the same title already has a study, but without exact dimensions, EK number or matched museum image the identity remains unverified. Other similarly titled reliefs are distinct; no duplicate study copied.",
+    "reference_id": "research/svg-gap-v5/museums/references/north-v4-mfa-white-relief-over-white-0.html",
+    "reference_url": "https://www.mfa.org/news/mr20-weekend",
+    "attempts": [
+      "Read full museum announcement.",
+      "Checked exact title/year and donor search; no exact matched museum image.",
+      "Compared available metadata with existing Marks2012 source; insufficient identity evidence."
+    ],
+    "title": "White Relief Over White",
+    "reviewed_date": "2026-10-27"
+  }
+]

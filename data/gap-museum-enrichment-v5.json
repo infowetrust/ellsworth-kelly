@@ -1,0 +1,33 @@
+[
+  {
+    "source_id": "gap-museum-v5:tate-red-white-1966-acquisition",
+    "verified_identity_of": "international-v4-tate-red-white-1966",
+    "source_record_id": "T14156",
+    "title": "Red White",
+    "year_start": 1966,
+    "year_end": 1966,
+    "date_display": "1966",
+    "medium": "Acrylic paint on canvas",
+    "height_cm": 165.4,
+    "width_cm": 229.5,
+    "depth_cm": 2.9,
+    "dimensions_display": "Support: 1654 × 2295 × 29 mm",
+    "collection": "Tate, London",
+    "accession": "T14156",
+    "source_url": "https://www.tate.org.uk/documents/1048/tate_report1415_updated_uv7SA6h.pdf#page=72",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_museum_annual_report",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Tate full 2014–15 annual report, PDF page 72 (printed page 71), lists the support dimensions, medium and accession. Presented by the American Fund for the Tate Gallery, courtesy of Douglas S Cramer, 2013. The full report has 101 PDF pages; the separate 70-page government report omits the acquisition appendix."
+    ],
+    "sources": [
+      {
+        "url": "https://www.tate.org.uk/documents/1048/tate_report1415_updated_uv7SA6h.pdf#page=72",
+        "label": "Tate annual report 2014–15, acquisition highlights, printed page 71",
+        "accessed": "2026-10-27"
+      }
+    ]
+  }
+]

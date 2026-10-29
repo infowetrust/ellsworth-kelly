@@ -1,0 +1,530 @@
+{
+  "museum-v2-beyeler-darkgray": {
+    "path": "assets/studies/v4-international-beyeler-dark-gray.svg",
+    "colors": [
+      "gray",
+      "white"
+    ],
+    "shape_type": "joined quadrilaterals",
+    "reference_url": "https://imagedelivery.net/ewpHDaK80-2FfcNaCIVZYA/862b5ad7-2f1a-4adf-ef11-42312b129300/public",
+    "reference_id": "research/international-v4/reference-images/museum-v2-beyeler-darkgray.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized, not colorimetric",
+    "notes": "White foreground rectangle retained; dark gray appears almost black in the source photograph.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://www.fondationbeyeler.ch/en/collection/digital-collection/dark-gray-with-white-rectangle-ii"
+  },
+  "museum-v2-beyeler-greencurves": {
+    "path": "assets/studies/v4-international-beyeler-green-curves.svg",
+    "colors": [
+      "green"
+    ],
+    "shape_type": "curved quadrilateral",
+    "reference_url": "https://cdn.matthewmarks.com/online/green-curves-1997-5070/_800xAUTO_fit_center-center_none/Kelly_Green-Curves_1997_5070_02.jpg",
+    "reference_id": "research/international-v4/reference-images/museum-v2-beyeler-greencurves.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized, not colorimetric",
+    "notes": "Two near-vertical edges are gently curved; photographic perspective cannot establish exact curvature.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://www.fondationbeyeler.ch/en/collection/digital-collection/green-curves"
+  },
+  "museum-v2-beyeler-lake": {
+    "path": "assets/studies/v4-international-beyeler-lake-ii.svg",
+    "colors": [
+      "blue"
+    ],
+    "shape_type": "triangle",
+    "reference_url": "https://imagedelivery.net/ewpHDaK80-2FfcNaCIVZYA/9b83d21b-1282-4c2e-0951-51f2537efb00/public",
+    "reference_id": "research/international-v4/reference-images/museum-v2-beyeler-lake.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized, not colorimetric",
+    "notes": "",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://www.fondationbeyeler.ch/en/collection/digital-collection/lake-ii"
+  },
+  "museum-v2-bilbao-yellow-curve": {
+    "path": "assets/studies/v4-international-bilbao-yellow-curve-i.svg",
+    "colors": [
+      "yellow",
+      "white"
+    ],
+    "shape_type": "diamond",
+    "reference_url": "https://cms.guggenheim-bilbao.eus/uploads/2022/08/KellyE-1024x587.jpg",
+    "reference_id": "research/international-v4/reference-images/museum-v2-bilbao-yellow-curve.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized, not colorimetric",
+    "notes": "White upper section is retained inside the diamond support.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://www.guggenheim-bilbao.eus/en/the-collection/works/yellow-curve-i"
+  },
+  "museum-v2-pompidou-cqp5rjp": {
+    "path": "assets/studies/v4-international-pompidou-yellow-red-curve.svg",
+    "colors": [
+      "yellow",
+      "red"
+    ],
+    "shape_type": "triangle",
+    "reference_url": "https://www.centrepompidou.fr/media/picture/7d/25/7d259fdc5095f6e32a9351712e06aa11/thumb_large.jpg",
+    "reference_id": "research/international-v4/reference-images/museum-v2-pompidou-cqp5rjp.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized, not colorimetric",
+    "notes": "",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/cqp5Rjp"
+  },
+  "museum-v2-pompidou-ckxarqp": {
+    "path": "assets/studies/v4-international-pompidou-green-relief.svg",
+    "colors": [
+      "green"
+    ],
+    "shape_type": "quadrilateral",
+    "reference_url": "https://www.centrepompidou.fr/media/picture/c0/22/c0221483c32b152ce916e47e71328def/thumb_large.jpg",
+    "reference_id": "research/international-v4/reference-images/museum-v2-pompidou-ckxarqp.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized, not colorimetric",
+    "notes": "Overall slanted outline approximated; joined monochrome layers have no invented shadow.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/ckXaRqp"
+  },
+  "museum-v2-k20-green-relief": {
+    "path": "assets/studies/v4-international-k20-green-relief-blue.svg",
+    "colors": [
+      "green",
+      "blue"
+    ],
+    "shape_type": "overlapping rectangles",
+    "reference_url": "https://cdn.matthewmarks.com/online/3690-ek-selected/_800xAUTO_fit_center-center_none/3690_EK-827_01.jpg",
+    "reference_id": "research/international-v4/reference-images/museum-v2-k20-green-relief.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized, not colorimetric",
+    "notes": "Green rectangle overlays blue vertical rectangle; silhouette is open at upper left and lower right.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://sammlung.kunstsammlung.de/de/werke/603"
+  },
+  "museum-v2-reina-concorde": {
+    "path": "assets/studies/v4-international-reina-concorde.svg",
+    "colors": [
+      "blue"
+    ],
+    "shape_type": "hexagon",
+    "reference_url": "https://recursos.museoreinasofia.es/styles/large_portrait/public/Obra/AD00016_2.jpg.webp",
+    "reference_id": "research/international-v4/reference-images/reina-concorde.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized, not colorimetric",
+    "notes": "White surrounding frame/wall omitted; six-sided blue canvas retained.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://www.museoreinasofia.es/en/collections/artwork/concorde"
+  },
+  "museum-v2-reina-black-curve-xi": {
+    "path": "assets/studies/v4-international-reina-black-curve-xi.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://recursos.museoreinasofia.es/styles/large_portrait/public/Obra/AD00132_2.jpg.webp",
+    "reference_id": "research/international-v4/reference-images/reina-black-curve-xi.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized, not colorimetric",
+    "notes": "Full-resolution reference establishes the white painted field on a rectangular canvas. White field retained; only the surrounding wall is omitted.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://www.museoreinasofia.es/en/collections/artwork/black-curve-xi"
+  },
+  "museum-v2-grenoble-red-curve-iv": {
+    "path": "assets/studies/v4-international-grenoble-red-curve-iv.svg",
+    "colors": [
+      "red",
+      "white"
+    ],
+    "shape_type": "triangle",
+    "reference_url": "https://images.navigart.fr/1000/5D/65/5D65741.jpg",
+    "reference_id": "research/international-v4/reference-images/museum-v2-grenoble-red-curve-iv.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized, not colorimetric",
+    "notes": "White triangular support retained below/right of the red arc. Upper-left white is surrounding wall, consistent with museum description of a demi-carré blanc; omitted.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://www.museedegrenoble.fr/oeuvre/1931/1922-red-curve-iv.htm"
+  },
+  "moma1973-pdf102-caption1": {
+    "path": "assets/studies/v4-international-stedelijk-red-curve-ii.svg",
+    "colors": [
+      "red",
+      "white"
+    ],
+    "shape_type": "diamond",
+    "reference_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+    "reference_id": "research/international-v4/reference-images/moma-p102-0.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized, not colorimetric",
+    "notes": "White upper cap inside the wide diamond retained. Actual museum-published MoMA1973 plate is used, with physical dimensions from its caption.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf"
+  },
+  "moma1973-pdf101-caption1": {
+    "path": "assets/studies/v4-international-stedelijk-white-triangle-black-curve.svg",
+    "colors": [
+      "white",
+      "black"
+    ],
+    "shape_type": "triangle",
+    "reference_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+    "reference_id": "research/international-v4/reference-images/moma-p101-0.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized, not colorimetric",
+    "notes": "Same historical White Curve1972 now called White Triangle with Black Curve. White triangular canvas and black corner slivers retained; upper-left wall omitted. Curvature approximate.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf"
+  },
+  "international-v4:lwl-black-white": {
+    "path": "assets/studies/v4-international-lwl-black-white.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://sammlung-online.lwl-museum-kunst-kultur.de/werke/6106",
+    "reference_id": "research/international-v4/reference-images/lwl-black-white.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized, not colorimetric",
+    "notes": "",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://sammlung-online.lwl-museum-kunst-kultur.de/werke/6106"
+  },
+  "international-v4:wiesbaden-white-relief-black": {
+    "path": "assets/studies/v4-international-wiesbaden-white-relief-black.svg",
+    "colors": [
+      "white",
+      "black"
+    ],
+    "shape_type": "overlapping rectangles",
+    "reference_url": "https://museum-wiesbaden.de/en/kunstpreise",
+    "reference_id": "research/international-v4/reference-images/wiesbaden-white-relief.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized, not colorimetric",
+    "notes": "White front rectangle overlays the vertical black rear panel; no cast shadow invented.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://museum-wiesbaden.de/museumsgala"
+  },
+  "international-v4:stedelijk-black-white-bar-ii": {
+    "path": "assets/studies/v4-international-stedelijk-black-white-bar-ii.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "T-shaped joined rectangles",
+    "reference_url": "https://sbmk.nl/source/documents/MAWC-publ_web2.pdf",
+    "reference_id": "research/international-v4/reference-images/stedelijk-p253-1.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized, not colorimetric",
+    "notes": "White upper bar and black lower rectangle retained. Overall physical dimensions established by Guggenheim1996 catalogue62 (199.4 x406.4cm), explicitly credited to Stedelijk; museum conservation reference establishes same title1971 and composition. Perspective in the reference makes contour proportions approximate.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://sbmk.nl/source/documents/MAWC-publ_web2.pdf"
+  },
+  "international-v4:stedelijk-blue-curve-vi": {
+    "path": "assets/studies/v4-international-stedelijk-blue-curve-vi.svg",
+    "colors": [
+      "blue"
+    ],
+    "shape_type": "curved sector",
+    "reference_url": "https://sbmk.nl/source/documents/MAWC-publ_web2.pdf",
+    "reference_id": "research/international-v4/reference-images/stedelijk-p253-0.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized, not colorimetric",
+    "notes": "Normalized observed support proportions only; physical dimensions unknown. Painting at upper-right of the gallery photograph. Arc and wedge angles approximate because reference is oblique.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://sbmk.nl/source/documents/MAWC-publ_web2.pdf",
+    "true_scale_eligible": false,
+    "true_scale_note": "Physical dimensions unresolved; SVG width/height are normalized observed proportions only.",
+    "dimension_unit": "normalized_observed_proportions"
+  },
+  "international-v4:stedelijk-blue-green-red-i": {
+    "path": "assets/studies/v4-international-stedelijk-blue-green-red-i.svg",
+    "colors": [
+      "blue",
+      "green",
+      "red"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://sbmk.nl/source/documents/MAWC-publ_web2.pdf",
+    "reference_id": "research/international-v4/reference-images/stedelijk-render-254.png",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized, not colorimetric",
+    "notes": "Normalized observed proportions only. PDF page rendered to confirm correct orientation: the extracted embedded image is rotated180 degrees relative to the printed page. Blue left, curved red right.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://sbmk.nl/source/documents/MAWC-publ_web2.pdf",
+    "true_scale_eligible": false,
+    "true_scale_note": "Physical dimensions unresolved; SVG width/height are normalized observed proportions only.",
+    "dimension_unit": "normalized_observed_proportions"
+  },
+  "international-v4:ulm-orange-blue": {
+    "path": "assets/studies/v4-international-ulm-orange-blue.svg",
+    "colors": [
+      "orange",
+      "blue"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://museumulm.de/wp-content/uploads/2022/03/SELECTION-OF-WORKS-NEW-GUIDED-TOUR-CONCEPT-FOLLOW-YOUR-NOSE-MUSEUM-ULM-1.pdf",
+    "reference_id": "research/international-v4/reference-images/ulm-follow-p3-0.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized, not colorimetric",
+    "notes": "Normalized observed support proportions only; physical dimensions unknown. Orange rounded horizontal form touches sides and lower edge of blue painted rectangle.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://museumulm.de/wp-content/uploads/2022/03/SELECTION-OF-WORKS-NEW-GUIDED-TOUR-CONCEPT-FOLLOW-YOUR-NOSE-MUSEUM-ULM-1.pdf",
+    "true_scale_eligible": false,
+    "true_scale_note": "Physical dimensions unresolved; SVG width/height are normalized observed proportions only.",
+    "dimension_unit": "normalized_observed_proportions"
+  },
+  "museum-v2-reina-yellow-red-curve-i": {
+    "path": "assets/studies/v4-international-reina-yellow-red-curve-i.svg",
+    "colors": [
+      "yellow",
+      "red"
+    ],
+    "shape_type": "triangle",
+    "reference_url": "https://recursos.museoreinasofia.es/styles/large_landscape/public/Obra/AD00130_2.jpg.webp",
+    "reference_id": "research/international-v4/reference-images/reina-yellow-red-curve-i.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized, not colorimetric",
+    "notes": "",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://www.museoreinasofia.es/en/collections/artwork/yellow-red-curve-i/"
+  },
+  "moma1973-pdf47-caption1": {
+    "path": "assets/studies/v4-international-pompidou-kite-ii.svg",
+    "colors": [
+      "blue",
+      "yellow",
+      "red",
+      "green",
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.centrepompidou.fr/media/picture/46/9e/469ed3f8f1b27872ac4913017e78fdd5/thumb_large.jpg",
+    "reference_id": "research/international-v4/reference-images/moma1973-pdf47-caption1.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized, not colorimetric",
+    "notes": "Eleven joined panels: four pairs of colored-over-black squares and three white vertical rectangles. White separators retained; no open gaps.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf"
+  },
+  "museum-v2-flv-blue-diagonal": {
+    "path": "assets/studies/v4-international-flv-blue-diagonal.svg",
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "shape_type": "overlapping rectangles",
+    "reference_url": "https://www.fondationlouisvuitton.fr/fr/collection/oeuvres/blue-diagonal",
+    "reference_id": "research/international-v4/reference-images/flv-27266.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized, not colorimetric",
+    "notes": "White rear panel retained. Oblique photograph has been schematically flattened.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://www.fondationlouisvuitton.fr/en/collection/artworks/blue-diagonal"
+  },
+  "international-v4:moma-mediterranee-1973": {
+    "path": "assets/studies/v4-international-mediterranee.svg",
+    "colors": [
+      "black",
+      "blue",
+      "yellow",
+      "white",
+      "red"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.fondation-maeght.com/produit/kelly-mediterranee-1952/",
+    "reference_id": "research/international-v4/reference-images/mediterranee-maeght-reproduction.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized, not colorimetric",
+    "notes": "Nine colored rectangles after museum reproduction, geometry corroborated with MoMA1973 plate. Three relief panels represented flat; no invented shadows. Physical dimensions are historical caption inch conversions, not current Tate measurement.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf"
+  },
+  "museum-v2-flv-green-relief": {
+    "path": "assets/studies/v4-international-flv-green-relief.svg",
+    "colors": [
+      "green",
+      "white"
+    ],
+    "shape_type": "rectangular relief",
+    "reference_url": "https://www.fondationlouisvuitton.fr/fr/collection/oeuvres/green-relief",
+    "reference_id": "research/international-v4/reference-images/27269.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized, not colorimetric",
+    "notes": "White rear rectangle retained. Green foreground has a cropped lower-right corner.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://www.fondationlouisvuitton.fr/fr/collection/oeuvres/green-relief"
+  },
+  "museum-v2-flv-red-curve": {
+    "path": "assets/studies/v4-international-flv-red-curve-relief.svg",
+    "colors": [
+      "red",
+      "white"
+    ],
+    "shape_type": "rectangular relief",
+    "reference_url": "https://www.fondationlouisvuitton.fr/en/collection/artworks/red-curve-in-relief",
+    "reference_id": "research/international-v4/reference-images/27263.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized, not colorimetric",
+    "notes": "White rear rectangle retained; gently curved lower edge of red foreground approximated.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://www.fondationlouisvuitton.fr/en/collection/artworks/red-curve-in-relief"
+  },
+  "museum-v2-flv-concorde": {
+    "path": "assets/studies/v4-international-flv-concorde-relief.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangular relief",
+    "reference_url": "https://www.fondationlouisvuitton.fr/fr/collection/oeuvres/concorde-relief",
+    "reference_id": "research/international-v4/reference-images/flv-27275.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized, not colorimetric",
+    "notes": "White rear rectangle is retained; black six-sided foreground overlap follows the oblique photograph. Exact offset amount and projection are approximate.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://www.fondationlouisvuitton.fr/en/collection/artworks/concorde-relief"
+  },
+  "international-v4:flv-spectrum-viii": {
+    "path": "assets/studies/v4-international-flv-spectrum-viii.svg",
+    "colors": [
+      "yellow",
+      "green",
+      "blue",
+      "violet",
+      "red",
+      "orange"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.fondationlouisvuitton.fr/en/collection/artworks/spectrum-viii",
+    "reference_id": "research/international-v4/reference-images/flv-spectrum-viii.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized, not colorimetric",
+    "notes": "Twelve equal vertical painted panels. Twelve approximate hues retain the source sequence, grouped into color families for filtering; not colorimetric.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://www.fondationlouisvuitton.fr/en/collection/artworks/spectrum-viii"
+  },
+  "international-v4:winterthur-black-curves": {
+    "path": "assets/studies/v4-international-winterthur-black-curves.svg",
+    "colors": [
+      "black"
+    ],
+    "shape_type": "curved quadrilateral",
+    "reference_url": "https://www.kmw.ch/content/uploads/2025/11/KELLY_BlackCurves-819x1045.jpg",
+    "reference_id": "research/international-v4/reference-images/winterthur-black.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized, not colorimetric",
+    "notes": "Museum photograph shows bowed left edge, indented right edge and sloping upper/lower edges. Approximate flattened support; physical dimensions from exact museum object6013, not a secondary measurement.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://kmw.zetcom.net/de/collection/item/6013/"
+  },
+  "international-v4:maeght-red-yellow-blue-i": {
+    "path": "assets/studies/v4-international-maeght-red-yellow-blue-i.svg",
+    "colors": [
+      "red",
+      "yellow",
+      "blue"
+    ],
+    "shape_type": "square",
+    "reference_url": "https://www.fondation-maeght.com/wp-content/uploads/2022/03/55.-.KELLY-Hellsworth-Red-Yellow-Blue.jpg",
+    "reference_id": "research/international-v4/reference-images/maeght-ryb.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized, not colorimetric",
+    "notes": "Red square at lower left, yellow L and blue L. Slim external wooden frame omitted. Support and arrangement corroborated by MoMA1973 essay. Dimensions qualified as museum-supplied2026 caption hosted by TLmagazine.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://www.fondation-maeght.com/ellsworth-kelly-red-yellow-blue-1963-2/"
+  },
+  "international-v4:berlin-grey-panels": {
+    "path": "assets/studies/v4-international-berlin-grey-panels.svg",
+    "colors": [
+      "gray"
+    ],
+    "shape_type": "joined rectangles",
+    "reference_url": "https://www.smb.museum/fileadmin/website/Presse/Pressematerial/2023/11/Kopie_von_Werkliste_Presse.pdf",
+    "reference_id": "research/international-v4/reference-images/berlin-p4-2.png",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized, not colorimetric",
+    "notes": "Four gray-value panels after small museum checklist photograph. All four are grouped as gray, including near-white central panel. Unequal lower support edges approximate the photograph; wall below panels omitted. Exact panel seams and projection remain uncertain.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://www.smb.museum/fileadmin/website/Presse/Pressematerial/2023/11/Kopie_von_Werkliste_Presse.pdf"
+  },
+  "tate:7889": {
+    "path": "assets/studies/v4-international-tate-broadway.svg",
+    "colors": [
+      "orange",
+      "red",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://timespans.org/wp-content/uploads/TimeSpans2018.pdf",
+    "reference_id": "research/international-v4/reference-images/broadway-timespans-spread28.png",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized, not colorimetric",
+    "notes": "Tate-authorized reproduction in TimeSpans2018 brochure, printedp28/PDFp16. Red-orange upper field and white lower painted band retained. Hue is ambiguous between red and orange in the authorized reproduction; both filter families are recorded, while the vector retains the observed orange hue. Photography slightly oblique; narrow right-edge strip is not confidently distinct from perspective and is not invented as a separate panel.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://www.tate.org.uk/art/artworks/kelly-broadway-t00511"
+  },
+  "international-v4:moderna-white-over-black": {
+    "path": "assets/studies/v4-international-moderna-white-over-black.svg",
+    "colors": [
+      "white",
+      "black"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://sis.modernamuseet.se/internal/media/dispatcher/801/full",
+    "reference_id": "research/international-v4/reference-images/moderna-white-over-black.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized, not colorimetric",
+    "notes": "White upper painted band retained. Museum full reference is tightly photographed but shows the entire rectangular painted surface. Band proportion approximate; physical size uses image dimensions, not frame.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://sis.modernamuseet.se/en/objects/3960/white-over-black"
+  },
+  "tate:21633": {
+    "path": "assets/studies/v4-international-tate-black-square-blue.svg",
+    "colors": [
+      "black",
+      "blue"
+    ],
+    "shape_type": "stepped joined rectangles",
+    "reference_url": "https://www.moma.org/d/pdfs/W1siZiIsIjIwMTgvMDYvMTMvOGlvazUweWl5aF9LZWxseV9DaGF0aGFtX1BSRVZJRVcxLnBkZiJdXQ/Kelly_Chatham_PREVIEW1.pdf?sha=cc613fbfe3ec18ec",
+    "reference_id": "research/international-v4/reference-images/moma-chatham-page9.png",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate, visually reviewed",
+    "palette": "standardized, not colorimetric",
+    "notes": "MoMA2013 Chatham Series publication PDFpage9, fig8. Black square at upper-left joins a blue vertical rectangle halfway down its right edge. Transparent upper-right and lower-left cutouts retained.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://www.tate.org.uk/art/artworks/kelly-black-square-with-blue-t07106"
+  }
+}

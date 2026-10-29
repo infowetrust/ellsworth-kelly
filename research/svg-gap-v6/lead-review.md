@@ -1,0 +1,13 @@
+# Lead integration and visual review — 28 October 2026
+
+All 114 original gaps have exactly one assigned review and a centrally reconciled outcome. All 483 prior SVG asset paths survive. New SVGs were independently compared with the actual source references: root four by the museum researcher; all market, museum and Foundation studies by the lead; Foundation and market batches additionally by the museum researcher. See museums/independent-other-batches.md.
+
+The lead viewed the full Foundation Window III photograph in addition to all four paired Foundation sheets, both final market sheets, the final museum sheet, and all root comparison/source files. No material contour or dominant color-order correction remained. These are explicitly approximate interpretive studies. Source relief shadows do not imply gray pigment; white painted supports remain. The FLV study shows only five observed panels from an incomplete installation view and stays normalized. Tate's specific official image conflicts with the reported support aspect, so the study is excluded from true scale.
+
+Van Abbe scope exclusions were initially withheld because matching titles and years alone did not establish physical identity. The researcher recovered the actual 2009 journal PDF. The lead then viewed both journal spreads and the two current museum object photos: distinctive curve positions, rectangular paper margins, pencil signatures and edition numbers match. Two alleged painting gaps therefore belong to lithographs; full evidence remains preserved. Three Foundation sculptures also have specific matching forms and primary museum classifications, reviewed independently.
+
+Christie's White Black 1961 remains separate from Foundation EK246: the same title and probable year are insufficient. The Guggenheim Red Curve 1986 catalogue slot remains separate from the Meyerhoff 1987 object until identity is proven. No colors were assigned to EK35 Red Yellow Blue from its black-and-white reference. Figurative source photographs were retained as unresolved references rather than converted to arbitrary silhouettes.
+
+Plant I's older note now clarifies that EK100 is the Foundation centenary microsite name, not its catalogue number. No identity join or geometry changed for that previously published study.
+
+Final catalogue checks: 44 passed, zero failed. The additional v6 ledger audit proves all 114 outcomes, counts the 14 unique new assets separately from eight identity resolutions and five nonpainting exclusions, and preserves all prior assets. Local browser QA is in browser-qa.json: 497 images load, zero broken images or console errors; blue170; true scale436; large-work temporary exclusion and restore pass.

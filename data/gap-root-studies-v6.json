@@ -1,0 +1,71 @@
+{
+  "gap-blue-white-1962": {
+    "path": "assets/studies/v6-root-gap-blue-white-1962.svg",
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://matthewmarks.com/online/ellsworth-kelly/ek_47212-ek-d-62-50-reference-01/",
+    "reference_id": "research/svg-gap-v6/root/rose-bluewhite1962.jpg",
+    "method": "hand_authored_svg_after_actual_reference",
+    "geometry_confidence": "approximate observed contours",
+    "palette": "interpretive screen colors, not calibrated pigments",
+    "notes": "Actual primary gallery page explicitly captions the reproduced painting Blue White (1962), oil on canvas, Rose Art Museum. Two blue masses nearly meet at the center; white wedges open at top and bottom. Different from the adjacent small collage Study for Blue White. Whole rectangular painted support retained; photo margins omitted. Physical dimensions remain unknown.",
+    "reviewed_date": "2026-10-28",
+    "true_scale_eligible": false,
+    "true_scale_note": "Comparable-size study only. Actual primary gallery page explicitly captions the reproduced painting Blue White (1962), oil on canvas, Rose Art Museum. Two blue masses nearly meet at the center; white wedges open at top and bottom. Different from the adjacent small collage Study for Blue White. Whole rectangular painted support retained; photo margins omitted. Physical dimensions remain unknown."
+  },
+  "gap-blue-white-2006": {
+    "path": "assets/studies/v6-root-gap-blue-white-2006.svg",
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "shape_type": "projected joined parallelogram",
+    "reference_url": "https://www.artmuseumgr.org/exhibitions/ellsworth-kelly-jack-youngerman-surrounding-shapes",
+    "reference_id": "research/svg-gap-v6/root/gram-mcdonald.jpg",
+    "method": "hand_authored_svg_after_actual_reference",
+    "geometry_confidence": "approximate observed contours",
+    "palette": "interpretive screen colors, not calibrated pigments",
+    "notes": "Actual museum lobby photograph credited E. Scott McDonald and independent project architect Scott Lauer show the full work: blue upper panel joined to a white lower panel. The current exhibition hero depicts Youngerman May, not this work; it is excluded as a reference. This drawing retains the observed oblique projection, not an invented frontal parallelogram or dimensions. Museum describes the commission as a painting; its older wall-sculpture wording remains a classification note.",
+    "reviewed_date": "2026-10-28",
+    "true_scale_eligible": false,
+    "true_scale_note": "Comparable-size study only. Actual museum lobby photograph credited E. Scott McDonald and independent project architect Scott Lauer show the full work: blue upper panel joined to a white lower panel. The current exhibition hero depicts Youngerman May, not this work; it is excluded as a reference. This drawing retains the observed oblique projection, not an invented frontal parallelogram or dimensions. Museum describes the commission as a painting; its older wall-sculpture wording remains a classification note."
+  },
+  "gap-ormesson-1950": {
+    "path": "assets/studies/v6-root-gap-ormesson-1950.svg",
+    "colors": [
+      "white",
+      "black",
+      "green"
+    ],
+    "shape_type": "three joined rectangles",
+    "reference_url": "https://theses.ubn.ru.nl/bitstreams/722c0843-d79a-40f6-be14-120a459b1ed6/download",
+    "reference_id": "research/svg-gap-v6/root/ormesson-thesis-p65.png",
+    "method": "hand_authored_svg_after_actual_reference",
+    "geometry_confidence": "approximate observed contours",
+    "palette": "interpretive screen colors, not calibrated pigments",
+    "notes": "Actual color illustration: Else van Sterkenburg-Fransen, Radboud University bachelor thesis (2017), PDF 65 fig 25. Foundation EK 29 installation and MoMA 1973 note 26 independently identify the painting/date. Three white joined panels retain the separate black and green chimney-derived motifs. The thesis reports 83.8×224.2 cm, but those dimensions are kept as secondary evidence only, not promoted to measured primary facts. Observed reproduction aspect retained despite its difference from the secondary dimensional ratio. Panel contours approximated; texture omitted.",
+    "reviewed_date": "2026-10-28",
+    "true_scale_eligible": false,
+    "true_scale_note": "Comparable-size study only. Actual color illustration: Else van Sterkenburg-Fransen, Radboud University bachelor thesis (2017), PDF 65 fig 25. Foundation EK 29 installation and MoMA 1973 note 26 independently identify the painting/date. Three white joined panels retain the separate black and green chimney-derived motifs. The thesis reports 83.8×224.2 cm, but those dimensions are kept as secondary evidence only, not promoted to measured primary facts. Observed reproduction aspect retained despite its difference from the secondary dimensional ratio. Panel contours approximated; texture omitted."
+  },
+  "sfmoma-v3-99-348": {
+    "path": "assets/studies/v6-root-sfmoma-v3-99-348.svg",
+    "colors": [
+      "white",
+      "gray",
+      "brown",
+      "yellow"
+    ],
+    "shape_type": "rectangle with outlined lens",
+    "reference_url": "https://www.sfmoma.org/artwork/99.348/",
+    "reference_id": "research/sfmoma-v3-reference-images/99.348.jpg",
+    "method": "hand_authored_svg_after_actual_reference",
+    "geometry_confidence": "approximate observed contours",
+    "palette": "interpretive screen colors, not calibrated pigments",
+    "notes": "Schematic of the directly inspected museum color image: central pale pointed lens, dark central seam, smaller lower teardrop and pale angular underpainting on the complete rectangular canvas. Low-contrast tonal layers, brushwork, worn edges and faint blue traces are simplified. Pale screen colors are intentionally retained; this is a major-motif navigation study, not a facsimile.",
+    "reviewed_date": "2026-10-28"
+  }
+}

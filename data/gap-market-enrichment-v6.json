@@ -1,0 +1,134 @@
+[
+  {
+    "source_id": "gap-market-v6:moma496-1997",
+    "source_record_id": "moma496-1997",
+    "title": "Awnings, Avenue Matignon",
+    "year_start": 1950,
+    "year_end": 1950,
+    "date_display": "1950",
+    "medium": "Gouache and pencil on paper",
+    "height_cm": 13.3,
+    "width_cm": 21,
+    "depth_cm": null,
+    "collection": "The Museum of Modern Art, New York",
+    "source_url": "https://www.moma.org/collection/works/37179",
+    "image_url": null,
+    "record_kind": "painting_candidate",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_institutional_record",
+    "retrieved_date": "2026-10-28",
+    "verified_identity_of": "guggenheim1996-cat-111",
+    "sources": [
+      {
+        "url": "https://www.moma.org/collection/works/37179",
+        "label": "moma496-1997",
+        "accessed": "2026-10-28"
+      }
+    ],
+    "collection_as_of": "2026-10-28",
+    "accession": "496.1997",
+    "notes": [
+      "MoMA current complete color image matches the named1950gouache, seven rectangles with varying blue depths. Historical1996essay incorrectly supplied no collection/dimensions; current object page fills these gaps. Painted-paper classification remains candidate."
+    ]
+  },
+  {
+    "source_id": "gap-market-v6:saint-louis-ii-1973",
+    "source_record_id": "saint-louis-ii-1973",
+    "title": "Saint-Louis II",
+    "year_start": 1950,
+    "year_end": 1950,
+    "date_display": "1950",
+    "medium": "Oil on cardboard mounted on wood",
+    "height_cm": 55.88,
+    "width_cm": 99.695,
+    "depth_cm": null,
+    "collection": null,
+    "source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=29",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_institutional_record",
+    "retrieved_date": "2026-10-28",
+    "verified_identity_of": "moma1973-pdf29-caption1",
+    "sources": [
+      {
+        "url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=29",
+        "label": "saint-louis-ii-1973",
+        "accessed": "2026-10-28"
+      }
+    ],
+    "dimensions_display": "22 ×39¼inches",
+    "historical_source": true,
+    "collection_as_of": "1973",
+    "notes": [
+      "Primary1973text explicitly: painted white, incised/grooved cardboard strips mounted on wood. Exact printed dimensions22×39¼inches visible below group photograph; complete artwork plate is opposite onPDF30. Converted cm exact from inches; all-white palette established by text rather than inferred from monochrome photograph."
+    ]
+  },
+  {
+    "source_id": "gap-market-v6:kroller-muller-km111-229",
+    "source_record_id": "kroller-muller-km111-229",
+    "title": "Series of Five Paintings",
+    "year_start": 1966,
+    "year_end": 1966,
+    "date_display": "1966",
+    "medium": "Oil on canvas in five parts",
+    "height_cm": null,
+    "width_cm": null,
+    "depth_cm": null,
+    "collection": "Kröller-Müller Museum, Otterlo",
+    "source_url": "https://www.krollermuller.nl/en/what-s-on/exhibitions/birds-of-a-feather",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_institutional_record",
+    "retrieved_date": "2026-10-28",
+    "verified_identity_of": "moma1973-pdf86-caption1",
+    "sources": [
+      {
+        "url": "https://www.krollermuller.nl/en/what-s-on/exhibitions/birds-of-a-feather",
+        "label": "Current collecting museum: all five part photographs and installation explanation",
+        "accessed": "2026-10-28"
+      },
+      {
+        "url": "https://www.verenigingrembrandt.nl/nl/kunst/serie-van-vijf-schilderijen",
+        "label": "Acquisition support organization: each dimensions and inventoryKM111.229",
+        "accessed": "2026-10-28"
+      }
+    ],
+    "collection_as_of": "2026-10-28",
+    "accession": "KM111.229",
+    "dimension_role": "each of five parts",
+    "dimensions_display": "Each178×356cm; five separate paintings; no prescribed installation order",
+    "true_scale_eligible": false,
+    "notes": [
+      "Current museum exhibition page gives actual color photographs of all five parts and explicitly no prescribed order; artist prefers separate display rather than side by side. Acquisition partner VerenigingRembrandt confirms each178×356cm and inventoryKM111.229, acquired1990fromGertjanVisser. Overall physical dimensions remain null; stackedSVGis a comparison arrangement only."
+    ],
+    "component_dimensions": [
+      {
+        "height_cm": 178,
+        "width_cm": 356,
+        "part": 1
+      },
+      {
+        "height_cm": 178,
+        "width_cm": 356,
+        "part": 2
+      },
+      {
+        "height_cm": 178,
+        "width_cm": 356,
+        "part": 3
+      },
+      {
+        "height_cm": 178,
+        "width_cm": 356,
+        "part": 4
+      },
+      {
+        "height_cm": 178,
+        "width_cm": 356,
+        "part": 5
+      }
+    ]
+  }
+]

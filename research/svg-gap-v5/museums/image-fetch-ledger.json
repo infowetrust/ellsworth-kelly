@@ -1,0 +1,31 @@
+[
+  {
+    "key": "tokyo-ryb",
+    "url": "https://www.praemiumimperiale.org/wp-content/uploads/2024/06/04kelly_mimage07.jpg",
+    "file": "research/svg-gap-v5/museums/references/tokyo-ryb.jpg",
+    "size": 7466
+  },
+  {
+    "key": "louisiana-yellowblack",
+    "url": "https://live.staticflickr.com/1865/42883722960_09f47763d6_b.jpg",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "key": "baltimore-twoblacks",
+    "url": "https://lh3.googleusercontent.com/ci/AL18g_TZPKpaEJ0fNG1GPRpRwOz9rPIIvT7uXasyGQqTG3Kb9vfBJtf1wCjtI7IZEfhEhJ8Q2Um-rzEx",
+    "file": "research/svg-gap-v5/museums/references/baltimore-twoblacks.jpg",
+    "size": 11509
+  },
+  {
+    "key": "philadelphia-seaweed",
+    "url": "https://greg.org/wp-content/uploads/2026/06/ellsworth-kelly-seasweed-albemuth-1024x768.webp",
+    "file": "research/svg-gap-v5/museums/references/philadelphia-seaweed.jpg",
+    "size": 56372
+  },
+  {
+    "key": "fivepanels-hdk",
+    "url": "https://www.hausderkunst.de/uploads/fragments/images/Import/_1600xAUTO_fit_center-center_none/EK_Inst_Petzi_5_630x340_2023-06-20-154821_esue.jpg",
+    "file": "research/svg-gap-v5/museums/references/fivepanels-hdk.jpg",
+    "size": 65735
+  }
+]

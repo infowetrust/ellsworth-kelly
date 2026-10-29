@@ -1,0 +1,482 @@
+[
+  {
+    "id": "guggenheim1996-essay-24-fig-7",
+    "title": "Romanesque Head",
+    "record_kind": "painting_candidate",
+    "outcome": "gap_retained",
+    "reference_id": "research/svg-gap-v5/market/ref-00.png",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=24",
+    "observations": "Figurative face and brush drawing: reference viewed, no faithful simple vector reconstruction attempted.",
+    "confidence": "unresolved; no SVG asserted"
+  },
+  {
+    "id": "guggenheim1996-essay-21-fig-2",
+    "title": "Self-Portrait",
+    "record_kind": "painting_candidate",
+    "outcome": "gap_retained",
+    "reference_id": "research/svg-gap-v5/market/ref-01.png",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=21",
+    "observations": "Figurative self-portrait: reference viewed; reducing face to invented cartoon would misrepresent it.",
+    "confidence": "unresolved; no SVG asserted"
+  },
+  {
+    "id": "guggenheim1996-cat-111",
+    "title": "Awnings, Avenue Matignon",
+    "record_kind": "painting_candidate",
+    "outcome": "gap_retained",
+    "reference_id": "research/svg-gap-v5/market/ref-02.png",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=27",
+    "observations": "Only narrative mention and absent numbered plate in defective scan. AdjacentPDF28is an Arp/Taeuber-Arp collage, not this Kelly work; not substituted.",
+    "confidence": "unresolved; no SVG asserted"
+  },
+  {
+    "id": "matthewmarks-two-yellows-1952-44150",
+    "title": "Two Yellows",
+    "outcome": "new_svg",
+    "reference_id": "research/svg-gap-v5/market/ref-03.jpg",
+    "reference_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-color-panels-for-a-large-wall-11-2018/lightbox/works/two-yellows-1952-44150",
+    "observations": "Twenty-five joined squares. Contrasting pale and deep yellows share the yellow recoloring family; placement traced from the actual gallery image.",
+    "confidence": "approximate; primary reference visually inspected",
+    "true_scale_eligible": true
+  },
+  {
+    "id": "guggenheim1996-cat-19",
+    "title": "Red Yellow Blue White and Black",
+    "record_kind": "painting_candidate",
+    "outcome": "gap_retained",
+    "reference_id": null,
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf",
+    "observations": "Index-only work identity; main numbered plate not located. AdditionalPDF53narrative explicitly describes seven panels, centralblack andbluebothends, unlike MM45015six-panelwork. It could be AICRedYellowBlueWhiteBlackIIorSFMOMAwhite-borderwork; neither specific physicalidentity is proven. No title/year-only merge or borrowedSVG.",
+    "confidence": "unresolved; no SVG asserted"
+  },
+  {
+    "id": "guggenheim1996-cat-127",
+    "title": "Wall, Beekman Downtown Hospital",
+    "outcome": "new_svg",
+    "reference_id": "research/svg-gap-v5/market/ref-05.png",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=280",
+    "observations": "White paper margin remains part of support; yellow fill and narrow black lower band are visible. Pencil/brush texture omitted.",
+    "confidence": "approximate; primary reference visually inspected",
+    "true_scale_eligible": true
+  },
+  {
+    "id": "christies-6172963",
+    "title": "Orange Blue",
+    "outcome": "new_svg",
+    "reference_id": "research/svg-gap-v5/market/ref-06.jpg",
+    "reference_url": "https://www.christies.com/en/lot/lot-6172963",
+    "observations": "Blue is painted ground; no transparency cut through the biomorphic orange figure. Silhouette hand traced from high-resolution Christie photograph.",
+    "confidence": "approximate; primary reference visually inspected",
+    "true_scale_eligible": true
+  },
+  {
+    "id": "sothebys-en-auctions-ecatalogue-2015-contemporary-evening-n09345-lot-10-html",
+    "title": "White Yellow",
+    "outcome": "new_svg",
+    "reference_id": "research/svg-gap-v5/market/ref-07.jpg",
+    "reference_url": "https://www.sothebys.com/en/auctions/ecatalogue/2015/contemporary-evening-n09345/lot.10.html",
+    "observations": "White biomorphic figure independently hand traced from Sotheby photograph on yellow rectangular painted ground. Shape differs from Orange Blue despite related motif; all white regions remain artwork.",
+    "confidence": "approximate; primary reference visually inspected",
+    "true_scale_eligible": true
+  },
+  {
+    "id": "christies-5623231",
+    "title": "Aloes",
+    "outcome": "new_svg",
+    "reference_id": "research/svg-gap-v5/market/aloes2012-full.jpg",
+    "reference_url": "https://www.christies.com/en/lot/lot-5623231",
+    "observations": "Five yellow angular/curved areas are visible, not a naturalistic aloe illustration. Exact signed title/date match the official sale caption. Both original2012and2026official photos show the same portrait sheet while the2012caption dimensions imply landscape; use observed paper ratio only and flag conflict. Pencil contours, signature and watercolour texture omitted.",
+    "confidence": "approximate; primary reference visually inspected",
+    "true_scale_eligible": false
+  },
+  {
+    "id": "sothebys-en-auctions-ecatalogue-2019-contemporary-art-day-n10070-lot-139-html",
+    "title": "White Black (Petit Dolmen)",
+    "outcome": "new_svg",
+    "reference_id": "research/svg-gap-v5/market/ref-09.jpg",
+    "reference_url": "https://www.sothebys.com/en/auctions/ecatalogue/2019/contemporary-art-day-n10070/lot.139.html",
+    "observations": "All black wedges are paint on a continuous white rectangular canvas, not missing support. External photograph margin omitted.",
+    "confidence": "approximate; primary reference visually inspected",
+    "true_scale_eligible": true
+  },
+  {
+    "id": "matthewmarks-42475",
+    "title": "Avocado",
+    "record_kind": "painting_candidate",
+    "outcome": "gap_retained",
+    "reference_id": "research/svg-gap-v5/market/ref-10.jpg",
+    "reference_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-plant-drawings-05-2017/lightbox/works/42475",
+    "observations": "Avocado plant study viewed. Leaf veins, brush edges and stems materially complex; left gap rather than generic leaf icon.",
+    "confidence": "unresolved; no SVG asserted"
+  },
+  {
+    "id": "matthewmarks-47213",
+    "title": "Blue and Green",
+    "outcome": "new_svg",
+    "reference_id": "research/svg-gap-v5/market/ref-11.jpg",
+    "reference_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-blue-curve-09-2020/lightbox/works/47213",
+    "observations": "Two stacked biomorphic painted forms on paper. White/cream paper support retained; wavering brush edges simplified.",
+    "confidence": "approximate; primary reference visually inspected",
+    "true_scale_eligible": true
+  },
+  {
+    "id": "matthewmarks-green-form-1959-31173",
+    "title": "Green Form",
+    "record_kind": "painting_candidate",
+    "outcome": "gap_retained",
+    "reference_id": "research/svg-gap-v5/market/ref-12.jpg",
+    "reference_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-drawings-1954-1962-02-2009/lightbox/works/green-form-1959-31173",
+    "observations": "Green form overlays newspaper and pencil marks; accurate vector would require transcribing complete visible newsprint. Reference viewed, not reduced to generic green oval.",
+    "confidence": "unresolved; no SVG asserted"
+  },
+  {
+    "id": "guggenheim1996-cat-33",
+    "title": "Sumac",
+    "outcome": "new_svg",
+    "reference_id": "research/svg-gap-v5/market/sumac-caption.png",
+    "reference_url": "https://levygorvy.com/wp-content/uploads/Miami-Basel-Brochure-2017-lo-res.pdf#page=7",
+    "observations": "Independent 2017 Lévy Gorvy primary dealer brochure supplies complete Tom Powel photograph and matching 188 × 160 cm dimensions. Asymmetric orange-red X on crimson rectangular ground is clearly visible; this replaces the former unresolved faint 1996 reference.",
+    "confidence": "approximate; primary reference visually inspected",
+    "true_scale_eligible": true
+  },
+  {
+    "id": "matthewmarks-untitled-1959-31172",
+    "title": "Untitled",
+    "outcome": "new_svg",
+    "reference_id": "research/svg-gap-v5/market/ref-14.jpg",
+    "reference_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-drawings-1954-1962-02-2009/lightbox/works/untitled-1959-31172",
+    "observations": "Painted white cutout-like form is on cream paper; paper and form share white recolor family with distinct default shades. Pencil contour and aging omitted.",
+    "confidence": "approximate; primary reference visually inspected",
+    "true_scale_eligible": true
+  },
+  {
+    "id": "matthewmarks-white-bands-on-yellow-1959-31174",
+    "title": "White Bands on Yellow",
+    "outcome": "new_svg",
+    "reference_id": "research/svg-gap-v5/market/ref-15.jpg",
+    "reference_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-drawings-1954-1962-02-2009/lightbox/works/white-bands-on-yellow-1959-31174",
+    "observations": "Two white curving bands on yellow painted-paper ground. The left band forms a closed loop; the right opens beyond the top and right support edges.",
+    "confidence": "approximate; primary reference visually inspected",
+    "true_scale_eligible": true
+  },
+  {
+    "id": "guggenheim1996-essay-40-fig-37",
+    "title": "Grass",
+    "outcome": "new_svg",
+    "reference_id": "research/svg-gap-v5/market/ref-16.png",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=40",
+    "observations": "Painted green stem and eight tapering blades observed in essayfigure37; white paper preserved. Thin pencil construction and brush texture omitted.",
+    "confidence": "approximate; primary reference visually inspected",
+    "true_scale_eligible": true
+  },
+  {
+    "id": "christies-5261477",
+    "title": "White Black",
+    "record_kind": "painting",
+    "outcome": "gap_retained",
+    "reference_id": "research/svg-gap-v5/market/ref-17.jpg",
+    "reference_url": "https://www.christies.com/en/lot/lot-5261477",
+    "observations": "Current official sale page exposes only Christie roundel, and saved image is not a painting image. Search found2011HausderKunst publicity but not yet authenticated matching primary image. Known gap.",
+    "confidence": "unresolved; no SVG asserted"
+  },
+  {
+    "id": "sothebys-en-buy-auction-2021-contemporary-art-day-auction-5-untitled-17",
+    "title": "Untitled",
+    "outcome": "new_svg",
+    "reference_id": "research/svg-gap-v5/market/ref-18.jpg",
+    "reference_url": "https://www.sothebys.com/en/buy/auction/2021/contemporary-art-day-auction-5/untitled-17",
+    "observations": "Brown wash occupies a bent angular polygon on full paper sheet. Wash variation and pencil outline are simplified; corners traced from primary sale image.",
+    "confidence": "approximate; primary reference visually inspected",
+    "true_scale_eligible": true
+  },
+  {
+    "id": "christies-5315261",
+    "title": "Yellow Curve",
+    "outcome": "new_svg",
+    "reference_id": "research/svg-gap-v5/market/alt-reference-19.jpg",
+    "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-2/",
+    "observations": "Confirmed Foundation 1962 Tooth installation photo labels Yellow CurveEK293, above fireplace; corresponds to Christie exhibition provenance. Tall rounded yellow figure lies on white rectangular ground. Photographic skew removed approximately.",
+    "confidence": "approximate; primary reference visually inspected",
+    "true_scale_eligible": true
+  },
+  {
+    "id": "christies-5498495",
+    "title": "Study for \"Green Blue Red\"",
+    "outcome": "new_svg",
+    "reference_id": "research/svg-gap-v5/market/ref-20.jpg",
+    "reference_url": "https://www.christies.com/en/lot/lot-5498495",
+    "observations": "The primary image shows red rectangular painted ground, green vertical form and blue pointed oval on a small paper support. External margin retained only as paper, not mounting mat.",
+    "confidence": "approximate; primary reference visually inspected",
+    "true_scale_eligible": true
+  },
+  {
+    "id": "sothebys-en-buy-auction-2025-contemporary-day-auction-green-and-red",
+    "title": "Green and Red",
+    "outcome": "new_svg",
+    "reference_id": "research/svg-gap-v5/market/ref-21.jpg",
+    "reference_url": "https://www.sothebys.com/en/buy/auction/2025/contemporary-day-auction/green-and-red",
+    "observations": "Green rounded canopy/stem-like painted figure on red field with white paper margin. Brushed texture omitted; all colors observed in Sotheby image.",
+    "confidence": "approximate; primary reference visually inspected",
+    "true_scale_eligible": true
+  },
+  {
+    "id": "christies-6369842",
+    "title": "Untitled - Green with Red",
+    "outcome": "new_svg",
+    "reference_id": "research/svg-gap-v5/market/ref-22.jpg",
+    "reference_url": "https://www.christies.com/en/lot/lot-6369842",
+    "observations": "Red inner quadrilateral in rounded green field on white paper. Paint texture and signature omitted.",
+    "confidence": "approximate; primary reference visually inspected",
+    "true_scale_eligible": true
+  },
+  {
+    "id": "guggenheim1996-essay-58-fig-19",
+    "title": "Blue Green Yellow Orange Red",
+    "outcome": "new_svg",
+    "reference_id": "research/svg-gap-v5/market/ref-23.png",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=58",
+    "observations": "Only an oblique1996 catalogue photograph is available. Five colored joined panels and visible sequence are observed; perspective taper is not asserted to be actual support geometry. Excluded from physical-size view.",
+    "confidence": "approximate; primary reference visually inspected",
+    "true_scale_eligible": false
+  },
+  {
+    "id": "phillips-73998",
+    "title": "Green Black",
+    "outcome": "new_svg",
+    "reference_id": "research/svg-gap-v5/market/ref-24.jpg",
+    "reference_url": "https://www.phillips.com/detail/ellsworth-kelly/73998",
+    "observations": "Phillips explicitly states a single canvas with two painted color fields. Six-sided outline and angled green lower-right quadrilateral were inspected; wall outside outline transparent.",
+    "confidence": "approximate; primary reference visually inspected",
+    "true_scale_eligible": true
+  },
+  {
+    "id": "guggenheim1996-essay-56-fig-13",
+    "title": "Red Blue",
+    "outcome": "new_svg",
+    "reference_id": "research/svg-gap-v5/market/ref-25.png",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=56",
+    "observations": "Red inverted triangle left and blue upright triangle right form a slanted quadrilateral, as primary printed figure13 shows. Mounting shadow omitted.",
+    "confidence": "approximate; primary reference visually inspected",
+    "true_scale_eligible": true
+  },
+  {
+    "id": "guggenheim1996-cat-52",
+    "title": "Red Green",
+    "outcome": "new_svg",
+    "reference_id": "research/svg-gap-v5/market/ref-26.png",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=168",
+    "observations": "Red upper-left panel joined to green lower-right panel, overall hanging diagonal. Artwork outline hand traced; surrounding gray is wall, not paint.",
+    "confidence": "approximate; primary reference visually inspected",
+    "true_scale_eligible": true
+  },
+  {
+    "id": "bonhams-29474-15a",
+    "title": "Red White",
+    "outcome": "new_svg",
+    "reference_id": "research/svg-gap-v5/market/ref-27.png",
+    "reference_url": "https://images2.bonhams.com/original?src=Images%2Flive%2F2024-04%2F30%2FS-29474-0-3.pdf#page=71",
+    "observations": "Bonhams’s full 2024 PDF, page 71, provides complete frontal photograph. Broad red diagonal and white lower-right triangle form a right triangular overall support; gray wall and wooden floor removed.",
+    "confidence": "approximate; primary reference visually inspected",
+    "true_scale_eligible": true
+  },
+  {
+    "id": "short-book-v4-surfaceedgecolor25whit-20-red-yellow-blue-vi",
+    "title": "Red Yellow Blue VI",
+    "record_kind": "painting",
+    "outcome": "gap_retained",
+    "reference_id": "research/svg-gap-v5/market/ref-28.png",
+    "reference_url": "https://archive.org/download/surfaceedgecolor25whit/surfaceedgecolor25whit.pdf#page=20",
+    "observations": "1976Whitney publication is entirely textual: all26pages rendered and reviewed. Checklist supplies identity and dimensions but no painting image; exact title search yielded no authenticated alternate.",
+    "confidence": "unresolved; no SVG asserted"
+  },
+  {
+    "id": "sothebys-en-auctions-ecatalogue-2005-contemporary-art-evening-n08092-lot-46-html",
+    "title": "White with Black Triangle",
+    "outcome": "new_svg",
+    "reference_id": "research/svg-gap-v5/market/ref-29.jpg",
+    "reference_url": "https://www.sothebys.com/en/auctions/ecatalogue/2005/contemporary-art-evening-n08092/lot.46.html",
+    "observations": "White rotated rectangular panel joins black inverted triangle. Wall and shadows excluded; narrow photographed side edge not treated as a painted black border.",
+    "confidence": "approximate; primary reference visually inspected",
+    "true_scale_eligible": true
+  },
+  {
+    "id": "guggenheim1996-essay-37-fig-34b",
+    "title": "Black with White Triangle",
+    "outcome": "new_svg",
+    "reference_id": "research/svg-gap-v5/market/alt-reference-30.jpg",
+    "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+    "observations": "The Foundation’s 1973 MoMA installation photograph explicitly labels EK501; matches the 1996 Guggenheim studio photograph. White inverted triangle joins rotated black rectangle. Dimensions unknown; observed proportions normalized.",
+    "confidence": "approximate; primary reference visually inspected",
+    "true_scale_eligible": false
+  },
+  {
+    "id": "short-book-v4-surfaceedgecolor25whit-20-grey-panels-ii",
+    "title": "Grey Panels II",
+    "record_kind": "painting",
+    "outcome": "gap_retained",
+    "reference_id": "research/svg-gap-v5/market/ref-31.png",
+    "reference_url": "https://archive.org/download/surfaceedgecolor25whit/surfaceedgecolor25whit.pdf#page=20",
+    "observations": "1976Whitney publication all26pages reviewed; checklist only, no image. Exact-title alternate searches did not recover primary painting reference.",
+    "confidence": "unresolved; no SVG asserted"
+  },
+  {
+    "id": "matthewmarks-color-panels-for-a-large-wall-ii-1978-43938",
+    "title": "Color Panels for a Large Wall II",
+    "outcome": "new_svg",
+    "reference_id": "research/svg-gap-v5/market/ref-32.jpg",
+    "reference_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-color-panels-for-a-large-wall-11-2018/lightbox/works/color-panels-for-a-large-wall-ii-1978-43938",
+    "observations": "Gallery installation reference: two horizontal rows of nine colored panels. Relative gaps and reported overall installation dimensions approximate. Colors manually counted; precise pigments standardized.",
+    "confidence": "approximate; primary reference visually inspected",
+    "true_scale_eligible": true
+  },
+  {
+    "id": "guggenheim1996-essay-74-fig-3",
+    "title": "Diagonal with Curve III",
+    "outcome": "new_svg",
+    "reference_id": "research/svg-gap-v5/market/ref-33.png",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=74",
+    "observations": "Guggenheim essayfigure3 provides a complete dark-blue diagonal support with curved upper-left edge and straight lower-right edge. Wall and display rail excluded.",
+    "confidence": "approximate; primary reference visually inspected",
+    "true_scale_eligible": true
+  },
+  {
+    "id": "christies-2364185",
+    "title": "Blue White",
+    "record_kind": "painting",
+    "outcome": "gap_retained",
+    "reference_id": null,
+    "reference_url": "https://www.christies.com/en/lot/lot-2364185",
+    "observations": "Official Christie page supplies legacy metadata but roundel image only; exact-title/year search did not yield authenticated image. Painting geometry remains unknown.",
+    "confidence": "unresolved; no SVG asserted"
+  },
+  {
+    "id": "guggenheim1996-essay-68-fig-2b",
+    "title": "Black Curve X",
+    "outcome": "new_svg",
+    "reference_id": "research/svg-gap-v5/market/ref-35.png",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=68",
+    "observations": "Second painting from left in the explicitly captioned 1982 studio photograph. Curved upper edge and downward apex observed. No dimensions reported; normalized approximate frontal study.",
+    "confidence": "approximate; primary reference visually inspected",
+    "true_scale_eligible": false
+  },
+  {
+    "id": "guggenheim1996-essay-68-fig-2a",
+    "title": "Blue-Violet Curve I",
+    "outcome": "new_svg",
+    "reference_id": "research/svg-gap-v5/market/ref-36.png",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=68",
+    "observations": "First painting from left in the explicitly captioned 1982 studio photograph. Primary blue-violet is mapped to the blue recolor family with a violet-blue default shade, so the work appears among blue paintings. Exact pigment is unmeasured. Dimensions unknown.",
+    "confidence": "approximate; primary reference visually inspected",
+    "true_scale_eligible": false
+  },
+  {
+    "id": "guggenheim1996-essay-68-fig-2c",
+    "title": "Orange Curve I",
+    "outcome": "new_svg",
+    "reference_id": "research/svg-gap-v5/market/ref-37.png",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=68",
+    "observations": "Third painting from left in the explicitly captioned 1982 studio photograph. Broad curved top and downward apex. No dimensions reported; normalized approximate study.",
+    "confidence": "approximate; primary reference visually inspected",
+    "true_scale_eligible": false
+  },
+  {
+    "id": "christies-6172919",
+    "title": "Self-Portrait",
+    "record_kind": "painting_candidate",
+    "outcome": "gap_retained",
+    "reference_id": "research/svg-gap-v5/market/ref-38.jpg",
+    "reference_url": "https://www.christies.com/en/lot/lot-6172919",
+    "observations": "Figurative self-portrait reference recovered and viewed; complex face cannot be faithfully reduced to a simple hand vector.",
+    "confidence": "unresolved; no SVG asserted"
+  },
+  {
+    "id": "sothebys-en-buy-auction-2019-contemporary-art-online-fe5e6b04-63bb-47a9-8ace-a38e561bc649",
+    "title": "Still Life",
+    "record_kind": "painting_candidate",
+    "outcome": "gap_retained",
+    "reference_id": "research/svg-gap-v5/market/ref-39.jpg",
+    "reference_url": "https://www.sothebys.com/en/buy/auction/2019/contemporary-art-online/fe5e6b04-63bb-47a9-8ace-a38e561bc649",
+    "observations": "StillLife combines detailed pencil glass/vase/plant drawing and blue corner. Complete reference viewed; omitting drawing would misrepresent work.",
+    "confidence": "unresolved; no SVG asserted"
+  },
+  {
+    "id": "christies-2056202",
+    "title": "Black Panel",
+    "outcome": "new_svg",
+    "reference_id": "research/svg-gap-v5/market/ref-40.jpg",
+    "reference_url": "https://www.christies.com/en/lot/lot-2056202",
+    "observations": "Christie’s official photograph recovered through the .com.cn image host; black scalene triangular canvas, EK741. Photo wall and mounting shadow omitted.",
+    "confidence": "approximate; primary reference visually inspected",
+    "true_scale_eligible": true
+  },
+  {
+    "id": "guggenheim1996-cat-85",
+    "title": "Red Curve",
+    "record_kind": "painting",
+    "outcome": "gap_retained",
+    "reference_id": "research/svg-gap-v5/market/ref-41.png",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=221",
+    "observations": "Partial cropped plate shows red curve only, no complete outline/dimensions/medium caption. Foundation biography calls Raffles commission sculpture; identity/scope unresolved. No invented full contour.",
+    "confidence": "unresolved; no SVG asserted"
+  },
+  {
+    "id": "matthewmarks-8332-1",
+    "title": "Three Gray Panels",
+    "outcome": "new_svg",
+    "reference_id": "research/svg-gap-v5/market/ref-42.jpg",
+    "reference_url": "https://matthewmarks.com/artists/ellsworth-kelly/lightbox/works/8332-1",
+    "observations": "Three distinct gray panels across an installation, with different tones sharing editable gray family. Gallery photograph is oblique: relative geometry and spacing approximate. Kept out of physical-size comparison.",
+    "confidence": "approximate; primary reference visually inspected",
+    "true_scale_eligible": false
+  },
+  {
+    "id": "matthewmarks-blue-panel-1996-3729",
+    "title": "Blue Panel",
+    "outcome": "new_svg",
+    "reference_id": "research/svg-gap-v5/market/ref-43.jpg",
+    "reference_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-an-installation-seven-new-paintings-10-1996/lightbox/works/blue-panel-1996-3729",
+    "observations": "Complete blue quadrilateral in gallery reference. Public caption has contradictory dimensions (55×52in versus140×142cm), so normalized observed ratio only; source dimension fields remain unknown.",
+    "confidence": "approximate; primary reference visually inspected",
+    "true_scale_eligible": false
+  },
+  {
+    "id": "christies-onlineonly-23553-123",
+    "title": "Untitled",
+    "record_kind": "painting_candidate",
+    "outcome": "gap_retained",
+    "reference_id": "research/svg-gap-v5/market/ref-44.jpg",
+    "reference_url": "https://onlineonly.christies.com/s/first-open-post-war-contemporary-art/ellsworth-kelly-1923-2015-123/263626",
+    "observations": "Lipstick two-part figurative face impressions recovered and viewed; texture and portrait information cannot be faithfully reduced to simple vector shapes.",
+    "confidence": "unresolved; no SVG asserted"
+  },
+  {
+    "id": "matthewmarks-25976",
+    "title": "Green Orange Yellow",
+    "outcome": "new_svg",
+    "reference_id": "research/svg-gap-v5/market/ref-45.jpg",
+    "reference_url": "https://matthewmarks.com/artists/ellsworth-kelly/lightbox/works/25976",
+    "observations": "Three horizontal joined canvases: narrow green top, large orange middle, yellow lower band. Proportions visually observed; reported overall 219 × 167 cm retained.",
+    "confidence": "approximate; primary reference visually inspected",
+    "true_scale_eligible": true
+  },
+  {
+    "id": "matthewmarks-white-curve-in-relief-over-white-belle-ile-2013-39467",
+    "title": "White Curve in Relief over White (Belle Île)",
+    "outcome": "new_svg",
+    "reference_id": "research/svg-gap-v5/market/ref-46.jpg",
+    "reference_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-05-2015/lightbox/works/white-curve-in-relief-over-white-belle-île-2013-39467",
+    "observations": "Complete gallery silo shows a pale triangular backing with a curving white raised panel. Two white shades distinguish panels while sharing recolor family. No exact dimensions: normalized only; external shadow omitted.",
+    "confidence": "approximate; primary reference visually inspected",
+    "true_scale_eligible": false
+  },
+  {
+    "id": "short-book-v4-ellsworthkellylastpaintings-201811-40-four-panels-blue-black-green-red",
+    "title": "Four Panels (Blue Black Green Red)",
+    "record_kind": "painting",
+    "outcome": "gap_retained",
+    "reference_id": "research/svg-gap-v5/market/ref-47.png",
+    "reference_url": "https://archive.org/download/EllsworthKellyLastPaintings_201811/EllsworthKellyLastPaintings.pdf#page=40",
+    "observations": "Unfinished work mentioned in text, intended colors explicitly never completed. Page40has no image; no speculative completed-color reconstruction.",
+    "confidence": "unresolved; no SVG asserted"
+  }
+]

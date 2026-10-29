@@ -1,0 +1,13 @@
+{
+  "assigned": 68,
+  "counts": {
+    "image_gap_retained": 55,
+    "identity_merged": 8,
+    "scope_excluded": 3,
+    "new_svg": 2
+  },
+  "new_studies": 2,
+  "identity_groups": 8,
+  "scope_exclusions": 3,
+  "retained_old_study_paths": 483
+}

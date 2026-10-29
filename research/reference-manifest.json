@@ -1,0 +1,541 @@
+[
+  {
+    "ek_id": "EK 6",
+    "title": "Window, Museum of Modern Art, Paris",
+    "source_url": "https://ellsworthkelly.org/work/window-museum-of-modern-art-paris/",
+    "reference_id": "research/reference-images/EK-6.jpg",
+    "download_filename": "1949-EK-6-HK-980x1277.jpg"
+  },
+  {
+    "ek_id": "EK A.22",
+    "title": "Plant II",
+    "source_url": "https://ellsworthkelly.org/work/plant-ii/",
+    "reference_id": "research/reference-images/EK-A_22.jpg",
+    "download_filename": "1949-A_22-JLT-980x1225.jpg"
+  },
+  {
+    "ek_id": "EK A.29",
+    "title": "Kilometer Marker",
+    "source_url": "https://ellsworthkelly.org/work/kilometer-marker/",
+    "reference_id": "research/reference-images/EK-A_29.jpg",
+    "download_filename": "1949-A_29-JLT-980x1206.jpg"
+  },
+  {
+    "ek_id": "EK 10",
+    "title": "Window V",
+    "source_url": "https://ellsworthkelly.org/work/window-v/",
+    "reference_id": "research/reference-images/EK-10.jpg",
+    "download_filename": "1950-EK-10-JLT-980x1402.jpg"
+  },
+  {
+    "ek_id": "EK 14",
+    "title": "Saint Louis I",
+    "source_url": "https://ellsworthkelly.org/work/saint-louis-i/",
+    "reference_id": "research/reference-images/EK-14.jpg",
+    "download_filename": "1950-EK-14-A-Weber-980x507.jpg"
+  },
+  {
+    "ek_id": "EK 12",
+    "title": "Cutout in Wood",
+    "source_url": "https://ellsworthkelly.org/work/cutout-in-wood/",
+    "reference_id": "research/reference-images/EK-12.jpg",
+    "download_filename": "1950-EK-12-G-Wood-980x1309.jpg"
+  },
+  {
+    "ek_id": "EK 22",
+    "title": "Window VI",
+    "source_url": "https://ellsworthkelly.org/work/window-vi/",
+    "reference_id": "research/reference-images/EK-22.jpg",
+    "download_filename": "1950-EK-22-HK-980x463.jpg"
+  },
+  {
+    "ek_id": "EK 46",
+    "title": "Colors for a Large Wall",
+    "source_url": "https://ellsworthkelly.org/work/colors-for-a-large-wall/",
+    "reference_id": "research/reference-images/EK-46.jpg",
+    "download_filename": "1951-EK-46-EKS-980x977.jpg"
+  },
+  {
+    "ek_id": "EK 45",
+    "title": "Seine",
+    "source_url": "https://ellsworthkelly.org/work/seine/",
+    "reference_id": "research/reference-images/EK-45.jpg",
+    "download_filename": "1951-EK-45-JLT-980x572.jpg"
+  },
+  {
+    "ek_id": "EK 40",
+    "title": "Cité",
+    "source_url": "https://ellsworthkelly.org/work/cite/",
+    "reference_id": "research/reference-images/EK-40.jpg",
+    "download_filename": "1951-EK-40-K-DuTiel-980x795.jpg"
+  },
+  {
+    "ek_id": "EK 225",
+    "title": "North River",
+    "source_url": "https://ellsworthkelly.org/work/north-river/",
+    "reference_id": "research/reference-images/EK-225.jpg",
+    "download_filename": "1959-EK-225-JLT-980x1262.jpg"
+  },
+  {
+    "ek_id": "EK 90",
+    "title": "Black Ripe",
+    "source_url": "https://ellsworthkelly.org/work/black-ripe/",
+    "reference_id": "research/reference-images/EK-90.jpg",
+    "download_filename": "1955-EK-90-Wiesbaden-980x1020.jpg"
+  },
+  {
+    "ek_id": "EK 72",
+    "title": "White Plaque: Bridge Arch and Reflection",
+    "source_url": "https://ellsworthkelly.org/work/white-plaque-bridge-arch-and-reflection/",
+    "reference_id": "research/reference-images/EK-72.jpg",
+    "download_filename": "1955-EK-72-EKS-980x936.jpg"
+  },
+  {
+    "ek_id": "EK 67",
+    "title": "Black Curves",
+    "source_url": "https://ellsworthkelly.org/work/black-curves/",
+    "reference_id": "research/reference-images/EK-67.jpg",
+    "download_filename": "1954-EK-67-JLT-980x1286.jpg"
+  },
+  {
+    "ek_id": "EK 63",
+    "title": "Spectrum Colors Arranged by Chance",
+    "source_url": "https://ellsworthkelly.org/work/spectrum-colors-arranged-by-chance/",
+    "reference_id": "research/reference-images/EK-63.jpg",
+    "download_filename": "1953-EK-63-HK-980x996.jpg"
+  },
+  {
+    "ek_id": "EK 61",
+    "title": "Train Landscape",
+    "source_url": "https://ellsworthkelly.org/work/train-landscape/",
+    "reference_id": "research/reference-images/EK-61.jpg",
+    "download_filename": "1953-EK-61-AIC-980x953.jpg"
+  },
+  {
+    "ek_id": "EK 59",
+    "title": "Spectrum I",
+    "source_url": "https://ellsworthkelly.org/work/spectrum-i/",
+    "reference_id": "research/reference-images/EK-59.jpg",
+    "download_filename": "1953-EK-59-K-DuTiel-980x990.jpg"
+  },
+  {
+    "ek_id": "EK 54",
+    "title": "Painting for a White Wall",
+    "source_url": "https://ellsworthkelly.org/work/painting-for-a-white-wall/",
+    "reference_id": "research/reference-images/EK-54.jpg",
+    "download_filename": "1952-EK-54-T-Nighswander-980x397.jpg"
+  },
+  {
+    "ek_id": "EK 50",
+    "title": "Red Yellow Blue White",
+    "source_url": "https://ellsworthkelly.org/work/red-yellow-blue-white/",
+    "reference_id": "research/reference-images/EK-50.jpg",
+    "download_filename": "1952-EK-50-JLT-900x600.jpg"
+  },
+  {
+    "ek_id": "EK 422",
+    "title": "Spectrum V",
+    "source_url": "https://ellsworthkelly.org/work/spectrum-v/",
+    "reference_id": "research/reference-images/EK-422.jpg",
+    "download_filename": "1969-EK-422-MMA-900x600.jpg"
+  },
+  {
+    "ek_id": "EK 407",
+    "title": "Red White Blue",
+    "source_url": "https://ellsworthkelly.org/work/red-white-blue/",
+    "reference_id": "research/reference-images/EK-407.jpg",
+    "download_filename": "1968-EK-407-Castelli-980x1300.jpg"
+  },
+  {
+    "ek_id": "EK 363",
+    "title": "Yellow Piece",
+    "source_url": "https://ellsworthkelly.org/work/yellow-piece/",
+    "reference_id": "research/reference-images/EK-363.jpg",
+    "download_filename": "1966-EK-363-JLT-980x776.jpg"
+  },
+  {
+    "ek_id": "EK 360",
+    "title": "Blue Green Yellow Orange Red",
+    "source_url": "https://ellsworthkelly.org/work/blue-green-yellow-orange-red/",
+    "reference_id": "research/reference-images/EK-360.jpg",
+    "download_filename": "1966-EK-360-Gugg-980x442.jpg"
+  },
+  {
+    "ek_id": "EK 350",
+    "title": "Red Yellow Blue II",
+    "source_url": "https://ellsworthkelly.org/work/red-yellow-blue-ii/",
+    "reference_id": "research/reference-images/EK-350.jpg",
+    "download_filename": "1965-EK-350-MAM-980x525.jpg"
+  },
+  {
+    "ek_id": "EK 348",
+    "title": "Red Blue Green Yellow",
+    "source_url": "https://ellsworthkelly.org/work/red-blue-green-yellow/",
+    "reference_id": "research/reference-images/EK-348.jpg",
+    "download_filename": "1965-EK-348-J-Berggruen-980x1237.jpg"
+  },
+  {
+    "ek_id": "EK 316",
+    "title": "Red Blue Green",
+    "source_url": "https://ellsworthkelly.org/work/red-blue-green/",
+    "reference_id": "research/reference-images/EK-316.jpg",
+    "download_filename": "1963-EK-316-MCASD-900x600.jpg"
+  },
+  {
+    "ek_id": "EK 289",
+    "title": "Blue Green",
+    "source_url": "https://ellsworthkelly.org/work/blue-green/",
+    "reference_id": "research/reference-images/EK-289.jpg",
+    "download_filename": "1962-EK-289-HK-980x1470.jpg"
+  },
+  {
+    "ek_id": "EK 288",
+    "title": "Yellow Yellow-Orange",
+    "source_url": "https://ellsworthkelly.org/work/yellow-yellow-orange/",
+    "reference_id": "research/reference-images/EK-288.jpg",
+    "download_filename": "1962-EK-288-RA-980x736.jpg"
+  },
+  {
+    "ek_id": "EK 609",
+    "title": "Orange Panel",
+    "source_url": "https://ellsworthkelly.org/work/orange-panel/",
+    "reference_id": "research/reference-images/EK-609.jpg",
+    "download_filename": "1980-EK-609-RA-980x1304.jpg"
+  },
+  {
+    "ek_id": "EK 589.2",
+    "title": "Color Panels for a Large Wall",
+    "source_url": "https://ellsworthkelly.org/work/color-panels-for-a-large-wall/",
+    "reference_id": "research/reference-images/EK-589_2.jpg",
+    "download_filename": "1978-EK-589.2-L-Peterzell-980x774.jpg"
+  },
+  {
+    "ek_id": "EK 562",
+    "title": "Diagonal with Curve I",
+    "source_url": "https://ellsworthkelly.org/work/diagonal-with-curve-i/",
+    "reference_id": "research/reference-images/EK-562.jpg",
+    "download_filename": "1978-EK-562-B-Davies-980x1028.jpg"
+  },
+  {
+    "ek_id": "EK 502",
+    "title": "Yellow with Red Triangle",
+    "source_url": "https://ellsworthkelly.org/work/yellow-with-red-triangle/",
+    "reference_id": "research/reference-images/EK-502.jpg",
+    "download_filename": "1973-EK-502-Corcoran-980x890.jpg"
+  },
+  {
+    "ek_id": "EK 490",
+    "title": "Black Curve V",
+    "source_url": "https://ellsworthkelly.org/work/black-curve-v/",
+    "reference_id": "research/reference-images/EK-490.jpg",
+    "download_filename": "1973-EK-490-MMG-980x967.jpg"
+  },
+  {
+    "ek_id": "EK 461",
+    "title": "Chatham X: Black Red",
+    "source_url": "https://ellsworthkelly.org/work/chatham-x-black-red/",
+    "reference_id": "research/reference-images/EK-461.jpg",
+    "download_filename": "1971-EK-461-MMG-980x977.jpg"
+  },
+  {
+    "ek_id": "EK 451",
+    "title": "Blue Yellow Red III",
+    "source_url": "https://ellsworthkelly.org/work/blue-yellow-red-iii/",
+    "reference_id": "research/reference-images/EK-451.jpg",
+    "download_filename": "1971-EK-451-RA-NEW-980x1304.jpg"
+  },
+  {
+    "ek_id": "EK 818",
+    "title": "Orange Relief with Green",
+    "source_url": "https://ellsworthkelly.org/work/orange-relief-with-green/",
+    "reference_id": "research/reference-images/EK-818.jpg",
+    "download_filename": "1991-EK-818-M-Leith-980x1068.jpg"
+  },
+  {
+    "ek_id": "EK 809",
+    "title": "Orange Red Relief (for Delphine Seyrig)",
+    "source_url": "https://ellsworthkelly.org/work/orange-red-relief-for-delphine-seyrig/",
+    "reference_id": "research/reference-images/EK-809.jpg",
+    "download_filename": "1990-EK-809-JLT-980x1295.jpg"
+  },
+  {
+    "ek_id": "EK 808",
+    "title": "Yellow Curve",
+    "source_url": "https://ellsworthkelly.org/work/yellow-curve/",
+    "reference_id": "research/reference-images/EK-808.jpg",
+    "download_filename": "1990-EK-808_1-K-Schilling-980x710.jpg"
+  },
+  {
+    "ek_id": "EK 781",
+    "title": "Yellow Black",
+    "source_url": "https://ellsworthkelly.org/work/yellow-black/",
+    "reference_id": "research/reference-images/EK-781.jpg",
+    "download_filename": "1988-EK-781-JLT-980x798.jpg"
+  },
+  {
+    "ek_id": "EK 738",
+    "title": "Three Panels: Orange, Dark Gray, Green",
+    "source_url": "https://ellsworthkelly.org/work/three-panels-orange-dark-gray-green/",
+    "reference_id": "research/reference-images/EK-738.jpg",
+    "download_filename": "1986-EK-738-JLT-980x746.jpg"
+  },
+  {
+    "ek_id": "EK 700",
+    "title": "Green Panel",
+    "source_url": "https://ellsworthkelly.org/work/green-panel/",
+    "reference_id": "research/reference-images/EK-700.jpg",
+    "download_filename": "1985-EK-700-HK-980x1296.jpg"
+  },
+  {
+    "ek_id": "EK 933",
+    "title": "Black Relief over Yellow and Orange",
+    "source_url": "https://ellsworthkelly.org/work/black-relief-over-yellow-and-orange/",
+    "reference_id": "research/reference-images/EK-933.jpg",
+    "download_filename": "2004-EK-933-JLT-980x1212.jpg"
+  },
+  {
+    "ek_id": "EK 924",
+    "title": "Blue Relief over Green",
+    "source_url": "https://ellsworthkelly.org/work/blue-relief-over-green/",
+    "reference_id": "research/reference-images/EK-924.jpg",
+    "download_filename": "2004-EK-924-JLT-980x1110.jpg"
+  },
+  {
+    "ek_id": "EK 896",
+    "title": "Blue Black Red Green",
+    "source_url": "https://ellsworthkelly.org/work/blue-black-red-green/",
+    "reference_id": "research/reference-images/EK-896.jpg",
+    "download_filename": "2000-EK-896-JLT-980x354.jpg"
+  },
+  {
+    "ek_id": "EK 856",
+    "title": "Dark Blue Curve",
+    "source_url": "https://ellsworthkelly.org/work/dark-blue-curve/",
+    "reference_id": "research/reference-images/EK-856.jpg",
+    "download_filename": "1995-EK-856-JLT-980x663.jpg"
+  },
+  {
+    "ek_id": "EK 167",
+    "title": "City Island",
+    "source_url": "https://ellsworthkelly.org/work/city-island/",
+    "reference_id": "research/reference-images/EK-167.jpg",
+    "download_filename": "EK-167-RA-980x1306.jpg"
+  },
+  {
+    "ek_id": "EK 137",
+    "title": "West Coast Landscape Study",
+    "source_url": "https://ellsworthkelly.org/work/west-coast-landscape-study/",
+    "reference_id": "research/reference-images/EK-137.jpg",
+    "download_filename": "EK-137-JLT-980x1279.jpg"
+  },
+  {
+    "ek_id": "EK 124",
+    "title": "West Side",
+    "source_url": "https://ellsworthkelly.org/work/west-side/",
+    "reference_id": "research/reference-images/EK-124.jpg",
+    "download_filename": "EK-124-P-Freeman-980x1160.jpg"
+  },
+  {
+    "ek_id": "EK 62",
+    "title": "Tableau Vert",
+    "source_url": "https://ellsworthkelly.org/work/tableau-vert/",
+    "reference_id": "research/reference-images/EK-62.jpg",
+    "download_filename": "1952-EK-62-EKS-980x777.jpg"
+  },
+  {
+    "ek_id": "EK 35",
+    "title": "Red Yellow and Blue",
+    "source_url": "https://ellsworthkelly.org/work/red-yellow-and-blue/",
+    "reference_id": "research/reference-images/EK-35.jpg",
+    "download_filename": "1951-EK-35-EKS-980x739.jpg"
+  },
+  {
+    "ek_id": "EK 26",
+    "title": "Fond Jaune",
+    "source_url": "https://ellsworthkelly.org/work/fond-jaune/",
+    "reference_id": "research/reference-images/EK-26.jpg",
+    "download_filename": "1950-EK-26-RA-980x757.jpg"
+  },
+  {
+    "ek_id": "EK 18",
+    "title": "White Relief",
+    "source_url": "https://ellsworthkelly.org/work/white-relief/",
+    "reference_id": "research/reference-images/EK-18.jpg",
+    "download_filename": "1950-EK-18-K-DuTiel-980x1387.jpg"
+  },
+  {
+    "ek_id": "EK 1081",
+    "title": "White Over Black III",
+    "source_url": "https://ellsworthkelly.org/work/white-over-black-iii/",
+    "reference_id": "research/reference-images/EK-1081.jpg",
+    "download_filename": "2015-EK-1081-RA-980x1311.jpg"
+  },
+  {
+    "ek_id": "EK 1030",
+    "title": "Curves on White (Four Panels)",
+    "source_url": "https://ellsworthkelly.org/work/curves-on-white-four-panels/",
+    "reference_id": "research/reference-images/EK-1030.jpg",
+    "download_filename": "2011-EK-1030-JLT-980x356.jpg"
+  },
+  {
+    "ek_id": "EK 988",
+    "title": "Blue Curves",
+    "source_url": "https://ellsworthkelly.org/work/blue-curves/",
+    "reference_id": "research/reference-images/EK-988.jpg",
+    "download_filename": "2009-EK-988-JLT-980x1470 (1).jpg"
+  },
+  {
+    "ek_id": "EK 961",
+    "title": "Red Relief with White",
+    "source_url": "https://ellsworthkelly.org/work/red-relief-with-white/",
+    "reference_id": "research/reference-images/EK-961.jpg",
+    "download_filename": "2007-EK-961-JLT-980x1468.jpg"
+  },
+  {
+    "ek_id": "EK 953",
+    "title": "White Diagonal Relief",
+    "source_url": "https://ellsworthkelly.org/work/white-diagonal-relief/",
+    "reference_id": "research/reference-images/EK-953.jpg",
+    "download_filename": "2006-EK-953-JLT-980x1435.jpg"
+  },
+  {
+    "ek_id": "EK 706",
+    "title": "Dark Blue Panel",
+    "source_url": "https://ellsworthkelly.org/work/dark-blue-panel/",
+    "reference_id": "research/reference-images/EK-706.jpg",
+    "download_filename": "1985-EK-706-JLT-980x1129.jpg"
+  },
+  {
+    "ek_id": "EK 605",
+    "title": "Green Panel",
+    "source_url": "https://ellsworthkelly.org/work/green-panel-2/",
+    "reference_id": "research/reference-images/EK-605.jpg",
+    "download_filename": "1980-EK-605-RA-980x735.jpg"
+  },
+  {
+    "ek_id": "EK 558",
+    "title": "Curved Gray Panel",
+    "source_url": "https://ellsworthkelly.org/work/curved-gray-panel/",
+    "reference_id": "research/reference-images/EK-558.jpg",
+    "download_filename": "1977-EK-558-RA-980x1304.jpg"
+  },
+  {
+    "ek_id": "EK 535",
+    "title": "White Curve VII",
+    "source_url": "https://ellsworthkelly.org/work/white-curve-vii/",
+    "reference_id": "research/reference-images/EK-535.jpg",
+    "download_filename": "1976-EK-535-eks-980x1081.jpg"
+  },
+  {
+    "ek_id": "EK 515",
+    "title": "Three Grays",
+    "source_url": "https://ellsworthkelly.org/work/three-grays/",
+    "reference_id": "research/reference-images/EK-515.jpg",
+    "download_filename": "1975-EK-515-JLT-980x988.jpg"
+  },
+  {
+    "ek_id": "EK 463",
+    "title": "Chatham XII: Yellow Black",
+    "source_url": "https://ellsworthkelly.org/work/chatham-xii-yellow-black/",
+    "reference_id": "research/reference-images/EK-463.jpg",
+    "download_filename": "1972-EK-463-MoMA-980x1186.jpg"
+  },
+  {
+    "ek_id": "EK 356",
+    "title": "Blue Red",
+    "source_url": "https://ellsworthkelly.org/work/blue-red/",
+    "reference_id": "research/reference-images/EK-356.jpg",
+    "download_filename": "1966-EK-356-JLT-980x1237.jpg"
+  },
+  {
+    "ek_id": "EK 351",
+    "title": "Green Red Yellow Blue",
+    "source_url": "https://ellsworthkelly.org/work/green-red-yellow-blue/",
+    "reference_id": "research/reference-images/EK-351.jpg",
+    "download_filename": "1965-EK-351-EKS-980x371.jpg"
+  },
+  {
+    "ek_id": "EK 295",
+    "title": "Blue Tablet",
+    "source_url": "https://ellsworthkelly.org/work/blue-tablet/",
+    "reference_id": "research/reference-images/EK-295.jpg",
+    "download_filename": "1962-EK-295-JLT-980x1296.jpg"
+  },
+  {
+    "ek_id": "EK 290",
+    "title": "Red White",
+    "source_url": "https://ellsworthkelly.org/work/red-white/",
+    "reference_id": "research/reference-images/EK-290.jpg",
+    "download_filename": "1962-EK-290-EKS-980x1302.jpg"
+  },
+  {
+    "ek_id": "EK 278",
+    "title": "Leaf (Castor Bean)",
+    "source_url": "https://ellsworthkelly.org/work/leaf-castor-bean/",
+    "reference_id": "research/reference-images/EK-278.jpg",
+    "download_filename": "1962-EK-278-MMG-980x980.jpg"
+  },
+  {
+    "ek_id": "EK 273",
+    "title": "Yellow White",
+    "source_url": "https://ellsworthkelly.org/work/yellow-white/",
+    "reference_id": "research/reference-images/EK-273.jpg",
+    "download_filename": "1961-EK-273-Beyeler-980x1390.jpg"
+  },
+  {
+    "ek_id": "EK 206",
+    "title": "Falcon",
+    "source_url": "https://ellsworthkelly.org/work/falcon/",
+    "reference_id": "research/reference-images/EK-206.jpg",
+    "download_filename": "1959-EK-206-L-TylerThompson-980x1184.jpg"
+  },
+  {
+    "ek_id": "EK 205",
+    "title": "York",
+    "source_url": "https://ellsworthkelly.org/work/york/",
+    "reference_id": "research/reference-images/EK-205.jpg",
+    "download_filename": "1959-EK-205-EKS-980x829.jpg"
+  },
+  {
+    "ek_id": "EK 173",
+    "title": "Brooklyn Bridge III",
+    "source_url": "https://ellsworthkelly.org/work/brooklyn-bridge-iii/",
+    "reference_id": "research/reference-images/EK-173.jpg",
+    "download_filename": "EK-173-Christies-980x1918.jpg"
+  },
+  {
+    "ek_id": "EK 172",
+    "title": "Wall",
+    "source_url": "https://ellsworthkelly.org/work/wall/",
+    "reference_id": "research/reference-images/EK-172.jpg",
+    "download_filename": "1958-EK-172-JLT.jpg"
+  },
+  {
+    "ek_id": "EK 765",
+    "title": "Black White",
+    "source_url": "https://ellsworthkelly.org/work/black-white/",
+    "reference_id": "research/reference-images/EK-765.jpg",
+    "download_filename": "EK-765-MMG-sm.jpg"
+  },
+  {
+    "ek_id": "EK 699",
+    "title": "Red Panel",
+    "source_url": "https://ellsworthkelly.org/work/red-panel/",
+    "reference_id": "research/reference-images/EK-699.jpg",
+    "download_filename": "EK-699-980x735.jpg"
+  },
+  {
+    "ek_id": "EK 835",
+    "title": "Red Floor Panel",
+    "source_url": "https://ellsworthkelly.org/work/red-floor-panel/",
+    "reference_id": "research/reference-images/EK-835.jpg",
+    "download_filename": "EK-835-980x635.jpg"
+  },
+  {
+    "ek_id": "EK 922",
+    "title": "Blue Red Green Black",
+    "source_url": "https://ellsworthkelly.org/work/blue-red-green-black/",
+    "reference_id": "research/reference-images/EK-922.jpg",
+    "download_filename": "EK-922-980x516.jpg"
+  }
+]

@@ -1,0 +1,473 @@
+[
+  {
+    "source_id": "glenstone-v3:painting-for-a-white-wall",
+    "source_record_id": "glenstone-v3:painting-for-a-white-wall",
+    "title": "Painting for a White Wall",
+    "year_start": 1952,
+    "year_end": 1952,
+    "date_display": "1952",
+    "medium": "oil on canvas, five joined panels",
+    "height_cm": 60.33,
+    "width_cm": 180.98,
+    "dimensions_display": "23 3/4 x 71 1/4 x 1 1/2 inches (60.33 x 180.98 x 3.81 cm)",
+    "collection": "Glenstone Museum",
+    "accession": null,
+    "ek_id": "EK 54",
+    "source_url": "https://www.glenstone.org/artworks/painting-for-a-white-wall",
+    "image_url": "https://www.glenstone.org/medias/azure-94886.jpg?crop=,,x,y&format=jpg&quality=80&width=1000",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.glenstone.org/artworks/painting-for-a-white-wall",
+        "label": "Glenstone Museum primary object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "glenstone-v3:painting-in-three-panels",
+    "source_record_id": "glenstone-v3:painting-in-three-panels",
+    "title": "Painting in Three Panels",
+    "year_start": 1956,
+    "year_end": 1956,
+    "date_display": "1956",
+    "medium": "oil on canvas, three panels",
+    "height_cm": 203.2,
+    "width_cm": 353.06,
+    "dimensions_display": "80 x 139 inches (203.2 x 353.06 cm) overall display; 30 x 22 x 1 inches (76.2 x 55.88 x 2.54 cm) .1 red/yellow panel; 34 x 22 x 1 inches (86.36 x 55.88 x 2.54 cm) .2 blue/green panel; 80 x 60 x 1 inches (203.2 x 152.4 x 2.54 cm) .3 black/white panel",
+    "collection": "Glenstone Museum",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://www.glenstone.org/artworks/painting-in-three-panels",
+    "image_url": "https://www.glenstone.org/medias/azure-74555.jpg?crop=,,x,y&format=jpg&quality=80&width=1000",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.glenstone.org/artworks/painting-in-three-panels",
+        "label": "Glenstone Museum primary object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "glenstone-v3:white-red",
+    "source_record_id": "glenstone-v3:white-red",
+    "title": "White Red",
+    "year_start": 1963,
+    "year_end": 1963,
+    "date_display": "1963",
+    "medium": "oil on canvas",
+    "height_cm": 175.26,
+    "width_cm": 220.35,
+    "dimensions_display": "69 x 86 3/4 inches (175.26 x 220.35 cm); 72 3/4 x 90 3/4 x 2 1/4 inches (184.79 x 230.51 x 5.72 cm) framed",
+    "collection": "Glenstone Museum",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://www.glenstone.org/artworks/white-red",
+    "image_url": "https://www.glenstone.org/medias/azure-95803.jpg?crop=,,x,y&format=jpg&quality=80&width=1000",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.glenstone.org/artworks/white-red",
+        "label": "Glenstone Museum primary object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "glenstone-v3:black-white",
+    "source_record_id": "glenstone-v3:black-white",
+    "title": "Black White",
+    "year_start": 1968,
+    "year_end": 1968,
+    "date_display": "1968",
+    "medium": "oil on canvas, two joined panels",
+    "height_cm": 243.84,
+    "width_cm": 243.84,
+    "dimensions_display": "96 x 96 inches (243.84 x 243.84 cm)",
+    "collection": "Glenstone Museum",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://www.glenstone.org/artworks/black-white",
+    "image_url": "https://www.glenstone.org/medias/azure-94895.jpg?crop=,,x,y&format=jpg&quality=80&width=1000",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.glenstone.org/artworks/black-white",
+        "label": "Glenstone Museum primary object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "glenstone-v3:black-green",
+    "source_record_id": "glenstone-v3:black-green",
+    "title": "Black Green",
+    "year_start": 1970,
+    "year_end": 1970,
+    "date_display": "1970",
+    "medium": "oil on canvas, two joined panels",
+    "height_cm": 279.4,
+    "width_cm": 213.36,
+    "dimensions_display": "110 x 84 inches (279.4 x 213.36 cm)",
+    "collection": "Glenstone Museum",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://www.glenstone.org/artworks/black-green",
+    "image_url": "https://www.glenstone.org/medias/azure-74556.jpg?crop=,,x,y&format=jpg&quality=80&width=1000",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.glenstone.org/artworks/black-green",
+        "label": "Glenstone Museum primary object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "glenstone-v3:chatham-v-red-blue",
+    "source_record_id": "glenstone-v3:chatham-v-red-blue",
+    "title": "Chatham V: Red Blue",
+    "year_start": 1971,
+    "year_end": 1971,
+    "date_display": "1971",
+    "medium": "oil on canvas, two joined panels",
+    "height_cm": 274.96,
+    "width_cm": 252.1,
+    "dimensions_display": "108 1/4 x 99 1/4 inches (274.96 x 252.10 cm)",
+    "collection": "Glenstone Museum",
+    "accession": null,
+    "ek_id": "EK 456",
+    "source_url": "https://www.glenstone.org/artworks/chatham-v-red-blue",
+    "image_url": "https://www.glenstone.org/medias/azure-97216.jpg?crop=,,x,y&format=jpg&quality=80&width=1000",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.glenstone.org/artworks/chatham-v-red-blue",
+        "label": "Glenstone Museum primary object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "glenstone-v3:yellow-curve",
+    "source_record_id": "glenstone-v3:yellow-curve",
+    "title": "Yellow Curve",
+    "year_start": 1990,
+    "year_end": 1990,
+    "date_display": "1990",
+    "medium": "acrylic on canvas on wood",
+    "height_cm": 777.24,
+    "width_cm": 741.36,
+    "dimensions_display": "306 x 291 7/8 x 1 inches (777.24 x 741.36 x 2.54 cm)",
+    "collection": "Glenstone Museum",
+    "accession": null,
+    "ek_id": "EK 808",
+    "source_url": "https://www.glenstone.org/artworks/yellow-curve",
+    "image_url": "https://www.glenstone.org/medias/azure-99210.jpg?crop=,,x,y&format=jpg&quality=80&width=1000",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "notes": [
+      "Floor painting. Museum dimensions are the first two footprint axes; the third is thickness. Foundation reports a different footprint; retain both claims as a source discrepancy."
+    ],
+    "sources": [
+      {
+        "url": "https://www.glenstone.org/artworks/yellow-curve",
+        "label": "Glenstone Museum primary object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "glenstone-v3:white-relief-with-black-iii",
+    "source_record_id": "glenstone-v3:white-relief-with-black-iii",
+    "title": "White Relief with Black III",
+    "year_start": 1993,
+    "year_end": 1993,
+    "date_display": "1993",
+    "medium": "oil on canvas, two joined panels",
+    "height_cm": 304.8,
+    "width_cm": 248.92,
+    "dimensions_display": "120 x 98 x 2 3/4 inches (304.8 x 248.92 x 6.99 cm)",
+    "collection": "Glenstone Museum",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://www.glenstone.org/artworks/white-relief-with-black-iii",
+    "image_url": "https://www.glenstone.org/medias/azure-9063.jpg?crop=,,x,y&format=jpg&quality=80&width=1000",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.glenstone.org/artworks/white-relief-with-black-iii",
+        "label": "Glenstone Museum primary object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "glenstone-v3:blue-curve",
+    "source_record_id": "glenstone-v3:blue-curve",
+    "title": "Blue Curve",
+    "year_start": 1996,
+    "year_end": 1996,
+    "date_display": "1996",
+    "medium": "oil on canvas",
+    "height_cm": 304.8,
+    "width_cm": 274.96,
+    "dimensions_display": "120 x 108 1/4 inches (304.8 x 274.96 cm)",
+    "collection": "Glenstone Museum",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://www.glenstone.org/artworks/blue-curve",
+    "image_url": "https://www.glenstone.org/medias/azure-95802.jpg?crop=,,x,y&format=jpg&quality=80&width=1000",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.glenstone.org/artworks/blue-curve",
+        "label": "Glenstone Museum primary object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "glenstone-v3:blue-relief-with-black",
+    "source_record_id": "glenstone-v3:blue-relief-with-black",
+    "title": "Blue Relief with Black",
+    "year_start": 2011,
+    "year_end": 2011,
+    "date_display": "2011",
+    "medium": "oil on canvas, two joined panels",
+    "height_cm": 177.8,
+    "width_cm": 139.38,
+    "dimensions_display": "70 x 54 7/8 x 2 5/8 inches (177.8 x 139.38 x 6.67 cm)",
+    "collection": "Glenstone Museum",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://www.glenstone.org/artworks/blue-relief-with-black",
+    "image_url": "https://www.glenstone.org/medias/azure-95806.jpg?crop=,,x,y&format=jpg&quality=80&width=1000",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.glenstone.org/artworks/blue-relief-with-black",
+        "label": "Glenstone Museum primary object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "glenstone-v3:spectrum-ix",
+    "source_record_id": "glenstone-v3:spectrum-ix",
+    "title": "Spectrum IX",
+    "year_start": 2014,
+    "year_end": 2014,
+    "date_display": "2014",
+    "medium": "acrylic on canvas, twelve joined panels",
+    "height_cm": 274.32,
+    "width_cm": 243.84,
+    "dimensions_display": "108 x 96 inches (274.32 x 243.84 cm)",
+    "collection": "Glenstone Museum",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://www.glenstone.org/artworks/spectrum-ix",
+    "image_url": "https://www.glenstone.org/medias/azure-101698.jpg?crop=,,x,y&format=jpg&quality=80&width=1000",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.glenstone.org/artworks/spectrum-ix",
+        "label": "Glenstone Museum primary object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "modern-v3:1782",
+    "source_record_id": "1986.9",
+    "title": "Dark Blue Panel",
+    "year_start": 1986,
+    "year_end": 1986,
+    "date_display": "1986",
+    "medium": "Oil on canvas",
+    "height_cm": 278.13,
+    "width_cm": 274.32,
+    "dimensions_display": "Unframed: 109 1/2 × 108 in. (278.13 × 274.32 cm) Overall (3 panels): 122 × 356 in. (309.88 × 904.24 cm)",
+    "collection": "Modern Art Museum of Fort Worth",
+    "accession": "1986.9",
+    "ek_id": null,
+    "source_url": "https://collection.themodern.org/objects/1782/dark-blue-panel",
+    "image_url": "https://collection.themodern.org/internal/media/dispatcher/4-5409/preview",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "notes": [
+      "Dimensions are this canvas’s unframed bounds. The separate published overall three-panel installation size is not assigned to each individual painting."
+    ],
+    "sources": [
+      {
+        "url": "https://collection.themodern.org/objects/1782/dark-blue-panel",
+        "label": "Modern Art Museum of Fort Worth primary object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "modern-v3:1783",
+    "source_record_id": "1986.10",
+    "title": "Red Panel",
+    "year_start": 1986,
+    "year_end": 1986,
+    "date_display": "1986",
+    "medium": "Oil on canvas",
+    "height_cm": 250.19,
+    "width_cm": 215.9,
+    "dimensions_display": "Unframed: 98 1/2 × 85 in. (250.19 × 215.9 cm) Overall (3 panels): 122 × 356 in. (309.88 × 904.24 cm)",
+    "collection": "Modern Art Museum of Fort Worth",
+    "accession": "1986.10",
+    "ek_id": null,
+    "source_url": "https://collection.themodern.org/objects/1783/red-panel",
+    "image_url": "https://collection.themodern.org/internal/media/dispatcher/4-5411/preview",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "notes": [
+      "Dimensions are this canvas’s unframed bounds. The separate published overall three-panel installation size is not assigned to each individual painting."
+    ],
+    "sources": [
+      {
+        "url": "https://collection.themodern.org/objects/1783/red-panel",
+        "label": "Modern Art Museum of Fort Worth primary object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "modern-v3:1784",
+    "source_record_id": "1968.10",
+    "title": "Curved Red on Blue",
+    "year_start": 1963,
+    "year_end": 1963,
+    "date_display": "1963",
+    "medium": "Oil on canvas",
+    "height_cm": 267.34,
+    "width_cm": 214.31,
+    "dimensions_display": "Unframed: 105 1/4 × 84 3/8 × 1 1/8 in. (267.34 × 214.31 × 2.86 cm)",
+    "collection": "Modern Art Museum of Fort Worth",
+    "accession": "1968.10",
+    "ek_id": null,
+    "source_url": "https://collection.themodern.org/objects/1784/curved-red-on-blue",
+    "image_url": "https://collection.themodern.org/internal/media/dispatcher/4-3245/preview",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "notes": [
+      "Museum verso transcription records the number 313 on the stretcher; not promoted to a canonical EK identifier without an explicit identifier cross-reference."
+    ],
+    "sources": [
+      {
+        "url": "https://collection.themodern.org/objects/1784/curved-red-on-blue",
+        "label": "Modern Art Museum of Fort Worth primary object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "modern-v3:1781",
+    "source_record_id": "1986.8",
+    "title": "Dark Green Panel",
+    "year_start": 1986,
+    "year_end": 1986,
+    "date_display": "1986",
+    "medium": "Oil on canvas",
+    "height_cm": 309.88,
+    "width_cm": 153.67,
+    "dimensions_display": "Unframed: 122 × 60 1/2 in. (309.88 × 153.67 cm) Overall (3 panels): 122 × 356 in. (309.88 × 904.24 cm)",
+    "collection": "Modern Art Museum of Fort Worth",
+    "accession": "1986.8",
+    "ek_id": null,
+    "source_url": "https://collection.themodern.org/objects/1781/dark-green-panel",
+    "image_url": "https://collection.themodern.org/internal/media/dispatcher/4-5407/preview",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "notes": [
+      "Dimensions are this canvas’s unframed bounds. The separate published overall three-panel installation size is not assigned to each individual painting."
+    ],
+    "sources": [
+      {
+        "url": "https://collection.themodern.org/objects/1781/dark-green-panel",
+        "label": "Modern Art Museum of Fort Worth primary object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "modern-v3:8497",
+    "source_record_id": "2022.4",
+    "title": "Spectrum III",
+    "year_start": 1967,
+    "year_end": 1967,
+    "date_display": "1967",
+    "medium": "Oil on canvas",
+    "height_cm": 84.46,
+    "width_cm": 275.91,
+    "dimensions_display": "Unframed: 33 1/4 × 108 5/8 in. (84.46 × 275.91 cm)",
+    "collection": "Modern Art Museum of Fort Worth",
+    "accession": "2022.4",
+    "ek_id": null,
+    "source_url": "https://collection.themodern.org/objects/8497/spectrum-iii",
+    "image_url": "https://collection.themodern.org/internal/media/dispatcher/4-8174/preview",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://collection.themodern.org/objects/8497/spectrum-iii",
+        "label": "Modern Art Museum of Fort Worth primary object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "nelson-v3:22857",
+    "source_record_id": "92-3",
+    "title": "White Black",
+    "year_start": 1960,
+    "year_end": 1960,
+    "date_display": "1960",
+    "medium": "Oil on canvas",
+    "height_cm": 218.76,
+    "width_cm": 124.78,
+    "dimensions_display": "Unframed: 86 1/8 × 49 1/8 inches (218.76 × 124.78 cm)",
+    "collection": "The Nelson-Atkins Museum of Art",
+    "accession": "92-3",
+    "ek_id": null,
+    "source_url": "https://art.nelson-atkins.org/objects/22857/white-black",
+    "image_url": "https://art.nelson-atkins.org/internal/media/dispatcher/95708/preview",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "notes": [
+      "Former title: Untitled; provenance also records Untitled (Black White). Use unframed support dimensions."
+    ],
+    "sources": [
+      {
+        "url": "https://art.nelson-atkins.org/objects/22857/white-black",
+        "label": "The Nelson-Atkins Museum of Art primary object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  }
+]

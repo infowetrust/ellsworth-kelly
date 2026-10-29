@@ -1,0 +1,20 @@
+[
+  {
+    "id": "gap-blue-white-1962",
+    "updates": {
+      "record_kind": "painting"
+    },
+    "source_url": "https://matthewmarks.com/online/ellsworth-kelly/ek_47212-ek-d-62-50-reference-01/",
+    "source_label": "Matthew Marks primary painting reproduction and caption",
+    "evidence": "Reference review 2026-10-28: primary gallery reproduction explicitly identifies Blue White 1962 as oil on canvas in the Rose Art Museum. Candidate promoted to confirmed painting; dimensions remain unknown."
+  },
+  {
+    "id": "gap-blue-white-2006",
+    "updates": {
+      "record_kind": "painting"
+    },
+    "source_url": "https://www.artmuseumgr.org/exhibitions/ellsworth-kelly-jack-youngerman-surrounding-shapes",
+    "source_label": "Grand Rapids Art Museum: commission described as painting",
+    "evidence": "The museum 2023 exhibition text explicitly calls Blue White 2006 an enormous commissioned painting permanently installed in the lobby. Full museum and architect photographs distinguish its blue-over-white joined support from the Youngerman painting shown in the exhibition hero. Older wall-sculpture terminology remains documented; exact physical dimensions and frontal proportions remain unresolved."
+  }
+]

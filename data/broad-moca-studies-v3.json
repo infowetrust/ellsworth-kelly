@@ -1,0 +1,184 @@
+{
+  "broad-v3:black-panel-white-curve-iii": {
+    "path": "assets/studies/v3-broad-black-panel-white-curve-iii.svg",
+    "title": "Black Panel with White Curve III",
+    "year_start": 1989,
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "joined rectangle and curved wedge",
+    "reference_url": "https://www.thebroad.org/art/ellsworth-kelly/black-panel-white-curve-iii",
+    "reference_image_url": "https://www.thebroad.org/sites/default/files/styles/webp_convert_only/public/art/kelly_black_panel_w_white.jpg.webp?itok=_Q7U-icd",
+    "reference_id": "research/broad-moca-v3/images/broad-black-panel-white-curve-iii.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary museum photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Observed black square at upper left joins a white curved wedge at right. Surrounding top-right and bottom-left spaces remain transparent; depth and shadows omitted.",
+    "reviewed_date": "2026-10-27"
+  },
+  "broad-v3:blue-curve-v": {
+    "path": "assets/studies/v3-broad-blue-curve-v.svg",
+    "title": "Blue Curve V",
+    "year_start": 1972,
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "shape_type": "rectangle with curved colour field",
+    "reference_url": "https://www.thebroad.org/art/ellsworth-kelly/blue-curve-v",
+    "reference_image_url": "https://www.thebroad.org/sites/default/files/styles/webp_convert_only/public/art/kelly_blue-curve-v_2400px_0.jpg.webp?itok=uku1p3O9",
+    "reference_id": "research/broad-moca-v3/images/broad-blue-curve-v.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary museum photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "White rectangular painted ground retained: the photograph shows a straight outer canvas edge and shadow around the white lower-right area. The blue interior curve is approximated; photographic perspective rectified.",
+    "reviewed_date": "2026-10-27"
+  },
+  "broad-v3:blue-red": {
+    "path": "assets/studies/v3-broad-blue-red.svg",
+    "title": "Blue Red",
+    "year_start": 1968,
+    "colors": [
+      "blue",
+      "red"
+    ],
+    "shape_type": "joined trapezoids",
+    "reference_url": "https://www.thebroad.org/art/ellsworth-kelly/blue-red",
+    "reference_image_url": "https://www.thebroad.org/sites/default/files/styles/webp_convert_only/public/art/kelly_blue_red.jpg.webp?itok=S2szvg9H",
+    "reference_id": "research/broad-moca-v3/images/broad-blue-red.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary museum photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Observed blue-left/red-right bow-tie outline, not a rectangular two-colour field. Joined seam and proportions approximate; no white background painted into the SVG.",
+    "reviewed_date": "2026-10-27"
+  },
+  "broad-v3:blue-yellow-red-iv": {
+    "path": "assets/studies/v3-broad-blue-yellow-red-iv.svg",
+    "title": "Blue Yellow Red IV",
+    "year_start": 1972,
+    "colors": [
+      "blue",
+      "yellow",
+      "red"
+    ],
+    "shape_type": "joined rectangles",
+    "reference_url": "https://www.thebroad.org/art/ellsworth-kelly/blue-yellow-red-iv",
+    "reference_image_url": "https://www.thebroad.org/sites/default/files/styles/webp_convert_only/public/art/kelly_blue_yellow_red_iva.jpg.webp?itok=Tc8fM54K",
+    "reference_id": "research/broad-moca-v3/images/broad-blue-yellow-red-iv.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary museum photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Three observed horizontal joined panels: blue above yellow above red. Seams retained by separate vector elements; surface texture omitted.",
+    "reviewed_date": "2026-10-27"
+  },
+  "broad-v3:green-angle": {
+    "path": "assets/studies/v3-broad-green-angle.svg",
+    "title": "Green Angle",
+    "year_start": 1970,
+    "colors": [
+      "green"
+    ],
+    "shape_type": "chevron",
+    "reference_url": "https://www.thebroad.org/art/ellsworth-kelly/green-angle",
+    "reference_image_url": "https://www.thebroad.org/sites/default/files/styles/webp_convert_only/public/art/kelly_green_angle.jpg.webp?itok=EJrB8wD2",
+    "reference_id": "research/broad-moca-v3/images/broad-green-angle.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary museum photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Observed six-corner peaked band. Open space below the inner angle is transparent; dimensions describe overall bounds, not band thickness.",
+    "reviewed_date": "2026-10-27"
+  },
+  "broad-v3:green-blue-red": {
+    "path": "assets/studies/v3-broad-green-blue-red.svg",
+    "title": "Green Blue Red",
+    "year_start": 1963,
+    "colors": [
+      "green",
+      "blue",
+      "red"
+    ],
+    "shape_type": "rectangle with rectangle and oval",
+    "reference_url": "https://www.thebroad.org/art/ellsworth-kelly/green-blue-red",
+    "reference_image_url": "https://www.thebroad.org/sites/default/files/styles/webp_convert_only/public/art/kelly_greenbluered.jpg.webp?itok=HfVVzNtZ",
+    "reference_id": "research/broad-moca-v3/images/broad-green-blue-red.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary museum photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Observed red ground with green rectangle at left and tall blue oval at right. Oval contour and margins are approximated from the object photograph.",
+    "reviewed_date": "2026-10-27"
+  },
+  "broad-v3:green-relief-blue": {
+    "path": "assets/studies/v3-broad-green-relief-blue.svg",
+    "title": "Green Relief with Blue",
+    "year_start": 2011,
+    "colors": [
+      "green",
+      "blue"
+    ],
+    "shape_type": "curved relief on rectangle",
+    "reference_url": "https://www.thebroad.org/art/ellsworth-kelly/green-relief-blue",
+    "reference_image_url": "https://www.thebroad.org/sites/default/files/styles/webp_convert_only/public/art/kelly_green_relief_with_blue_35000.jpg.webp?itok=3KXcPHJt",
+    "reference_id": "research/broad-moca-v3/images/broad-green-relief-blue.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary museum photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Observed green relief over blue rectangular panel. Overlap follows the photographed curved edge; depth, cast shadow, and perspective omitted.",
+    "reviewed_date": "2026-10-27"
+  },
+  "moca-v3:blue-green-curve": {
+    "path": "assets/studies/v3-moca-blue-green-curve.svg",
+    "title": "Blue Green Curve",
+    "year_start": 1972,
+    "colors": [
+      "blue",
+      "green"
+    ],
+    "shape_type": "triangle with curved colour division",
+    "reference_url": "https://www.moca.org/artworks/blue-green-curve",
+    "reference_image_url": "https://cdn.sanity.io/images/ianh83xv/production/f197d6389c4422fbbfe3b17a69fe9135c02dc0db-1500x1185.jpg",
+    "reference_id": "research/broad-moca-v3/images/moca-blue-green-curve.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary museum photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Observed triangular outer canvas points left. Green lower field has an upward-curving top boundary; wall and cast shadow remain absent.",
+    "reviewed_date": "2026-10-27"
+  },
+  "moca-v3:red-orange": {
+    "path": "assets/studies/v3-moca-red-orange.svg",
+    "title": "Red-Orange",
+    "year_start": 1980,
+    "colors": [
+      "orange"
+    ],
+    "shape_type": "irregular pentagon",
+    "reference_url": "https://www.moca.org/artworks/red-orange",
+    "reference_image_url": "https://cdn.sanity.io/images/ianh83xv/production/fafd13fae4f450f6967ace0c584ac71785a82431-1500x1888.jpg",
+    "reference_id": "research/broad-moca-v3/images/moca-red-orange.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary museum photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Observed five-corner inverted triangular form, including both clipped upper corners. Palette groups the observed red-orange as orange. Overall landscape aspect uses the museum dimensions in observed orientation, corroborated by a US Art in Embassies catalogue; conflicting dimension order and half-inch short-side discrepancy remain unresolved, so true-scale use is disabled.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": false,
+    "true_scale_note": "Conflicting primary dimension order and half-inch short-side discrepancy; comparable-size SVG only pending reconciliation."
+  },
+  "moca-v3:two-panels-yellow-with-large-blue": {
+    "path": "assets/studies/v3-moca-two-panels-yellow-with-large-blue.svg",
+    "title": "Two Panels: Yellow with Large Blue",
+    "year_start": 1970,
+    "colors": [
+      "yellow",
+      "blue"
+    ],
+    "shape_type": "joined rectangles with open corner",
+    "reference_url": "https://www.moca.org/artworks/two-panels-yellow-with-large-blue",
+    "reference_image_url": "https://cdn.sanity.io/images/ianh83xv/production/5543845c9056ca97d5d7b342dded56ec09d4fd47-1500x1401.jpg",
+    "reference_id": "research/broad-moca-v3/images/moca-two-panels-yellow-with-large-blue.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary museum photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Observed tall large blue panel at right with shorter yellow panel at lower left. Upper-left open corner stays transparent. Panel proportions approximate; depth omitted.",
+    "reviewed_date": "2026-10-27"
+  }
+}

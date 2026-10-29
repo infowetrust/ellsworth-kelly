@@ -1,0 +1,39 @@
+[
+  {
+    "record_id": "foundation-exhib-v4-ek414-ellsworth-kelly-4",
+    "canonical_id": "EK 414",
+    "primary_medium": "Painted aluminum",
+    "primary_url": "https://www.moma.org/collection/works/82045",
+    "reason": "Green Blue EK 414 in the Foundation 1973 and 1982 sculpture installations is the distinctive folded pair of triangular planes, wide across the top and meeting at a low point. The actual current MoMA photo shows the same structure; its primary object 82045 explicitly dates it 1968 and classifies it Sculpture, painted aluminum, 262.7 × 285.5 × 173.7 cm. This is not a canvas painting.",
+    "source_ids": [
+      "foundation-exhib-v4:EK414:ellsworth-kelly-4",
+      "foundation-exhib-v4:EK414:ellsworth-kelly-sculpture"
+    ],
+    "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-54.jpg",
+    "evidence_file": "research/svg-gap-v6/foundation/moma-green-blue.jpg"
+  },
+  {
+    "record_id": "foundation-exhib-v4-ek653-ellsworth-kelly-sculpture",
+    "canonical_id": "EK 653",
+    "primary_medium": "(Corten) weathering steel",
+    "primary_url": "https://www.metmuseum.org/art/collection/search/484637",
+    "reason": "Curve XXXII EK 653 is the wide freestanding panel with two subtly concave sides at right in the Foundation 1982 sculpture installation. The actual Met photo and historical 1996 catalogue entry 83 show that same distinctive square sheet with inward-curving sides. The primary Met object 484637 explicitly dates it 1982 and classifies it Sculpture in weathering steel, 274.3 × 264.8 × 46.4 cm. Material and physical form are corroborated, not inferred from tonal appearance.",
+    "source_ids": [
+      "foundation-exhib-v4:EK653:ellsworth-kelly-sculpture"
+    ],
+    "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-7.jpg",
+    "evidence_file": "research/svg-gap-v6/foundation/met-curve-xxxii.jpg"
+  },
+  {
+    "record_id": "foundation-exhib-v4-ek417-ellsworth-kelly-sculpture",
+    "canonical_id": "EK 417",
+    "primary_medium": "Painted aluminum",
+    "primary_url": "https://collections.lacma.org/object/60127",
+    "reason": "White Sculpture II EK 417 is the leaning white folded sheet in the Foundation 1982 sculpture installation. Its sloping broad face and folded support agree with the actual current LACMA photographs, including view 3. LACMA object 60127 explicitly identifies White Sculpture II 1968, painted aluminum, 153.67 × 259.08 × 121.92 cm, classification Sculpture. The museum also cites the same 1982 sculpture exhibition catalogue.",
+    "source_ids": [
+      "foundation-exhib-v4:EK417:ellsworth-kelly-sculpture"
+    ],
+    "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-10.jpg",
+    "evidence_file": "research/svg-gap-v6/foundation/lacma-white-sculpture-ii-view3.webp"
+  }
+]

@@ -1,0 +1,319 @@
+[
+  {
+    "source_id": "high:white-panel-ii",
+    "title": "White Panel II",
+    "year_start": 1985,
+    "year_end": 1985,
+    "date_display": "1985",
+    "medium": "Oil on canvas",
+    "height_cm": 245.11,
+    "width_cm": 321.31,
+    "collection": "High Museum of Art",
+    "source_url": "https://high.org/collection/white-panel-ii/",
+    "source_record_id": "white-panel-ii",
+    "accession": "1993.99",
+    "ek_id": null,
+    "image_url": "https://highmuseum-redesign.s3.us-east-1.amazonaws.com/datasync/collection-objects/4990_1727039510106.jpg",
+    "record_kind": "painting",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://high.org/collection/white-panel-ii/",
+        "label": "High Museum of Art collection record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "high:red-curve-vi",
+    "title": "Red Curve VI",
+    "year_start": 1982,
+    "year_end": 1982,
+    "date_display": "1982",
+    "medium": "Oil on canvas",
+    "height_cm": 188.595,
+    "width_cm": 356.87,
+    "collection": "High Museum of Art",
+    "source_url": "https://high.org/collection/red-curve-vi/",
+    "source_record_id": "red-curve-vi",
+    "accession": "2002.3",
+    "ek_id": null,
+    "image_url": "https://highmuseum-redesign.s3.us-east-1.amazonaws.com/datasync/collection-objects/14128_1727032355249.jpg",
+    "record_kind": "painting",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://high.org/collection/red-curve-vi/",
+        "label": "High Museum of Art collection record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "high:green-curve",
+    "title": "Green Curve",
+    "year_start": 1999,
+    "year_end": 1999,
+    "date_display": "1999",
+    "medium": "Oil on canvas",
+    "height_cm": 93.98,
+    "width_cm": 467.36,
+    "collection": "High Museum of Art",
+    "source_url": "https://high.org/collection/green-curve/",
+    "source_record_id": "green-curve",
+    "accession": "2001.12",
+    "ek_id": null,
+    "image_url": "https://highmuseum-redesign.s3.us-east-1.amazonaws.com/datasync/collection-objects/13932_1727032700145.jpg",
+    "record_kind": "painting",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://high.org/collection/green-curve/",
+        "label": "High Museum of Art collection record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "high:untitled-341",
+    "title": "Untitled",
+    "year_start": 1988,
+    "year_end": 1988,
+    "date_display": "1988",
+    "medium": "Oil on canvas",
+    "height_cm": 168.91,
+    "width_cm": 206.375,
+    "collection": "High Museum of Art",
+    "source_url": "https://high.org/collection/untitled-341/",
+    "source_record_id": "untitled-341",
+    "accession": "2001.75",
+    "ek_id": null,
+    "image_url": null,
+    "record_kind": "painting",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://high.org/collection/untitled-341/",
+        "label": "High Museum of Art collection record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "ncma:8122",
+    "title": "Blue Panel",
+    "year_start": 1980,
+    "year_end": 1980,
+    "date_display": "1980",
+    "medium": "Oil on canvas",
+    "height_cm": 278.1,
+    "width_cm": 241.3,
+    "collection": "North Carolina Museum of Art",
+    "source_url": "https://collection.ncartmuseum.org/objects/8122/blue-panel",
+    "source_record_id": "8122",
+    "accession": "2014.20.30",
+    "ek_id": null,
+    "image_url": null,
+    "record_kind": "painting",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://collection.ncartmuseum.org/objects/8122/blue-panel",
+        "label": "North Carolina Museum of Art collection record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "cleveland:2026.5",
+    "title": "Black Diagonal Relief",
+    "year_start": 2006,
+    "year_end": 2006,
+    "date_display": "2006",
+    "medium": "Oil on canvas",
+    "height_cm": 213.4,
+    "width_cm": 120.7,
+    "collection": "Cleveland Museum of Art",
+    "source_url": "https://www.clevelandart.org/art/2026.5",
+    "source_record_id": "2026.5",
+    "accession": "2026.5",
+    "ek_id": null,
+    "image_url": null,
+    "record_kind": "painting",
+    "notes": [
+      "Museum records gift from the Ellsworth Kelly Foundation and Jack Shear in 2026; two panels joined in relief; depth 7 cm."
+    ],
+    "sources": [
+      {
+        "url": "https://www.clevelandart.org/art/2026.5",
+        "label": "Cleveland Museum of Art collection record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "buffalo:k1969-3",
+    "title": "Blue, Yellow and Red",
+    "year_start": 1968,
+    "year_end": 1968,
+    "date_display": "1968",
+    "medium": "Oil on canvas",
+    "height_cm": 256.54,
+    "width_cm": 76.2,
+    "collection": "Buffalo AKG Art Museum",
+    "source_url": "https://buffaloakg.org/artworks/k19693-blue-yellow-and-red",
+    "source_record_id": "k1969-3",
+    "accession": "K1969:3",
+    "ek_id": "EK 406",
+    "image_url": null,
+    "record_kind": "painting",
+    "notes": [
+      "Support dimensions used; larger framed dimensions excluded. Museum transcribes stretcher inscription #406."
+    ],
+    "sources": [
+      {
+        "url": "https://buffaloakg.org/artworks/k19693-blue-yellow-and-red",
+        "label": "Buffalo AKG Art Museum collection record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "buffalo:2023-222",
+    "title": "Green Curve I",
+    "year_start": 1969,
+    "year_end": 1969,
+    "date_display": "1969",
+    "medium": "Oil on canvas",
+    "height_cm": 90.8,
+    "width_cm": 147.32,
+    "collection": "Buffalo AKG Art Museum",
+    "source_url": "https://buffaloakg.org/artworks/2023222-green-curve-i",
+    "source_record_id": "2023-222",
+    "accession": "2023:222",
+    "ek_id": null,
+    "image_url": null,
+    "record_kind": "painting",
+    "notes": [
+      "Given in 2023 according to museum provenance."
+    ],
+    "sources": [
+      {
+        "url": "https://buffaloakg.org/artworks/2023222-green-curve-i",
+        "label": "Buffalo AKG Art Museum collection record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "mfa:blue-green-yellow-orange-red-1968",
+    "title": "Blue Green Yellow Orange Red",
+    "year_start": 1968,
+    "year_end": 1968,
+    "date_display": "1968",
+    "medium": "Oil painting",
+    "height_cm": null,
+    "width_cm": null,
+    "collection": "Museum of Fine Arts, Boston",
+    "source_url": "https://www.mfa.org/news/press-releases/09-20-2010",
+    "source_record_id": "blue-green-yellow-orange-red-1968",
+    "accession": null,
+    "ek_id": null,
+    "image_url": null,
+    "record_kind": "painting",
+    "notes": [
+      "Painting, creation date and gift identified by official 2010 museum announcement; dimensions and accession not yet independently retrieved. Distinct from Foundation EK360, dated1966."
+    ],
+    "sources": [
+      {
+        "url": "https://www.mfa.org/news/press-releases/09-20-2010",
+        "label": "Museum of Fine Arts, Boston collection record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "cincinnati:1996.447",
+    "source_record_id": "1996.447",
+    "title": "Green Panel with Orange Curve",
+    "year_start": 1989,
+    "year_end": 1989,
+    "date_display": "1989",
+    "medium": "Oil on canvas, two joined panels",
+    "height_cm": null,
+    "width_cm": null,
+    "collection": "Cincinnati Art Museum",
+    "source_url": "https://www.cincinnatiartmuseum.org/about/blog/celebrating-national-pride-month/",
+    "accession": "1996.447",
+    "ek_id": null,
+    "image_url": null,
+    "record_kind": "painting",
+    "notes": [
+      "Official museum collection caption and discussion establish identity; measurements not yet retrieved."
+    ],
+    "sources": [
+      {
+        "url": "https://www.cincinnatiartmuseum.org/about/blog/celebrating-national-pride-month/",
+        "label": "Cincinnati Art Museum collection caption",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "buffalo:k1959-11",
+    "title": "New York, NY",
+    "title_aliases": [
+      "New York"
+    ],
+    "year_start": 1957,
+    "year_end": 1957,
+    "date_display": "1957",
+    "medium": "Oil on canvas",
+    "height_cm": 187.33,
+    "width_cm": 228.6,
+    "collection": "Buffalo AKG Art Museum",
+    "source_url": "https://buffaloakg.org/artworks/k195911-new-york-ny",
+    "source_record_id": "K1959:11",
+    "accession": "K1959:11",
+    "record_kind": "painting",
+    "notes": [
+      "Support size excludes frame. Foundation chronology refers to the painting as New York; title alias retained for reconciliation."
+    ],
+    "sources": [
+      {
+        "url": "https://buffaloakg.org/artworks/k195911-new-york-ny",
+        "label": "Buffalo AKG collection record",
+        "accessed": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "source_id": "nga-au:orange-curve-116211",
+    "title": "Orange Curve",
+    "year_start": 1964,
+    "year_end": 1965,
+    "date_display": "1964–1965",
+    "medium": null,
+    "height_cm": null,
+    "width_cm": null,
+    "collection": "National Gallery of Australia",
+    "source_url": "https://nga.gov.au/stories-ideas/artists-artists-virginia-cuppaidge/",
+    "source_record_id": "116211",
+    "record_kind": "painting",
+    "record_status": "metadata_incomplete",
+    "notes": [
+      "Museum curatorial essay and American Masters exhibition record establish the painting and its1964–65 date; acquired1977. Medium, accession and measurements remain unresolved. This is distinct from prints with similar curve titles."
+    ],
+    "sources": [
+      {
+        "url": "https://nga.gov.au/stories-ideas/artists-artists-virginia-cuppaidge/",
+        "label": "National Gallery of Australia curatorial essay",
+        "accessed": "2026-10-26"
+      },
+      {
+        "url": "https://digital.nga.gov.au/archive/americanmasters/works.cfm%3Fwrkirn%3D116211.html",
+        "label": "National Gallery of Australia American Masters work record"
+      }
+    ]
+  }
+]

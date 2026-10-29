@@ -1,0 +1,1100 @@
+[
+  {
+    "source_id": "international-v4:flv-spectrum-viii",
+    "source_record_id": "flv-spectrum-viii",
+    "title": "Spectrum VIII",
+    "year_start": 2014,
+    "year_end": 2014,
+    "date_display": "2014",
+    "medium": "Painted acrylic on canvas over aluminium honeycomb composite; twelve joined panels",
+    "height_cm": 635,
+    "width_cm": 584.2,
+    "dimensions_display": "635 × 584.2 cm",
+    "collection": "Fondation Louis Vuitton, Paris",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://www.fondationlouisvuitton.fr/en/collection/artworks/spectrum-viii",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Site-specific stage curtain / painting commission. Exact museum medium and overall size transcribed."
+    ],
+    "sources": [
+      {
+        "url": "https://www.fondationlouisvuitton.fr/en/collection/artworks/spectrum-viii",
+        "label": "Fondation Louis Vuitton, Paris primary source",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "international-v4:flv-colored-panels",
+    "source_record_id": "flv-colored-panels",
+    "title": "Colored Panels (Red, Yellow, Blue, Green, Violet)",
+    "year_start": 2014,
+    "year_end": 2014,
+    "date_display": "2014",
+    "medium": "Painted acoustically transparent special fabric panels (artist statement); six panels",
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": null,
+    "collection": "Fondation Louis Vuitton, Paris",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://www.fondationlouisvuitton.fr/en/collection/artworks/colored-panels-red-yellow-blue-green-violet",
+    "image_url": null,
+    "record_kind": "painting_group_candidate",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Museum states six panels, five presented at the Fondation, and provides dimensions for five named panels. Overall dimensions are not given; no artificial overall bounding box is inferred. Painting / architectural acoustic-panel group; explicit scope candidate. The sixth panel is unspecified in this source. Commission invited in2012; work date2014."
+    ],
+    "sources": [
+      {
+        "url": "https://www.fondationlouisvuitton.fr/en/collection/artworks/colored-panels-red-yellow-blue-green-violet",
+        "label": "Fondation Louis Vuitton, Paris primary source",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "panel_dimensions_cm": {
+      "red": [
+        162.6,
+        198.1,
+        10.2
+      ],
+      "yellow": [
+        1117.6,
+        190.5,
+        10.2
+      ],
+      "blue": [
+        306.1,
+        287,
+        10.2
+      ],
+      "green": [
+        228.6,
+        294.6,
+        10.2
+      ],
+      "violet": [
+        243.8,
+        365.8,
+        10.2
+      ]
+    },
+    "true_scale_eligible": false,
+    "true_scale_note": "Physical dimensions unresolved; any normalized-only visual study is excluded from true-size plotting."
+  },
+  {
+    "source_id": "international-v4:stedelijk-blue-green-red-i",
+    "source_record_id": "stedelijk-blue-green-red-i",
+    "title": "Blue Green Red I",
+    "year_start": 1964,
+    "year_end": 1965,
+    "date_display": "1964–1965",
+    "medium": "Oil on canvas",
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": null,
+    "collection": "Stedelijk Museum Amsterdam (ownership recorded by museum conservator in historical publication)",
+    "accession": null,
+    "ek_id": "EK 336",
+    "source_url": "https://sbmk.nl/source/documents/MAWC-publ_web2.pdf",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_museum_conservation_publication",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Primary source: Stedelijk conservator Elisabeth Bracht, The restoration of Kelly’s works at the Stedelijk Museum, Modern Art: Who Cares?, book pp250–254 (PDF pp252–256). Explicit five-painting inventory; current collection index is bot-challenged, so this is a historical ownership claim, not an exhaustive current inventory.",
+      "Materials are explained by museum conservator for these paintings: oil paint on cotton support. No dimensions inferred from photographs."
+    ],
+    "sources": [
+      {
+        "url": "https://sbmk.nl/source/documents/MAWC-publ_web2.pdf",
+        "label": "Stedelijk Museum Amsterdam (ownership recorded by museum conservator in historical publication) primary source",
+        "accessed": "2026-10-27"
+      },
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-and-sculptures-1963-1979/",
+        "label": "Ellsworth Kelly Foundation exhibition captions: EK identity",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "true_scale_eligible": false,
+    "true_scale_note": "Physical dimensions unresolved; any normalized-only visual study is excluded from true-size plotting."
+  },
+  {
+    "source_id": "international-v4:stedelijk-black-white-bar-ii",
+    "source_record_id": "stedelijk-black-white-bar-ii",
+    "title": "Two Panels: Black with White Bar II",
+    "year_start": 1971,
+    "year_end": 1971,
+    "date_display": "1971",
+    "medium": "Oil on canvas",
+    "height_cm": 199.4,
+    "width_cm": 406.4,
+    "dimensions_display": "78 1/2 x160 inches (199.4 x406.4cm) overall, Guggenheim1996 catalogue62",
+    "collection": "Stedelijk Museum Amsterdam (ownership recorded by museum conservator in historical publication)",
+    "accession": null,
+    "ek_id": "EK 449",
+    "source_url": "https://sbmk.nl/source/documents/MAWC-publ_web2.pdf",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_museum_conservation_publication",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Primary source: Stedelijk conservator Elisabeth Bracht, The restoration of Kelly’s works at the Stedelijk Museum, Modern Art: Who Cares?, book pp250–254 (PDF pp252–256). Explicit five-painting inventory; current collection index is bot-challenged, so this is a historical ownership claim, not an exhaustive current inventory.",
+      "Materials are explained by museum conservator for these paintings: oil paint on cotton support. No dimensions inferred from photographs.",
+      "Physical dimensions formerly unresolved in museum conservation reference are now established by independent1996 museum catalogue62, explicitly credited to Stedelijk Museum. Contour remains approximate after oblique gallery photograph."
+    ],
+    "sources": [
+      {
+        "url": "https://sbmk.nl/source/documents/MAWC-publ_web2.pdf",
+        "label": "Stedelijk Museum Amsterdam (ownership recorded by museum conservator in historical publication) primary source",
+        "accessed": "2026-10-27"
+      },
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-and-sculptures-1963-1979/",
+        "label": "Ellsworth Kelly Foundation exhibition captions: EK identity",
+        "accessed": "2026-10-27"
+      },
+      {
+        "url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=182",
+        "label": "Guggenheim1996 retrospective catalogue62: title,1971, two joined panels, Stedelijk collection credit and overall dimensions",
+        "accessed": "2026-10-27",
+        "pdf_page": 182
+      }
+    ]
+  },
+  {
+    "source_id": "international-v4:stedelijk-white-triangle-black-curve",
+    "source_record_id": "stedelijk-white-triangle-black-curve",
+    "title": "White Triangle with Black Curve",
+    "year_start": 1972,
+    "year_end": 1972,
+    "date_display": "1972",
+    "medium": "Oil on canvas",
+    "height_cm": 254,
+    "width_cm": 254,
+    "dimensions_display": "254 × 254 cm",
+    "collection": "Stedelijk Museum Amsterdam (ownership recorded by museum conservator in historical publication)",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://sbmk.nl/source/documents/MAWC-publ_web2.pdf",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_museum_conservation_publication",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Primary source: Stedelijk conservator Elisabeth Bracht, The restoration of Kelly’s works at the Stedelijk Museum, Modern Art: Who Cares?, book pp250–254 (PDF pp252–256). Explicit five-painting inventory; current collection index is bot-challenged, so this is a historical ownership claim, not an exhaustive current inventory.",
+      "Materials are explained by museum conservator for these paintings: oil paint on cotton support. No dimensions inferred from photographs.",
+      "Same painting as historical MoMA1973 White Curve1972 (254×254cm); conservator title is more specific. Confirmed visually against MoMA plate and museum conservation gallery photograph."
+    ],
+    "sources": [
+      {
+        "url": "https://sbmk.nl/source/documents/MAWC-publ_web2.pdf",
+        "label": "Stedelijk Museum Amsterdam (ownership recorded by museum conservator in historical publication) primary source",
+        "accessed": "2026-10-27"
+      },
+      {
+        "url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+        "label": "MoMA1973 PDFp101: title White Curve, oil on canvas254×254cm and photograph",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "moma1973-pdf101-caption1",
+    "title_aliases": [
+      "White Curve",
+      "White Triangle with Black Curve"
+    ]
+  },
+  {
+    "source_id": "international-v4:stedelijk-red-curve-ii",
+    "source_record_id": "stedelijk-red-curve-ii",
+    "title": "Red Curve II",
+    "year_start": 1972,
+    "year_end": 1972,
+    "date_display": "1972",
+    "medium": "Oil on canvas",
+    "height_cm": 114.3,
+    "width_cm": 426.72,
+    "dimensions_display": "45 inches × 14 feet (114.3 × 426.72 cm)",
+    "collection": "Stedelijk Museum Amsterdam (ownership recorded by museum conservator in historical publication)",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://sbmk.nl/source/documents/MAWC-publ_web2.pdf",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_museum_conservation_publication",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Primary source: Stedelijk conservator Elisabeth Bracht, The restoration of Kelly’s works at the Stedelijk Museum, Modern Art: Who Cares?, book pp250–254 (PDF pp252–256). Explicit five-painting inventory; current collection index is bot-challenged, so this is a historical ownership claim, not an exhaustive current inventory.",
+      "Materials are explained by museum conservator for these paintings: oil paint on cotton support. No dimensions inferred from photographs."
+    ],
+    "sources": [
+      {
+        "url": "https://sbmk.nl/source/documents/MAWC-publ_web2.pdf",
+        "label": "Stedelijk Museum Amsterdam (ownership recorded by museum conservator in historical publication) primary source",
+        "accessed": "2026-10-27"
+      },
+      {
+        "url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+        "label": "MoMA1973 PDFp102: Red CurveII1972, Stedelijk,45in×14ft; exact diamond reference photograph",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "moma1973-pdf102-caption1"
+  },
+  {
+    "source_id": "international-v4:stedelijk-blue-curve-vi",
+    "source_record_id": "stedelijk-blue-curve-vi",
+    "title": "Blue Curve VI",
+    "year_start": 1982,
+    "year_end": 1982,
+    "date_display": "1982",
+    "medium": "Oil on canvas",
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": null,
+    "collection": "Stedelijk Museum Amsterdam (ownership recorded by museum conservator in historical publication)",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://sbmk.nl/source/documents/MAWC-publ_web2.pdf",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_museum_conservation_publication",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Primary source: Stedelijk conservator Elisabeth Bracht, The restoration of Kelly’s works at the Stedelijk Museum, Modern Art: Who Cares?, book pp250–254 (PDF pp252–256). Explicit five-painting inventory; current collection index is bot-challenged, so this is a historical ownership claim, not an exhaustive current inventory.",
+      "Materials are explained by museum conservator for these paintings: oil paint on cotton support. No dimensions inferred from photographs."
+    ],
+    "sources": [
+      {
+        "url": "https://sbmk.nl/source/documents/MAWC-publ_web2.pdf",
+        "label": "Stedelijk Museum Amsterdam (ownership recorded by museum conservator in historical publication) primary source",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "true_scale_eligible": false,
+    "true_scale_note": "Physical dimensions unresolved; any normalized-only visual study is excluded from true-size plotting."
+  },
+  {
+    "source_id": "international-v4:mot-red-yellow-blue",
+    "source_record_id": "1992-00-0017-000",
+    "title": "Red Yellow Blue",
+    "year_start": 1966,
+    "year_end": 1966,
+    "date_display": "1966",
+    "medium": "Oil on canvas",
+    "height_cm": 165.3,
+    "width_cm": 495.8,
+    "dimensions_display": "165.3 × 495.8 cm",
+    "collection": "Museum of Contemporary Art Tokyo",
+    "accession": "1992-00-0017-000",
+    "ek_id": null,
+    "source_url": "https://mot-collection-search.jp/en/shiryo/3935/",
+    "image_url": "https://museumcollection.tokyo/wp-content/uploads/2022/08/20618.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Museum classifies Paintings. Purchased1991. Corroborating Tokyo metropolitan museum aggregation and museum2021 collection checklist."
+    ],
+    "sources": [
+      {
+        "url": "https://museumcollection.tokyo/works/6382954/",
+        "label": "Tokyo metropolitan museum collection aggregation, institution and accession explicit",
+        "accessed": "2026-10-27"
+      },
+      {
+        "url": "https://mot-collection-search.jp/en/shiryo/3935/",
+        "label": "Museum of Contemporary Art Tokyo object record",
+        "accessed": "2026-10-27"
+      },
+      {
+        "url": "https://www.mot-art-museum.jp/exhibitions/List%20of%20Works__Rewinding%20the%20Collection_2020_3.pdf",
+        "label": "Museum2021 collection checklist, entry182",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "international-v4:kawamura-black-curve",
+    "source_record_id": "kawamura-black-curve",
+    "title": "Black Curve",
+    "year_start": 1994,
+    "year_end": 1994,
+    "date_display": "1994",
+    "medium": "Oil on canvas",
+    "height_cm": 218,
+    "width_cm": 183,
+    "dimensions_display": "218 × 183 cm",
+    "collection": "DIC Kawamura Memorial Museum of Art (documented2019–2025; present ownership not independently reconfirmed after museum reorganization)",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://www3.dic-global.com/dic-global/dic_report/dic_report_en_2020_detail.pdf",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_owner_report_and_museum_checklist",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Museum-owning company annual report confirms acquisition and display from June2019. Dimensions and medium corroborated by museum2020 exhibition checklist reproduced by Arts and Spirituality project, entry6-1. Present location/ownership after the2025 closure/reorganization remains an explicit gap."
+    ],
+    "sources": [
+      {
+        "url": "https://www3.dic-global.com/dic-global/dic_report/dic_report_en_2020_detail.pdf",
+        "label": "Museum-owning company2020 report:2019 acquisition of Black Curve1994",
+        "accessed": "2026-10-27"
+      },
+      {
+        "url": "https://arts-and-spirituality.net/wp/wp-content/uploads/2020/11/%E4%BD%9C%E5%93%81%E3%83%AA%E3%82%B9%E3%83%88.pdf",
+        "label": "Museum exhibition checklist2020, entry6-1:218×183cm and oil on canvas",
+        "accessed": "2026-10-27"
+      },
+      {
+        "url": "https://www3.dic-global.com/dic-global/ir/library/dic_ir_tsushin122h.pdf",
+        "label": "Museum-owning company2019 interim report: acquired Black Curve1994",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "international-v4:wiesbaden-white-relief-black",
+    "source_record_id": "wiesbaden-white-relief-black",
+    "title": "White Relief over Black",
+    "year_start": 2004,
+    "year_end": 2004,
+    "date_display": "2004",
+    "medium": "Oil on canvas, two joined panels",
+    "height_cm": 145,
+    "width_cm": 144,
+    "dimensions_display": "145 × 144 cm",
+    "collection": "Museum Wiesbaden",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://museum-wiesbaden.de/museumsgala",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Museum confirms acquisition after2012 exhibition. Funding foundation documents acquisition2014 and overall145×144×7cm. Museum gala page groups under2013 fundraiser; creation year2004 is unambiguous."
+    ],
+    "sources": [
+      {
+        "url": "https://museum-wiesbaden.de/museumsgala",
+        "label": "Museum acquisition account",
+        "accessed": "2026-10-27"
+      },
+      {
+        "url": "https://www.hkst.de/maecenas/raum/",
+        "label": "Acquisition-funding foundation: medium and overall dimensions",
+        "accessed": "2026-10-27"
+      },
+      {
+        "url": "https://museum-wiesbaden.de/en/kunstpreise",
+        "label": "Museum photograph and title/date",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "depth_cm": 7
+  },
+  {
+    "source_id": "international-v4:lwl-black-white",
+    "source_record_id": "A-1119 LM",
+    "title": "Black and White",
+    "year_start": 1992,
+    "year_end": 1992,
+    "date_display": "1992",
+    "medium": "Oil, oak, fiberglass",
+    "height_cm": 528.3,
+    "width_cm": 259.1,
+    "dimensions_display": "528.3 × 259.1 cm",
+    "collection": "LWL-Museum für Kunst und Kultur, Münster",
+    "accession": "A-1119 LM",
+    "ek_id": null,
+    "source_url": "https://sammlung-online.lwl-museum-kunst-kultur.de/werke/6106",
+    "image_url": "https://api.lwl-museum-kunst-kultur.de/?command=getcontent&height=1200&server=images&value=A-1119LM_sw.jpg&width=1200",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Museum classifies Malerei / Tafelbild. Overall dimensions528.3×259.1×5.1cm, additional component height264.5cm listed without reliable component labels. Actual photograph shows black square over white square; retain as one painting group, not two unrelated works. Artist index explicitly lists one work."
+    ],
+    "sources": [
+      {
+        "url": "https://sammlung-online.lwl-museum-kunst-kultur.de/werke/6106",
+        "label": "LWL-Museum für Kunst und Kultur, Münster primary source",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "depth_cm": 5.1
+  },
+  {
+    "source_id": "international-v4:ulm-orange-blue",
+    "source_record_id": "ulm-orange-blue",
+    "title": "Orange Blue",
+    "year_start": 1964,
+    "year_end": 1965,
+    "date_display": "1964–1965",
+    "medium": "Oil on canvas",
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": null,
+    "collection": "Museum Ulm, Foundation Collection Kurt Fried",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://museumulm.de/wp-content/uploads/2024/12/M-Z_TextBook_EN.pdf",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Museum text booklet p39 explicitly names painting, date, medium, collection. Museum2022 Follow Your Nose PDF p3 reproduces it. Dimensions and accession remain unknown; secondary location-photo inventory1978.125 retained as unverified lead, not accession fact."
+    ],
+    "sources": [
+      {
+        "url": "https://museumulm.de/wp-content/uploads/2024/12/M-Z_TextBook_EN.pdf",
+        "label": "Museum collection interpretation booklet, p39",
+        "accessed": "2026-10-27"
+      },
+      {
+        "url": "https://museumulm.de/wp-content/uploads/2022/03/SELECTION-OF-WORKS-NEW-GUIDED-TOUR-CONCEPT-FOLLOW-YOUR-NOSE-MUSEUM-ULM-1.pdf",
+        "label": "Museum2022 illustrated artwork sheet, p3",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "true_scale_eligible": false,
+    "true_scale_note": "Physical dimensions unresolved; any normalized-only visual study is excluded from true-size plotting."
+  },
+  {
+    "source_id": "international-v4:stuttgart-yellow-on-black",
+    "source_record_id": "3795",
+    "title": "Yellow on Black",
+    "year_start": 2001,
+    "year_end": 2001,
+    "date_display": "2001",
+    "medium": "Oil on canvas",
+    "height_cm": 203,
+    "width_cm": 228,
+    "dimensions_display": "203 × 228 cm",
+    "collection": "Staatsgalerie Stuttgart",
+    "accession": "3795",
+    "ek_id": null,
+    "source_url": "https://www.staatsgalerie.de/sites/default/files/2023-06/staatsgalerie_stuttgart_stirling_1_web_01.pdf",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Museum publication photograph p85 and credits confirm title/date. Medium, dimensions and accession come from Staatsgalerie–ARTOTHEK museum-supplied image agency metadata, not a directly readable museum object page. The agency incorrectly gives artist birth1913; do not propagate that. Direct object site bot-denied. Field confidence for dimensions/accession remains lower until museum object record is obtained."
+    ],
+    "sources": [
+      {
+        "url": "https://www.staatsgalerie.de/sites/default/files/2023-06/staatsgalerie_stuttgart_stirling_1_web_01.pdf",
+        "label": "Museum publication, photograph p85 and credits",
+        "accessed": "2026-10-27"
+      },
+      {
+        "url": "https://www.artothek.de/en/images/Staatsgalerie-Stuttgart.html",
+        "label": "Staatsgalerie–ARTOTHEK museum image metadata, image182684/182685",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "field_confidence": {
+      "title": "primary_museum_publication",
+      "year": "primary_museum_publication",
+      "dimensions": "museum_supplied_image_agency",
+      "medium": "museum_supplied_image_agency",
+      "accession": "museum_supplied_image_agency"
+    }
+  },
+  {
+    "source_id": "international-v4:kroller-plant-i",
+    "source_record_id": "KM 102.655",
+    "title": "Plant I",
+    "year_start": 1949,
+    "year_end": 1949,
+    "date_display": "1949",
+    "medium": null,
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": null,
+    "collection": "Kröller-Müller Museum (ownership documented in2006 annual report)",
+    "accession": "KM 102.655",
+    "ek_id": null,
+    "source_url": "https://krollermuller.nl/media/jaaroverzichten/jaarverslag_kmm_2006lr3.pdf",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_museum_historical_loan_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Museum2006 annual report explicitly records its loan to Tate St Ives, January28–May7 2006. Identified as1949 painting by LWL museum text and named exhibition sources; medium/dimensions untranscribed. This is historical ownership evidence; no current object page found."
+    ],
+    "sources": [
+      {
+        "url": "https://krollermuller.nl/media/jaaroverzichten/jaarverslag_kmm_2006lr3.pdf",
+        "label": "Kröller-Müller Museum (ownership documented in2006 annual report) primary source",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "true_scale_eligible": false,
+    "true_scale_note": "Physical dimensions unresolved; any normalized-only visual study is excluded from true-size plotting."
+  },
+  {
+    "source_id": "international-v4:saint-etienne-blue-diagonal-curve",
+    "source_record_id": "saint-etienne-blue-diagonal-curve",
+    "title": "Blue Diagonal with Curve",
+    "year_start": 1988,
+    "year_end": 1988,
+    "date_display": "1988",
+    "medium": null,
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": null,
+    "collection": "MAMC+, Musée d’art moderne et contemporain de Saint-Étienne Métropole",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://mamc.saint-etienne-metropole.fr/en/collections?page=191",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_listing",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Museum collection listing explicitly names title, artist and1988 date. Grenoble curatorial text identifies it as a related painting. Individual object record, medium, size and accession remain gaps. Listing pagination has shifted: direct page now shows unrelated works; preserved indexed response documents the Kelly entry."
+    ],
+    "sources": [
+      {
+        "url": "https://mamc.saint-etienne-metropole.fr/en/collections?page=191",
+        "label": "MAMC+, Musée d’art moderne et contemporain de Saint-Étienne Métropole primary source",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "true_scale_eligible": false,
+    "true_scale_note": "Physical dimensions unresolved; any normalized-only visual study is excluded from true-size plotting."
+  },
+  {
+    "source_id": "international-v4:tate-red-white-1966",
+    "source_record_id": "tate-red-white-1966",
+    "title": "Red White",
+    "year_start": 1966,
+    "year_end": 1966,
+    "date_display": "1966",
+    "medium": null,
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": null,
+    "collection": "Tate",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://assets.publishing.service.gov.uk/media/5a809668ed915d74e622f50b/Tate_annual_report_and_accounts_2014_-_15.pdf",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_museum_parliamentary_report",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Tate parliamentary annual accounts2014–15, PDFp11, explicitly confirm acquisition of Red White1966 via American Fund for Tate, courtesy DouglasS.Cramer. Direct Tate object page is403. An indexed unverified mirror suggests T14156, acrylic/canvas,165.4×229.5×2.9cm; these remain unverified field leads, not facts imported from that mirror."
+    ],
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/5a809668ed915d74e622f50b/Tate_annual_report_and_accounts_2014_-_15.pdf",
+        "label": "Tate primary source",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "unverified_field_leads": {
+      "accession": "T14156",
+      "medium": "Acrylic paint on canvas",
+      "height_cm": 165.4,
+      "width_cm": 229.5,
+      "depth_cm": 2.9,
+      "lead_source": "Search-indexed third-party mirror of Tate illustrated annual report; not used as primary evidence"
+    },
+    "true_scale_eligible": false,
+    "true_scale_note": "Physical dimensions unresolved; any normalized-only visual study is excluded from true-size plotting."
+  },
+  {
+    "source_id": "international-v4:moma-mediterranee-1973",
+    "source_record_id": "moma-mediterranee-1973",
+    "title": "Méditerranée",
+    "year_start": 1952,
+    "year_end": 1952,
+    "date_display": "1952",
+    "medium": "Oil on wood, nine joined panels",
+    "height_cm": 150.495,
+    "width_cm": 193.675,
+    "dimensions_display": "150.495 × 193.675 cm",
+    "collection": "Collection unresolved in primary record (later Tate credit is a corroborated research lead)",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_museum_historical_publication",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Transcribed MoMA1973 PDFp52/bookp47 caption: overall59¼inches ×6feet4¼inches. Exact inch conversion, not a current remeasurement. Primary Maeght museum reproduction gives a usable color reference; its50×62cm dimensions are for the reproduction and must not be imported as painting size. Current Tate ownership credit appears in museum-supplied Glenstone2023 photograph caption published by Studio International, but direct Tate and Glenstone pages are blocked; retained as a research lead."
+    ],
+    "sources": [
+      {
+        "url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+        "label": "MoMA1973 PDFp52/bookp47 caption and photograph",
+        "accessed": "2026-10-27"
+      },
+      {
+        "url": "https://www.fondation-maeght.com/produit/kelly-mediterranee-1952/",
+        "label": "Museum reproduction after painting, color reference only",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "moma1973-pdf52-caption1",
+    "unverified_field_leads": {
+      "current_collection": "Tate, gift of artist and Jack Shear,2021 (earlier2015presentation claim varies)",
+      "source_url": "https://studiointernational.com/index.php/ellsworth-kelly-at-100-review-glenstone-maryland"
+    }
+  },
+  {
+    "source_id": "international-v4:winterthur-black-curves",
+    "source_record_id": "G.2001.3",
+    "title": "Black Curves",
+    "year_start": 1996,
+    "year_end": 1996,
+    "date_display": "1996",
+    "medium": "Oil on canvas",
+    "height_cm": 366,
+    "width_cm": 108,
+    "dimensions_display": "366 × 108 cm",
+    "collection": "Kunst Museum Winterthur",
+    "accession": "G.2001.3",
+    "ek_id": "EK 857",
+    "source_url": "https://kmw.zetcom.net/de/collection/item/6013/",
+    "image_url": "https://www.kmw.ch/content/uploads/2025/11/KELLY_BlackCurves-819x1045.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Exact public collection artist1660 inventory returns one published object6013. Inscription: KELLY #857.1996. Acquired with funds of Jubiläumsstiftung Kunstverein Winterthur2001. Another museum interview caption1966 is contradicted by the object record, inscription and2017 annual report1996; not treated as a second work."
+    ],
+    "sources": [
+      {
+        "url": "https://kmw.zetcom.net/de/collection/item/6013/",
+        "label": "Museum collection object6013",
+        "accessed": "2026-10-27"
+      },
+      {
+        "url": "https://kmw.zetcom.net/solr/published/select?q=%2A%3A%2A&fq=type%3AObject&fq=person_ns%3A1660&rows=100&wt=json",
+        "label": "Museum public collection exact artist filter1660; one published object",
+        "accessed": "2026-10-27"
+      },
+      {
+        "url": "https://www.kmw.ch/aktuelles/galerieverein-maria-wegmann/",
+        "label": "Museum acquisition credit and reference photograph",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "international-v4:fukuoka-blue-black-curve-iii",
+    "source_record_id": "3-A-8",
+    "title": "Blue Black Curve III",
+    "year_start": 1972,
+    "year_end": 1972,
+    "date_display": "1972",
+    "medium": "Oil on canvas",
+    "height_cm": 179.9,
+    "width_cm": 358.5,
+    "dimensions_display": "179.9 × 358.5 cm",
+    "collection": "Fukuoka Art Museum",
+    "accession": "3-A-8",
+    "ek_id": null,
+    "source_url": "https://www.fukuoka-art-museum.jp/archives/modern_arts/2611",
+    "image_url": "https://www.fukuoka-art-museum.jp/archives/img/modern/2611/2611_1.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Exact public collection search for Japanese ケリー and English Kelly returns one object2611, both with matching title, date, material, size and accession. Museum public image is only180×135 and very dark; two-color partition cannot be established reliably enough for a schematic study. Keep SVG slot pending stronger reference."
+    ],
+    "sources": [
+      {
+        "url": "https://www.fukuoka-art-museum.jp/archives/modern_arts/2611",
+        "label": "Museum object2611; public search route exposes collection JSON",
+        "accessed": "2026-10-27"
+      },
+      {
+        "url": "https://www.fukuoka-art-museum.jp/laravel/api/modern_arts?name=Kelly&lang=en",
+        "label": "Museum public collection JSON, exact artist result count1",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "international-v4:berlin-grey-panels",
+    "source_record_id": "berlin-grey-panels",
+    "title": "Grey Panels",
+    "year_start": 1976,
+    "year_end": 1976,
+    "date_display": "1976",
+    "medium": "Oil on canvas",
+    "height_cm": 172.7,
+    "width_cm": 457.5,
+    "dimensions_display": "172.7 × 457.5 cm",
+    "collection": "Staatliche Museen zu Berlin, Nationalgalerie",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://www.smb.museum/fileadmin/website/Presse/Pressematerial/2023/11/Kopie_von_Werkliste_Presse.pdf",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Primary museum2023 collection exhibition checklistPDFp4 confirms medium, overall dimensions and1979 acquisition through LandBerlin. Checklist page rendered to verify table alignment: neighboring JennyHolzer1983–85/enamel-on-aluminum text must not be joined to this row, despite misleading search snippet. Accession B1107 remains unverified and is not imported from Wikidata."
+    ],
+    "sources": [
+      {
+        "url": "https://www.smb.museum/fileadmin/website/Presse/Pressematerial/2023/11/Kopie_von_Werkliste_Presse.pdf",
+        "label": "Staatliche Museen zu Berlin, Nationalgalerie primary source",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "international-v4:louisiana-yellow-black",
+    "source_record_id": "PC_10-21-341",
+    "title": "Yellow Black",
+    "year_start": 1968,
+    "year_end": 1968,
+    "date_display": "1968",
+    "medium": "Oil on canvas",
+    "height_cm": 239.5,
+    "width_cm": 285.5,
+    "dimensions_display": "239.5 × 285.5 cm",
+    "collection": "Museumsfonden af7.december1966, deposited at Louisiana Museum of Modern Art",
+    "accession": "PC_10-21-341",
+    "ek_id": null,
+    "source_url": "https://www.museumsfonden.dk/pdf/Museumsfonden_deponeret_p%C3%A5_museet_2022.pdf",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Owning foundation public2022 deposit inventoryPDFp11 gives unframed painting239.5×285.5×5cm. Louisiana2016 annual reportPDFp18 independently documents loan to Caldic Collection. Distinct from same-title1972 and1988 paintings; preserve each source identity before representative-title selection. No strong primary image yet."
+    ],
+    "sources": [
+      {
+        "url": "https://www.museumsfonden.dk/pdf/Museumsfonden_deponeret_p%C3%A5_museet_2022.pdf",
+        "label": "Owning foundation deposit inventory2022,PDFp11",
+        "accessed": "2026-10-27"
+      },
+      {
+        "url": "https://louisiana.dk/wp-content/uploads/2020/08/Louisiana_aarsrapport_2016.pdf",
+        "label": "Louisiana annual report2016,PDFp18: outgoing loan",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "depth_cm": 5
+  },
+  {
+    "source_id": "international-v4:maeght-red-yellow-blue-i",
+    "source_record_id": "maeght-red-yellow-blue-i",
+    "title": "Red Yellow Blue I",
+    "year_start": 1963,
+    "year_end": 1963,
+    "date_display": "1963",
+    "medium": "Acrylic on linen",
+    "height_cm": 231,
+    "width_cm": 231,
+    "dimensions_display": "231 × 231 cm",
+    "collection": "Fondation Maeght",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://www.fondation-maeght.com/ellsworth-kelly-red-yellow-blue-1963-2/",
+    "image_url": "https://www.fondation-maeght.com/wp-content/uploads/2022/03/55.-.KELLY-Hellsworth-Red-Yellow-Blue.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_with_museum_supplied_caption_fields",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Museum object page and permanent collection list title this Red,Yellow,Blue1963. Museum-supplied2026 image caption hosted by TLmagazine gives expanded titleRedYellowBlueI,acrylic/linen231×231cm. Medium and dimensions therefore have museum_supplied_caption confidence, not direct object-field confidence. MoMA1973 essay independently dates and describes exact Maeght composition: red square lower left, yellowL,blueL. Reconciles Foundation chronology named work gap."
+    ],
+    "sources": [
+      {
+        "url": "https://www.fondation-maeght.com/ellsworth-kelly-red-yellow-blue-1963-2/",
+        "label": "Museum collection object and original reference image",
+        "accessed": "2026-10-27"
+      },
+      {
+        "url": "https://tlmagazine.com/fondation-maeght-summer-2026/?print=true",
+        "label": "Fondation Maeght supplied exhibition photograph caption2026; medium/size qualified",
+        "accessed": "2026-10-27"
+      },
+      {
+        "url": "https://www.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+        "label": "MoMA1973 essaypp76–77: exact painting composition and Maeght ownership",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "gap-red-yellow-blue-i-undated",
+    "title_aliases": [
+      "Red, Yellow, Blue",
+      "Red Yellow Blue",
+      "Three Panels: Red Yellow Blue I"
+    ],
+    "field_confidence": {
+      "title": "primary_museum_and_museum_supplied_caption",
+      "year": "primary_museum",
+      "collection": "primary_museum",
+      "medium": "museum_supplied_caption_hosted_by_publication",
+      "dimensions": "museum_supplied_caption_hosted_by_publication"
+    }
+  },
+  {
+    "source_id": "international-v4:hughlane-black-relief",
+    "source_record_id": "hughlane-black-relief",
+    "title": "Black Relief over Yellow and Orange",
+    "year_start": 2004,
+    "year_end": 2004,
+    "date_display": "2004",
+    "medium": "Oil on canvas, three joined panels",
+    "height_cm": 213.995,
+    "width_cm": 162.56,
+    "dimensions_display": "213.995 × 162.56 cm",
+    "collection": "Dublin City Gallery The Hugh Lane",
+    "accession": null,
+    "ek_id": "EK 933",
+    "source_url": "https://hughlane.ie/whats_on/permanent-collection/",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Museum2011 permanent-display page confirms work title,2004 and ownership. Museum2010 drawings exhibition says acquired2006;2005–07 acquisition page says selected from Serpentine2006. Existing Foundation EK933 has complete dimensions/medium and a good study; this row adds independent museum ownership evidence only."
+    ],
+    "sources": [
+      {
+        "url": "https://hughlane.ie/whats_on/permanent-collection/",
+        "label": "Museum permanent display2011 caption",
+        "accessed": "2026-10-27"
+      },
+      {
+        "url": "https://hughlane.ie/whats_on/ellsworth-kelly-drawings-1954-62/",
+        "label": "Museum2010 exhibition text: acquired2006",
+        "accessed": "2026-10-27"
+      },
+      {
+        "url": "https://ellsworthkelly.org/work/black-relief-over-yellow-and-orange/",
+        "label": "Foundation EK933: material and84¼×64inches dimensions; exact converted cm",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "ek-933"
+  },
+  {
+    "source_id": "international-v4:k20-concorde-iv",
+    "source_record_id": "0211",
+    "title": "Concorde IV",
+    "year_start": 1976,
+    "year_end": 1976,
+    "date_display": "1976",
+    "medium": null,
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": null,
+    "collection": "Kunstsammlung Nordrhein-Westfalen",
+    "accession": "0211",
+    "ek_id": null,
+    "source_url": "https://sammlung.kunstsammlung.de/de/werke/68",
+    "image_url": "https://sammlung.kunstsammlung.de/museumplus/71867_son181.jpg?w=2000",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Museum exact object confirms title/date, ownership since1977, acquisition1977, provenance and2003 GrosseBilder:Malerei exhibition. Public object page omits material/size, so keep unknown. Available photograph is tightly cropped at top/right; no defensible complete support geometry, SVG pending. Do not merge with1981–82 ConcordeIV aquatint."
+    ],
+    "sources": [
+      {
+        "url": "https://sammlung.kunstsammlung.de/de/werke/68",
+        "label": "Kunstsammlung Nordrhein-Westfalen primary source",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "true_scale_eligible": false,
+    "true_scale_note": "Physical dimensions unresolved; any normalized-only visual study is excluded from true-size plotting."
+  },
+  {
+    "source_id": "international-v4:maeght-blue-floor-panel-leo",
+    "source_record_id": "maeght-blue-floor-panel-leo",
+    "title": "Blue Floor Panel for Leo",
+    "year_start": 1992,
+    "year_end": 1992,
+    "date_display": "1992",
+    "medium": "Acrylic on canvas on wood",
+    "height_cm": 698.5,
+    "width_cm": 1463,
+    "dimensions_display": "698.5 × 1463 cm",
+    "collection": "Ellsworth Kelly Studio (museum-supplied2026 exhibition caption)",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://tlmagazine.com/fondation-maeght-summer-2026/?print=true",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "museum_supplied_caption_hosted_by_publication",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Museum-supplied2026 installation photograph caption documents1992 and2.54×698.5×1463cm. Stored height/width are planar floor dimensions698.5×1463cm;2.54cm is thickness, not a2.54cm-tall wall painting. Ownership credit EllsworthKellyStudio. Reference is an oblique floor installation; no plan geometry inferred."
+    ],
+    "sources": [
+      {
+        "url": "https://tlmagazine.com/fondation-maeght-summer-2026/?print=true",
+        "label": "Ellsworth Kelly Studio (museum-supplied2026 exhibition caption) primary source",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "gap-blue-floor-panel-for-leo-1992",
+    "depth_cm": 2.54,
+    "dimension_role": "planar floor bounding dimensions; source lists thickness × planar height × planar width",
+    "true_scale_eligible": false,
+    "true_scale_note": "Floor installation axes and support plan require further review before wall-painting true-scale comparison."
+  },
+  {
+    "source_id": "international-v4:moderna-white-over-black",
+    "source_record_id": "NM 6486",
+    "title": "White Over Black",
+    "year_start": 1966,
+    "year_end": 1966,
+    "date_display": "1966",
+    "medium": "Oil on canvas",
+    "height_cm": 218.4,
+    "width_cm": 203.2,
+    "dimensions_display": "218.4 × 203.2 cm",
+    "collection": "Moderna Museet",
+    "accession": "NM 6486",
+    "ek_id": null,
+    "source_url": "https://sis.modernamuseet.se/en/objects/3960/white-over-black",
+    "image_url": "https://sis.modernamuseet.se/internal/media/dispatcher/801/full",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Exact museum object3960, artist429, explicitly classifiedPaintings. Donation1973(NewYorkCollection), not a purchase; historical essay discussing unsuccessful purchase must not imply absence of gifts. Image dimensions218.4×203.2cm, frame220×205cm: use image dimensions. Public artist search has four Kelly objects; other three print/poster records excluded."
+    ],
+    "sources": [
+      {
+        "url": "https://sis.modernamuseet.se/en/objects/3960/white-over-black",
+        "label": "Moderna Museet primary source",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "title_aliases": [
+      "Vitt över svart"
+    ],
+    "frame_dimensions_cm": [
+      220,
+      205
+    ]
+  },
+  {
+    "source_id": "international-v4:vanabbe-black-curve-i",
+    "source_record_id": "vanabbe-black-curve-i",
+    "title": "Black Curve I",
+    "year_start": 1973,
+    "year_end": 1973,
+    "date_display": "1973",
+    "medium": null,
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": null,
+    "collection": "Van Abbemuseum (historical ownership documented in museum friends journal2009)",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://vanabbemuseum.nl/nl/museum/vriendenvereniging/journaals/journaal_2009_nr_4.pdf/@@download/file",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_indexed_historical_publication",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Primary museum-hosted journal2009 no4, indexed pages8–11, explicitly describes these two works as paintings owned by the museum; captions give1973 and photographerPeterCox. Current canonical and repeated++api++ download routes now return page-not-found HTML after site migration. Preserve indexed primary existence/ownership evidence and empty dimensions/material/image slots rather than silently drop the named paintings. No sculpture of similar title is merged. Current ownership not independently reconfirmed."
+    ],
+    "sources": [
+      {
+        "url": "https://vanabbemuseum.nl/nl/museum/vriendenvereniging/journaals/journaal_2009_nr_4.pdf/@@download/file",
+        "label": "Museum friends journal2009 no4: explicit owned paintings and1973 captions; canonical download migrated",
+        "accessed": "2026-10-27"
+      },
+      {
+        "url": "https://vanabbemuseum.nl/%2B%2Bapi%2B%2B/%2B%2Bapi%2B%2B/%2B%2Bapi%2B%2B/nl/museum/vriendenvereniging/journaals/journaal_2009_nr_4.pdf/%40%40download/file?expand=translations",
+        "label": "Search-indexed primary journal wording; current direct read no longer returns PDF",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "true_scale_eligible": false,
+    "true_scale_note": "Physical dimensions unresolved; any normalized-only visual study is excluded from true-size plotting."
+  },
+  {
+    "source_id": "international-v4:vanabbe-white-curve-i",
+    "source_record_id": "vanabbe-white-curve-i",
+    "title": "White Curve I",
+    "year_start": 1973,
+    "year_end": 1973,
+    "date_display": "1973",
+    "medium": null,
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": null,
+    "collection": "Van Abbemuseum (historical ownership documented in museum friends journal2009)",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://vanabbemuseum.nl/nl/museum/vriendenvereniging/journaals/journaal_2009_nr_4.pdf/@@download/file",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_indexed_historical_publication",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Primary museum-hosted journal2009 no4, indexed pages8–11, explicitly describes these two works as paintings owned by the museum; captions give1973 and photographerPeterCox. Current canonical and repeated++api++ download routes now return page-not-found HTML after site migration. Preserve indexed primary existence/ownership evidence and empty dimensions/material/image slots rather than silently drop the named paintings. No sculpture of similar title is merged. Current ownership not independently reconfirmed."
+    ],
+    "sources": [
+      {
+        "url": "https://vanabbemuseum.nl/nl/museum/vriendenvereniging/journaals/journaal_2009_nr_4.pdf/@@download/file",
+        "label": "Museum friends journal2009 no4: explicit owned paintings and1973 captions; canonical download migrated",
+        "accessed": "2026-10-27"
+      },
+      {
+        "url": "https://vanabbemuseum.nl/%2B%2Bapi%2B%2B/%2B%2Bapi%2B%2B/%2B%2Bapi%2B%2B/nl/museum/vriendenvereniging/journaals/journaal_2009_nr_4.pdf/%40%40download/file?expand=translations",
+        "label": "Search-indexed primary journal wording; current direct read no longer returns PDF",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "true_scale_eligible": false,
+    "true_scale_note": "Physical dimensions unresolved; any normalized-only visual study is excluded from true-size plotting."
+  }
+]

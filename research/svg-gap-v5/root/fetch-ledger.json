@@ -1,0 +1,70 @@
+[
+  {
+    "id": "artic-v4-57211",
+    "url": "https://www.artic.edu/iiif/2/2d98899d-b5c8-7e1a-260d-6e084f664863/full/843,/0/default.jpg",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "artic-v4-154131",
+    "url": "https://www.artic.edu/iiif/2/165e3dc6-7cfd-317f-9220-0c01314e917e/full/843,/0/default.jpg",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "artic-v4-66184",
+    "url": "https://www.artic.edu/iiif/2/1fdee71c-bf45-fdb6-b38d-b5b9cb6a7a85/full/843,/0/default.jpg",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "artic-v4-152752",
+    "url": "https://www.artic.edu/iiif/2/e763fafc-fc52-6f6b-a12e-5772dda7d12a/full/843,/0/default.jpg",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "artic-v4-152760",
+    "url": "https://www.artic.edu/iiif/2/6a429252-c5c6-f60e-18e4-ac47614d2198/full/843,/0/default.jpg",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "artic-v4-152758",
+    "url": "https://www.artic.edu/iiif/2/09a1e448-d439-7616-ca91-02347e1934f9/full/843,/0/default.jpg",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "artic-v4-152759",
+    "url": "https://www.artic.edu/iiif/2/fa3516e0-fc3d-e5e8-a723-e33b733a41ab/full/843,/0/default.jpg",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "artic-v4-152757",
+    "url": "https://www.artic.edu/iiif/2/9e8f1d07-97b6-bbd8-3b11-c488130e77dd/full/843,/0/default.jpg",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "artic-v4-152761",
+    "url": "https://www.artic.edu/iiif/2/fec58d3b-be37-a4df-d174-c516f98cbc4c/full/843,/0/default.jpg",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "chatham-page",
+    "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-chatham-series/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "aic-chicago",
+    "url": "https://www.artic.edu/artworks/193544",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "met",
+    "url": "https://www.metmuseum.org/art/collection/search/489307",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "id": "east-google",
+    "url": "https://artsandculture.google.com/asset/east-river-ellsworth-kelly-american-1923%E2%80%932015/AgED5YocrBXJdA?hl=en",
+    "status": 200,
+    "size": 964560,
+    "file": "research/svg-gap-v5/root/east-google.html",
+    "content_type": "text/html; charset=utf-8"
+  }
+]

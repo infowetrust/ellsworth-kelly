@@ -1,0 +1,401 @@
+{
+  "guggenheim1996:cat-22": {
+    "path": "assets/studies/v4-public-guggenheim1996-22.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=120",
+    "reference_id": "research/public-catalogues-v4/pages/page-120.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary plate visually reviewed",
+    "palette": "standardized vivid; not colorimetrically measured",
+    "notes": "Interpretive hand-authored study after visual inspection of the1996 Guggenheim retrospective plate. Approximate geometry; standardized vivid palette. Texture, mounting shadows and perspective omitted. Black border is integral to the work, as described by catalogue raisonné author Yve-Alain Bois in his2017 Brooklyn Rail interview; not an external display frame.",
+    "reviewed_date": "2026-10-27"
+  },
+  "guggenheim1996:cat-23": {
+    "path": "assets/studies/v4-public-guggenheim1996-23.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=121",
+    "reference_id": "research/public-catalogues-v4/pages/page-121.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary plate visually reviewed",
+    "palette": "standardized vivid; not colorimetrically measured",
+    "notes": "Interpretive hand-authored study after visual inspection of the1996 Guggenheim retrospective plate. Approximate geometry; standardized vivid palette. Texture, mounting shadows and perspective omitted. White border is integral to the work, as described by catalogue raisonné author Yve-Alain Bois in his2017 Brooklyn Rail interview; not an external display frame.",
+    "reviewed_date": "2026-10-27"
+  },
+  "guggenheim1996:cat-26": {
+    "path": "assets/studies/v4-public-guggenheim1996-26.svg",
+    "colors": [
+      "black",
+      "white",
+      "blue"
+    ],
+    "shape_type": "joined rectangles",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=127",
+    "reference_id": "research/public-catalogues-v4/pages/page-127.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary plate visually reviewed",
+    "palette": "standardized vivid; not colorimetrically measured",
+    "notes": "Interpretive hand-authored study after visual inspection of the1996 Guggenheim retrospective plate. Approximate geometry; standardized vivid palette. Texture, mounting shadows and perspective omitted. ",
+    "reviewed_date": "2026-10-27"
+  },
+  "guggenheim1996:cat-27": {
+    "path": "assets/studies/v4-public-guggenheim1996-27.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=128",
+    "reference_id": "research/public-catalogues-v4/pages/page-128.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary plate visually reviewed",
+    "palette": "standardized vivid; not colorimetrically measured",
+    "notes": "Interpretive hand-authored study after visual inspection of the1996 Guggenheim retrospective plate. Approximate geometry; standardized vivid palette. Texture, mounting shadows and perspective omitted. Two joined rectangular canvases carry black and white painted figure/ground forms. White wedges are painted ground, not transparent wall gaps; confirmed in the original plate and Bernstein essay, PDF54/printed44.",
+    "reviewed_date": "2026-10-27"
+  },
+  "guggenheim1996:cat-28": {
+    "path": "assets/studies/v4-public-guggenheim1996-28.svg",
+    "colors": [
+      "black"
+    ],
+    "shape_type": "irregular polygon",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=129",
+    "reference_id": "research/public-catalogues-v4/pages/page-129.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary plate visually reviewed",
+    "palette": "standardized vivid; not colorimetrically measured",
+    "notes": "Interpretive hand-authored study after visual inspection of the1996 Guggenheim retrospective plate. Approximate geometry; standardized vivid palette. Texture, mounting shadows and perspective omitted. ",
+    "reviewed_date": "2026-10-27"
+  },
+  "guggenheim1996:cat-32": {
+    "path": "assets/studies/v4-public-guggenheim1996-32.svg",
+    "colors": [
+      "green",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=137",
+    "reference_id": "research/public-catalogues-v4/pages/page-137.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary plate visually reviewed",
+    "palette": "standardized vivid; not colorimetrically measured",
+    "notes": "Interpretive hand-authored study after visual inspection of the1996 Guggenheim retrospective plate. Approximate geometry; standardized vivid palette. Texture, mounting shadows and perspective omitted. ",
+    "reviewed_date": "2026-10-27"
+  },
+  "guggenheim1996:cat-34": {
+    "path": "assets/studies/v4-public-guggenheim1996-34.svg",
+    "colors": [
+      "blue",
+      "black"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=139",
+    "reference_id": "research/public-catalogues-v4/pages/page-139.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary plate visually reviewed",
+    "palette": "standardized vivid; not colorimetrically measured",
+    "notes": "Interpretive hand-authored study after visual inspection of the1996 Guggenheim retrospective plate. Approximate geometry; standardized vivid palette. Texture, mounting shadows and perspective omitted. ",
+    "reviewed_date": "2026-10-27"
+  },
+  "guggenheim1996:cat-36": {
+    "path": "assets/studies/v4-public-guggenheim1996-36.svg",
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=143",
+    "reference_id": "research/public-catalogues-v4/pages/page-143.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary plate visually reviewed",
+    "palette": "standardized vivid; not colorimetrically measured",
+    "notes": "Interpretive hand-authored study after visual inspection of the1996 Guggenheim retrospective plate. Approximate geometry; standardized vivid palette. Texture, mounting shadows and perspective omitted. Blue rounded figure is painted on a white square canvas, not a shaped monochrome. Original plate and Voorlinden founder interview confirm the square support; narrow white margins are approximate.",
+    "reviewed_date": "2026-10-27"
+  },
+  "guggenheim1996:cat-41": {
+    "path": "assets/studies/v4-public-guggenheim1996-41.svg",
+    "colors": [
+      "black",
+      "green",
+      "blue"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=153",
+    "reference_id": "research/public-catalogues-v4/pages/page-153.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary plate visually reviewed",
+    "palette": "standardized vivid; not colorimetrically measured",
+    "notes": "Interpretive hand-authored study after visual inspection of the1996 Guggenheim retrospective plate. Approximate geometry; standardized vivid palette. Texture, mounting shadows and perspective omitted. ",
+    "reviewed_date": "2026-10-27"
+  },
+  "guggenheim1996:cat-51": {
+    "path": "assets/studies/v4-public-guggenheim1996-51.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "joined rectangles",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=167",
+    "reference_id": "research/public-catalogues-v4/pages/page-167.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary plate visually reviewed",
+    "palette": "standardized vivid; not colorimetrically measured",
+    "notes": "Interpretive hand-authored study after visual inspection of the1996 Guggenheim retrospective plate. Approximate geometry; standardized vivid palette. Texture, mounting shadows and perspective omitted. ",
+    "reviewed_date": "2026-10-27"
+  },
+  "guggenheim1996:cat-54": {
+    "path": "assets/studies/v4-public-guggenheim1996-54.svg",
+    "colors": [
+      "yellow",
+      "black"
+    ],
+    "shape_type": "joined triangular panels",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=171",
+    "reference_id": "research/public-catalogues-v4/pages/page-171.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary plate visually reviewed",
+    "palette": "standardized vivid; not colorimetrically measured",
+    "notes": "Interpretive hand-authored study after visual inspection of the1996 Guggenheim retrospective plate. Approximate geometry; standardized vivid palette. Texture, mounting shadows and perspective omitted. ",
+    "reviewed_date": "2026-10-27"
+  },
+  "guggenheim1996:cat-59": {
+    "path": "assets/studies/v4-public-guggenheim1996-59.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "joined rectangles",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=178",
+    "reference_id": "research/public-catalogues-v4/pages/page-178.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary plate visually reviewed",
+    "palette": "standardized vivid; not colorimetrically measured",
+    "notes": "Interpretive hand-authored study after visual inspection of the1996 Guggenheim retrospective plate. Approximate geometry; standardized vivid palette. Texture, mounting shadows and perspective omitted. ",
+    "reviewed_date": "2026-10-27"
+  },
+  "guggenheim1996:cat-60": {
+    "path": "assets/studies/v4-public-guggenheim1996-60.svg",
+    "colors": [
+      "black",
+      "orange"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=179",
+    "reference_id": "research/public-catalogues-v4/pages/page-179.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary plate visually reviewed",
+    "palette": "standardized vivid; not colorimetrically measured",
+    "notes": "Interpretive hand-authored study after visual inspection of the1996 Guggenheim retrospective plate. Approximate geometry; standardized vivid palette. Texture, mounting shadows and perspective omitted. ",
+    "reviewed_date": "2026-10-27"
+  },
+  "guggenheim1996:cat-64": {
+    "path": "assets/studies/v4-public-guggenheim1996-64.svg",
+    "colors": [
+      "black",
+      "green"
+    ],
+    "shape_type": "L-shaped joined panels",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=185",
+    "reference_id": "research/public-catalogues-v4/pages/page-185.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary plate visually reviewed",
+    "palette": "standardized vivid; not colorimetrically measured",
+    "notes": "Interpretive hand-authored study after visual inspection of the1996 Guggenheim retrospective plate. Approximate geometry; standardized vivid palette. Texture, mounting shadows and perspective omitted. ",
+    "reviewed_date": "2026-10-27"
+  },
+  "guggenheim1996:cat-65": {
+    "path": "assets/studies/v4-public-guggenheim1996-65.svg",
+    "colors": [
+      "white",
+      "blue",
+      "red"
+    ],
+    "shape_type": "U-shaped joined panels",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=187",
+    "reference_id": "research/public-catalogues-v4/pages/page-187.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary plate visually reviewed",
+    "palette": "standardized vivid; not colorimetrically measured",
+    "notes": "Interpretive hand-authored study after visual inspection of the1996 Guggenheim retrospective plate. Approximate geometry; standardized vivid palette. Texture, mounting shadows and perspective omitted. ",
+    "reviewed_date": "2026-10-27"
+  },
+  "guggenheim1996:cat-70": {
+    "path": "assets/studies/v4-public-guggenheim1996-70.svg",
+    "colors": [
+      "black"
+    ],
+    "shape_type": "curved panel",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=198",
+    "reference_id": "research/public-catalogues-v4/pages/page-198.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary plate visually reviewed",
+    "palette": "standardized vivid; not colorimetrically measured",
+    "notes": "Interpretive hand-authored study after visual inspection of the1996 Guggenheim retrospective plate. Approximate geometry; standardized vivid palette. Texture, mounting shadows and perspective omitted. ",
+    "reviewed_date": "2026-10-27"
+  },
+  "guggenheim1996:cat-72": {
+    "path": "assets/studies/v4-public-guggenheim1996-72.svg",
+    "colors": [
+      "gray",
+      "white"
+    ],
+    "shape_type": "overlapping rotated rectangles",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=199",
+    "reference_id": "research/public-catalogues-v4/pages/page-199.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary plate visually reviewed",
+    "palette": "standardized vivid; not colorimetrically measured",
+    "notes": "Interpretive hand-authored study after visual inspection of the1996 Guggenheim retrospective plate. Approximate geometry; standardized vivid palette. Texture, mounting shadows and perspective omitted. Historical title says dark gray; reproduction is nearly black. Shared gray family retained.",
+    "reviewed_date": "2026-10-27"
+  },
+  "guggenheim1996:cat-74": {
+    "path": "assets/studies/v4-public-guggenheim1996-74.svg",
+    "colors": [
+      "gray"
+    ],
+    "shape_type": "curved rectangular panel",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=203",
+    "reference_id": "research/public-catalogues-v4/pages/page-203.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary plate visually reviewed",
+    "palette": "standardized vivid; not colorimetrically measured",
+    "notes": "Interpretive hand-authored study after visual inspection of the1996 Guggenheim retrospective plate. Approximate geometry; standardized vivid palette. Texture, mounting shadows and perspective omitted. ",
+    "reviewed_date": "2026-10-27"
+  },
+  "guggenheim1996:cat-78": {
+    "path": "assets/studies/v4-public-guggenheim1996-78.svg",
+    "colors": [
+      "green"
+    ],
+    "shape_type": "quadrilateral",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=209",
+    "reference_id": "research/public-catalogues-v4/pages/page-209.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary plate visually reviewed",
+    "palette": "standardized vivid; not colorimetrically measured",
+    "notes": "Interpretive hand-authored study after visual inspection of the1996 Guggenheim retrospective plate. Approximate geometry; standardized vivid palette. Texture, mounting shadows and perspective omitted. ",
+    "reviewed_date": "2026-10-27"
+  },
+  "guggenheim1996:cat-79": {
+    "path": "assets/studies/v4-public-guggenheim1996-79.svg",
+    "colors": [
+      "red"
+    ],
+    "shape_type": "irregular polygon",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=212",
+    "reference_id": "research/public-catalogues-v4/pages/page-212.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary plate visually reviewed",
+    "palette": "standardized vivid; not colorimetrically measured",
+    "notes": "Interpretive hand-authored study after visual inspection of the1996 Guggenheim retrospective plate. Approximate geometry; standardized vivid palette. Texture, mounting shadows and perspective omitted. ",
+    "reviewed_date": "2026-10-27"
+  },
+  "guggenheim1996:cat-80": {
+    "path": "assets/studies/v4-public-guggenheim1996-80.svg",
+    "colors": [
+      "blue"
+    ],
+    "shape_type": "quadrilateral",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=211",
+    "reference_id": "research/public-catalogues-v4/pages/page-211.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary plate visually reviewed",
+    "palette": "standardized vivid; not colorimetrically measured",
+    "notes": "Interpretive hand-authored study after visual inspection of the1996 Guggenheim retrospective plate. Approximate geometry; standardized vivid palette. Texture, mounting shadows and perspective omitted. ",
+    "reviewed_date": "2026-10-27"
+  },
+  "guggenheim1996:cat-84": {
+    "path": "assets/studies/v4-public-guggenheim1996-84.svg",
+    "colors": [
+      "yellow"
+    ],
+    "shape_type": "curved panel",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=219",
+    "reference_id": "research/public-catalogues-v4/pages/page-219.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary plate visually reviewed",
+    "palette": "standardized vivid; not colorimetrically measured",
+    "notes": "Interpretive hand-authored study after visual inspection of the1996 Guggenheim retrospective plate. Approximate geometry; standardized vivid palette. Texture, mounting shadows and perspective omitted. ",
+    "reviewed_date": "2026-10-27"
+  },
+  "guggenheim1996:cat-98": {
+    "path": "assets/studies/v4-public-guggenheim1996-98.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "joined rectangles",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=241",
+    "reference_id": "research/public-catalogues-v4/pages/page-241.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary plate visually reviewed",
+    "palette": "standardized vivid; not colorimetrically measured",
+    "notes": "Interpretive hand-authored study after visual inspection of the1996 Guggenheim retrospective plate. Approximate geometry; standardized vivid palette. Texture, mounting shadows and perspective omitted. ",
+    "reviewed_date": "2026-10-27"
+  },
+  "guggenheim1996:cat-103": {
+    "path": "assets/studies/v4-public-guggenheim1996-103.svg",
+    "colors": [
+      "yellow"
+    ],
+    "shape_type": "curved triangular panel",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=248",
+    "reference_id": "research/public-catalogues-v4/pages/page-248.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary plate visually reviewed",
+    "palette": "standardized vivid; not colorimetrically measured",
+    "notes": "Interpretive hand-authored study after visual inspection of the1996 Guggenheim retrospective plate. Approximate geometry; standardized vivid palette. Texture, mounting shadows and perspective omitted. ",
+    "reviewed_date": "2026-10-27"
+  },
+  "guggenheim1996:cat-104": {
+    "path": "assets/studies/v4-public-guggenheim1996-104.svg",
+    "colors": [
+      "green"
+    ],
+    "shape_type": "curved triangular panel",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=249",
+    "reference_id": "research/public-catalogues-v4/pages/page-249.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary plate visually reviewed",
+    "palette": "standardized vivid; not colorimetrically measured",
+    "notes": "Interpretive hand-authored study after visual inspection of the1996 Guggenheim retrospective plate. Approximate geometry; standardized vivid palette. Texture, mounting shadows and perspective omitted. ",
+    "reviewed_date": "2026-10-27"
+  },
+  "guggenheim1996:essay-56-fig-14": {
+    "path": "assets/studies/v4-public-guggenheim1996-essay-56-fig-14.svg",
+    "colors": [
+      "blue",
+      "green"
+    ],
+    "shape_type": "joined polygons",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=56",
+    "reference_id": "research/public-catalogues-v4/pages/page-056.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary plate visually reviewed",
+    "palette": "standardized vivid; not colorimetrically measured",
+    "notes": "Interpretive hand-authored study after visual inspection of the1996 Guggenheim retrospective plate. Approximate geometry; standardized vivid palette. Texture, mounting shadows and perspective omitted. ",
+    "reviewed_date": "2026-10-27"
+  },
+  "guggenheim1996:essay-60-fig-24": {
+    "path": "assets/studies/v4-public-guggenheim1996-essay-60-fig-24.svg",
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "shape_type": "joined curved polygons",
+    "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=60",
+    "reference_id": "research/public-catalogues-v4/pages/page-060.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary plate visually reviewed",
+    "palette": "standardized vivid; not colorimetrically measured",
+    "notes": "Interpretive hand-authored study after visual inspection of the1996 Guggenheim retrospective plate. Approximate geometry; standardized vivid palette. Texture, mounting shadows and perspective omitted. ",
+    "reviewed_date": "2026-10-27"
+  }
+}

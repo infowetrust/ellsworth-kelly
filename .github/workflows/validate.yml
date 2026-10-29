@@ -1,0 +1,11 @@
+name: Validate catalogue and vectors
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/validate_portable.py
+      - run: node scripts/check_scale_estimates.cjs

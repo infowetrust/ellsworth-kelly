@@ -1,0 +1,18 @@
+[
+  {
+    "id": "tate-26107",
+    "pure_vector": true,
+    "painted_shapes": 1,
+    "data_colour_all": true,
+    "numeric_dimensions": true,
+    "normalized_only": true
+  },
+  {
+    "id": "international-v4-flv-colored-panels",
+    "pure_vector": true,
+    "painted_shapes": 5,
+    "data_colour_all": true,
+    "numeric_dimensions": true,
+    "normalized_only": true
+  }
+]

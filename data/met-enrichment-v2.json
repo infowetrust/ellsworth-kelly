@@ -1,0 +1,158 @@
+[
+  {
+    "source_id": "met:481000",
+    "source_record_id": "481000",
+    "title": "Red Dark Blue",
+    "year_start": 1960,
+    "year_end": 1960,
+    "date_display": "1960",
+    "medium": "Oil on linen",
+    "height_cm": 81.3,
+    "width_cm": 61.0,
+    "dimensions_display": "32 x 24 in. (81.3 x 61 cm)",
+    "collection": "The Metropolitan Museum of Art, New York",
+    "source_url": "https://www.metmuseum.org/art/collection/search/481000",
+    "accession": "1972.167",
+    "ek_id": null,
+    "record_kind": "painting",
+    "notes": [
+      "Selected from the museum's official GitHub open-access metadata. Its classification is Paintings. This snapshot is not a guarantee that every later acquisition is already represented."
+    ],
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/481000",
+        "label": "The Metropolitan Museum of Art",
+        "accessed": "2026-10-26"
+      },
+      {
+        "url": "https://github.com/metmuseum/openaccess",
+        "label": "Official Met dataset (artist subset preserved)"
+      }
+    ]
+  },
+  {
+    "source_id": "met:484636",
+    "source_record_id": "484636",
+    "title": "Blue Panel II",
+    "year_start": 1977,
+    "year_end": 1977,
+    "date_display": "1977",
+    "medium": "Oil on canvas",
+    "height_cm": 240.0,
+    "width_cm": 241.9,
+    "dimensions_display": "94 1/2 × 95 1/4 in. (240 × 241.9 cm)",
+    "collection": "The Metropolitan Museum of Art, New York",
+    "source_url": "https://www.metmuseum.org/art/collection/search/484636",
+    "accession": "1986.419.1",
+    "ek_id": null,
+    "record_kind": "painting",
+    "notes": [
+      "Selected from the museum's official GitHub open-access metadata. Its classification is Paintings. This snapshot is not a guarantee that every later acquisition is already represented."
+    ],
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/484636",
+        "label": "The Metropolitan Museum of Art",
+        "accessed": "2026-10-26"
+      },
+      {
+        "url": "https://github.com/metmuseum/openaccess",
+        "label": "Official Met dataset (artist subset preserved)"
+      }
+    ]
+  },
+  {
+    "source_id": "met:489307",
+    "source_record_id": "489307",
+    "title": "Blue Green Red",
+    "year_start": 1963,
+    "year_end": 1963,
+    "date_display": "1963",
+    "medium": "Oil on canvas",
+    "height_cm": 231.1,
+    "width_cm": 208.3,
+    "dimensions_display": "91 × 82 in. (231.1 × 208.3 cm)",
+    "collection": "The Metropolitan Museum of Art, New York",
+    "source_url": "https://www.metmuseum.org/art/collection/search/489307",
+    "accession": "63.73",
+    "ek_id": null,
+    "record_kind": "painting",
+    "notes": [
+      "Selected from the museum's official GitHub open-access metadata. Its classification is Paintings. This snapshot is not a guarantee that every later acquisition is already represented."
+    ],
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/489307",
+        "label": "The Metropolitan Museum of Art",
+        "accessed": "2026-10-26"
+      },
+      {
+        "url": "https://github.com/metmuseum/openaccess",
+        "label": "Official Met dataset (artist subset preserved)"
+      }
+    ]
+  },
+  {
+    "source_id": "met:489800",
+    "source_record_id": "489800",
+    "title": "Spectrum V",
+    "year_start": 1969,
+    "year_end": 1969,
+    "date_display": "1969",
+    "medium": "Oil on canvas",
+    "height_cm": null,
+    "width_cm": null,
+    "dimensions_display": "Each panel: 84 1/8\" x 34\" x 1 1/8\"",
+    "collection": "The Metropolitan Museum of Art, New York",
+    "source_url": "https://www.metmuseum.org/art/collection/search/489800",
+    "accession": "69.210a–m",
+    "ek_id": "EK 422",
+    "record_kind": "painting",
+    "notes": [
+      "Selected from the museum's official GitHub open-access metadata. Its classification is Paintings. This snapshot is not a guarantee that every later acquisition is already represented.",
+      "CSV dimensions are for each panel. Overall size retained from Foundation record EK422; panel dimensions are not substituted for full installation width."
+    ],
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/489800",
+        "label": "The Metropolitan Museum of Art",
+        "accessed": "2026-10-26"
+      },
+      {
+        "url": "https://github.com/metmuseum/openaccess",
+        "label": "Official Met dataset (artist subset preserved)"
+      }
+    ]
+  },
+  {
+    "source_id": "met:915129",
+    "source_record_id": "915129",
+    "title": "Black White",
+    "year_start": 1970,
+    "year_end": 1970,
+    "date_display": "1970",
+    "medium": "Oil on canvas, two joined panels",
+    "height_cm": 177.8,
+    "width_cm": 273.1,
+    "dimensions_display": "70 in. × 8 ft. 11 1/2 in. × 1 3/4 in. (177.8 × 273.1 × 4.4 cm)\r\n",
+    "collection": "The Metropolitan Museum of Art, New York",
+    "source_url": "https://www.metmuseum.org/art/collection/search/915129",
+    "accession": "2025.305a, b",
+    "ek_id": null,
+    "record_kind": "painting",
+    "notes": [
+      "Selected from the museum's official GitHub open-access metadata. Its classification is Paintings. This snapshot is not a guarantee that every later acquisition is already represented."
+    ],
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/915129",
+        "label": "The Metropolitan Museum of Art",
+        "accessed": "2026-10-26"
+      },
+      {
+        "url": "https://github.com/metmuseum/openaccess",
+        "label": "Official Met dataset (artist subset preserved)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "keep": "moma1973-pdf64-caption1",
+    "merge": [
+      "sfmoma-501-1"
+    ],
+    "title": "Gaza",
+    "evidence": "Independent comparison of current SFMOMA object99.345 with MoMA1973 PDF platepage63/captionpage64 confirms the same colour/geometry. Earlier SFMOMA gallery-label501-1 is the same1956 painting. Preserve historical1952–1956 range and current1956 date as separate source claims.",
+    "sources": [
+      "https://www.sfmoma.org/artwork/99.345/",
+      "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf"
+    ],
+    "reviewed": "2026-10-27"
+  },
+  {
+    "keep": "sfmoma-501-4",
+    "merge": [
+      "moma1973-pdf88-caption1"
+    ],
+    "title": "Red Green",
+    "evidence": "Current SFMOMA FisherFC.518 and MoMA1973 platepage88 show the same joined angled red/green trapezoids. Source dimensions differ; retain both without creating a second identity.",
+    "sources": [
+      "https://www.sfmoma.org/artwork/FC.518/",
+      "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf"
+    ],
+    "reviewed": "2026-10-27"
+  },
+  {
+    "keep": "met-915129",
+    "merge": [
+      "moma1973-pdf93-caption1"
+    ],
+    "title": "Black White",
+    "evidence": "The current Met object references explicitly cite Goossen MoMA1973 p88, illustratedp90; the reproduced plate on PDFpage93 shows the identical upright black-left/white-right triangular canvases and vertical central seam. Keep current Met dimensions and preserve historical width discrepancy.",
+    "sources": [
+      "https://www.metmuseum.org/art/collection/search/915129",
+      "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf"
+    ],
+    "reviewed": "2026-10-27"
+  },
+  {
+    "keep": "sfmoma-v3-99-351",
+    "merge": [
+      "moma1973-pdf20-caption1"
+    ],
+    "title": "Self-Portrait with Thorn",
+    "evidence": "The MoMA1973 plate PDFpage20/book15 and SFMOMA99.351 show the identical portrait holding the rooted plant across both hands, with the same blue shirt folds, pose and background. Current museum title, oil-on-wood medium and support size preferred; historical canvas medium and larger dimensions retained as unresolved source claims. A frame explanation is not established.",
+    "sources": [
+      "https://www.sfmoma.org/artwork/99.351/",
+      "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf"
+    ],
+    "reviewed": "2026-10-27"
+  }
+]

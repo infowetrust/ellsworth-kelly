@@ -1,0 +1,176 @@
+{
+  "study_count": 17,
+  "normalized_only": 10,
+  "checks": [
+    {
+      "id": "museum-v2-mumok-blue-curve",
+      "svg": "site/dist/assets/studies/v5-museum-museum-v2-mumok-blue-curve.svg",
+      "xml_contract": "pass",
+      "raster_elements": 0,
+      "scripts": 0,
+      "reference_exists": true,
+      "render_exists": true,
+      "paired_visual_review": "pass"
+    },
+    {
+      "id": "international-v4-mot-red-yellow-blue",
+      "svg": "site/dist/assets/studies/v5-museum-international-v4-mot-red-yellow-blue.svg",
+      "xml_contract": "pass",
+      "raster_elements": 0,
+      "scripts": 0,
+      "reference_exists": true,
+      "render_exists": true,
+      "paired_visual_review": "pass"
+    },
+    {
+      "id": "north-v4-baltimore-two-blacks-white",
+      "svg": "site/dist/assets/studies/v5-museum-north-v4-baltimore-two-blacks-white.svg",
+      "xml_contract": "pass",
+      "raster_elements": 0,
+      "scripts": 0,
+      "reference_exists": true,
+      "render_exists": true,
+      "paired_visual_review": "pass"
+    },
+    {
+      "id": "north-v4-philadelphia-seaweed",
+      "svg": "site/dist/assets/studies/v5-museum-north-v4-philadelphia-seaweed.svg",
+      "xml_contract": "pass",
+      "raster_elements": 0,
+      "scripts": 0,
+      "reference_exists": true,
+      "render_exists": true,
+      "paired_visual_review": "pass"
+    },
+    {
+      "id": "international-v4-maeght-blue-floor-panel-leo",
+      "svg": "site/dist/assets/studies/v5-museum-international-v4-maeght-blue-floor-panel-leo.svg",
+      "xml_contract": "pass",
+      "raster_elements": 0,
+      "scripts": 0,
+      "reference_exists": true,
+      "render_exists": true,
+      "paired_visual_review": "pass"
+    },
+    {
+      "id": "international-v4-tate-red-white-1966",
+      "svg": "site/dist/assets/studies/v5-museum-international-v4-tate-red-white-1966.svg",
+      "xml_contract": "pass",
+      "raster_elements": 0,
+      "scripts": 0,
+      "reference_exists": true,
+      "render_exists": true,
+      "paired_visual_review": "pass"
+    },
+    {
+      "id": "north-v4-dallas-red-panel",
+      "svg": "site/dist/assets/studies/v5-museum-north-v4-dallas-red-panel.svg",
+      "xml_contract": "pass",
+      "raster_elements": 0,
+      "scripts": 0,
+      "reference_exists": true,
+      "render_exists": true,
+      "paired_visual_review": "pass"
+    },
+    {
+      "id": "international-v4-kawamura-black-curve",
+      "svg": "site/dist/assets/studies/v5-museum-international-v4-kawamura-black-curve.svg",
+      "xml_contract": "pass",
+      "raster_elements": 0,
+      "scripts": 0,
+      "reference_exists": true,
+      "render_exists": true,
+      "paired_visual_review": "pass"
+    },
+    {
+      "id": "whitney-9295",
+      "svg": "site/dist/assets/studies/v5-museum-whitney-9295.svg",
+      "xml_contract": "pass",
+      "raster_elements": 0,
+      "scripts": 0,
+      "reference_exists": true,
+      "render_exists": true,
+      "paired_visual_review": "pass"
+    },
+    {
+      "id": "whitney-16879",
+      "svg": "site/dist/assets/studies/v5-museum-whitney-16879.svg",
+      "xml_contract": "pass",
+      "raster_elements": 0,
+      "scripts": 0,
+      "reference_exists": true,
+      "render_exists": true,
+      "paired_visual_review": "pass"
+    },
+    {
+      "id": "north-v4-blanton-high-yellow",
+      "svg": "site/dist/assets/studies/v5-museum-north-v4-blanton-high-yellow.svg",
+      "xml_contract": "pass",
+      "raster_elements": 0,
+      "scripts": 0,
+      "reference_exists": true,
+      "render_exists": true,
+      "paired_visual_review": "pass"
+    },
+    {
+      "id": "north-v4-yale-charter",
+      "svg": "site/dist/assets/studies/v5-museum-north-v4-yale-charter.svg",
+      "xml_contract": "pass",
+      "raster_elements": 0,
+      "scripts": 0,
+      "reference_exists": true,
+      "render_exists": true,
+      "paired_visual_review": "pass"
+    },
+    {
+      "id": "north-v4-slam-purple-panel",
+      "svg": "site/dist/assets/studies/v5-museum-north-v4-slam-purple-panel.svg",
+      "xml_contract": "pass",
+      "raster_elements": 0,
+      "scripts": 0,
+      "reference_exists": true,
+      "render_exists": true,
+      "paired_visual_review": "pass"
+    },
+    {
+      "id": "nga-au-orange-curve-116211",
+      "svg": "site/dist/assets/studies/v5-museum-nga-au-orange-curve-116211.svg",
+      "xml_contract": "pass",
+      "raster_elements": 0,
+      "scripts": 0,
+      "reference_exists": true,
+      "render_exists": true,
+      "paired_visual_review": "pass"
+    },
+    {
+      "id": "international-v4-kroller-plant-i",
+      "svg": "site/dist/assets/studies/v5-museum-international-v4-kroller-plant-i.svg",
+      "xml_contract": "pass",
+      "raster_elements": 0,
+      "scripts": 0,
+      "reference_exists": true,
+      "render_exists": true,
+      "paired_visual_review": "pass"
+    },
+    {
+      "id": "international-v4-saint-etienne-blue-diagonal-curve",
+      "svg": "site/dist/assets/studies/v5-museum-international-v4-saint-etienne-blue-diagonal-curve.svg",
+      "xml_contract": "pass",
+      "raster_elements": 0,
+      "scripts": 0,
+      "reference_exists": true,
+      "render_exists": true,
+      "paired_visual_review": "pass"
+    },
+    {
+      "id": "international-v4-louisiana-yellow-black",
+      "svg": "site/dist/assets/studies/v5-museum-international-v4-louisiana-yellow-black.svg",
+      "xml_contract": "pass",
+      "raster_elements": 0,
+      "scripts": 0,
+      "reference_exists": true,
+      "render_exists": true,
+      "paired_visual_review": "pass"
+    }
+  ]
+}

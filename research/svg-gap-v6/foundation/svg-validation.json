@@ -1,0 +1,21 @@
+{
+  "count": 2,
+  "checks": [
+    {
+      "id": "foundation-exhib-v4-ek246-ellsworth-kelly-a-retrospective",
+      "path": "assets/studies/v6-foundation-white-black-ek246.svg",
+      "xml": true,
+      "pure_vector": true,
+      "recolorable": true,
+      "rendered": true
+    },
+    {
+      "id": "foundation-exhib-v4-ek2-ellsworth-kelly-paris-new-york-1949-1959",
+      "path": "assets/studies/v6-foundation-window-iii-ek2.svg",
+      "xml": true,
+      "pure_vector": true,
+      "recolorable": true,
+      "rendered": true
+    }
+  ]
+}

@@ -1,0 +1,2127 @@
+{
+  "as_of": "2026-10-28",
+  "baseline_records": 597,
+  "baseline_svgs": 483,
+  "baseline_svg_gaps": 114,
+  "current_records": 584,
+  "current_svgs": 497,
+  "current_svg_gaps": 87,
+  "new_unique_svgs": 14,
+  "new_svgs_by_current_record_kind": {
+    "painting": 9,
+    "painting_candidate": 4,
+    "painting_group_candidate": 1
+  },
+  "reviewed_original_gaps": 114,
+  "original_svg_assets_preserved": true,
+  "gap_outcome_counts": {
+    "remaining_svg_gap": 87,
+    "new_svg": 14,
+    "merged_into_newly_illustrated_work": 1,
+    "proven_nonpainting_scope_exclusion": 5,
+    "identity_reconciled_with_existing_svg": 7
+  },
+  "outcomes": [
+    {
+      "baseline_id": "sfmoma-v3-99-351",
+      "title": "Self-Portrait with Thorn",
+      "baseline_record_kind": "painting",
+      "current_id": "sfmoma-v3-99-351",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "sfmoma-v3-99-351",
+        "title": "Self-Portrait with Thorn",
+        "outcome": "remaining_svg_gap",
+        "reason": "Actual museum color photograph available, but figurative portrait modeling, plant and clothing are not yet adequately represented by a simplified geometric SVG; retained for later careful vector work.",
+        "reference_url": "https://www.sfmoma.org/artwork/99.351/",
+        "reference_id": "research/sfmoma-v3-reference-images/99.351.jpg"
+      }
+    },
+    {
+      "baseline_id": "sfmoma-v3-99-340",
+      "title": "Chuan-Shu",
+      "baseline_record_kind": "painting",
+      "current_id": "sfmoma-v3-99-340",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "sfmoma-v3-99-340",
+        "title": "Chuan-Shu",
+        "outcome": "remaining_svg_gap",
+        "reason": "Actual museum color photograph inspected. Many softly layered glyphs and tonal transitions need a more careful vector interpretation; no substitute generic geometry added.",
+        "reference_url": "https://www.sfmoma.org/artwork/99.340/",
+        "reference_id": "research/sfmoma-v3-reference-images/99.340.jpg"
+      }
+    },
+    {
+      "baseline_id": "sfmoma-v3-99-348",
+      "title": "Mandorla",
+      "baseline_record_kind": "painting",
+      "current_id": "sfmoma-v3-99-348",
+      "status": "new_svg",
+      "svg": "assets/studies/v6-root-sfmoma-v3-99-348.svg",
+      "reference_review": {
+        "id": "sfmoma-v3-99-348",
+        "title": "Mandorla",
+        "outcome": "new_svg",
+        "reason": "Schematic of the directly inspected museum color image: central pale pointed lens, dark central seam, smaller lower teardrop and pale angular underpainting on the complete rectangular canvas. Low-contrast tonal layers, brushwork, worn edges and faint blue traces are simplified. Pale screen colors are intentionally retained; this is a major-motif navigation study, not a facsimile.",
+        "reference_url": "https://www.sfmoma.org/artwork/99.348/",
+        "reference_id": "research/sfmoma-v3-reference-images/99.348.jpg"
+      }
+    },
+    {
+      "baseline_id": "guggenheim1996-essay-24-fig-7",
+      "title": "Romanesque Head",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "guggenheim1996-essay-24-fig-7",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "guggenheim1996-essay-24-fig-7",
+        "outcome": "remaining_gap",
+        "reason": "Complete1996color essay illustration inspected. Figurative painted face requires detailed modeling that cannot be faithfully represented by this simple study approach; no generic head substituted.",
+        "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=24",
+        "reference_id": "research/svg-gap-v5/market/ref-00.png"
+      }
+    },
+    {
+      "baseline_id": "sfmoma-v3-99-350",
+      "title": "Seated Figure",
+      "baseline_record_kind": "painting",
+      "current_id": "sfmoma-v3-99-350",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "sfmoma-v3-99-350",
+        "title": "Seated Figure",
+        "outcome": "remaining_svg_gap",
+        "reason": "Actual museum figurative color painting available; full seated figure and tonal modeling remain a future vector task rather than an invented geometric proxy.",
+        "reference_url": "https://www.sfmoma.org/artwork/99.350/",
+        "reference_id": "research/sfmoma-v3-reference-images/99.350.jpg"
+      }
+    },
+    {
+      "baseline_id": "guggenheim1996-essay-21-fig-2",
+      "title": "Self-Portrait",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "guggenheim1996-essay-21-fig-2",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "guggenheim1996-essay-21-fig-2",
+        "outcome": "remaining_gap",
+        "reason": "Complete1996color essay illustration inspected. Gouache self-portrait retains complex facial planes and brushwork; no faithful simplified vector warranted.",
+        "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=21",
+        "reference_id": "research/svg-gap-v5/market/ref-01.png"
+      }
+    },
+    {
+      "baseline_id": "guggenheim1996-cat-111",
+      "title": "Awnings, Avenue Matignon",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "guggenheim1996-cat-111",
+      "status": "new_svg",
+      "svg": "assets/studies/v6-market-02-guggenheim1996-cat-111.svg",
+      "reference_review": {
+        "id": "guggenheim1996-cat-111",
+        "outcome": "new_svg",
+        "reason": "MoMA current object496.1997 provides the complete color photograph and13.3×21cm sheet size. Seven rectangles retain their observed differing blue depths; gray is pencil outline, not a third painted field. Faint erasures and signature omitted.",
+        "reference_url": "https://www.moma.org/collection/works/37179",
+        "reference_id": "research/svg-gap-v6/market/references/awnings.jpg"
+      }
+    },
+    {
+      "baseline_id": "moma1973-pdf40-caption2",
+      "title": "La Combe II",
+      "baseline_record_kind": "painting",
+      "current_id": "moma1973-pdf40-caption2",
+      "status": "new_svg",
+      "svg": "assets/studies/v6-market-03-moma1973-pdf40-caption2.svg",
+      "reference_review": {
+        "id": "moma1973-pdf40-caption2",
+        "outcome": "new_svg",
+        "reason": "Complete Foundation color photograph explicitly labeled LaCombeII1951 shows black stair-shadow lines on white hinged screen. All nine panels retained; equal panel widths and planar arrangement are an interpretive unfolding of the photographed folds, so normalized only. This is distinct from the red-on-white flat LaCombeI canvas.",
+        "reference_url": "https://discoveringek.ellsworthkelly.org/ek-100-chapter-3",
+        "reference_id": "research/svg-gap-v6/market/references/la-combe-color.png"
+      }
+    },
+    {
+      "baseline_id": "gap-ormesson-1950",
+      "title": "Ormesson",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek29-kelly-peintures-et-reliefs",
+      "status": "merged_into_newly_illustrated_work",
+      "svg": "assets/studies/v6-root-gap-ormesson-1950.svg",
+      "reference_review": {
+        "id": "gap-ormesson-1950",
+        "title": "Ormesson",
+        "outcome": "new_svg",
+        "reason": "Actual color illustration: Else van Sterkenburg-Fransen, Radboud University bachelor thesis (2017), PDF 65 fig 25. Foundation EK 29 installation and MoMA 1973 note 26 independently identify the painting/date. Three white joined panels retain the separate black and green chimney-derived motifs. The thesis reports 83.8×224.2 cm, but those dimensions are kept as secondary evidence only, not promoted to measured primary facts. Observed reproduction aspect retained despite its difference from the secondary dimensional ratio. Panel contours approximated; texture omitted.",
+        "reference_url": "https://theses.ubn.ru.nl/bitstreams/722c0843-d79a-40f6-be14-120a459b1ed6/download",
+        "reference_id": "research/svg-gap-v6/root/ormesson-thesis-p65.png"
+      }
+    },
+    {
+      "baseline_id": "moma1973-pdf29-caption1",
+      "title": "Saint-Louis II",
+      "baseline_record_kind": "painting",
+      "current_id": "moma1973-pdf29-caption1",
+      "status": "new_svg",
+      "svg": "assets/studies/v6-market-04-moma1973-pdf29-caption1.svg",
+      "reference_review": {
+        "id": "moma1973-pdf29-caption1",
+        "outcome": "new_svg",
+        "reason": "The adjacent primary1973text explicitly states Kelly painted this relief white. Nine horizontal incised grooves and three upper trapezoid fragments observed in the complete opposite plate. Pale same-family gray lines indicate relief shadow, not black pigment; external book page omitted.",
+        "reference_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=30",
+        "reference_id": "research/svg-gap-v6/market/references/moma-30.png"
+      }
+    },
+    {
+      "baseline_id": "ek-35",
+      "title": "Red Yellow and Blue",
+      "baseline_record_kind": "painting",
+      "current_id": "ek-35",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "ek-35",
+        "title": "Red Yellow and Blue",
+        "outcome": "remaining_svg_gap",
+        "reason": "Primary Foundation photograph research/reference-images/EK-35.jpg is monochrome; numerous bars have unknown red/yellow/blue placement and unknown field pigment. Title alone cannot recover the actual arrangement. Search finds different 1951 collages, not this oil painting.",
+        "reference_url": "https://ellsworthkelly.org/work/red-yellow-and-blue/",
+        "reference_id": "research/reference-images/EK-35.jpg"
+      }
+    },
+    {
+      "baseline_id": "north-v4-dallas-kite-i-loan",
+      "title": "Kite I",
+      "baseline_record_kind": "painting",
+      "current_id": "north-v4-dallas-kite-i-loan",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "north-v4-dallas-kite-i-loan",
+        "outcome": "remaining_gap",
+        "reason": "1989Dallas primary checklist establishes artist-owned loan but supplies no dimensions or illustration. A seven-panelKiteI1952with SVG already exists from MatthewMarks; no shared accession, source image or specific exhibition bridge yet proves physical identity. Do not count borrowed existing study as new.",
+        "reference_url": "https://texashistory.unt.edu/ark:/67531/metapth307668/m1/88/",
+        "reference_id": null
+      }
+    },
+    {
+      "baseline_id": "guggenheim1996-cat-19",
+      "title": "Red Yellow Blue White and Black",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "guggenheim1996-cat-19",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "guggenheim1996-cat-19",
+        "outcome": "remaining_gap",
+        "reason": "Numbered1996caption missing. Narrative describes seven panels with black centre and blue at both ends, conflicting with six-stripFoundationEK56/Marks45015. Candidate remains unresolved; title/year alone do not establish identity.",
+        "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf",
+        "reference_id": null
+      }
+    },
+    {
+      "baseline_id": "moma1973-pdf71-caption1",
+      "title": "Paname",
+      "baseline_record_kind": "painting",
+      "current_id": "moma1973-pdf71-caption1",
+      "status": "new_svg",
+      "svg": "assets/studies/v6-market-07-moma1973-pdf71-caption1.svg",
+      "reference_review": {
+        "id": "moma1973-pdf71-caption1",
+        "outcome": "new_svg",
+        "reason": "E.ON institutional collection publication supplies an actual color installation photograph and explicitly calls Paname black-and-white. Exact five white intrusions transcribed from the full1973frontal plate; reflections in the later glazed installation are excluded. White areas are painted rectangular support, not missing canvas.",
+        "reference_url": "https://www.kunst-im-blauen-haus.de/img/aktuell/EON_Art.pdf#page=7",
+        "reference_id": "research/svg-gap-v6/market/references/moma-71.png"
+      }
+    },
+    {
+      "baseline_id": "matthewmarks-42475",
+      "title": "Avocado",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "matthewmarks-42475",
+      "status": "new_svg",
+      "svg": "assets/studies/v6-market-08-matthewmarks-42475.svg",
+      "reference_review": {
+        "id": "matthewmarks-42475",
+        "outcome": "new_svg",
+        "reason": "Actual primary gallery color photograph reviewed again. Five green leaves individually transcribed with central painted stems; complete cream paper retained. Brush variation and signature omitted. Remains a painted-paper scope candidate, not promoted to canvas painting.",
+        "reference_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-plant-drawings-05-2017/lightbox/works/42475",
+        "reference_id": "research/svg-gap-v5/market/ref-10.jpg"
+      }
+    },
+    {
+      "baseline_id": "matthewmarks-green-form-1959-31173",
+      "title": "Green Form",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "matthewmarks-green-form-1959-31173",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "matthewmarks-green-form-1959-31173",
+        "outcome": "remaining_gap",
+        "reason": "Green oil form lies over legible vintage newspaper/collage. Complete color gallery image viewed; replacing textual support with a plain tan rectangle would misrepresent the work, and a generic ring is insufficient.",
+        "reference_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-drawings-1954-1962-02-2009/lightbox/works/green-form-1959-31173",
+        "reference_id": "research/svg-gap-v5/market/ref-12.jpg"
+      }
+    },
+    {
+      "baseline_id": "christies-5261477",
+      "title": "White Black",
+      "baseline_record_kind": "painting",
+      "current_id": "christies-5261477",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "christies-5261477",
+        "outcome": "remaining_gap",
+        "reason": "Ordinary Christie lot page currently exposes only a roundel placeholder. All six public Pulitzer2002installation photographs viewed without an identified match. FoundationEK246matches title/year/aspect only; no lotphoto or shared catalogue/provenance link proves identity.",
+        "reference_url": "https://www.christies.com/en/lot/lot-5261477",
+        "reference_id": "research/svg-gap-v5/market/ref-17.jpg"
+      }
+    },
+    {
+      "baseline_id": "gap-blue-white-1962",
+      "title": "Blue White",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "gap-blue-white-1962",
+      "status": "new_svg",
+      "svg": "assets/studies/v6-root-gap-blue-white-1962.svg",
+      "reference_review": {
+        "id": "gap-blue-white-1962",
+        "title": "Blue White",
+        "outcome": "new_svg",
+        "reason": "Actual primary gallery page explicitly captions the reproduced painting Blue White (1962), oil on canvas, Rose Art Museum. Two blue masses nearly meet at the center; white wedges open at top and bottom. Different from the adjacent small collage Study for Blue White. Whole rectangular painted support retained; photo margins omitted. Physical dimensions remain unknown.",
+        "reference_url": "https://matthewmarks.com/online/ellsworth-kelly/ek_47212-ek-d-62-50-reference-01/",
+        "reference_id": "research/svg-gap-v6/root/rose-bluewhite1962.jpg"
+      }
+    },
+    {
+      "baseline_id": "museum-v2-mfah-60998",
+      "title": "Blue Red",
+      "baseline_record_kind": "painting",
+      "current_id": "museum-v2-mfah-60998",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "museum-v2-mfah-60998",
+        "title": "Blue Red",
+        "outcome": "image_gap_retained",
+        "reason": "Primary image access remains blocked by a Cloudflare check in ordinary browser. New alternate searches followed exact EK 338, Porter/Chiat provenance, Sotheby 1988 lot 43, Christie 1993 lot 27, Mo MA travelling 1966–67 show, MCASD/Whitney 2003 and Paula Cooper 1999 exhibitions. No securely identified actual alternate image was recovered. Different Blue Red 1964/1966/1968 works and prints rejected.",
+        "reference_url": "https://emuseum.mfah.org/objects/60998/blue-red",
+        "reference_id": null,
+        "reviewed_date": "2026-10-28"
+      }
+    },
+    {
+      "baseline_id": "gap-red-green-blue-ii-1965",
+      "title": "Red Green Blue II",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "gap-red-green-blue-ii-1965",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "gap-red-green-blue-ii-1965",
+        "title": "Red Green Blue II",
+        "outcome": "remaining_svg_gap",
+        "reason": "Fresh Foundation chronology again explicitly names the work in 1988, but alternate primary work image, EKnumber and medium remain unverified. Similar RedYellowBlueII and RedGreenBlueI must not substitute.",
+        "reference_url": "https://ellsworthkelly.org/chronology/",
+        "reference_id": null
+      }
+    },
+    {
+      "baseline_id": "moma1973-pdf86-caption1",
+      "title": "Series of Five Paintings",
+      "baseline_record_kind": "painting",
+      "current_id": "moma1973-pdf86-caption1",
+      "status": "new_svg",
+      "svg": "assets/studies/v6-market-11-moma1973-pdf86-caption1.svg",
+      "reference_review": {
+        "id": "moma1973-pdf86-caption1",
+        "outcome": "new_svg",
+        "reason": "All five current museum color photographs inspected. Pairs shown in published photo order: red/yellow, red/blue, blue/green, black/white, yellow/blue. Museum explicitly says no prescribed order and prefers separated installation. This stacked comparison layout is not an actual installation or an overall physical width/height. Each part178×356cm; blue-green part uses observed teal-blue shade in the blue family.",
+        "reference_url": "https://www.krollermuller.nl/en/what-s-on/exhibitions/birds-of-a-feather",
+        "reference_id": "research/svg-gap-v6/market/references/series-contact.jpg"
+      }
+    },
+    {
+      "baseline_id": "short-book-v4-surfaceedgecolor25whit-20-red-yellow-blue-vi",
+      "title": "Red Yellow Blue VI",
+      "baseline_record_kind": "painting",
+      "current_id": "short-book-v4-surfaceedgecolor25whit-20-red-yellow-blue-vi",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "short-book-v4-surfaceedgecolor25whit-20-red-yellow-blue-vi",
+        "outcome": "remaining_gap",
+        "reason": "Whitney1976publication is text-only. Exact-title/owner searches did not recover a verified primary color illustration; cannot infer three-color placement from title.",
+        "reference_url": "https://archive.org/download/surfaceedgecolor25whit/surfaceedgecolor25whit.pdf#page=20",
+        "reference_id": "research/svg-gap-v5/market/ref-28.png"
+      }
+    },
+    {
+      "baseline_id": "gap-blue-curve-i-1969",
+      "title": "Blue Curve I",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "gap-blue-curve-i-1969",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "gap-blue-curve-i-1969",
+        "title": "Blue Curve I",
+        "outcome": "remaining_svg_gap",
+        "reason": "Fresh chronology supports existence among 1969 radial curve paintings; current dealer primary essay documents the distinct 1972 BlueCurveIV series. No exact 1969 BlueCurveI image or physical identity established.",
+        "reference_url": "https://ellsworthkelly.org/chronology/",
+        "reference_id": null
+      }
+    },
+    {
+      "baseline_id": "international-v4-fukuoka-blue-black-curve-iii",
+      "title": "Blue Black Curve III",
+      "baseline_record_kind": "painting",
+      "current_id": "international-v4-fukuoka-blue-black-curve-iii",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "international-v4-fukuoka-blue-black-curve-iii",
+        "title": "Blue Black Curve III",
+        "outcome": "image_gap_retained",
+        "reason": "Reviewed and magnified actual 180×135 museumimage; support is visible but blue/black partition remains too dark/low resolution to trace responsibly. New exact English and Japanese title searches and Vasari index produce no stronger painting reference. Museum 2021 PDF was also checked in prior pass.",
+        "reference_url": "https://www.fukuoka-art-museum.jp/archives/modern_arts/2611",
+        "reference_id": "research/svg-gap-v6/museums/references/fukuoka-magnified-review.png",
+        "reviewed_date": "2026-10-28"
+      }
+    },
+    {
+      "baseline_id": "international-v4-vanabbe-black-curve-i",
+      "title": "Black Curve I",
+      "baseline_record_kind": "painting",
+      "status": "proven_nonpainting_scope_exclusion",
+      "exclusion_evidence": [
+        {
+          "record_id": "international-v4-vanabbe-black-curve-i",
+          "primary_medium": "pencil and lithograph on paper",
+          "primary_url": "https://vanabbemuseum.nl/en/collection-research/collection/black-curve-i",
+          "reason": "Actual recovered primary friends journal 2009 no 4 PDFpage 6 (printedpage 10) illustrates this same squared paper sheet, with the same curved black/white field, broad paper margins and pencil edition/signature below the image. Both actual journal illustration and current museum photo visually compared, not just title/year. Current individual museum record explicitly identifies paper lithograph, inventory 1018, acquired 1985. The friends interview’s colloquial schilderijen wording was insufficient to classify it as canvas painting. This does not remove any separately documented painting of similar title.",
+          "source_ids": [
+            "international-v4:vanabbe-black-curve-i"
+          ],
+          "reference_id": "research/svg-gap-v6/museums/references/vanabbe-journal-p6.png",
+          "evidence_file": "research/svg-gap-v6/museums/references/vanabbe-black.jpg",
+          "comparison_file": "research/svg-gap-v6/museums/vanabbe-scope-comparison.jpg",
+          "journal_url": "https://old-plone.vanabbemuseum.nl/nl/museum/vriendenvereniging/journaals/journaal_2009_nr_4.pdf/@@download/file",
+          "current_inventory": "1018",
+          "reviewed_date": "2026-10-28"
+        }
+      ],
+      "reference_review": {
+        "id": "international-v4-vanabbe-black-curve-i",
+        "title": "Black Curve I",
+        "outcome": "scope_excluded_print_after_journal_photo_comparison",
+        "reason": "Recovered actual 2009 journal PDF through the museum’s publicly linked legacy host old-plone. PDFpages 5/6, printed 9/10, show these squared PAPER sheets with pencil edition/signature and broad margins; full illustrations visually compared to current inventories 1019/1018 photos. Current individual records explicitly identify pencil/lithograph on paper, acquired 1985. Historical interview’s schilderijen wording is contradicted by its own visible print illustrations. Exclusion now relies on actual visual identity plus current primary medium, not title/year alone. No painting SVG made. Detailed paired proof saved in vanabbe-scope-comparison.jpg.",
+        "reference_url": "https://vanabbemuseum.nl/en/collection-research/collection/black-curve-i",
+        "reference_id": "research/svg-gap-v6/museums/references/vanabbe-black-primary.html",
+        "reviewed_date": "2026-10-28"
+      }
+    },
+    {
+      "baseline_id": "international-v4-vanabbe-white-curve-i",
+      "title": "White Curve I",
+      "baseline_record_kind": "painting",
+      "status": "proven_nonpainting_scope_exclusion",
+      "exclusion_evidence": [
+        {
+          "record_id": "international-v4-vanabbe-white-curve-i",
+          "primary_medium": "pencil, litho on paper",
+          "primary_url": "https://vanabbemuseum.nl/en/collection-research/collection/white-curve-i",
+          "reason": "Actual recovered primary friends journal 2009 no 4 PDFpage 5 (printedpage 9) illustrates this same squared paper sheet, with the same curved black/white field, broad paper margins and pencil edition/signature below the image. Both actual journal illustration and current museum photo visually compared, not just title/year. Current individual museum record explicitly identifies paper lithograph, inventory 1019, acquired 1985. The friends interview’s colloquial schilderijen wording was insufficient to classify it as canvas painting. This does not remove any separately documented painting of similar title.",
+          "source_ids": [
+            "international-v4:vanabbe-white-curve-i"
+          ],
+          "reference_id": "research/svg-gap-v6/museums/references/vanabbe-journal-p5.png",
+          "evidence_file": "research/svg-gap-v6/museums/references/vanabbe-white.jpg",
+          "comparison_file": "research/svg-gap-v6/museums/vanabbe-scope-comparison.jpg",
+          "journal_url": "https://old-plone.vanabbemuseum.nl/nl/museum/vriendenvereniging/journaals/journaal_2009_nr_4.pdf/@@download/file",
+          "current_inventory": "1019",
+          "reviewed_date": "2026-10-28"
+        }
+      ],
+      "reference_review": {
+        "id": "international-v4-vanabbe-white-curve-i",
+        "title": "White Curve I",
+        "outcome": "scope_excluded_print_after_journal_photo_comparison",
+        "reason": "Recovered actual 2009 journal PDF through the museum’s publicly linked legacy host old-plone. PDFpages 5/6, printed 9/10, show these squared PAPER sheets with pencil edition/signature and broad margins; full illustrations visually compared to current inventories 1019/1018 photos. Current individual records explicitly identify pencil/lithograph on paper, acquired 1985. Historical interview’s schilderijen wording is contradicted by its own visible print illustrations. Exclusion now relies on actual visual identity plus current primary medium, not title/year alone. No painting SVG made. Detailed paired proof saved in vanabbe-scope-comparison.jpg.",
+        "reference_url": "https://vanabbemuseum.nl/en/collection-research/collection/white-curve-i",
+        "reference_id": "research/svg-gap-v6/museums/references/vanabbe-white-primary.html",
+        "reviewed_date": "2026-10-28"
+      }
+    },
+    {
+      "baseline_id": "short-book-v4-surfaceedgecolor25whit-20-grey-panels-ii",
+      "title": "Grey Panels II",
+      "baseline_record_kind": "painting",
+      "current_id": "short-book-v4-surfaceedgecolor25whit-20-grey-panels-ii",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "short-book-v4-surfaceedgecolor25whit-20-grey-panels-ii",
+        "outcome": "remaining_gap",
+        "reason": "Whitney1976publication is text-only. Exact Grey/GrayPanelsII1974searches yielded no authenticated primary image. FoundationEK540GrayPanels is a different likely1976lead, not assumed same as this92×102in work.",
+        "reference_url": "https://archive.org/download/surfaceedgecolor25whit/surfaceedgecolor25whit.pdf#page=20",
+        "reference_id": "research/svg-gap-v5/market/ref-31.png"
+      }
+    },
+    {
+      "baseline_id": "international-v4-k20-concorde-iv",
+      "title": "Concorde IV",
+      "baseline_record_kind": "painting",
+      "current_id": "international-v4-k20-concorde-iv",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "international-v4-k20-concorde-iv",
+        "title": "Concorde IV",
+        "outcome": "image_gap_retained",
+        "reason": "Downloaded the explicitly linked full 3338×4000 primary lightbox image, not a guessed media variant. Top and right support edges remain outside the image. Checked Haus der Kunst 2011 gallery: five captioned views identify other works; none establishes this full outline. Same-title 1981–82 aquatints excluded.",
+        "reference_url": "https://sammlung.kunstsammlung.de/de/werke/68",
+        "reference_id": "research/svg-gap-v6/museums/references/k20-primary-full-linked.jpg",
+        "reviewed_date": "2026-10-28"
+      }
+    },
+    {
+      "baseline_id": "christies-2364185",
+      "title": "Blue White",
+      "baseline_record_kind": "painting",
+      "current_id": "christies-2364185",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "christies-2364185",
+        "outcome": "remaining_gap",
+        "reason": "Christie2364185metadata survives but lotphoto remains unavailable; cited1982MFApublicationp59not publicly recovered in this pass. StudyforBlueWhite1980postcard is a different object and does not establish actual painted contour.",
+        "reference_url": "https://www.christies.com/en/lot/lot-2364185",
+        "reference_id": null
+      }
+    },
+    {
+      "baseline_id": "north-v4-cincinnati-5721",
+      "title": "Black Diamond with White",
+      "baseline_record_kind": "painting",
+      "current_id": "north-v4-cincinnati-5721",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "north-v4-cincinnati-5721",
+        "title": "Black Diamond with White",
+        "outcome": "image_gap_retained",
+        "reason": "Current museum record says Image Not Available. New exact-title, accession and PNC Bank donor searches found no reliable full photograph. Two joined canvas panels and 276.2×367 cm do not establish diamond/white relative geometry.",
+        "reference_url": "https://collection.cincinnatiartmuseum.org/objects/5721/black-diamond-with-white",
+        "reference_id": "research/svg-gap-v5/museums/references/north-v4-cincinnati-5721-0.html",
+        "reviewed_date": "2026-10-28"
+      }
+    },
+    {
+      "baseline_id": "christies-6172919",
+      "title": "Self-Portrait",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "christies-6172919",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "christies-6172919",
+        "outcome": "remaining_gap",
+        "reason": "Complete original primary auction color photo viewed. Detailed portrait relies on fine lines and smudged colored-pencil modeling; no generic face reconstruction substituted.",
+        "reference_url": "https://www.christies.com/en/lot/lot-6172919",
+        "reference_id": "research/svg-gap-v5/market/ref-38.jpg"
+      }
+    },
+    {
+      "baseline_id": "sothebys-en-buy-auction-2019-contemporary-art-online-fe5e6b04-63bb-47a9-8ace-a38e561bc649",
+      "title": "Still Life",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "sothebys-en-buy-auction-2019-contemporary-art-online-fe5e6b04-63bb-47a9-8ace-a38e561bc649",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "sothebys-en-buy-auction-2019-contemporary-art-online-fe5e6b04-63bb-47a9-8ace-a38e561bc649",
+        "outcome": "remaining_gap",
+        "reason": "Larger primary Sotheby1024×755photograph recovered and viewed. Blue corner and fine pencil still-life drawing are jointly material; no vector supplied that drops the drawing.",
+        "reference_url": "https://www.sothebys.com/en/buy/auction/2019/contemporary-art-online/fe5e6b04-63bb-47a9-8ace-a38e561bc649",
+        "reference_id": "research/svg-gap-v6/market/references/still-life.jpg"
+      }
+    },
+    {
+      "baseline_id": "guggenheim1996-cat-85",
+      "title": "Red Curve",
+      "baseline_record_kind": "painting",
+      "current_id": "guggenheim1996-cat-85",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "guggenheim1996-cat-85",
+        "outcome": "remaining_gap",
+        "reason": "1996catalogue plate221shows only cropped right edge; nearby pages checked for foldout/complete image. Primary chronology identifies RafflesCityHotel commission but medium and complete contour remain unresolved. Not joined to another RedCurve merely by title.",
+        "reference_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=221",
+        "reference_id": "research/svg-gap-v6/market/references/gug-221.png"
+      }
+    },
+    {
+      "baseline_id": "museum-v2-mfah-12441",
+      "title": "Green Black",
+      "baseline_record_kind": "painting",
+      "current_id": "museum-v2-mfah-12441",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "museum-v2-mfah-12441",
+        "title": "Green Black",
+        "outcome": "image_gap_retained",
+        "reason": "Primary image blocked; indexed primary inscriptions identify EK 775 and green/black panels but do not establish their arrangement. Rechecked Am I Blue credits for printedpage 25: publicly available PDF only six excerpt/credit pages, without that illustration. Exact 1988/Blum Helman searches and image search yield different print or 1968 painting. No substitute used.",
+        "reference_url": "https://emuseum.mfah.org/objects/12441/green-black",
+        "reference_id": "research/north-american-v4/pages/mfah-amiblue.pdf",
+        "reviewed_date": "2026-10-28"
+      }
+    },
+    {
+      "baseline_id": "artic-v4-193544",
+      "title": "The Chicago Panels",
+      "baseline_record_kind": "painting_group",
+      "current_id": "artic-v4-193544",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "artic-v4-193544",
+        "title": "The Chicago Panels",
+        "outcome": "remaining_svg_gap",
+        "reason": "Six individual Chicago panel studies already exist. Architectural group spans multiple walls; a further invented planar assembly would imply a false canonical arrangement. Group slot preserved.",
+        "reference_url": "https://www.artic.edu/artworks/193544",
+        "reference_id": null
+      }
+    },
+    {
+      "baseline_id": "museum-v2-lenbach-documenta-a",
+      "title": "Blue Panel with Curve",
+      "baseline_record_kind": "painting",
+      "current_id": "museum-v2-lenbach-documenta-a",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "museum-v2-lenbach-documenta-a",
+        "title": "Blue Panel with Curve",
+        "outcome": "image_gap_retained",
+        "reason": "Primary collection group G 17734 a–d withholds image. Rechecked 2022 museum exhibition, prior 43 image inventory/contact, new Art Daily installation lead, documenta IXofficial archive and d’Offay 1992 exhibition route. Available views do not securely identify this named curved support; blue/red corner installation photographs lack component caption/curve proof and cannot be substituted. No title-only shape invented.",
+        "reference_url": "https://www.lenbachhaus.de/en/digital/collection-online/detail/the-documenta-room-a-blue-panel-with-curve-1991-b-red-panel-with-curve-1991-c-green-panel-with-curve-1992-d-white-panel-with-curve-1992-30014052",
+        "reference_id": "research/international-v4/lenbach-contact.jpg",
+        "reviewed_date": "2026-10-28"
+      }
+    },
+    {
+      "baseline_id": "museum-v2-lenbach-documenta-b",
+      "title": "Red Panel with Curve",
+      "baseline_record_kind": "painting",
+      "current_id": "museum-v2-lenbach-documenta-b",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "museum-v2-lenbach-documenta-b",
+        "title": "Red Panel with Curve",
+        "outcome": "image_gap_retained",
+        "reason": "Primary collection group G 17734 a–d withholds image. Rechecked 2022 museum exhibition, prior 43 image inventory/contact, new Art Daily installation lead, documenta IXofficial archive and d’Offay 1992 exhibition route. Available views do not securely identify this named curved support; blue/red corner installation photographs lack component caption/curve proof and cannot be substituted. No title-only shape invented.",
+        "reference_url": "https://www.lenbachhaus.de/en/digital/collection-online/detail/the-documenta-room-a-blue-panel-with-curve-1991-b-red-panel-with-curve-1991-c-green-panel-with-curve-1992-d-white-panel-with-curve-1992-30014052",
+        "reference_id": "research/international-v4/lenbach-contact.jpg",
+        "reviewed_date": "2026-10-28"
+      }
+    },
+    {
+      "baseline_id": "museum-v2-lenbach-documenta-c",
+      "title": "Green Panel with Curve",
+      "baseline_record_kind": "painting",
+      "current_id": "museum-v2-lenbach-documenta-c",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "museum-v2-lenbach-documenta-c",
+        "title": "Green Panel with Curve",
+        "outcome": "image_gap_retained",
+        "reason": "Primary collection group G 17734 a–d withholds image. Rechecked 2022 museum exhibition, prior 43 image inventory/contact, new Art Daily installation lead, documenta IXofficial archive and d’Offay 1992 exhibition route. Available views do not securely identify this named curved support; blue/red corner installation photographs lack component caption/curve proof and cannot be substituted. No title-only shape invented.",
+        "reference_url": "https://www.lenbachhaus.de/en/digital/collection-online/detail/the-documenta-room-a-blue-panel-with-curve-1991-b-red-panel-with-curve-1991-c-green-panel-with-curve-1992-d-white-panel-with-curve-1992-30014052",
+        "reference_id": "research/international-v4/lenbach-contact.jpg",
+        "reviewed_date": "2026-10-28"
+      }
+    },
+    {
+      "baseline_id": "museum-v2-lenbach-documenta-d",
+      "title": "White Panel with Curve",
+      "baseline_record_kind": "painting",
+      "current_id": "museum-v2-lenbach-documenta-d",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "museum-v2-lenbach-documenta-d",
+        "title": "White Panel with Curve",
+        "outcome": "image_gap_retained",
+        "reason": "Primary collection group G 17734 a–d withholds image. Rechecked 2022 museum exhibition, prior 43 image inventory/contact, new Art Daily installation lead, documenta IXofficial archive and d’Offay 1992 exhibition route. Available views do not securely identify this named curved support; blue/red corner installation photographs lack component caption/curve proof and cannot be substituted. No title-only shape invented.",
+        "reference_url": "https://www.lenbachhaus.de/en/digital/collection-online/detail/the-documenta-room-a-blue-panel-with-curve-1991-b-red-panel-with-curve-1991-c-green-panel-with-curve-1992-d-white-panel-with-curve-1992-30014052",
+        "reference_id": "research/international-v4/lenbach-contact.jpg",
+        "reviewed_date": "2026-10-28"
+      }
+    },
+    {
+      "baseline_id": "christies-onlineonly-23553-123",
+      "title": "Untitled",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "christies-onlineonly-23553-123",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "christies-onlineonly-23553-123",
+        "outcome": "remaining_gap",
+        "reason": "Actual auction color photo viewed: two distinct lipstick face impressions. Irregular transferred texture and facial information cannot be faithfully reduced to generic painted polygons.",
+        "reference_url": "https://onlineonly.christies.com/s/first-open-post-war-contemporary-art/ellsworth-kelly-1923-2015-123/263626",
+        "reference_id": "research/svg-gap-v5/market/ref-44.jpg"
+      }
+    },
+    {
+      "baseline_id": "tate-26107",
+      "title": "Yellow Curve",
+      "baseline_record_kind": "painting",
+      "current_id": "tate-26107",
+      "status": "new_svg",
+      "svg": "assets/studies/v6-museum-tate-26107.svg",
+      "reference_review": {
+        "id": "tate-26107",
+        "title": "Yellow Curve",
+        "outcome": "svg_created",
+        "reason": "Tate’s exact T 07403 collection page supplied the full official image, viewed and downloaded through its ordinary public image element. Three yellow edges are visible: nearly horizontal top, long sloping left and gently bowed right. The source photograph is slightly oblique. Current Tate details still report support 1357 × 3556 × 32 mm, in conflict with the tall observed support. No dimension swap, physical-size correction or identity with another Yellow Curve is inferred. Study keeps the observed support proportions and is excluded from true-scale plotting.",
+        "reference_url": "https://media.tate.org.uk/art/images/work/T/T07/T07403_10.jpg",
+        "reference_id": "research/svg-gap-v6/museums/references/tate-yellow-primary.jpg",
+        "reviewed_date": "2026-10-28"
+      }
+    },
+    {
+      "baseline_id": "gap-blue-white-2006",
+      "title": "Blue White",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "gap-blue-white-2006",
+      "status": "new_svg",
+      "svg": "assets/studies/v6-root-gap-blue-white-2006.svg",
+      "reference_review": {
+        "id": "gap-blue-white-2006",
+        "title": "Blue White",
+        "outcome": "new_svg",
+        "reason": "Actual museum lobby photograph credited E. Scott McDonald and independent project architect Scott Lauer show the full work: blue upper panel joined to a white lower panel. The current exhibition hero depicts Youngerman May, not this work; it is excluded as a reference. This drawing retains the observed oblique projection, not an invented frontal parallelogram or dimensions. Museum describes the commission as a painting; its older wall-sculpture wording remains a classification note.",
+        "reference_url": "https://www.artmuseumgr.org/exhibitions/ellsworth-kelly-jack-youngerman-surrounding-shapes",
+        "reference_id": "research/svg-gap-v6/root/gram-mcdonald.jpg"
+      }
+    },
+    {
+      "baseline_id": "north-v4-mfa-white-relief-over-white",
+      "title": "White Relief Over White",
+      "baseline_record_kind": "painting",
+      "current_id": "north-v4-mfa-white-relief-over-white",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "north-v4-mfa-white-relief-over-white",
+        "title": "White Relief Over White",
+        "outcome": "image_gap_retained",
+        "reason": "New Lubin/title searches reconfirm 2014 promised gift of two joined panels, without accession, dimensions, image or completed gift confirmation. Marks 2012 same-title relief already has a study, but source identity is not established beyond title/year/panel count. No duplicated SVG or forced merge.",
+        "reference_url": "https://www.mfa.org/news/mr20-weekend",
+        "reference_id": "research/svg-gap-v5/museums/references/north-v4-mfa-white-relief-over-white-0.html",
+        "reviewed_date": "2026-10-28"
+      }
+    },
+    {
+      "baseline_id": "international-v4-flv-colored-panels",
+      "title": "Colored Panels (Red, Yellow, Blue, Green, Violet)",
+      "baseline_record_kind": "painting_group_candidate",
+      "current_id": "international-v4-flv-colored-panels",
+      "status": "new_svg",
+      "svg": "assets/studies/v6-museum-international-v4-flv-colored-panels.svg",
+      "reference_review": {
+        "id": "international-v4-flv-colored-panels",
+        "title": "Colored Panels (Red, Yellow, Blue, Green, Violet)",
+        "outcome": "svg_created",
+        "reason": "Partial installation study: five displayed panels of the museum’s stated six-panel work. The sixth panel is not specified or pictured and is not invented. This is the five panels’ observed perspective arrangement in the official auditorium photograph, with all architecture and empty wall transparent; it is not a canonical flat arrangement of the complete work. Individual panels are physically rectangular on different wall planes. Museum component dimensions are retained separately; no aggregate physical size is inferred. Violet is represented by the searchable purple color family. Excluded from true-scale plotting.",
+        "reference_url": "https://www.fondationlouisvuitton.fr/en/collection/artworks/colored-panels-red-yellow-blue-green-violet",
+        "reference_id": "research/svg-gap-v6/museums/references/flv-panel-view1.jpg",
+        "reviewed_date": "2026-10-28"
+      }
+    },
+    {
+      "baseline_id": "short-book-v4-ellsworthkellylastpaintings-201811-40-four-panels-blue-black-green-red",
+      "title": "Four Panels (Blue Black Green Red)",
+      "baseline_record_kind": "painting",
+      "current_id": "short-book-v4-ellsworthkellylastpaintings-201811-40-four-panels-blue-black-green-red",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "short-book-v4-ellsworthkellylastpaintings-201811-40-four-panels-blue-black-green-red",
+        "outcome": "remaining_gap",
+        "reason": "Primary2017last-paintingsessay explicitly describes unfinished2015black/whitegesso stage; intended blue/black/green/red were not completed. No actual complete studio image recovered; no invented finished-color SVG.",
+        "reference_url": "https://archive.org/download/EllsworthKellyLastPaintings_201811/EllsworthKellyLastPaintings.pdf#page=40",
+        "reference_id": "research/svg-gap-v5/market/ref-47.png"
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek292-ellsworth-kelly-2",
+      "title": "Black Curve",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek292-ellsworth-kelly-2",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek292-ellsworth-kelly-2",
+        "title": "Black Curve",
+        "canonical_id": "EK 292",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "The 1962 Tooth photograph labels Black Curve EK292, but the work is partly cut by the doorway and image edge. Its whole rectangular ground, curve and pigment assignment are not established by the inspected view.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-2/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-38.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek431-ellsworth-kelly-4",
+      "title": "Black Green",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek431-ellsworth-kelly-4",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek431-ellsworth-kelly-4",
+        "title": "Black Green",
+        "canonical_id": "EK 431",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Black Green is visible in the 1973 installation. A possible Glenstone 1970 match exists, but a generic two-panel colour division without an independent EK/dimension or provenance bridge is insufficient to merge; no duplicate study was attached.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-52.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek65-ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954",
+      "title": "Black Square",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek65-ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek65-ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954",
+        "title": "Black Square",
+        "canonical_id": "EK 65",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Black Square is only partly visible at the far left of the colour installation. A generic black square cannot be merged to the 1953 historical slot without a more specific physical-identity bridge.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-75.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek380-ellsworth-kelly-a-retrospective",
+      "title": "Black White",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek380-ellsworth-kelly-a-retrospective",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek380-ellsworth-kelly-a-retrospective",
+        "title": "Black White",
+        "canonical_id": "EK 380",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "The retrospective image shows a horizontal black-and-white division, but several same-title works exist. The oblique view does not establish overall dimensions or a reliable independent match to the 1967 book record.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-79.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek396-ellsworth-kelly-a-retrospective",
+      "title": "Black White",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek396-ellsworth-kelly-a-retrospective",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek396-ellsworth-kelly-a-retrospective",
+        "title": "Black White",
+        "canonical_id": "EK 396",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "The retrospective identifies a square black-and-white diagonal work. A possible 1968 historical counterpart exists, but no exact EK or dimension/provenance bridge was independently verified; retained separately.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-79.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek415-ellsworth-kelly-sculpture",
+      "title": "Black White",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek415-ellsworth-kelly-sculpture",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek415-ellsworth-kelly-sculpture",
+        "title": "Black White",
+        "canonical_id": "EK 415",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "The inspected sculpture installation shows a leaning black-and-white object partly behind another work. Medium, complete support and rectified geometry remain unresolved.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-14.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek433-ellsworth-kelly-4",
+      "title": "Black Yellow-Orange",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek433-ellsworth-kelly-4",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek433-ellsworth-kelly-4",
+        "title": "Black Yellow-Orange",
+        "canonical_id": "EK 433",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "A black field inside a yellow-orange border appears in the 1973 installation. A possible 1970 historical match is plausible, but it was not completed with independent support dimensions or an exact primary identity bridge during this pass. The 1970 historical Black Yellow-Orange is a plausible match, but no new exact EK, dimensions or provenance bridge was obtained. The remaining named slot is deliberately preserved.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-52.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "gap-blue-green-undated",
+      "title": "Blue Green",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "gap-blue-green-undated",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "gap-blue-green-undated",
+        "title": "Blue Green",
+        "outcome": "remaining_svg_gap",
+        "reason": "Fresh Paris municipal architectural report 2021 PDF 23 confirms a Kelly canvas painting in the UNESCO cafeteria, supporting the known commission, but provides no identified usable artwork reproduction. Unrelated 1970 BlueGreen lithographs and 1968 private paintings rejected.",
+        "reference_url": "https://ellsworthkelly.org/chronology/",
+        "reference_id": "research/svg-gap-v6/root/unesco-city-report.pdf"
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek521-ellsworth-kelly-paintings-and-sculptures-1963-1979",
+      "title": "Blue Red Rocker",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek521-ellsworth-kelly-paintings-and-sculptures-1963-1979",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek521-ellsworth-kelly-paintings-and-sculptures-1963-1979",
+        "title": "Blue Red Rocker",
+        "canonical_id": "EK 521",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "The source preserves a named work, but a specifically identified complete image with verified support boundaries, original colour placement and painting-scope material was not established. No generic same-title work was substituted. The photograph resembles Blue Red Rocker 1963, commonly EK 321, but the source explicitly prints EK 521. This numbering conflict remains unresolved; a presumed typo was not silently corrected.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-and-sculptures-1963-1979/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-37.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek317-ellsworth-kelly-4",
+      "title": "Blue over Blue",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "lacma-33895",
+      "status": "identity_reconciled_with_existing_svg",
+      "svg": "assets/studies/v4-north-american-lacma-33895.svg",
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek317-ellsworth-kelly-4",
+        "title": "Blue over Blue",
+        "canonical_id": "EK 317",
+        "reviewed_date": "2026-10-28",
+        "outcome": "identity_merged",
+        "reason": "Blue over Blue / Blue on Blue: identical unusual blue rectangular backing and raised curved D-shaped overlay, with the same slight left projection and long right convex edge. Foundation chronology names Blue over Blue in the 1964 Post-Painterly Abstraction exhibition, independently cited in the current LACMA object bibliography for Blue on Blue 1963. The 1973 Foundation photograph matches the actual current LACMA image. A differing historical 1973 height report remains unresolved; current LACMA 203.2 × 152.4 × 19.05 cm and its explicit Paintings classification remain unchanged. This museum-classified painted-aluminum relief is not excluded as a sculpture. Foundation image caption explicitly supplies EK 317. Both actual photographs were visually inspected; colour names alone did not establish identity.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-64.jpg",
+        "target_id": "lacma-33895",
+        "target_reference_id": "research/north-american-v4/reference-images/lacma-33895.jpg"
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek162-ellsworth-kelly",
+      "title": "Brooklyn Bridge II",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek162-ellsworth-kelly",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek162-ellsworth-kelly",
+        "title": "Brooklyn Bridge II",
+        "canonical_id": "EK 162",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Brooklyn Bridge II is visible in a grayscale 1958 installation only. Original colour placement and the painted support boundaries cannot be safely inferred from that image.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-22.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek226-sixteen-americans",
+      "title": "Charter",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "north-v4-yale-charter",
+      "status": "identity_reconciled_with_existing_svg",
+      "svg": "assets/studies/v5-museum-north-v4-yale-charter.svg",
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek226-sixteen-americans",
+        "title": "Charter",
+        "canonical_id": "EK 226",
+        "reviewed_date": "2026-10-28",
+        "outcome": "identity_merged",
+        "reason": "Charter: identical two-part composition with an unevenly rounded orange quadrilateral on a white upper ground above a black rectangular lower panel; the outline and the upper/lower division match the specifically captioned Yale 1959 photograph. The primary Foundation text identifies Charter among the eight paintings selected for Sixteen Americans in 1959, matching the museum date and distinctive motif. Physical dimensions remain unknown. Foundation image caption explicitly supplies EK 226. Both actual photographs were visually inspected; colour names alone did not establish identity.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/sixteen-americans/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-68.jpg",
+        "target_id": "north-v4-yale-charter",
+        "target_reference_id": "research/svg-gap-v5/museums/references/yale-charter.jpg"
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek33-kelly-peintures-et-reliefs",
+      "title": "Colors on Wood",
+      "baseline_record_kind": "painting",
+      "current_id": "foundation-exhib-v4-ek33-kelly-peintures-et-reliefs",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek33-kelly-peintures-et-reliefs",
+        "title": "Colors on Wood",
+        "canonical_id": "EK 33",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Colors on Wood is visible only in a small grayscale 1951 installation view. Original colours and precise fragment placements remain unresolved.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/kelly-peintures-et-reliefs/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-17.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek517-ellsworth-kelly-paintings-and-sculptures-1963-1979",
+      "title": "Curve III",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek517-ellsworth-kelly-paintings-and-sculptures-1963-1979",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek517-ellsworth-kelly-paintings-and-sculptures-1963-1979",
+        "title": "Curve III",
+        "canonical_id": "EK 517",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Curve III appears in a 1979 installation photograph with freestanding sculptures. Exact material and the complete curve/support relation were not independently established; it remains a provisional candidate.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-and-sculptures-1963-1979/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-34.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek528-ellsworth-kelly-sculpture",
+      "title": "Curve XIII",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek528-ellsworth-kelly-sculpture",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek528-ellsworth-kelly-sculpture",
+        "title": "Curve XIII",
+        "canonical_id": "EK 528",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "The photographed folded sheet-like Curve XIII could be sculpture; exact primary material and unfolded support geometry were not verified. No wall-like white polygon was invented.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-9.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek627-ellsworth-kelly-sculpture",
+      "title": "Curve XXV",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek627-ellsworth-kelly-sculpture",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek627-ellsworth-kelly-sculpture",
+        "title": "Curve XXV",
+        "canonical_id": "EK 627",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Curve XXV is partly obscured in a sculpture installation; the material and complete support are unverified.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-9.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek630-ellsworth-kelly-sculpture",
+      "title": "Curve XXVII",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek630-ellsworth-kelly-sculpture",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek630-ellsworth-kelly-sculpture",
+        "title": "Curve XXVII",
+        "canonical_id": "EK 630",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Curve XXVII appears as a freestanding curved form. Its exact primary medium, full rear boundary and projection remain unresolved.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-12.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek651-ellsworth-kelly-sculpture",
+      "title": "Curve XXX",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek651-ellsworth-kelly-sculpture",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek651-ellsworth-kelly-sculpture",
+        "title": "Curve XXX",
+        "canonical_id": "EK 651",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Curve XXX appears among freestanding sheets in a sculpture exhibition; exact medium and full outline remain unverified.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-7.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek653-ellsworth-kelly-sculpture",
+      "title": "Curve XXXII",
+      "baseline_record_kind": "painting_candidate",
+      "status": "proven_nonpainting_scope_exclusion",
+      "exclusion_evidence": [
+        {
+          "record_id": "foundation-exhib-v4-ek653-ellsworth-kelly-sculpture",
+          "canonical_id": "EK 653",
+          "primary_medium": "(Corten) weathering steel",
+          "primary_url": "https://www.metmuseum.org/art/collection/search/484637",
+          "reason": "Curve XXXII EK 653 is the wide freestanding panel with two subtly concave sides at right in the Foundation 1982 sculpture installation. The actual Met photo and historical 1996 catalogue entry 83 show that same distinctive square sheet with inward-curving sides. The primary Met object 484637 explicitly dates it 1982 and classifies it Sculpture in weathering steel, 274.3 × 264.8 × 46.4 cm. Material and physical form are corroborated, not inferred from tonal appearance.",
+          "source_ids": [
+            "foundation-exhib-v4:EK653:ellsworth-kelly-sculpture"
+          ],
+          "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-7.jpg",
+          "evidence_file": "research/svg-gap-v6/foundation/met-curve-xxxii.jpg"
+        }
+      ],
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek653-ellsworth-kelly-sculpture",
+        "title": "Curve XXXII",
+        "canonical_id": "EK 653",
+        "reviewed_date": "2026-10-28",
+        "outcome": "scope_excluded",
+        "reason": "Curve XXXII EK 653 is the wide freestanding panel with two subtly concave sides at right in the Foundation 1982 sculpture installation. The actual Met photo and historical 1996 catalogue entry 83 show that same distinctive square sheet with inward-curving sides. The primary Met object 484637 explicitly dates it 1982 and classifies it Sculpture in weathering steel, 274.3 × 264.8 × 46.4 cm. Material and physical form are corroborated, not inferred from tonal appearance.",
+        "reference_url": "https://www.metmuseum.org/art/collection/search/484637",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-7.jpg",
+        "target_reference_id": "research/svg-gap-v6/foundation/met-curve-xxxii.jpg"
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek674-ellsworth-kelly-sculpture",
+      "title": "Curve XXXIII",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek674-ellsworth-kelly-sculpture",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek674-ellsworth-kelly-sculpture",
+        "title": "Curve XXXIII",
+        "canonical_id": "EK 674",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Curve XXXIII appears as a black leaf-like wall form in a sculpture installation. Material and an exact independent physical-identity match remain unverified.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-13.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek657-ellsworth-kelly-sculpture",
+      "title": "Dark Blue Panel",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek657-ellsworth-kelly-sculpture",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek657-ellsworth-kelly-sculpture",
+        "title": "Dark Blue Panel",
+        "canonical_id": "EK 657",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Dark Blue Panel is visible as a small dark leaning panel in a sculpture installation; exact medium and complete silhouette are not independently established.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-5.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek346-ellsworth-kelly-3",
+      "title": "Dark Blue Red",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek346-ellsworth-kelly-3",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek346-ellsworth-kelly-3",
+        "title": "Dark Blue Red",
+        "canonical_id": "EK 346",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Dark Blue Red appears in a grayscale Ferus 1966 photograph. Which observed tonal field is blue versus red was not independently confirmed in colour or a placement description.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-3/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-24.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek248-ellsworth-kelly-2",
+      "title": "Dark Blue White",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek248-ellsworth-kelly-2",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek248-ellsworth-kelly-2",
+        "title": "Dark Blue White",
+        "canonical_id": "EK 248",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Dark Blue White appears as two rounded dark lobes on white in a grayscale 1962 installation. A complete independently identified colour reference and exact support proportions were not obtained.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-2/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-40.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek663-ellsworth-kelly-sculpture",
+      "title": "Dark Red-Violet Panel",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek663-ellsworth-kelly-sculpture",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek663-ellsworth-kelly-sculpture",
+        "title": "Dark Red-Violet Panel",
+        "canonical_id": "EK 663",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Dark Red-Violet Panel is a small leaning form in a sculpture installation; medium and complete rectified outline remain unresolved.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-5.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek7-ellsworth-kelly-paris-new-york-1949-1959",
+      "title": "Deesis I",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek7-ellsworth-kelly-paris-new-york-1949-1959",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek7-ellsworth-kelly-paris-new-york-1949-1959",
+        "title": "Deesis I",
+        "canonical_id": "EK 7",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Deesis I appears in a historical-works installation, but the small image does not resolve the marks and support sufficiently for a faithful vector reconstruction. No sufficiently legible individually identified reproduction was recovered; the full figure/support marks remain beyond the available installation image.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paris-new-york-1949-1959/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-45.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek564-ellsworth-kelly-paintings-and-sculptures-1963-1979",
+      "title": "Diagonal with Curve III",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "guggenheim1996-essay-74-fig-3",
+      "status": "identity_reconciled_with_existing_svg",
+      "svg": "assets/studies/v5-market-33-guggenheim1996-essay-74-fig-3.svg",
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek564-ellsworth-kelly-paintings-and-sculptures-1963-1979",
+        "title": "Diagonal with Curve III",
+        "canonical_id": "EK 564",
+        "reviewed_date": "2026-10-28",
+        "outcome": "identity_merged",
+        "reason": "Diagonal with Curve III: identical narrow black ascending diagonal band with a curved left edge and short vertical cuts at both ends. The 1978 Philadelphia painting in the primary 1996 essay figure 3 has that distinctive contour and portrait outer aspect, and was shown in the 1963–1979 retrospective documented by the Foundation. No unrelated numbered diagonal curve was substituted. Foundation image caption explicitly supplies EK 564. Both actual photographs were visually inspected; colour names alone did not establish identity.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-and-sculptures-1963-1979/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-35.jpg",
+        "target_id": "guggenheim1996-essay-74-fig-3",
+        "target_reference_id": "research/svg-gap-v5/market/ref-33.png"
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek593-ellsworth-kelly-paintings-and-sculptures-1963-1979",
+      "title": "Diagonal with Curve IX",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek593-ellsworth-kelly-paintings-and-sculptures-1963-1979",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek593-ellsworth-kelly-paintings-and-sculptures-1963-1979",
+        "title": "Diagonal with Curve IX",
+        "canonical_id": "EK 593",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Diagonal with Curve IX appears as a narrow dark diagonal panel in a sculpture installation. Complete support boundaries and primary medium remain uncertain.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-9.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek31-kelly-peintures-et-reliefs",
+      "title": "Fond Noir",
+      "baseline_record_kind": "painting",
+      "current_id": "foundation-exhib-v4-ek31-kelly-peintures-et-reliefs",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek31-kelly-peintures-et-reliefs",
+        "title": "Fond Noir",
+        "canonical_id": "EK 31",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Fond Noir is known from the 1951 grayscale installation. The title confirms a dark ground, but the fragment pigments and complete arrangement are not established.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/kelly-peintures-et-reliefs/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-19.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek540-ellsworth-kelly-paintings-and-sculptures-1963-1979",
+      "title": "Gray Panels",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek540-ellsworth-kelly-paintings-and-sculptures-1963-1979",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek540-ellsworth-kelly-paintings-and-sculptures-1963-1979",
+        "title": "Gray Panels",
+        "canonical_id": "EK 540",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Gray Panels is visible in grayscale, but the tonal rank of four panels does not establish their original neutral pigment values or exact panel widths. No substitute gray palette was published.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-and-sculptures-1963-1979/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-33.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek414-ellsworth-kelly-4",
+      "title": "Green Blue",
+      "baseline_record_kind": "painting_candidate",
+      "status": "proven_nonpainting_scope_exclusion",
+      "exclusion_evidence": [
+        {
+          "record_id": "foundation-exhib-v4-ek414-ellsworth-kelly-4",
+          "canonical_id": "EK 414",
+          "primary_medium": "Painted aluminum",
+          "primary_url": "https://www.moma.org/collection/works/82045",
+          "reason": "Green Blue EK 414 in the Foundation 1973 and 1982 sculpture installations is the distinctive folded pair of triangular planes, wide across the top and meeting at a low point. The actual current MoMA photo shows the same structure; its primary object 82045 explicitly dates it 1968 and classifies it Sculpture, painted aluminum, 262.7 × 285.5 × 173.7 cm. This is not a canvas painting.",
+          "source_ids": [
+            "foundation-exhib-v4:EK414:ellsworth-kelly-4",
+            "foundation-exhib-v4:EK414:ellsworth-kelly-sculpture"
+          ],
+          "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-54.jpg",
+          "evidence_file": "research/svg-gap-v6/foundation/moma-green-blue.jpg"
+        }
+      ],
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek414-ellsworth-kelly-4",
+        "title": "Green Blue",
+        "canonical_id": "EK 414",
+        "reviewed_date": "2026-10-28",
+        "outcome": "scope_excluded",
+        "reason": "Green Blue EK 414 in the Foundation 1973 and 1982 sculpture installations is the distinctive folded pair of triangular planes, wide across the top and meeting at a low point. The actual current MoMA photo shows the same structure; its primary object 82045 explicitly dates it 1968 and classifies it Sculpture, painted aluminum, 262.7 × 285.5 × 173.7 cm. This is not a canvas painting.",
+        "reference_url": "https://www.moma.org/collection/works/82045",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-54.jpg",
+        "target_reference_id": "research/svg-gap-v6/foundation/moma-green-blue.jpg"
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek215-ellsworth-kelly-2",
+      "title": "Green White",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek215-ellsworth-kelly-2",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek215-ellsworth-kelly-2",
+        "title": "Green White",
+        "canonical_id": "EK 215",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Green White appears as a rounded field on a rectangular support in a grayscale photograph. Exact pigment placement and independently rectified geometry remain unresolved.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-2/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-40.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek169-ellsworth-kelly-a-retrospective",
+      "title": "Jersey",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "guggenheim1996-cat-32",
+      "status": "identity_reconciled_with_existing_svg",
+      "svg": "assets/studies/v4-public-guggenheim1996-32.svg",
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek169-ellsworth-kelly-a-retrospective",
+        "title": "Jersey",
+        "canonical_id": "EK 169",
+        "reviewed_date": "2026-10-28",
+        "outcome": "identity_merged",
+        "reason": "Jersey: identical distinctive green-and-white landscape painting with a broad green diagonal curved strip, white wedge at upper right, and narrow white diagonal passage at lower left. The 1958 historical object and 1996 retrospective installation agree in uncommon field geometry and support proportions; this is more specific than a plain green panel. Foundation image caption explicitly supplies EK 169. Both actual photographs were visually inspected; colour names alone did not establish identity.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-76.jpg",
+        "target_id": "guggenheim1996-cat-32",
+        "target_reference_id": "research/public-catalogues-v4/pages/page-137.png"
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek665-ellsworth-kelly-sculpture",
+      "title": "Light Green Panel",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek665-ellsworth-kelly-sculpture",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek665-ellsworth-kelly-sculpture",
+        "title": "Light Green Panel",
+        "canonical_id": "EK 665",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Light Green Panel is visible leaning against a wall in a sculpture installation. The medium and exact physical form were not independently confirmed.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-5.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek144-ellsworth-kelly",
+      "title": "Manhattan",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek144-ellsworth-kelly",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek144-ellsworth-kelly",
+        "title": "Manhattan",
+        "canonical_id": "EK 144",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Manhattan appears in the 1958 grayscale installation as curved vertical strips. Its original pigments and exact strip outlines remain unresolved.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-20.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek17-kelly-peintures-et-reliefs",
+      "title": "Medieval Landscape",
+      "baseline_record_kind": "painting",
+      "current_id": "foundation-exhib-v4-ek17-kelly-peintures-et-reliefs",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek17-kelly-peintures-et-reliefs",
+        "title": "Medieval Landscape",
+        "canonical_id": "EK 17",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Medieval Landscape is visible only as a small grayscale early work. Detailed drawn/painted marks and original pigment placement cannot be reconstructed faithfully from this reference. The surviving small grayscale marks are insufficient for this relatively detailed early composition; no geometric substitute was drawn.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/kelly-peintures-et-reliefs/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-18.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek268-ellsworth-kelly-2",
+      "title": "Orange White",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek268-ellsworth-kelly-2",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek268-ellsworth-kelly-2",
+        "title": "Orange White",
+        "canonical_id": "EK 268",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Orange White appears in a grayscale 1962 installation. The broad rounded field and narrow wedges are visible, but original colour placement is not independently established.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-2/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-38.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek446-ellsworth-kelly-4",
+      "title": "Orange with Green",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek446-ellsworth-kelly-4",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek446-ellsworth-kelly-4",
+        "title": "Orange with Green",
+        "canonical_id": "EK 446",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Orange with Green appears only partly in the inspected 1973 colour installation. Its full panel boundaries and layout are obscured; no unseen fields were invented.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-58.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek29-kelly-peintures-et-reliefs",
+      "title": "Ormesson",
+      "baseline_record_kind": "painting",
+      "current_id": "foundation-exhib-v4-ek29-kelly-peintures-et-reliefs",
+      "status": "new_svg",
+      "svg": "assets/studies/v6-root-gap-ormesson-1950.svg",
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek29-kelly-peintures-et-reliefs",
+        "title": "Ormesson",
+        "canonical_id": "EK 29",
+        "reviewed_date": "2026-10-28",
+        "outcome": "identity_merged",
+        "reason": "The retained Foundation EK 29 record is the same physical Ormesson triptych as the parallel chronology gap. The Foundation 1951 installation explicitly labels Ormesson EK 29 and shows all three joined panels: the black left stripe and green inverted-U motif in the first panel, bent green vertical stripe in the centre, and black upper-left frame/green verticals in the third. These exact distinctive motifs agree with the colour triptych reproduced as Ormesson 1950 in the university thesis figure 25, printed page 65. The primary Foundation chronology names the work in the 1951 exhibition, and the 1973 MoMA catalogue note 26 calls Ormesson a 1950 painting. Secondary thesis dimensions are not silently promoted to primary physical-scale facts. The newly drawn colour study belongs to the shared root batch and is counted once there.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/kelly-peintures-et-reliefs/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-18.jpg",
+        "target_id": "foundation-exhib-v4-ek29-kelly-peintures-et-reliefs",
+        "merge_ids": [
+          "gap-ormesson-1950"
+        ],
+        "target_reference_id": "research/svg-gap-v6/root/ormesson-thesis-p65.png"
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek291-ellsworth-kelly-2",
+      "title": "Red Black Blue",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek291-ellsworth-kelly-2",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek291-ellsworth-kelly-2",
+        "title": "Red Black Blue",
+        "canonical_id": "EK 291",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Red Black Blue is visible in a grayscale 1962 installation. Three colour names do not identify which tonal fields received those pigments; it remains open.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-2/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-40.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek491-la-couleur-seule-lexperience-du-monochrome-color-alone-the-monochrome-as-experiment",
+      "title": "Red Curve IV",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "museum-v2-grenoble-red-curve-iv",
+      "status": "identity_reconciled_with_existing_svg",
+      "svg": "assets/studies/v4-international-grenoble-red-curve-iv.svg",
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek491-la-couleur-seule-lexperience-du-monochrome-color-alone-the-monochrome-as-experiment",
+        "title": "Red Curve IV",
+        "canonical_id": "EK 491",
+        "reviewed_date": "2026-10-28",
+        "outcome": "identity_merged",
+        "reason": "Red Curve IV: identical red segment inside the lower-right white half-square, with matching diagonal chord, convex arc, white triangular backing and pointed endpoints. The primary Grenoble object dates the work 1973 and gives 254 × 254 cm; the 1988 Foundation-captioned installation depicts that specific half-square composition. The painted white lower/right support is retained. Foundation image caption explicitly supplies EK 491. Both actual photographs were visually inspected; colour names alone did not establish identity.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/la-couleur-seule-lexperience-du-monochrome-color-alone-the-monochrome-as-experiment/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-50.jpg",
+        "target_id": "museum-v2-grenoble-red-curve-iv",
+        "target_reference_id": "research/international-v4/reference-images/museum-v2-grenoble-red-curve-iv.jpg"
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek81-ellsworth-kelly-paintings-1951-1956",
+      "title": "Red Curves",
+      "baseline_record_kind": "painting",
+      "current_id": "foundation-exhib-v4-ek81-ellsworth-kelly-paintings-1951-1956",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek81-ellsworth-kelly-paintings-1951-1956",
+        "title": "Red Curves",
+        "canonical_id": "EK 81",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "The 1956 Foundation photo explicitly labels Red Curves EK81 and shows the paired curved motif. The primary Menil 2017–18 article confirms 1955 oil on linen,45×35in, but its old CloudFront host failed DNS/web502; the current site path is404 and native search returned504. No actual colour image was acquired, so no speculative red/white study was published. The Menil article metadata remains a valuable primary lead; an accessible colour image of the specifically identified Red Curves was not recovered in this renewed pass.",
+        "reference_url": "https://d27m4mjhi8p0i4.cloudfront.net/read/articles/23-ellsworth-kelly-at-the-menil",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-32.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek141-ellsworth-kelly",
+      "title": "Red White",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek141-ellsworth-kelly",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek141-ellsworth-kelly",
+        "title": "Red White",
+        "canonical_id": "EK 141",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Red White appears as an angular field in a grayscale 1958 installation. Exact colour placement and support boundaries remain unresolved.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-21.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek296-exhibition-biennale-xxxiii",
+      "title": "Red White",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek296-exhibition-biennale-xxxiii",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek296-exhibition-biennale-xxxiii",
+        "title": "Red White",
+        "canonical_id": "EK 296",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Red White appears in a grayscale Venice 1966 installation; the rounded two-lobed field is legible, but independent colour placement was not confirmed. The title alone was not used to assign pigments.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/exhibition-biennale-xxxiii/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-1.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek16-ellsworth-kelly-paris-new-york-1949-1959",
+      "title": "Romantic Landscape",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek16-ellsworth-kelly-paris-new-york-1949-1959",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek16-ellsworth-kelly-paris-new-york-1949-1959",
+        "title": "Romantic Landscape",
+        "canonical_id": "EK 16",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Romantic Landscape is too small in the inspected historical-works installation for its detailed marks and support to be reconstructed accurately. No sufficiently legible individually identified reproduction was recovered; the full figure/support marks remain beyond the available installation image.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paris-new-york-1949-1959/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-45.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek30-kelly-peintures-et-reliefs",
+      "title": "Royan",
+      "baseline_record_kind": "painting",
+      "current_id": "foundation-exhib-v4-ek30-kelly-peintures-et-reliefs",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek30-kelly-peintures-et-reliefs",
+        "title": "Royan",
+        "canonical_id": "EK 30",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Royan appears in the 1951 grayscale installation as a long composition with curved line fragments. Original colours and exact fragment geometry remain unresolved. A scholarly review of the early catalogue raisonné additionally reports Royan’s whereabouts unknown. No stronger colour reproduction was recovered.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/kelly-peintures-et-reliefs/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-15.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-eka-31-ellsworth-kelly-paris-new-york-1949-1959",
+      "title": "Seaweed",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-eka-31-ellsworth-kelly-paris-new-york-1949-1959",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-eka-31-ellsworth-kelly-paris-new-york-1949-1959",
+        "title": "Seaweed",
+        "canonical_id": "EK A.31",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "The source preserves a named work, but a specifically identified complete image with verified support boundaries, original colour placement and painting-scope material was not established. No generic same-title work was substituted.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paris-new-york-1949-1959/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-45.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek672-ellsworth-kelly-sculpture",
+      "title": "Study for Large Red Panel",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek672-ellsworth-kelly-sculpture",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek672-ellsworth-kelly-sculpture",
+        "title": "Study for Large Red Panel",
+        "canonical_id": "EK 672",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Study for Large Red Panel is a small diamond-like object in the sculpture installation. The primary medium and exact three-dimensional support relation remain unresolved.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-5.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek89-ellsworth-kelly",
+      "title": "Times Square",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek89-ellsworth-kelly",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek89-ellsworth-kelly",
+        "title": "Times Square",
+        "canonical_id": "EK 89",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Times Square appears in a grayscale 1958 installation; its opposed rounded fields are visible, but original colour placement is unverified.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-21.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek70-ellsworth-kelly-paintings-1951-1956",
+      "title": "Two Blacks, White and Blue",
+      "baseline_record_kind": "painting",
+      "current_id": "guggenheim1996-cat-26",
+      "status": "identity_reconciled_with_existing_svg",
+      "svg": "assets/studies/v4-public-guggenheim1996-26.svg",
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek70-ellsworth-kelly-paintings-1951-1956",
+        "title": "Two Blacks, White and Blue",
+        "canonical_id": "EK 70",
+        "reviewed_date": "2026-10-28",
+        "outcome": "identity_merged",
+        "reason": "Two Blacks, White and Blue: the primary Philadelphia Museum of Art exhibition page explicitly identifies EK 70 as the 1955 oil-on-canvas work, four joined panels, 92 × 24 in (233.7 × 61 cm). The historical Guggenheim entry has the exact title, date, dimensions and distinctive vertical sequence of black square, white band, black square and blue lower rectangle. This is an exact identifier plus material/dimension bridge. Foundation image caption explicitly supplies EK 70. Both actual photographs were visually inspected; colour names alone did not establish identity.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-1951-1956/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-31.jpg",
+        "target_id": "guggenheim1996-cat-26",
+        "target_reference_id": "research/public-catalogues-v4/pages/page-127.png"
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek52-ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954",
+      "title": "Two Yellows",
+      "baseline_record_kind": "painting",
+      "current_id": "matthewmarks-two-yellows-1952-44150",
+      "status": "identity_reconciled_with_existing_svg",
+      "svg": "assets/studies/v5-market-03-matthewmarks-two-yellows-1952-44150.svg",
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek52-ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954",
+        "title": "Two Yellows",
+        "canonical_id": "EK 52",
+        "reviewed_date": "2026-10-28",
+        "outcome": "identity_merged",
+        "reason": "Two Yellows: the distinctive five-by-five square grid has the same alternating pale/deep yellow half-cell pattern, including undivided darker second and fourth columns. The 1952 Marks work lies within the 1948–1954 scope of the Foundation-captioned exhibition. Full square support and unequal yellow field boundaries agree. Foundation image caption explicitly supplies EK 52. Both actual photographs were visually inspected; colour names alone did not establish identity.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-73.jpg",
+        "target_id": "matthewmarks-two-yellows-1952-44150",
+        "target_reference_id": "research/svg-gap-v5/market/ref-03.jpg"
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-eka-21-ellsworth-kelly-paris-new-york-1949-1959",
+      "title": "Ubu",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-eka-21-ellsworth-kelly-paris-new-york-1949-1959",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-eka-21-ellsworth-kelly-paris-new-york-1949-1959",
+        "title": "Ubu",
+        "canonical_id": "EK A.21",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "The source preserves a named work, but a specifically identified complete image with verified support boundaries, original colour placement and painting-scope material was not established. No generic same-title work was substituted.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paris-new-york-1949-1959/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-45.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek582-ellsworth-kelly-sculpture",
+      "title": "Untitled",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek582-ellsworth-kelly-sculpture",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek582-ellsworth-kelly-sculpture",
+        "title": "Untitled",
+        "canonical_id": "EK 582",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Untitled EK582 appears in a sculpture installation. Its exact material and full support relation remain unverified; similarly titled objects cannot supply them.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-10.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek583-ellsworth-kelly-sculpture",
+      "title": "Untitled",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek583-ellsworth-kelly-sculpture",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek583-ellsworth-kelly-sculpture",
+        "title": "Untitled",
+        "canonical_id": "EK 583",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Untitled EK583 appears as a rust-coloured upright slab in a sculpture installation. Its exact primary material is unverified; appearance alone was not used to declare a metal exclusion.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-5.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek650-ellsworth-kelly-sculpture",
+      "title": "Untitled",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek650-ellsworth-kelly-sculpture",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek650-ellsworth-kelly-sculpture",
+        "title": "Untitled",
+        "canonical_id": "EK 650",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Untitled EK650 appears among freestanding sheets. Exact medium and complete outline remain unresolved.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-7.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek656-ellsworth-kelly-sculpture",
+      "title": "Untitled",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek656-ellsworth-kelly-sculpture",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek656-ellsworth-kelly-sculpture",
+        "title": "Untitled",
+        "canonical_id": "EK 656",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Untitled EK656 appears in a sculpture installation, but exact medium and complete support geometry remain unresolved.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-11.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek750-ellsworth-kelly-a-retrospective",
+      "title": "Untitled",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek750-ellsworth-kelly-a-retrospective",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek750-ellsworth-kelly-a-retrospective",
+        "title": "Untitled",
+        "canonical_id": "EK 750",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Untitled EK750 is a long thin black standing form in a 1996 colour installation. Exact material, depth and rectified silhouette are unverified; no painting medium was inferred.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-80.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek217-sixteen-americans",
+      "title": "Wave Motif",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek217-sixteen-americans",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek217-sixteen-americans",
+        "title": "Wave Motif",
+        "canonical_id": "EK 217",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Wave Motif is visible in a 1959 grayscale installation. Its original palette and the boundary between painted support and surrounding wall were not independently established.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/sixteen-americans/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-67.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek246-ellsworth-kelly-a-retrospective",
+      "title": "White Black",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek246-ellsworth-kelly-a-retrospective",
+      "status": "new_svg",
+      "svg": "assets/studies/v6-foundation-white-black-ek246.svg",
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek246-ellsworth-kelly-a-retrospective",
+        "title": "White Black",
+        "canonical_id": "EK 246",
+        "reviewed_date": "2026-10-28",
+        "outcome": "new_svg",
+        "reason": "Foundation 1996 retrospective photograph explicitly labels White Black EK 246, at the far left. White rectangular painted ground retained; five black angular edge intrusions hand-traced from the actual colour photograph. Frame, wall and cast shadows omitted. Approximate flattened proportions. Christie’s same-title 1961 record remains separate because its image/physical identity is unverified; no auction dimensions were imported. A separate agent also checked the Christie hero (roundel only), six Pulitzer 2002 installation photographs, a redirected BDK 2011 issue and a WELT primary-credit caption whose image returned HTTP 403. None established the auction object identity.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-78.jpg",
+        "svg_path": "assets/studies/v6-foundation-white-black-ek246.svg"
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek294-ellsworth-kelly-2",
+      "title": "White Dark Blue",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek294-ellsworth-kelly-2",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek294-ellsworth-kelly-2",
+        "title": "White Dark Blue",
+        "canonical_id": "EK 294",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "White Dark Blue is visible in a grayscale 1962 installation. Although its jagged motif is clear, original colour placement and exact support proportions remain unresolved.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-2/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-39.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek276-ellsworth-kelly-sculpture",
+      "title": "White Disk III",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek276-ellsworth-kelly-sculpture",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek276-ellsworth-kelly-sculpture",
+        "title": "White Disk III",
+        "canonical_id": "EK 276",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "White Disk III is visible as a white disk in a sculpture installation. A possible Art Institute work exists, but no independent EK/dimension bridge was verified here; generic disk similarity alone did not justify merging. An Art Institute White Disk III is a possible lead, but generic disk shape/title alone is insufficient to import its medium or its study into this exact Foundation slot.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-6.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek149-ellsworth-kelly",
+      "title": "White Green",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek149-ellsworth-kelly",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek149-ellsworth-kelly",
+        "title": "White Green",
+        "canonical_id": "EK 149",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "White Green appears in a grayscale 1958 installation. The original green placement and complete support boundary are not verified.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-20.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek419-ellsworth-kelly-4",
+      "title": "White Sculpture I",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek419-ellsworth-kelly-4",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek419-ellsworth-kelly-4",
+        "title": "White Sculpture I",
+        "canonical_id": "EK 419",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "White Sculpture I is a freestanding irregular white object; medium, rear boundary and rectified form remain unresolved. A secondary fabrication-book excerpt suggests painted aluminum, but the exact primary material/object bridge was not recovered; this candidate is not excluded from painting inventory solely from its freestanding appearance.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-8.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek417-ellsworth-kelly-sculpture",
+      "title": "White Sculpture II",
+      "baseline_record_kind": "painting_candidate",
+      "status": "proven_nonpainting_scope_exclusion",
+      "exclusion_evidence": [
+        {
+          "record_id": "foundation-exhib-v4-ek417-ellsworth-kelly-sculpture",
+          "canonical_id": "EK 417",
+          "primary_medium": "Painted aluminum",
+          "primary_url": "https://collections.lacma.org/object/60127",
+          "reason": "White Sculpture II EK 417 is the leaning white folded sheet in the Foundation 1982 sculpture installation. Its sloping broad face and folded support agree with the actual current LACMA photographs, including view 3. LACMA object 60127 explicitly identifies White Sculpture II 1968, painted aluminum, 153.67 × 259.08 × 121.92 cm, classification Sculpture. The museum also cites the same 1982 sculpture exhibition catalogue.",
+          "source_ids": [
+            "foundation-exhib-v4:EK417:ellsworth-kelly-sculpture"
+          ],
+          "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-10.jpg",
+          "evidence_file": "research/svg-gap-v6/foundation/lacma-white-sculpture-ii-view3.webp"
+        }
+      ],
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek417-ellsworth-kelly-sculpture",
+        "title": "White Sculpture II",
+        "canonical_id": "EK 417",
+        "reviewed_date": "2026-10-28",
+        "outcome": "scope_excluded",
+        "reason": "White Sculpture II EK 417 is the leaning white folded sheet in the Foundation 1982 sculpture installation. Its sloping broad face and folded support agree with the actual current LACMA photographs, including view 3. LACMA object 60127 explicitly identifies White Sculpture II 1968, painted aluminum, 153.67 × 259.08 × 121.92 cm, classification Sculpture. The museum also cites the same 1982 sculpture exhibition catalogue.",
+        "reference_url": "https://collections.lacma.org/object/60127",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-10.jpg",
+        "target_reference_id": "research/svg-gap-v6/foundation/lacma-white-sculpture-ii-view3.webp"
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek64-ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954",
+      "title": "White Square",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek64-ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek64-ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954",
+        "title": "White Square",
+        "canonical_id": "EK 64",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "White Square is a generic white square in the historical exhibition. No independent EK/dimension or provenance bridge to the 1953 historical book work was established; it remains separate.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-75.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek134-ellsworth-kelly",
+      "title": "White Yellow",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek134-ellsworth-kelly",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek134-ellsworth-kelly",
+        "title": "White Yellow",
+        "canonical_id": "EK 134",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "White Yellow appears in a grayscale 1958 installation; exact yellow placement and support relationship remain unverified. A same-title Sotheby work was independently rejected in this pass: its rounded lobes and portrait support differ from the Foundation photograph’s pointed asterisk-like motif and near-square support. This is not a duplicate closure.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-21.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek100-ellsworth-kelly",
+      "title": "White and Black",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek100-ellsworth-kelly",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek100-ellsworth-kelly",
+        "title": "White and Black",
+        "canonical_id": "EK 100",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "White and Black is photographed obliquely in grayscale. The support and white field cannot be reliably separated from the wall at this resolution, so no invented cutout was produced. The EK100 centenary microsite URL is branding, not a catalogue identifier. Plant I has no canonical EK 100 identifier and is not joined to this White and Black record.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-20.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek156-ellsworth-kelly-sculpture",
+      "title": "White and Black Relief",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek156-ellsworth-kelly-sculpture",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek156-ellsworth-kelly-sculpture",
+        "title": "White and Black Relief",
+        "canonical_id": "EK 156",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "White and Black Relief appears small and oblique in a sculpture installation. Full panel layout and medium remain unresolved.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-6.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek2-ellsworth-kelly-paris-new-york-1949-1959",
+      "title": "Window III",
+      "baseline_record_kind": "painting_candidate",
+      "current_id": "foundation-exhib-v4-ek2-ellsworth-kelly-paris-new-york-1949-1959",
+      "status": "new_svg",
+      "svg": "assets/studies/v6-foundation-window-iii-ek2.svg",
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek2-ellsworth-kelly-paris-new-york-1949-1959",
+        "title": "Window III",
+        "canonical_id": "EK 2",
+        "reviewed_date": "2026-10-28",
+        "outcome": "new_svg",
+        "reason": "The captioned Window III EK 2 is the right-hand work in the colour Philadelphia installation. White rectangular support, central vertical cord, upper paired horizontal lines, two shorter horizontal lines, lower paired cross-lines and lower zigzag cords follow the actually enlarged photograph. Very pale neutral lines diagram the shadows of WHITE cords; no gray pigment is asserted. Centre Pompidou curator Jean-Pierre Criqui independently describes Window III as a white monochrome with string sewn onto canvas. Line thickness and minor joins simplified; frame and wall excluded.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paris-new-york-1949-1959/",
+        "reference_id": "research/svg-gap-v6/foundation/foundation-49-large.jpg",
+        "svg_path": "assets/studies/v6-foundation-window-iii-ek2.svg"
+      }
+    },
+    {
+      "baseline_id": "foundation-exhib-v4-ek5-kelly-peintures-et-reliefs",
+      "title": "Wood Cutout with String III",
+      "baseline_record_kind": "painting",
+      "current_id": "foundation-exhib-v4-ek5-kelly-peintures-et-reliefs",
+      "status": "remaining_svg_gap",
+      "svg": null,
+      "reference_review": {
+        "id": "foundation-exhib-v4-ek5-kelly-peintures-et-reliefs",
+        "title": "Wood Cutout with String III",
+        "canonical_id": "EK 5",
+        "reviewed_date": "2026-10-28",
+        "outcome": "image_gap_retained",
+        "reason": "Wood Cutout with String III is visible in grayscale with slots and strings. Exact support gaps, string paths and original surface colours remain unresolved. New material-text searches describe oil on wood with string and achromatic/monochromatic effects, but did not establish the exact surface pigment of this grayscale object. Neutral gray or natural wood were not invented.",
+        "reference_url": "https://ellsworthkelly.org/exhibition/kelly-peintures-et-reliefs/",
+        "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-16.jpg",
+        "review_basis": "Previously inspected specifically captioned Foundation installation photograph, re-triaged against the v6 identity and colour-reference leads. No complete new reference was established."
+      }
+    }
+  ],
+  "limitation": "Interpretive vectors after inspected references. Identity reconciliation and scope exclusions are not new drawings. The inventory is not a certified complete catalogue raisonne."
+}

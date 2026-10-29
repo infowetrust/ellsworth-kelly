@@ -1,0 +1,46 @@
+{
+  "prepared_date": "2026-10-29",
+  "records": 584,
+  "svg_studies": 497,
+  "estimates": 61,
+  "removed_fields": [
+    {
+      "field": "raw_snapshot",
+      "occurrences": 5274
+    },
+    {
+      "field": "snapshot",
+      "occurrences": 45
+    },
+    {
+      "field": "source_raw",
+      "occurrences": 25
+    },
+    {
+      "field": "raw_caption_ocr",
+      "occurrences": 605
+    },
+    {
+      "field": "raw_caption",
+      "occurrences": 788
+    },
+    {
+      "field": "raw_details",
+      "occurrences": 345
+    },
+    {
+      "field": "snapshots",
+      "occurrences": 2
+    }
+  ],
+  "excludes": [
+    "source photographs",
+    "book/PDF scans",
+    "full-page OCR",
+    "personal absolute paths",
+    "Sites hosting state",
+    "credentials",
+    "nested Git repository"
+  ],
+  "uploaded_to_github": false
+}

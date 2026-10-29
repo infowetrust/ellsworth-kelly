@@ -1,0 +1,990 @@
+[
+  {
+    "source_id": "sfmoma-v3:99.344",
+    "source_record_id": "99.344",
+    "title": "Diagonal with Curve I",
+    "year_start": 1978,
+    "year_end": 1978,
+    "date_display": "1978",
+    "medium": "oil on canvas",
+    "height_cm": 276.9,
+    "width_cm": 266.7,
+    "depth_cm": null,
+    "dimensions_display": "109 × 105 in. (276.9 × 266.7 cm)",
+    "collection": "San Francisco Museum of Modern Art, the Doris and Donald Fisher Collection at the San Francisco Museum of Modern Art, and promised gift of Helen and Charles Schwab",
+    "accession": "99.344",
+    "ek_id": "EK 562",
+    "source_url": "https://www.sfmoma.org/artwork/99.344/",
+    "image_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/07/27172546/99.344_01_d02-web.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.sfmoma.org/artwork/99.344/",
+        "label": "SFMOMA current object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "sfmoma-v3:99.346",
+    "source_record_id": "99.346",
+    "title": "Kilometer Marker",
+    "year_start": 1949,
+    "year_end": 1949,
+    "date_display": "1949",
+    "medium": "gesso, graphite and oil on wood",
+    "height_cm": 54.6,
+    "width_cm": 45.7,
+    "depth_cm": 3.8,
+    "dimensions_display": "21 1/2 × 18 × 1 1/2 in. (54.6 × 45.7 × 3.8 cm)",
+    "collection": "Collection SFMOMA",
+    "accession": "99.346",
+    "ek_id": "EK A.29",
+    "source_url": "https://www.sfmoma.org/artwork/99.346/",
+    "image_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/07/27172533/99.346_01_d02.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.sfmoma.org/artwork/99.346/",
+        "label": "SFMOMA current object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "sfmoma-v3:99.359",
+    "source_record_id": "99.359",
+    "title": "Window I",
+    "year_start": 1949,
+    "year_end": 1949,
+    "date_display": "1949",
+    "medium": "gesso and oil on wood",
+    "height_cm": 64.8,
+    "width_cm": 53.3,
+    "depth_cm": 3.8,
+    "dimensions_display": "25 1/2 × 21 × 1 1/2 in. (64.8 × 53.3 × 3.8 cm)",
+    "collection": "San Francisco Museum of Modern Art, the Doris and Donald Fisher Collection at the San Francisco Museum of Modern Art, the Mimi Haas Collection, and promised gift of Helen and Charles Schwab",
+    "accession": "99.359",
+    "ek_id": null,
+    "source_url": "https://www.sfmoma.org/artwork/99.359/",
+    "image_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/07/15203551/99.359_01_d02.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.sfmoma.org/artwork/99.359/",
+        "label": "SFMOMA current object record",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "sfmoma-504-5"
+  },
+  {
+    "source_id": "sfmoma-v3:99.348",
+    "source_record_id": "99.348",
+    "title": "Mandorla",
+    "year_start": 1949,
+    "year_end": 1949,
+    "date_display": "1949",
+    "medium": "oil on canvas",
+    "height_cm": 72.4,
+    "width_cm": 49.5,
+    "depth_cm": null,
+    "dimensions_display": "28 1/2 × 19 1/2 in. (72.4 × 49.5 cm)",
+    "collection": "San Francisco Museum of Modern Art, the Doris and Donald Fisher Collection at the San Francisco Museum of Modern Art, and promised gift of Helen and Charles Schwab",
+    "accession": "99.348",
+    "ek_id": null,
+    "source_url": "https://www.sfmoma.org/artwork/99.348/",
+    "image_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/07/15202433/99.348_01_P02.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.sfmoma.org/artwork/99.348/",
+        "label": "SFMOMA current object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "sfmoma-v3:66.3",
+    "source_record_id": "66.3",
+    "title": "Red White",
+    "year_start": 1962,
+    "year_end": 1962,
+    "date_display": "1962",
+    "medium": "oil on canvas",
+    "height_cm": 203.5,
+    "width_cm": 229.4,
+    "depth_cm": null,
+    "dimensions_display": "80 1/8 × 90 1/4 in. (203.5 × 229.4 cm)",
+    "collection": "Collection SFMOMA",
+    "accession": "66.3",
+    "ek_id": null,
+    "source_url": "https://www.sfmoma.org/artwork/66.3/",
+    "image_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/08/03224950/66.3_01_b02.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Distinct from the 1962 Red White in the Fisher Collection (FC.566): different image, accession, and dimensions. Also distinct from Foundation EK 290."
+    ],
+    "sources": [
+      {
+        "url": "https://www.sfmoma.org/artwork/66.3/",
+        "label": "SFMOMA current object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "sfmoma-v3:FC.713",
+    "source_record_id": "FC.713",
+    "title": "Red on Red",
+    "year_start": 2001,
+    "year_end": 2001,
+    "date_display": "2001",
+    "medium": "oil on canvas",
+    "height_cm": 215.9,
+    "width_cm": 199.4,
+    "depth_cm": 8.4,
+    "dimensions_display": "85 × 78 1/2 × 3 1/4 in. (215.9 × 199.4 × 8.4 cm)",
+    "collection": "The Doris and Donald Fisher Collection at the San Francisco Museum of Modern Art",
+    "accession": "FC.713",
+    "ek_id": null,
+    "source_url": "https://www.sfmoma.org/artwork/FC.713/",
+    "image_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/08/18195800/FC.713_10L_KELLY_713R5_p_FINAL-web.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Collection credit identifies The Doris and Donald Fisher Collection at SFMOMA. Museum presentation does not establish outright SFMOMA ownership."
+    ],
+    "sources": [
+      {
+        "url": "https://www.sfmoma.org/artwork/FC.713/",
+        "label": "SFMOMA current object record",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "sfmoma-508-1"
+  },
+  {
+    "source_id": "sfmoma-v3:FC.603",
+    "source_record_id": "FC.603",
+    "title": "Red Curves",
+    "year_start": 1996,
+    "year_end": 1996,
+    "date_display": "1996",
+    "medium": "oil on canvas",
+    "height_cm": 360.7,
+    "width_cm": 166.4,
+    "depth_cm": null,
+    "dimensions_display": "142 × 65 1/2 in. (360.7 × 166.4 cm)",
+    "collection": "The Doris and Donald Fisher Collection at the San Francisco Museum of Modern Art",
+    "accession": "FC.603",
+    "ek_id": null,
+    "source_url": "https://www.sfmoma.org/artwork/FC.603/",
+    "image_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/08/17212127/FC.603_10L_KELLY_603R4_cv_FINAL-web.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Collection credit identifies The Doris and Donald Fisher Collection at SFMOMA. Museum presentation does not establish outright SFMOMA ownership."
+    ],
+    "sources": [
+      {
+        "url": "https://www.sfmoma.org/artwork/FC.603/",
+        "label": "SFMOMA current object record",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "sfmoma-513-3"
+  },
+  {
+    "source_id": "sfmoma-v3:FC.571",
+    "source_record_id": "FC.571",
+    "title": "Antibes",
+    "year_start": 1950,
+    "year_end": 1950,
+    "date_display": "1950",
+    "medium": "oil on cardboard, string and wood",
+    "height_cm": 64.8,
+    "width_cm": 100.3,
+    "depth_cm": 2.5,
+    "dimensions_display": "25 1/2 × 39 1/2 × 1 in. (64.8 × 100.3 × 2.5 cm)",
+    "collection": "The Doris and Donald Fisher Collection at the San Francisco Museum of Modern Art",
+    "accession": "FC.571",
+    "ek_id": "EK 21",
+    "source_url": "https://www.sfmoma.org/artwork/FC.571/",
+    "image_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/08/19121228/FC.571_01_H02-web.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Collection credit identifies The Doris and Donald Fisher Collection at SFMOMA. Museum presentation does not establish outright SFMOMA ownership."
+    ],
+    "sources": [
+      {
+        "url": "https://www.sfmoma.org/artwork/FC.571/",
+        "label": "SFMOMA current object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "sfmoma-v3:FC.566",
+    "source_record_id": "FC.566",
+    "title": "Red White",
+    "year_start": 1962,
+    "year_end": 1962,
+    "date_display": "1962",
+    "medium": "oil on canvas",
+    "height_cm": 212.1,
+    "width_cm": 170.2,
+    "depth_cm": null,
+    "dimensions_display": "83 1/2 × 67 in. (212.1 × 170.2 cm)",
+    "collection": "The Doris and Donald Fisher Collection at the San Francisco Museum of Modern Art",
+    "accession": "FC.566",
+    "ek_id": null,
+    "source_url": "https://www.sfmoma.org/artwork/FC.566/",
+    "image_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/08/17212332/FC.566_01_H02-web.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Collection credit identifies The Doris and Donald Fisher Collection at SFMOMA. Museum presentation does not establish outright SFMOMA ownership.",
+      "Distinct from SFMOMA Red White 66.3 (also 1962); explicit object identity retained. Matches prior Fisher gallery-label record sfmoma-508-5."
+    ],
+    "sources": [
+      {
+        "url": "https://www.sfmoma.org/artwork/FC.566/",
+        "label": "SFMOMA current object record",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "sfmoma-508-5"
+  },
+  {
+    "source_id": "sfmoma-v3:FC.558.A-D",
+    "source_record_id": "FC.558.A-D",
+    "title": "Blue Green Black Red",
+    "year_start": 1996,
+    "year_end": 1996,
+    "date_display": "1996",
+    "medium": "oil on canvas",
+    "height_cm": 160.02,
+    "width_cm": null,
+    "depth_cm": null,
+    "dimensions_display": "each panel: 63  × 32 in (160.02 × 81.28 cm); overall installed width unknown",
+    "collection": "The Doris and Donald Fisher Collection at the San Francisco Museum of Modern Art",
+    "accession": "FC.558.A-D",
+    "ek_id": null,
+    "source_url": "https://www.sfmoma.org/artwork/FC.558.A-D/",
+    "image_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/08/17212214/FC.558.A-D_x2010.476_0086-web.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Collection credit identifies The Doris and Donald Fisher Collection at SFMOMA. Museum presentation does not establish outright SFMOMA ownership.",
+      "The SFMOMA installation essay explicitly identifies each of the four panels as 63 × 32 in (160.02 × 81.28 cm). It records an 18-inch suggested interval while explaining that installation spacing may vary. Object-page 160.0 × 81.3 cm is individual-panel size, not overall width. Overall installed extent is unknown; exclude from shared true-scale comparison."
+    ],
+    "sources": [
+      {
+        "url": "https://www.sfmoma.org/artwork/FC.558.A-D/",
+        "label": "SFMOMA current object record",
+        "accessed": "2026-10-27"
+      },
+      {
+        "url": "https://www.sfmoma.org/essay/how-to-install-an-ellsworth-kelly-artwork-blue-green-black-red-1996-as-a-case-study/",
+        "label": "SFMOMA conservation installation essay, figure 1 and note 8",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "sfmoma-501-2",
+    "panel_height_cm": 160.02,
+    "panel_width_cm": 81.28,
+    "panel_count": 4,
+    "dimension_role": "individual panels; overall width variable and unknown",
+    "true_scale_eligible": false
+  },
+  {
+    "source_id": "sfmoma-v3:FC.536",
+    "source_record_id": "FC.536",
+    "title": "Blue White",
+    "year_start": 1968,
+    "year_end": 1968,
+    "date_display": "1968",
+    "medium": "oil on canvas",
+    "height_cm": 184.2,
+    "width_cm": 400.8,
+    "depth_cm": null,
+    "dimensions_display": "72 1/2 × 157 3/4 in. (184.2 × 400.8 cm)",
+    "collection": "The Doris and Donald Fisher Collection at the San Francisco Museum of Modern Art",
+    "accession": "FC.536",
+    "ek_id": null,
+    "source_url": "https://www.sfmoma.org/artwork/FC.536/",
+    "image_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/08/17210716/FC.536_01_P02-web.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Collection credit identifies The Doris and Donald Fisher Collection at SFMOMA. Museum presentation does not establish outright SFMOMA ownership."
+    ],
+    "sources": [
+      {
+        "url": "https://www.sfmoma.org/artwork/FC.536/",
+        "label": "SFMOMA current object record",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "sfmoma-501-3"
+  },
+  {
+    "source_id": "sfmoma-v3:FC.518",
+    "source_record_id": "FC.518",
+    "title": "Red Green",
+    "year_start": 1968,
+    "year_end": 1968,
+    "date_display": "1968",
+    "medium": "oil on canvas",
+    "height_cm": 277.6,
+    "width_cm": 328.9,
+    "depth_cm": null,
+    "dimensions_display": "109 1/4 × 129 1/2 in. (277.6 × 328.9 cm)",
+    "collection": "The Doris and Donald Fisher Collection at the San Francisco Museum of Modern Art",
+    "accession": "FC.518",
+    "ek_id": null,
+    "source_url": "https://www.sfmoma.org/artwork/FC.518/",
+    "image_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/08/17203551/FC.518_01_P02-web.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Collection credit identifies The Doris and Donald Fisher Collection at SFMOMA. Museum presentation does not establish outright SFMOMA ownership."
+    ],
+    "sources": [
+      {
+        "url": "https://www.sfmoma.org/artwork/FC.518/",
+        "label": "SFMOMA current object record",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "sfmoma-501-4"
+  },
+  {
+    "source_id": "sfmoma-v3:FC.465",
+    "source_record_id": "FC.465",
+    "title": "Purple White",
+    "year_start": 1988,
+    "year_end": 1988,
+    "date_display": "1988",
+    "medium": "oil on linen",
+    "height_cm": 214.1,
+    "width_cm": 317.5,
+    "depth_cm": null,
+    "dimensions_display": "84 1/4 × 125 in. (214.1 × 317.5 cm)",
+    "collection": "The Doris and Donald Fisher Collection at the San Francisco Museum of Modern Art",
+    "accession": "FC.465",
+    "ek_id": null,
+    "source_url": "https://www.sfmoma.org/artwork/FC.465/",
+    "image_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/08/20201516/FC.465_01_H02-web.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Collection credit identifies The Doris and Donald Fisher Collection at SFMOMA. Museum presentation does not establish outright SFMOMA ownership."
+    ],
+    "sources": [
+      {
+        "url": "https://www.sfmoma.org/artwork/FC.465/",
+        "label": "SFMOMA current object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "sfmoma-v3:FC.351",
+    "source_record_id": "FC.351",
+    "title": "Black Panel with White Curve I",
+    "year_start": 1989,
+    "year_end": 1989,
+    "date_display": "1989",
+    "medium": "oil on canvas",
+    "height_cm": 252.7,
+    "width_cm": 219.7,
+    "depth_cm": null,
+    "dimensions_display": "99 1/2 × 86 1/2 in. (252.7 × 219.7 cm)",
+    "collection": "The Doris and Donald Fisher Collection at the San Francisco Museum of Modern Art",
+    "accession": "FC.351",
+    "ek_id": null,
+    "source_url": "https://www.sfmoma.org/artwork/FC.351/",
+    "image_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/08/19122939/FC.351_01_P02-web.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Collection credit identifies The Doris and Donald Fisher Collection at SFMOMA. Museum presentation does not establish outright SFMOMA ownership."
+    ],
+    "sources": [
+      {
+        "url": "https://www.sfmoma.org/artwork/FC.351/",
+        "label": "SFMOMA current object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "sfmoma-v3:FC.310",
+    "source_record_id": "FC.310",
+    "title": "Black Triangle with White",
+    "year_start": 1976,
+    "year_end": 1976,
+    "date_display": "1976",
+    "medium": "oil on canvas",
+    "height_cm": 272.5,
+    "width_cm": 288.3,
+    "depth_cm": null,
+    "dimensions_display": "107 1/4 × 113 1/2 in. (272.5 × 288.3 cm)",
+    "collection": "The Doris and Donald Fisher Collection at the San Francisco Museum of Modern Art",
+    "accession": "FC.310",
+    "ek_id": null,
+    "source_url": "https://www.sfmoma.org/artwork/FC.310/",
+    "image_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/08/17203357/FC.310_10L_KELLY_310V1R6_FINAL-web.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Collection credit identifies The Doris and Donald Fisher Collection at SFMOMA. Museum presentation does not establish outright SFMOMA ownership."
+    ],
+    "sources": [
+      {
+        "url": "https://www.sfmoma.org/artwork/FC.310/",
+        "label": "SFMOMA current object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "sfmoma-v3:FC.289",
+    "source_record_id": "FC.289",
+    "title": "Blue Panel",
+    "year_start": 1985,
+    "year_end": 1985,
+    "date_display": "1985",
+    "medium": "oil on canvas",
+    "height_cm": 281.9,
+    "width_cm": 274.3,
+    "depth_cm": null,
+    "dimensions_display": "111 × 108 in. (281.9 × 274.3 cm)",
+    "collection": "The Doris and Donald Fisher Collection at the San Francisco Museum of Modern Art",
+    "accession": "FC.289",
+    "ek_id": null,
+    "source_url": "https://www.sfmoma.org/artwork/FC.289/",
+    "image_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/08/18210255/FC.289_01_D02-web.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Collection credit identifies The Doris and Donald Fisher Collection at SFMOMA. Museum presentation does not establish outright SFMOMA ownership."
+    ],
+    "sources": [
+      {
+        "url": "https://www.sfmoma.org/artwork/FC.289/",
+        "label": "SFMOMA current object record",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "sfmoma-513-5"
+  },
+  {
+    "source_id": "sfmoma-v3:99.347",
+    "source_record_id": "99.347",
+    "title": "La Combe III",
+    "year_start": 1951,
+    "year_end": 1951,
+    "date_display": "1951",
+    "medium": "oil on linen",
+    "height_cm": 161.3,
+    "width_cm": 113.0,
+    "depth_cm": null,
+    "dimensions_display": "63 1/2 × 44 1/2 in. (161.3 × 113.0 cm)",
+    "collection": "San Francisco Museum of Modern Art, the Doris and Donald Fisher Collection at the San Francisco Museum of Modern Art, and promised gift of Helen and Charles Schwab",
+    "accession": "99.347",
+    "ek_id": null,
+    "source_url": "https://www.sfmoma.org/artwork/99.347/",
+    "image_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/07/27174313/99.347_01_b02.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.sfmoma.org/artwork/99.347/",
+        "label": "SFMOMA current object record",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "sfmoma-504-6"
+  },
+  {
+    "source_id": "sfmoma-v3:99.352",
+    "source_record_id": "99.352",
+    "title": "Spectrum Colors Arranged by Chance",
+    "year_start": 1951,
+    "year_end": 1953,
+    "date_display": "1951-1953",
+    "medium": "oil on wood",
+    "height_cm": 152.4,
+    "width_cm": 152.4,
+    "depth_cm": null,
+    "dimensions_display": "60 × 60 in. (152.4 × 152.4 cm)",
+    "collection": "San Francisco Museum of Modern Art, the Doris and Donald Fisher Collection at the San Francisco Museum of Modern Art, and promised gift of Helen and Charles Schwab",
+    "accession": "99.352",
+    "ek_id": "EK 63",
+    "source_url": "https://www.sfmoma.org/artwork/99.352/",
+    "image_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/07/14185559/99.352_EK%2063-C-%28HK%29_cropped_FINAL.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Same observed 38×38 chance grid and dimensions as Foundation EK 63. Historical/current date ranges differ; not a new work."
+    ],
+    "sources": [
+      {
+        "url": "https://www.sfmoma.org/artwork/99.352/",
+        "label": "SFMOMA current object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "sfmoma-v3:99.345",
+    "source_record_id": "99.345",
+    "title": "Gaza",
+    "year_start": 1956,
+    "year_end": 1956,
+    "date_display": "1956",
+    "medium": "oil on canvas",
+    "height_cm": 228.1,
+    "width_cm": 200.7,
+    "depth_cm": null,
+    "dimensions_display": "89 3/4 × 79 in. (228.1 × 200.7 cm)",
+    "collection": "San Francisco Museum of Modern Art, the Doris and Donald Fisher Collection at the San Francisco Museum of Modern Art, and promised gift of Helen and Charles Schwab",
+    "accession": "99.345",
+    "ek_id": null,
+    "source_url": "https://www.sfmoma.org/artwork/99.345/",
+    "image_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/07/14111941/99.345_01_H02.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Image on current SFMOMA page matches the Gaza plate on 1973 MoMA PDF page 63, caption page 64. Historical date 1952–1956 is retained as a conflict with current museum 1956; do not create separate 1952/1956 works. Prior gallery-label record sfmoma-501-1 is the same work."
+    ],
+    "sources": [
+      {
+        "url": "https://www.sfmoma.org/artwork/99.345/",
+        "label": "SFMOMA current object record",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "moma1973-pdf64-caption1",
+    "prefer_current_museum_date": true
+  },
+  {
+    "source_id": "sfmoma-v3:99.358",
+    "source_record_id": "99.358",
+    "title": "White Relief",
+    "year_start": 1958,
+    "year_end": 1958,
+    "date_display": "1958",
+    "medium": "oil on wood",
+    "height_cm": 30.5,
+    "width_cm": 14.2,
+    "depth_cm": 0.8,
+    "dimensions_display": "12 × 5 5/8 × 1/4 in. (30.5 × 14.2 × 0.8 cm)",
+    "collection": "San Francisco Museum of Modern Art, the Doris and Donald Fisher Collection at the San Francisco Museum of Modern Art, and promised gift of Helen and Charles Schwab",
+    "accession": "99.358",
+    "ek_id": null,
+    "source_url": "https://www.sfmoma.org/artwork/99.358/",
+    "image_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/07/14185635/99.358_01_H02.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.sfmoma.org/artwork/99.358/",
+        "label": "SFMOMA current object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "sfmoma-v3:99.356",
+    "source_record_id": "99.356",
+    "title": "Wall",
+    "year_start": 1958,
+    "year_end": 1958,
+    "date_display": "1958",
+    "medium": "oil on canvas",
+    "height_cm": 137.2,
+    "width_cm": 120.7,
+    "depth_cm": null,
+    "dimensions_display": "54 × 47 1/2 in. (137.2 × 120.7 cm)",
+    "collection": "San Francisco Museum of Modern Art, the Doris and Donald Fisher Collection at the San Francisco Museum of Modern Art, and promised gift of Helen and Charles Schwab",
+    "accession": "99.356",
+    "ek_id": "EK 172",
+    "source_url": "https://www.sfmoma.org/artwork/99.356/",
+    "image_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/07/15174717/99.356_01_H02.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.sfmoma.org/artwork/99.356/",
+        "label": "SFMOMA current object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "sfmoma-v3:99.338",
+    "source_record_id": "99.338",
+    "title": "Black over Blue",
+    "year_start": 1963,
+    "year_end": 1963,
+    "date_display": "1963",
+    "medium": "painted aluminum",
+    "height_cm": 207.8,
+    "width_cm": 163.3,
+    "depth_cm": 15.2,
+    "dimensions_display": "81 3/4 × 64 1/4 × 6 in. (207.8 × 163.3 × 15.2 cm)",
+    "collection": "San Francisco Museum of Modern Art, the Doris and Donald Fisher Collection at the San Francisco Museum of Modern Art, and promised gift of Helen and Charles Schwab",
+    "accession": "99.338",
+    "ek_id": null,
+    "source_url": "https://www.sfmoma.org/artwork/99.338/",
+    "image_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/07/13213133/99.338_01_H02.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Museum classifies the painted-aluminum object as painting; retained in the broad painting/painted-relief scope. It is not canvas."
+    ],
+    "sources": [
+      {
+        "url": "https://www.sfmoma.org/artwork/99.338/",
+        "label": "SFMOMA current object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "sfmoma-v3:99.339.A-B",
+    "source_record_id": "99.339.A-B",
+    "title": "Blue Red",
+    "year_start": 1966,
+    "year_end": 1966,
+    "date_display": "1966",
+    "medium": "acrylic paint on canvas",
+    "height_cm": 205.7,
+    "width_cm": 152.4,
+    "depth_cm": 205.7,
+    "dimensions_display": "81 × 60 × 81 in. (205.7 × 152.4 × 205.7 cm)",
+    "collection": "San Francisco Museum of Modern Art, the Doris and Donald Fisher Collection at the San Francisco Museum of Modern Art, and promised gift of Helen and Charles Schwab",
+    "accession": "99.339.A-B",
+    "ek_id": "EK 356",
+    "source_url": "https://www.sfmoma.org/artwork/99.339.A-B/",
+    "image_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/08/14095452/99.339.A-B_01_H02.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Wall/floor painting:81×60×81in includes floor depth. A two-dimensional installation photograph is not a flat support outline. Existing Foundation EK356 schematic is retained."
+    ],
+    "sources": [
+      {
+        "url": "https://www.sfmoma.org/artwork/99.339.A-B/",
+        "label": "SFMOMA current object record",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "dimension_role": "wall/floor installation including floor depth",
+    "true_scale_eligible": false
+  },
+  {
+    "source_id": "sfmoma-v3:99.350",
+    "source_record_id": "99.350",
+    "title": "Seated Figure",
+    "year_start": 1949,
+    "year_end": 1949,
+    "date_display": "1949",
+    "medium": "oil on linen",
+    "height_cm": 91.4,
+    "width_cm": 64.8,
+    "depth_cm": null,
+    "dimensions_display": "36 × 25 1/2 in. (91.4 × 64.8 cm)",
+    "collection": "Collection SFMOMA; Gift of the artist",
+    "accession": "99.350",
+    "ek_id": null,
+    "source_url": "https://www.sfmoma.org/artwork/99.350/",
+    "image_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/04/02091658/99.350_01_H02.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.sfmoma.org/artwork/99.350/",
+        "label": "SFMOMA current object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "sfmoma-v3:99.357",
+    "source_record_id": "99.357",
+    "title": "White Relief",
+    "year_start": 1950,
+    "year_end": 1950,
+    "date_display": "1950",
+    "medium": "oil on wood",
+    "height_cm": 100.3,
+    "width_cm": 70.1,
+    "depth_cm": 4.8,
+    "dimensions_display": "39 1/2 × 27 5/8 × 1 7/8 in. (100.3 × 70.1 × 4.8 cm)",
+    "collection": "San Francisco Museum of Modern Art, the Doris and Donald Fisher Collection at the San Francisco Museum of Modern Art, and promised gift of Helen and Charles Schwab",
+    "accession": "99.357",
+    "ek_id": "EK 18",
+    "source_url": "https://www.sfmoma.org/artwork/99.357/",
+    "image_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/07/14111910/99.357_01_b02.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.sfmoma.org/artwork/99.357/",
+        "label": "SFMOMA current object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "sfmoma-v3:99.341",
+    "source_record_id": "99.341",
+    "title": "Cité",
+    "year_start": 1951,
+    "year_end": 1951,
+    "date_display": "1951",
+    "medium": "oil on wood",
+    "height_cm": 143.5,
+    "width_cm": 179.8,
+    "depth_cm": 4.6,
+    "dimensions_display": "56 1/2 × 70 3/4 × 1 3/4 in. (143.5 × 179.8 × 4.6 cm)",
+    "collection": "San Francisco Museum of Modern Art, the Doris and Donald Fisher Collection at the San Francisco Museum of Modern Art, and promised gift of Helen and Charles Schwab",
+    "accession": "99.341",
+    "ek_id": "EK 40",
+    "source_url": "https://www.sfmoma.org/artwork/99.341/",
+    "image_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/07/23001316/99.341_01_H02.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.sfmoma.org/artwork/99.341/",
+        "label": "SFMOMA current object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "sfmoma-v3:99.349",
+    "source_record_id": "99.349",
+    "title": "Red Yellow Blue White and Black with White Border",
+    "year_start": 1952,
+    "year_end": 1953,
+    "date_display": "1952-1953",
+    "medium": "oil on canvas",
+    "height_cm": 106.7,
+    "width_cm": 393.7,
+    "depth_cm": null,
+    "dimensions_display": "42 × 155 in. (106.7 × 393.7 cm)",
+    "collection": "San Francisco Museum of Modern Art, the Doris and Donald Fisher Collection at the San Francisco Museum of Modern Art, and promised gift of Helen and Charles Schwab",
+    "accession": "99.349",
+    "ek_id": null,
+    "source_url": "https://www.sfmoma.org/artwork/99.349/",
+    "image_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/07/22224125/99.349_01_H02.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.sfmoma.org/artwork/99.349/",
+        "label": "SFMOMA current object record",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "sfmoma-504-1"
+  },
+  {
+    "source_id": "sfmoma-v3:99.353",
+    "source_record_id": "99.353",
+    "title": "Spectrum I",
+    "year_start": 1953,
+    "year_end": 1953,
+    "date_display": "1953",
+    "medium": "oil on canvas",
+    "height_cm": 153.2,
+    "width_cm": 153.2,
+    "depth_cm": null,
+    "dimensions_display": "60 1/4 × 60 1/4 in. (153.2 × 153.2 cm)",
+    "collection": "San Francisco Museum of Modern Art, the Doris and Donald Fisher Collection at the San Francisco Museum of Modern Art, and promised gift of Helen and Charles Schwab",
+    "accession": "99.353",
+    "ek_id": "EK 59",
+    "source_url": "https://www.sfmoma.org/artwork/99.353/",
+    "image_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/07/13213103/99.353_01_H02.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.sfmoma.org/artwork/99.353/",
+        "label": "SFMOMA current object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "sfmoma-v3:99.351",
+    "source_record_id": "99.351",
+    "title": "Self-Portrait with Thorn",
+    "year_start": 1947,
+    "year_end": 1947,
+    "date_display": "1947",
+    "medium": "oil on wood",
+    "height_cm": 91.4,
+    "width_cm": 61.0,
+    "depth_cm": 3.8,
+    "dimensions_display": "36 × 24 × 1 1/2 in. (91.4 × 61.0 × 3.8 cm)",
+    "collection": "Collection SFMOMA; Gift of the artist",
+    "accession": "99.351",
+    "ek_id": null,
+    "source_url": "https://www.sfmoma.org/artwork/99.351/",
+    "image_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/06/12132233/99.351_01_H02.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.sfmoma.org/artwork/99.351/",
+        "label": "SFMOMA current object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "sfmoma-v3:99.340",
+    "source_record_id": "99.340",
+    "title": "Chuan-Shu",
+    "year_start": 1949,
+    "year_end": 1949,
+    "date_display": "1949",
+    "medium": "oil on linen",
+    "height_cm": 90.2,
+    "width_cm": 71.1,
+    "depth_cm": null,
+    "dimensions_display": "35 1/2 × 28 in. (90.2 × 71.1 cm)",
+    "collection": "Collection SFMOMA",
+    "accession": "99.340",
+    "ek_id": null,
+    "source_url": "https://www.sfmoma.org/artwork/99.340/",
+    "image_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/07/27172858/99.340_01_H02.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.sfmoma.org/artwork/99.340/",
+        "label": "SFMOMA current object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "sfmoma-v3:98.376",
+    "source_record_id": "98.376",
+    "title": "Yellow Relief with Black",
+    "year_start": 1993,
+    "year_end": 1993,
+    "date_display": "1993",
+    "medium": "oil on canvas",
+    "height_cm": 304.8,
+    "width_cm": 249.2,
+    "depth_cm": null,
+    "dimensions_display": "120 × 98 1/8 in. (304.8 × 249.2 cm)",
+    "collection": "The Doris and Donald Fisher Collection at the San Francisco Museum of Modern Art and the San Francisco Museum of Modern Art",
+    "accession": "98.376",
+    "ek_id": null,
+    "source_url": "https://www.sfmoma.org/artwork/98.376/",
+    "image_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/08/27140933/98.376_10L_KELLY_534R2_p_FINAL.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.sfmoma.org/artwork/98.376/",
+        "label": "SFMOMA current object record",
+        "accessed": "2026-10-27"
+      }
+    ]
+  }
+]

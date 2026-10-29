@@ -1,0 +1,675 @@
+{
+  "EK A.22": {
+    "path": "assets/studies/v2-ek-a-22.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://ellsworthkelly.org/work/plant-ii/",
+    "reference_id": "research/reference-images/EK-A_22.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK A.29": {
+    "path": "assets/studies/v2-ek-a-29.svg",
+    "colors": [
+      "white",
+      "yellow"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://ellsworthkelly.org/work/kilometer-marker/",
+    "reference_id": "research/reference-images/EK-A_29.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Fine construction contours are schematic; surface age/texture omitted.",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 12": {
+    "path": "assets/studies/v2-ek-12.svg",
+    "colors": [
+      "white"
+    ],
+    "shape_type": "cutout",
+    "reference_url": "https://ellsworthkelly.org/work/cutout-in-wood/",
+    "reference_id": "research/reference-images/EK-12.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Open cutout channels remain transparent; depth and edge rounding omitted.",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 14": {
+    "path": "assets/studies/v2-ek-14.svg",
+    "colors": [
+      "white",
+      "gray",
+      "orange"
+    ],
+    "shape_type": "rectangle relief",
+    "reference_url": "https://ellsworthkelly.org/work/saint-louis-i/",
+    "reference_id": "research/reference-images/EK-14.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Linear architecture and line weights simplified from the source, not measured.",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 22": {
+    "path": "assets/studies/v2-ek-22.svg",
+    "colors": [
+      "blue",
+      "white",
+      "black",
+      "gray"
+    ],
+    "shape_type": "joined rectangles",
+    "reference_url": "https://ellsworthkelly.org/work/window-vi/",
+    "reference_id": "research/reference-images/EK-22.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Bars and field proportions approximate; wood depth omitted.",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 46": {
+    "path": "assets/studies/v2-ek-46.svg",
+    "colors": [
+      "black",
+      "white",
+      "purple",
+      "green",
+      "blue",
+      "yellow",
+      "red",
+      "orange",
+      "pink",
+      "brown"
+    ],
+    "shape_type": "joined rectangles",
+    "reference_url": "https://ellsworthkelly.org/work/colors-for-a-large-wall/",
+    "reference_id": "research/reference-images/EK-46.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "All 64 observed colour positions transcribed from source. Similar dark hues grouped; spectrum hues standardized.",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 45": {
+    "path": "assets/studies/v2-ek-45.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://ellsworthkelly.org/work/seine/",
+    "reference_id": "research/reference-images/EK-45.jpg",
+    "method": "reference_mask_vector_trace",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Actual photographed marks traced to SVG rectangles; fine contours approximated and photographic texture removed. No randomized pattern.",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 40": {
+    "path": "assets/studies/v2-ek-40.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "joined rectangles",
+    "reference_url": "https://ellsworthkelly.org/work/cite/",
+    "reference_id": "research/reference-images/EK-40.jpg",
+    "method": "reference_mask_vector_trace",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Observed stripe arrangement traced from the source mask. Panel seams and fine irregularities simplified. No randomized pattern.",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 63": {
+    "path": "assets/studies/v2-ek-63.svg",
+    "colors": [
+      "black",
+      "blue",
+      "green",
+      "yellow",
+      "orange",
+      "red",
+      "purple",
+      "pink",
+      "gray"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://ellsworthkelly.org/work/spectrum-colors-arranged-by-chance/",
+    "reference_id": "research/reference-images/EK-63.jpg",
+    "method": "observed_grid_sample_to_svg",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Observed 38×38 source grid sampled at cell centres; colours assigned to a vivid family palette. No chance pattern generated.",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 50": {
+    "path": "assets/studies/v2-ek-50.svg",
+    "colors": [
+      "blue",
+      "red",
+      "yellow",
+      "white"
+    ],
+    "shape_type": "separate panels",
+    "reference_url": "https://ellsworthkelly.org/work/red-yellow-blue-white/",
+    "reference_id": "research/reference-images/EK-50.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Observed ordering of all 25 textile squares preserved; inter-column spacing approximate.",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 348": {
+    "path": "assets/studies/v2-ek-348.svg",
+    "colors": [
+      "red",
+      "blue",
+      "green",
+      "yellow"
+    ],
+    "shape_type": "wall and floor panels",
+    "reference_url": "https://ellsworthkelly.org/work/red-blue-green-yellow/",
+    "reference_id": "research/reference-images/EK-348.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Schematic oblique installation view; floor trapezoid represents perspective, not plan geometry.",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 356": {
+    "path": "assets/studies/v2-ek-356.svg",
+    "colors": [
+      "blue",
+      "red"
+    ],
+    "shape_type": "wall and floor panels",
+    "reference_url": "https://ellsworthkelly.org/work/blue-red/",
+    "reference_id": "research/reference-images/EK-356.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Schematic oblique installation view; floor trapezoid represents perspective, not plan geometry.",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 26": {
+    "path": "assets/studies/v2-ek-26.svg",
+    "colors": [
+      "yellow",
+      "white",
+      "black",
+      "red"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://ellsworthkelly.org/work/fond-jaune/",
+    "reference_id": "research/reference-images/EK-26.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Observed strip placements and coloured mark preserved; irregular edges simplified.",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 18": {
+    "path": "assets/studies/v2-ek-18.svg",
+    "colors": [
+      "white"
+    ],
+    "shape_type": "rectangle relief",
+    "reference_url": "https://ellsworthkelly.org/work/white-relief/",
+    "reference_id": "research/reference-images/EK-18.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Sixteen observed raised forms. Thin neutral outlines are diagrammatic edge guides, not additional painted grey.",
+    "reviewed_date": "2026-10-26"
+  },
+  "EK 589.2": {
+    "path": "assets/studies/v2-ek-589-2.svg",
+    "colors": [
+      "orange",
+      "blue",
+      "yellow",
+      "purple",
+      "green",
+      "red",
+      "brown"
+    ],
+    "shape_type": "separate panels",
+    "reference_url": "https://ellsworthkelly.org/work/color-panels-for-a-large-wall/",
+    "reference_id": "research/reference-images/EK-589_2.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "All 18 positions follow the photograph. Frontal grid rectifies perspective; dark hues grouped and panel sizes/spacing schematic.",
+    "reviewed_date": "2026-10-26"
+  },
+  "moma-82211": {
+    "path": "assets/studies/v2-moma-82211.svg",
+    "colors": [
+      "white",
+      "blue"
+    ],
+    "shape_type": "rectangle relief",
+    "reference_url": "https://www.moma.org/collection/works/82211",
+    "reference_id": "research/svg-v2-reference-images/moma-82211.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Neutral contour guides distinguish all-white relief edges; depth omitted.",
+    "reviewed_date": "2026-10-26"
+  },
+  "nga-75042": {
+    "path": "assets/studies/v2-nga-75042.svg",
+    "colors": [
+      "yellow",
+      "pink",
+      "orange",
+      "white",
+      "black"
+    ],
+    "shape_type": "joined rectangles",
+    "reference_url": "https://www.nga.gov/artworks/75042",
+    "reference_id": "research/svg-v2-reference-images/nga-75042.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "whitney-2423": {
+    "path": "assets/studies/v2-whitney-2423.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "joined rectangles",
+    "reference_url": "https://whitney.org/collection/works/2423",
+    "reference_id": "research/svg-v2-reference-images/whitney-2423.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "guggenheim-venice-42nd": {
+    "path": "assets/studies/v2-guggenheim-venice-42nd.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.guggenheim-venice.it/en/art/works/42nd/",
+    "reference_id": "research/svg-v2-reference-images/guggenheim-venice-42nd.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "moma-78403": {
+    "path": "assets/studies/v2-moma-78403.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.moma.org/collection/works/78403",
+    "reference_id": "research/svg-v2-reference-images/moma-78403.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "White loop and lower continuation traced by eye; Bézier curvature approximate.",
+    "reviewed_date": "2026-10-26"
+  },
+  "whitney-58": {
+    "path": "assets/studies/v2-whitney-58.svg",
+    "colors": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://whitney.org/collection/works/58",
+    "reference_id": "research/svg-v2-reference-images/whitney-58.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "moma-80258": {
+    "path": "assets/studies/v2-moma-80258.svg",
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.moma.org/collection/works/80258",
+    "reference_id": "research/svg-v2-reference-images/moma-80258.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "cleveland-140139": {
+    "path": "assets/studies/v2-cleveland-140139.svg",
+    "colors": [
+      "blue",
+      "red"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.clevelandart.org/art/1964.142",
+    "reference_id": "research/svg-v2-reference-images/cleveland-140139.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "whitney-2596": {
+    "path": "assets/studies/v2-whitney-2596.svg",
+    "colors": [
+      "red",
+      "blue",
+      "green"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://whitney.org/collection/works/2596",
+    "reference_id": "research/svg-v2-reference-images/whitney-2596.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "guggenheim-venice-blue-red": {
+    "path": "assets/studies/v2-guggenheim-venice-blue-red.svg",
+    "colors": [
+      "blue",
+      "red"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.guggenheim-venice.it/en/art/works/blue-red/",
+    "reference_id": "research/svg-v2-reference-images/guggenheim-venice-blue-red.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "guggenheim-venice-green-red": {
+    "path": "assets/studies/v2-guggenheim-venice-green-red.svg",
+    "colors": [
+      "green",
+      "red"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.guggenheim-venice.it/en/art/works/green-red/",
+    "reference_id": "research/svg-v2-reference-images/guggenheim-venice-green-red.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "whitney-17194": {
+    "path": "assets/studies/v2-whitney-17194.svg",
+    "colors": [
+      "yellow",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://whitney.org/collection/works/17194",
+    "reference_id": "research/svg-v2-reference-images/whitney-17194.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "moma-79739": {
+    "path": "assets/studies/v2-moma-79739.svg",
+    "colors": [
+      "yellow",
+      "green",
+      "blue",
+      "purple",
+      "red",
+      "orange"
+    ],
+    "shape_type": "joined rectangles",
+    "reference_url": "https://www.moma.org/collection/works/79739",
+    "reference_id": "research/svg-v2-reference-images/moma-79739.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Thirteen observed strips retained; close spectrum hues simplified to a vivid family palette.",
+    "reviewed_date": "2026-10-26"
+  },
+  "guggenheim-venice-black-curve-iv": {
+    "path": "assets/studies/v2-guggenheim-venice-black-curve-iv.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.guggenheim-venice.it/en/art/works/black-curve-iv/",
+    "reference_id": "research/svg-v2-reference-images/guggenheim-venice-black-curve-iv.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "nga-65714": {
+    "path": "assets/studies/v2-nga-65714.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.nga.gov/artworks/65714",
+    "reference_id": "research/svg-v2-reference-images/nga-65714.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Shallow dividing curve preserved; not a shaped white cutout.",
+    "reviewed_date": "2026-10-26"
+  },
+  "whitney-1236": {
+    "path": "assets/studies/v2-whitney-1236.svg",
+    "colors": [
+      "blue"
+    ],
+    "shape_type": "polygon",
+    "reference_url": "https://whitney.org/collection/works/1236",
+    "reference_id": "research/svg-v2-reference-images/whitney-1236.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Approximate quadrilateral outline from photographed panel; perspective not fully rectified.",
+    "reviewed_date": "2026-10-26"
+  },
+  "moma-80300": {
+    "path": "assets/studies/v2-moma-80300.svg",
+    "colors": [
+      "orange"
+    ],
+    "shape_type": "curved polygon",
+    "reference_url": "https://www.moma.org/collection/works/80300",
+    "reference_id": "research/svg-v2-reference-images/moma-80300.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Orange family standardizes source red-orange; shallow edge curvature approximate.",
+    "reviewed_date": "2026-10-26"
+  },
+  "nga-107336": {
+    "path": "assets/studies/v2-nga-107336.svg",
+    "colors": [
+      "yellow",
+      "orange",
+      "blue"
+    ],
+    "shape_type": "separate curved panels",
+    "reference_url": "https://www.nga.gov/artworks/107336",
+    "reference_id": "research/svg-v2-reference-images/nga-107336.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Three photographed separate panels, approximate frontal proportions and spacing.",
+    "reviewed_date": "2026-10-26"
+  },
+  "whitney-17195": {
+    "path": "assets/studies/v2-whitney-17195.svg",
+    "colors": [
+      "blue",
+      "yellow"
+    ],
+    "shape_type": "rectangle relief",
+    "reference_url": "https://whitney.org/collection/works/17195",
+    "reference_id": "research/svg-v2-reference-images/whitney-17195.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "",
+    "reviewed_date": "2026-10-26"
+  },
+  "moma-88885": {
+    "path": "assets/studies/v2-moma-88885.svg",
+    "colors": [
+      "white"
+    ],
+    "shape_type": "curved relief",
+    "reference_url": "https://www.moma.org/collection/works/88885",
+    "reference_id": "research/svg-v2-reference-images/moma-88885.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Thin neutral curve is a diagrammatic relief-edge guide, not grey paint.",
+    "reviewed_date": "2026-10-26"
+  },
+  "high-white-panel-ii": {
+    "path": "assets/studies/v2-high-white-panel-ii.svg",
+    "colors": [
+      "white"
+    ],
+    "shape_type": "curved polygon",
+    "reference_url": "https://high.org/collection/white-panel-ii/",
+    "reference_id": "research/svg-v2-reference-images/high-white-panel-ii.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "A curved upper edge is retained; approximate photo-based contour.",
+    "reviewed_date": "2026-10-26"
+  },
+  "high-red-curve-vi": {
+    "path": "assets/studies/v2-high-red-curve-vi.svg",
+    "colors": [
+      "red"
+    ],
+    "shape_type": "curved triangle",
+    "reference_url": "https://high.org/collection/red-curve-vi/",
+    "reference_id": "research/svg-v2-reference-images/high-red-curve-vi.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Sweeping upper arc and pointed lower corner preserved; control points approximate.",
+    "reviewed_date": "2026-10-26"
+  },
+  "high-green-curve": {
+    "path": "assets/studies/v2-high-green-curve.svg",
+    "colors": [
+      "green"
+    ],
+    "shape_type": "curved panel",
+    "reference_url": "https://high.org/collection/green-curve/",
+    "reference_id": "research/svg-v2-reference-images/high-green-curve.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Flat base, blunt left end and tapering right tip preserved.",
+    "reviewed_date": "2026-10-26"
+  },
+  "high-untitled-341": {
+    "path": "assets/studies/v2-high-untitled-341.svg",
+    "colors": [
+      "black"
+    ],
+    "shape_type": "curved polygon",
+    "reference_url": "https://high.org/collection/untitled-341/",
+    "reference_id": "research/svg-v2-reference-images/high-untitled-341.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Curved upper-left side and three straight sides preserved; contour approximate.",
+    "reviewed_date": "2026-10-26"
+  },
+  "ncma-8122": {
+    "path": "assets/studies/v2-ncma-8122.svg",
+    "colors": [
+      "blue"
+    ],
+    "shape_type": "polygon",
+    "reference_url": "https://collection.ncartmuseum.org/objects/8122/blue-panel",
+    "reference_id": "research/svg-v2-reference-images/ncma-8122.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Observed four-sided shaped canvas; outline approximate.",
+    "reviewed_date": "2026-10-26"
+  },
+  "met-481000": {
+    "path": "assets/studies/v2-met-481000.svg",
+    "colors": [
+      "red",
+      "blue"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.metmuseum.org/art/collection/search/481000",
+    "reference_id": "research/svg-v2-met-preview-observation.md",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Observed organic silhouette hand-traced from the ordinary Met page preview. Fine contour irregularities omitted; source dark blue is mapped to the shared vivid blue palette.",
+    "reviewed_date": "2026-10-26"
+  },
+  "met-484636": {
+    "path": "assets/studies/v2-met-484636.svg",
+    "colors": [
+      "blue"
+    ],
+    "shape_type": "polygon",
+    "reference_url": "https://www.metmuseum.org/art/collection/search/484636",
+    "reference_id": "research/svg-v2-met-preview-observation.md",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Four straight sides hand-traced from the ordinary displayed Met preview; photographic perspective not fully rectified.",
+    "reviewed_date": "2026-10-26"
+  },
+  "met-915129": {
+    "path": "assets/studies/v2-met-915129.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "joined triangles",
+    "reference_url": "https://www.metmuseum.org/art/collection/search/915129",
+    "reference_id": "research/svg-v2-met-preview-observation.md",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Two identically shaped triangular canvases confirmed by the Met description and ordinary preview; shared vertical edge preserved.",
+    "reviewed_date": "2026-10-26"
+  }
+}

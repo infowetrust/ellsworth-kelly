@@ -1,0 +1,27 @@
+# Lead review of the SVG gap pass
+
+The lead inspected both root comparison sheets, all three market comparison sheets, and all sixteen museum study/reference pairs. These are visual checks, separate from the automated XML, palette, aspect and identity checks.
+
+The root batch preserves painted white supports, omits external photo backgrounds and frames, and records approximated contours. Chicago Yellow Panel was corrected after the downloaded photograph revealed an installed silhouette around 0.894 width/height, conflicting with the museum's reported 189.5 × 212.3 cm. Its observed aspect is retained only at comparable size. The Met Blue Green Red study follows the ordinary 544 × 600 public preview; no enlargement or download was requested.
+
+The lead requested additional support evidence for two market studies. Bonhams Red White (1968) has a triangular physical support: the separate oblique installation photograph exposes the edge and mounting shadow against a continuous dark wall. The black upper-left area in the frontal photo is correctly omitted. Wall, Beekman Downtown Hospital retains its square paper support: the full numbered plate and caption show pencil and gouache on a 32.4 cm square sheet with margins around a yellow field and black baseline. These margins are part of the sheet, rather than the book page or a photo frame. Both supporting references were inspected directly.
+
+The Kawamura Black Curve (1994) reference was checked at full report-page resolution. The owning company's 2019 report page 11 explicitly identifies the new oil painting and depicts its curved wedge at the far left of the lower gallery photo. The unrelated rectangular Twombly reproduction above it is not the Kelly reference.
+
+The historical Boatmen's Bank Blue Green Yellow Orange Red (1968) and the MFA record were compared independently. The MFA's primary 2010 announcement explicitly identifies the oil painting as a Bank of America donation, with five panels and approximate dimensions of ten by twenty-two feet. Its visitor photograph matches the distinctive five-color tapered work in the 1996 book figure. The current MFA collection statement takes precedence over the historical bank credit; both source records survive.
+
+The proposed Guggenheim cat. 19 / Foundation EK56 identity was challenged: the book narrative describes seven panels with blue at both ends, whereas the inspected EK56/Marks work has six strips. Exact title and year alone do not establish identity. No join is accepted without resolving that material discrepancy.
+
+Further final batch review is recorded alongside the batch comparisons and final validation report.
+
+The lead additionally inspected all four Foundation study comparison sheets (sixteen new vectors). The Sanary grid uses the inspected color reference; the November Painting study follows visible marks rather than guessing colors from a monochrome plate. The two floor paintings preserve the visible photographic projection and remain excluded from physical-scale comparisons. Relief depth and cast shadows are deliberately omitted; white paint remains part of the support where shown.
+
+The lead also inspected all five Foundation identity comparison sheets. The rejected Two Curves comparison confirms that the white Foundation work and the existing black 2012 gallery painting must remain distinct. Historical Spectrum III credit was checked against the actual MoMA 1973 page 82; its dimensions and thirteen-panel image match the current Modern collection record, while the historical museum/gallery credit remains preserved rather than silently rewritten.
+
+The second independent audit found that canonical EK numbers were not being copied when an earlier museum/auction ID was retained during a proved identity merge. The central merge now preserves the Foundation identifier and raises on conflicting canonical identifiers. A regression check covers all source EK identifiers. Another added check verifies that every SVG filename satisfies the gallery path contract; this caught the three new dealer records' uppercase/punctuation filenames before publication.
+
+Final market review covered the new Sumac (1959) reference recovered from the public Levy Gorvy fair brochure and the three Peter Freeman 2005 exhibition images. The lead viewed the updated first and third source/vector sheets: the large Sumac and its small Sumac Study remain distinct records, and the two rounded-bar compositions preserve their different color arrangements. These three dealer works are additional records, not counted as closures of the original 236 slots. All market filenames now meet the gallery's lowercase path contract.
+
+The final Bar identity was checked against the actual 1973 PDF page 68 and 1996 PDF page 129. The asymmetric top and bottom waves agree, both captions specify oil on canvas and a 96-inch width. The 1956/1955 date and 32¾/33-inch height differences remain source conflicts. The Foundation EK87 and historical book entry join the existing illustrated catalogue record; this is an identity closure, not another newly drawn vector.
+
+Browser review also caught a supplementary chronology citation from the large Met Blue Green Red (1963) being attached to the newly added small dealer painting with the same title and year. Chronology enrichment is now bound to an existing matching primary-source URL or exact EK identity where available. The smaller EK303 record stays physically and bibliographically distinct, with a regression check.

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "sfmoma-v3-99-351",
+    "title": "Self-Portrait with Thorn",
+    "outcome": "remaining_svg_gap",
+    "reason": "Actual museum color photograph available, but figurative portrait modeling, plant and clothing are not yet adequately represented by a simplified geometric SVG; retained for later careful vector work.",
+    "reference_url": "https://www.sfmoma.org/artwork/99.351/",
+    "reference_id": "research/sfmoma-v3-reference-images/99.351.jpg"
+  },
+  {
+    "id": "sfmoma-v3-99-340",
+    "title": "Chuan-Shu",
+    "outcome": "remaining_svg_gap",
+    "reason": "Actual museum color photograph inspected. Many softly layered glyphs and tonal transitions need a more careful vector interpretation; no substitute generic geometry added.",
+    "reference_url": "https://www.sfmoma.org/artwork/99.340/",
+    "reference_id": "research/sfmoma-v3-reference-images/99.340.jpg"
+  },
+  {
+    "id": "sfmoma-v3-99-348",
+    "title": "Mandorla",
+    "outcome": "new_svg",
+    "reason": "Schematic of the directly inspected museum color image: central pale pointed lens, dark central seam, smaller lower teardrop and pale angular underpainting on the complete rectangular canvas. Low-contrast tonal layers, brushwork, worn edges and faint blue traces are simplified. Pale screen colors are intentionally retained; this is a major-motif navigation study, not a facsimile.",
+    "reference_url": "https://www.sfmoma.org/artwork/99.348/",
+    "reference_id": "research/sfmoma-v3-reference-images/99.348.jpg"
+  },
+  {
+    "id": "sfmoma-v3-99-350",
+    "title": "Seated Figure",
+    "outcome": "remaining_svg_gap",
+    "reason": "Actual museum figurative color painting available; full seated figure and tonal modeling remain a future vector task rather than an invented geometric proxy.",
+    "reference_url": "https://www.sfmoma.org/artwork/99.350/",
+    "reference_id": "research/sfmoma-v3-reference-images/99.350.jpg"
+  },
+  {
+    "id": "gap-ormesson-1950",
+    "title": "Ormesson",
+    "outcome": "new_svg",
+    "reason": "Actual color illustration: Else van Sterkenburg-Fransen, Radboud University bachelor thesis (2017), PDF 65 fig 25. Foundation EK 29 installation and MoMA 1973 note 26 independently identify the painting/date. Three white joined panels retain the separate black and green chimney-derived motifs. The thesis reports 83.8×224.2 cm, but those dimensions are kept as secondary evidence only, not promoted to measured primary facts. Observed reproduction aspect retained despite its difference from the secondary dimensional ratio. Panel contours approximated; texture omitted.",
+    "reference_url": "https://theses.ubn.ru.nl/bitstreams/722c0843-d79a-40f6-be14-120a459b1ed6/download",
+    "reference_id": "research/svg-gap-v6/root/ormesson-thesis-p65.png"
+  },
+  {
+    "id": "ek-35",
+    "title": "Red Yellow and Blue",
+    "outcome": "remaining_svg_gap",
+    "reason": "Primary Foundation photograph research/reference-images/EK-35.jpg is monochrome; numerous bars have unknown red/yellow/blue placement and unknown field pigment. Title alone cannot recover the actual arrangement. Search finds different 1951 collages, not this oil painting.",
+    "reference_url": "https://ellsworthkelly.org/work/red-yellow-and-blue/",
+    "reference_id": "research/reference-images/EK-35.jpg"
+  },
+  {
+    "id": "gap-blue-white-1962",
+    "title": "Blue White",
+    "outcome": "new_svg",
+    "reason": "Actual primary gallery page explicitly captions the reproduced painting Blue White (1962), oil on canvas, Rose Art Museum. Two blue masses nearly meet at the center; white wedges open at top and bottom. Different from the adjacent small collage Study for Blue White. Whole rectangular painted support retained; photo margins omitted. Physical dimensions remain unknown.",
+    "reference_url": "https://matthewmarks.com/online/ellsworth-kelly/ek_47212-ek-d-62-50-reference-01/",
+    "reference_id": "research/svg-gap-v6/root/rose-bluewhite1962.jpg"
+  },
+  {
+    "id": "gap-red-green-blue-ii-1965",
+    "title": "Red Green Blue II",
+    "outcome": "remaining_svg_gap",
+    "reason": "Fresh Foundation chronology again explicitly names the work in 1988, but alternate primary work image, EKnumber and medium remain unverified. Similar RedYellowBlueII and RedGreenBlueI must not substitute.",
+    "reference_url": "https://ellsworthkelly.org/chronology/",
+    "reference_id": null
+  },
+  {
+    "id": "gap-blue-curve-i-1969",
+    "title": "Blue Curve I",
+    "outcome": "remaining_svg_gap",
+    "reason": "Fresh chronology supports existence among 1969 radial curve paintings; current dealer primary essay documents the distinct 1972 BlueCurveIV series. No exact 1969 BlueCurveI image or physical identity established.",
+    "reference_url": "https://ellsworthkelly.org/chronology/",
+    "reference_id": null
+  },
+  {
+    "id": "artic-v4-193544",
+    "title": "The Chicago Panels",
+    "outcome": "remaining_svg_gap",
+    "reason": "Six individual Chicago panel studies already exist. Architectural group spans multiple walls; a further invented planar assembly would imply a false canonical arrangement. Group slot preserved.",
+    "reference_url": "https://www.artic.edu/artworks/193544",
+    "reference_id": null
+  },
+  {
+    "id": "gap-blue-white-2006",
+    "title": "Blue White",
+    "outcome": "new_svg",
+    "reason": "Actual museum lobby photograph credited E. Scott McDonald and independent project architect Scott Lauer show the full work: blue upper panel joined to a white lower panel. The current exhibition hero depicts Youngerman May, not this work; it is excluded as a reference. This drawing retains the observed oblique projection, not an invented frontal parallelogram or dimensions. Museum describes the commission as a painting; its older wall-sculpture wording remains a classification note.",
+    "reference_url": "https://www.artmuseumgr.org/exhibitions/ellsworth-kelly-jack-youngerman-surrounding-shapes",
+    "reference_id": "research/svg-gap-v6/root/gram-mcdonald.jpg"
+  },
+  {
+    "id": "gap-blue-green-undated",
+    "title": "Blue Green",
+    "outcome": "remaining_svg_gap",
+    "reason": "Fresh Paris municipal architectural report 2021 PDF 23 confirms a Kelly canvas painting in the UNESCO cafeteria, supporting the known commission, but provides no identified usable artwork reproduction. Unrelated 1970 BlueGreen lithographs and 1968 private paintings rejected.",
+    "reference_url": "https://ellsworthkelly.org/chronology/",
+    "reference_id": "research/svg-gap-v6/root/unesco-city-report.pdf"
+  }
+]

@@ -1,0 +1,320 @@
+{
+  "moma1973-pdf57-caption1": {
+    "path": "assets/studies/v5-foundation-sanary.svg",
+    "title": "Sanary",
+    "colors": [
+      "pink",
+      "green",
+      "yellow",
+      "purple",
+      "orange",
+      "red",
+      "blue"
+    ],
+    "shape_type": "rectangle grid",
+    "reference_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=58",
+    "source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=58",
+    "reference_id": "research/svg-gap-v5/foundation/moma-pages/page-58.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against specifically identified primary image",
+    "palette": "standardized vivid screen colours; original pigment values not measured",
+    "notes": "Six rows and seven columns transcribed in source order from actual colour plate. Small differences between blue/teal/orange hues simplified; neither frame nor page is included. Historical caption PDF57 gives51¼x60in; normalized grid aspect used because central overall measurements remain unverified.",
+    "reviewed_date": "2026-10-27",
+    "original_record_kind": "painting",
+    "true_scale_eligible": false,
+    "true_scale_note": "Physical scale unresolved: no reliable overall measurements verified; study uses observed normalized aspect."
+  },
+  "moma1973-pdf62-caption2": {
+    "path": "assets/studies/v5-foundation-black-and-white-1955.svg",
+    "title": "Black and White",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle with angular fields",
+    "reference_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=62",
+    "source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=62",
+    "reference_id": "research/svg-gap-v5/foundation/moma-pages/page-62.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against specifically identified primary image",
+    "palette": "standardized vivid screen colours; original pigment values not measured",
+    "notes": "Actual black-and-white painting at lower right of PDF62. Rectangular painted white ground retained; tapering white needle divides the left black field from the upper-right field. Approximate division positions; no surrounding page or wall.",
+    "reviewed_date": "2026-10-27",
+    "original_record_kind": "painting"
+  },
+  "moma1973-pdf95-caption1": {
+    "path": "assets/studies/v5-foundation-black-square-with-red.svg",
+    "title": "Black Square with Red",
+    "colors": [
+      "black",
+      "red"
+    ],
+    "shape_type": "joined offset squares",
+    "reference_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=96",
+    "source_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=96",
+    "reference_id": "research/svg-gap-v5/foundation/moma-pages/page-96.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against specifically identified primary image",
+    "palette": "standardized vivid screen colours; original pigment values not measured",
+    "notes": "Black upper-right square joined at side to smaller red lower-left square. Empty upper-left and lower-right areas are transparent wall, not white canvas. Actual colour plate PDF96; caption isPDF95. Historical outer ratio91¾/78in.",
+    "reviewed_date": "2026-10-27",
+    "original_record_kind": "painting",
+    "true_scale_eligible": false,
+    "true_scale_note": "Physical scale unresolved: no reliable overall measurements verified; study uses observed normalized aspect."
+  },
+  "ek-808": {
+    "path": "assets/studies/v5-foundation-yellow-curve-floor-projection.svg",
+    "title": "Yellow Curve",
+    "colors": [
+      "yellow"
+    ],
+    "shape_type": "curved floor panel projection",
+    "reference_url": "https://ellsworthkelly.org/work/yellow-curve/",
+    "source_url": "https://ellsworthkelly.org/work/yellow-curve/",
+    "reference_id": "research/svg-gap-v5/foundation/reference-images/ek-808.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against specifically identified primary image",
+    "palette": "standardized vivid screen colours; original pigment values not measured",
+    "notes": "Schematic silhouette in the actually photographed FLOOR PROJECTION; yellow panel only, no gallery floor/wall. This is not a reconstructed plan and cannot be compared at physical scale. Vivid yellow is interpretive.",
+    "reviewed_date": "2026-10-27",
+    "original_record_kind": "painting",
+    "true_scale_eligible": false,
+    "true_scale_note": "Physical scale unresolved: photographed floor projection; plan outline is not established."
+  },
+  "ek-835": {
+    "path": "assets/studies/v5-foundation-red-floor-panel-projection.svg",
+    "title": "Red Floor Panel",
+    "colors": [
+      "red"
+    ],
+    "shape_type": "floor quadrilateral projection",
+    "reference_url": "https://ellsworthkelly.org/work/red-floor-panel/",
+    "source_url": "https://ellsworthkelly.org/work/red-floor-panel/",
+    "reference_id": "research/svg-gap-v5/foundation/reference-images/ek-835.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against specifically identified primary image",
+    "palette": "standardized vivid screen colours; original pigment values not measured",
+    "notes": "Schematic silhouette of the actual photographed FLOOR PROJECTION. All four observed panel corners retained, floor and mounting shadows omitted. Plan outline and rectified aspect are not asserted; excluded from physical scaling.",
+    "reviewed_date": "2026-10-27",
+    "original_record_kind": "painting",
+    "true_scale_eligible": false,
+    "true_scale_note": "Physical scale unresolved: photographed floor projection; plan outline is not established."
+  },
+  "foundation-exhib-v4-ek951-ellsworth-kelly-sculpture-on-the-wall": {
+    "path": "assets/studies/v5-foundation-black-white-black-951.svg",
+    "title": "Black White Black",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "three joined rectangular panels",
+    "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture-on-the-wall/",
+    "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture-on-the-wall/",
+    "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-42.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against specifically identified primary image",
+    "palette": "standardized vivid screen colours; original pigment values not measured",
+    "notes": "Three adjacent full-height painted panels: a narrower black panel at left, white at centre, and wider black at right. Width divisions are approximate after allowing for the oblique gallery view; they are not measured dimensions. Foundation photograph explicitly labels this title and EK identifier; medium classification remains as sourced.",
+    "reviewed_date": "2026-10-27",
+    "original_record_kind": "painting_candidate",
+    "true_scale_eligible": false,
+    "true_scale_note": "Physical scale unresolved: no reliable overall measurements verified; study uses observed normalized aspect."
+  },
+  "foundation-exhib-v4-ek1024-ellsworth-kelly-curated-by-jack-shear": {
+    "path": "assets/studies/v5-foundation-white-plaque-bridge-arch-reflection-ii.svg",
+    "title": "White Plaque: Bridge Arch and Reflection II",
+    "colors": [
+      "white"
+    ],
+    "shape_type": "paired rounded lobes",
+    "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-curated-by-jack-shear/",
+    "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-curated-by-jack-shear/",
+    "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-29.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against specifically identified primary image",
+    "palette": "standardized vivid screen colours; original pigment values not measured",
+    "notes": "Two rounded white lobes meet at a shallow inward waist. The centre is painted white, not a hole. Cast shadows and gallery wall omitted; subtle surface seam simplified. Foundation photograph explicitly labels this title and EK identifier; medium classification remains as sourced.",
+    "reviewed_date": "2026-10-27",
+    "original_record_kind": "painting_candidate",
+    "true_scale_eligible": false,
+    "true_scale_note": "Physical scale unresolved: no reliable overall measurements verified; study uses observed normalized aspect."
+  },
+  "foundation-exhib-v4-ek946-ellsworth-kelly-curated-by-jack-shear": {
+    "path": "assets/studies/v5-foundation-black-relief-white-946.svg",
+    "title": "Black Relief with White",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangular ground with trapezoid relief",
+    "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-curated-by-jack-shear/",
+    "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-curated-by-jack-shear/",
+    "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-26.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against specifically identified primary image",
+    "palette": "standardized vivid screen colours; original pigment values not measured",
+    "notes": "Black trapezoidal raised panel on a rectangular white backing; the white backing is part of the work and retained. The oblique photographed outline has been approximately flattened. No identity with another same-title relief is asserted. Foundation photograph explicitly labels this title and EK identifier; medium classification remains as sourced.",
+    "reviewed_date": "2026-10-27",
+    "original_record_kind": "painting_candidate",
+    "true_scale_eligible": false,
+    "true_scale_note": "Physical scale unresolved: no reliable overall measurements verified; study uses observed normalized aspect."
+  },
+  "foundation-exhib-v4-ek82-ellsworth-kelly-paris-new-york-1949-1959": {
+    "path": "assets/studies/v5-foundation-white-and-black-82.svg",
+    "title": "White and Black",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle with horizontal fields",
+    "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paris-new-york-1949-1959/",
+    "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paris-new-york-1949-1959/",
+    "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-48.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against specifically identified primary image",
+    "palette": "standardized vivid screen colours; original pigment values not measured",
+    "notes": "White rectangular painted support with two black horizontal fields separated by a white band. The oblique installation view establishes the two fields but only an approximate normalized aspect. Foundation photograph explicitly labels this title and EK identifier; medium classification remains as sourced.",
+    "reviewed_date": "2026-10-27",
+    "original_record_kind": "painting_candidate",
+    "true_scale_eligible": false,
+    "true_scale_note": "Physical scale unresolved: no reliable overall measurements verified; study uses observed normalized aspect."
+  },
+  "foundation-exhib-v4-ek78-ellsworth-kelly-paris-new-york-1949-1959": {
+    "path": "assets/studies/v5-foundation-barge-78.svg",
+    "title": "Barge",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle with rounded lower corners",
+    "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paris-new-york-1949-1959/",
+    "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paris-new-york-1949-1959/",
+    "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-48.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against specifically identified primary image",
+    "palette": "standardized vivid screen colours; original pigment values not measured",
+    "notes": "Near-black field has straight top and sides, with rounded lower corners on a narrow white rectangular painted ground. Frame and glazing are excluded. Approximate border thickness and corner curvature. Foundation photograph explicitly labels this title and EK identifier; medium classification remains as sourced.",
+    "reviewed_date": "2026-10-27",
+    "original_record_kind": "painting_candidate",
+    "true_scale_eligible": false,
+    "true_scale_note": "Physical scale unresolved: no reliable overall measurements verified; study uses observed normalized aspect."
+  },
+  "foundation-exhib-v4-ek180-ellsworth-kelly-curated-by-jack-shear": {
+    "path": "assets/studies/v5-foundation-slip-study-180.svg",
+    "title": "Slip Study",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle with curved field",
+    "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-curated-by-jack-shear/",
+    "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-curated-by-jack-shear/",
+    "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-27.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against specifically identified primary image",
+    "palette": "standardized vivid screen colours; original pigment values not measured",
+    "notes": "Small black-and-white study at left of the explicitly captioned installation photograph. Broad black upper field and white lower field with a rounded lower-left transition; frame excluded. Paper or canvas medium remains unverified. Foundation photograph explicitly labels this title and EK identifier; medium classification remains as sourced.",
+    "reviewed_date": "2026-10-27",
+    "original_record_kind": "painting_candidate",
+    "true_scale_eligible": false,
+    "true_scale_note": "Physical scale unresolved: no reliable overall measurements verified; study uses observed normalized aspect."
+  },
+  "foundation-exhib-v4-ek182-ellsworth-kelly-curated-by-jack-shear": {
+    "path": "assets/studies/v5-foundation-falcon-study-182.svg",
+    "title": "Falcon Study",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle with angular fields",
+    "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-curated-by-jack-shear/",
+    "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-curated-by-jack-shear/",
+    "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-27.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against specifically identified primary image",
+    "palette": "standardized vivid screen colours; original pigment values not measured",
+    "notes": "Central study has a narrow tapering black wedge at left, a broad cut-off black shape at upper right, and a pointed black triangle rising from the lower edge. White rectangular support retained, surrounding frame omitted. Foundation photograph explicitly labels this title and EK identifier; medium classification remains as sourced.",
+    "reviewed_date": "2026-10-27",
+    "original_record_kind": "painting_candidate",
+    "true_scale_eligible": false,
+    "true_scale_note": "Physical scale unresolved: no reliable overall measurements verified; study uses observed normalized aspect."
+  },
+  "foundation-exhib-v4-ek176-ellsworth-kelly-curated-by-jack-shear": {
+    "path": "assets/studies/v5-foundation-york-study-176.svg",
+    "title": "York Study",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle with curved white field",
+    "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-curated-by-jack-shear/",
+    "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-curated-by-jack-shear/",
+    "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-27.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against specifically identified primary image",
+    "palette": "standardized vivid screen colours; original pigment values not measured",
+    "notes": "Right-hand study: white asymmetrical rounded field against black rectangular painted support. White field meets the top, right and bottom edges as observed. Frame excluded; curvature is approximate. Foundation photograph explicitly labels this title and EK identifier; medium classification remains as sourced.",
+    "reviewed_date": "2026-10-27",
+    "original_record_kind": "painting_candidate",
+    "true_scale_eligible": false,
+    "true_scale_note": "Physical scale unresolved: no reliable overall measurements verified; study uses observed normalized aspect."
+  },
+  "foundation-exhib-v4-ek1046-ellsworth-kelly-sculpture-on-the-wall": {
+    "path": "assets/studies/v5-foundation-two-curves-white-1046.svg",
+    "title": "Two Curves",
+    "colors": [
+      "white"
+    ],
+    "shape_type": "curved lens",
+    "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture-on-the-wall/",
+    "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture-on-the-wall/",
+    "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-42.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against specifically identified primary image",
+    "palette": "standardized vivid screen colours; original pigment values not measured",
+    "notes": "White lens-shaped painted support with two different convex curves meeting at pointed ends. This white work remains separate from the black Two Curves2012 Marks painting; no identity based on title alone. Foundation photograph explicitly labels this title and EK identifier; medium classification remains as sourced.",
+    "reviewed_date": "2026-10-27",
+    "original_record_kind": "painting_candidate",
+    "true_scale_eligible": false,
+    "true_scale_note": "Physical scale unresolved: no reliable overall measurements verified; study uses observed normalized aspect."
+  },
+  "foundation-exhib-v4-ek746-ellsworth-kelly-sculpture-on-the-wall": {
+    "path": "assets/studies/v5-foundation-red-curve-746.svg",
+    "title": "Red Curve",
+    "colors": [
+      "red"
+    ],
+    "shape_type": "curved sector",
+    "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture-on-the-wall/",
+    "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture-on-the-wall/",
+    "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-41.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against specifically identified primary image",
+    "palette": "standardized vivid screen colours; original pigment values not measured",
+    "notes": "Red sector-shaped support identified at left in the Barnes installation. Two straight lower edges meet at a low point beneath a broad convex upper arc. Approximate outline only; painted support separated from the wall. Foundation photograph explicitly labels this title and EK identifier; medium classification remains as sourced.",
+    "reviewed_date": "2026-10-27",
+    "original_record_kind": "painting_candidate",
+    "true_scale_eligible": false,
+    "true_scale_note": "Physical scale unresolved: no reliable overall measurements verified; study uses observed normalized aspect."
+  },
+  "moma1973-pdf42-caption1": {
+    "path": "assets/studies/v5-foundation-november-painting.svg",
+    "title": "November Painting",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle with scattered fragments",
+    "reference_url": "https://img.macba.cat/wp-content/uploads/2024/03/Bois_eng.pdf#page=10",
+    "source_url": "https://img.macba.cat/wp-content/uploads/2024/03/Bois_eng.pdf#page=10",
+    "reference_id": "research/svg-gap-v5/foundation/bois-macba-10.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against specifically identified primary image",
+    "palette": "standardized vivid screen colours; original pigment values not measured",
+    "notes": "Black fragment positions and contours traced from the actually inspected colour reproduction in the MACBA publication, printed page197, and compared with the1973 MoMA plate. Cream ground standardized as off-white; subtle white-on-cream paper fragment boundaries, brush texture and aging are simplified. This is an interpretive diagram of the observed arrangement, not a photographic facsimile.",
+    "reviewed_date": "2026-10-27",
+    "original_record_kind": "painting",
+    "true_scale_eligible": false,
+    "true_scale_note": "Physical scale unresolved: no reliable overall measurements verified; study uses observed normalized aspect."
+  }
+}

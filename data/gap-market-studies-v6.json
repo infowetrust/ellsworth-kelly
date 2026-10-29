@@ -1,0 +1,104 @@
+{
+  "guggenheim1996-cat-111": {
+    "path": "assets/studies/v6-market-02-guggenheim1996-cat-111.svg",
+    "colors": [
+      "white",
+      "blue",
+      "gray"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.moma.org/collection/works/37179",
+    "reference_id": "research/svg-gap-v6/market/references/awnings.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; observed monochromes and drawing media retained",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; not a facsimile. MoMA current object496.1997 provides the complete color photograph and13.3×21cm sheet size. Seven rectangles retain their observed differing blue depths; gray is pencil outline, not a third painted field. Faint erasures and signature omitted.",
+    "reviewed_date": "2026-10-28",
+    "true_scale_eligible": true
+  },
+  "moma1973-pdf40-caption2": {
+    "path": "assets/studies/v6-market-03-moma1973-pdf40-caption2.svg",
+    "colors": [
+      "white",
+      "black"
+    ],
+    "shape_type": "nine hinged panels",
+    "reference_url": "https://discoveringek.ellsworthkelly.org/ek-100-chapter-3",
+    "reference_id": "research/svg-gap-v6/market/references/la-combe-color.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; observed monochromes and drawing media retained",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; not a facsimile. Complete Foundation color photograph explicitly labeled LaCombeII1951 shows black stair-shadow lines on white hinged screen. All nine panels retained; equal panel widths and planar arrangement are an interpretive unfolding of the photographed folds, so normalized only. This is distinct from the red-on-white flat LaCombeI canvas.",
+    "reviewed_date": "2026-10-28",
+    "true_scale_eligible": false,
+    "true_scale_note": "Normalized display only: variable installation, folded support or incomplete physical dimensions prevent a single reliable overall size. Complete Foundation color photograph explicitly labeled LaCombeII1951 shows black stair-shadow lines on white hinged screen. All nine panels retained; equal panel widths and planar arrangement are an interpretive unfolding of the photographed folds, so normalized only. This is distinct from the red-on-white flat LaCombeI canvas."
+  },
+  "moma1973-pdf29-caption1": {
+    "path": "assets/studies/v6-market-04-moma1973-pdf29-caption1.svg",
+    "colors": [
+      "white"
+    ],
+    "shape_type": "rectangle relief",
+    "reference_url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=30",
+    "reference_id": "research/svg-gap-v6/market/references/moma-30.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; observed monochromes and drawing media retained",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; not a facsimile. The adjacent primary1973text explicitly states Kelly painted this relief white. Nine horizontal incised grooves and three upper trapezoid fragments observed in the complete opposite plate. Pale same-family gray lines indicate relief shadow, not black pigment; external book page omitted.",
+    "reviewed_date": "2026-10-28",
+    "true_scale_eligible": true
+  },
+  "moma1973-pdf71-caption1": {
+    "path": "assets/studies/v6-market-07-moma1973-pdf71-caption1.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.kunst-im-blauen-haus.de/img/aktuell/EON_Art.pdf#page=7",
+    "reference_id": "research/svg-gap-v6/market/references/moma-71.png",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; observed monochromes and drawing media retained",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; not a facsimile. E.ON institutional collection publication supplies an actual color installation photograph and explicitly calls Paname black-and-white. Exact five white intrusions transcribed from the full1973frontal plate; reflections in the later glazed installation are excluded. White areas are painted rectangular support, not missing canvas.",
+    "reviewed_date": "2026-10-28",
+    "true_scale_eligible": true
+  },
+  "matthewmarks-42475": {
+    "path": "assets/studies/v6-market-08-matthewmarks-42475.svg",
+    "colors": [
+      "white",
+      "green"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-plant-drawings-05-2017/lightbox/works/42475",
+    "reference_id": "research/svg-gap-v5/market/ref-10.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; observed monochromes and drawing media retained",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; not a facsimile. Actual primary gallery color photograph reviewed again. Five green leaves individually transcribed with central painted stems; complete cream paper retained. Brush variation and signature omitted. Remains a painted-paper scope candidate, not promoted to canvas painting.",
+    "reviewed_date": "2026-10-28",
+    "true_scale_eligible": true
+  },
+  "moma1973-pdf86-caption1": {
+    "path": "assets/studies/v6-market-11-moma1973-pdf86-caption1.svg",
+    "colors": [
+      "red",
+      "yellow",
+      "blue",
+      "green",
+      "black",
+      "white"
+    ],
+    "shape_type": "five separated rectangles",
+    "reference_url": "https://www.krollermuller.nl/en/what-s-on/exhibitions/birds-of-a-feather",
+    "reference_id": "research/svg-gap-v6/market/references/series-contact.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; primary reference visually inspected",
+    "palette": "standardized vivid; observed monochromes and drawing media retained",
+    "notes": "Hand-authored interpretive SVG after direct visual inspection of the cited primary reference. Approximate contours and standardized vivid colors; not a facsimile. All five current museum color photographs inspected. Pairs shown in published photo order: red/yellow, red/blue, blue/green, black/white, yellow/blue. Museum explicitly says no prescribed order and prefers separated installation. This stacked comparison layout is not an actual installation or an overall physical width/height. Each part178×356cm; blue-green part uses observed teal-blue shade in the blue family.",
+    "reviewed_date": "2026-10-28",
+    "true_scale_eligible": false,
+    "true_scale_note": "Normalized display only: variable installation, folded support or incomplete physical dimensions prevent a single reliable overall size. All five current museum color photographs inspected. Pairs shown in published photo order: red/yellow, red/blue, blue/green, black/white, yellow/blue. Museum explicitly says no prescribed order and prefers separated installation. This stacked comparison layout is not an actual installation or an overall physical width/height. Each part178×356cm; blue-green part uses observed teal-blue shade in the blue family."
+  }
+}

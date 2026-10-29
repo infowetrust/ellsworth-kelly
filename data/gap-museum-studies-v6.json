@@ -1,0 +1,42 @@
+{
+  "tate-26107": {
+    "path": "assets/studies/v6-museum-tate-26107.svg",
+    "colors": [
+      "yellow"
+    ],
+    "shape_type": "observed triangle with curved right edge",
+    "source_url": "https://www.tate.org.uk/art/artworks/kelly-yellow-curve-t07403",
+    "reference_url": "https://media.tate.org.uk/art/images/work/T/T07/T07403_10.jpg",
+    "reference_id": "research/svg-gap-v6/museums/references/tate-yellow-primary.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate observed projection; visually reviewed",
+    "palette": "standardized color families; not colorimetric",
+    "notes": "Tate’s exact T07403 collection page supplied the full official image, viewed and downloaded through its ordinary public image element. Three yellow edges are visible: nearly horizontal top, long sloping left and gently bowed right. The source photograph is slightly oblique. Current Tate details still report support 1357 × 3556 × 32 mm, in conflict with the tall observed support. No dimension swap, physical-size correction or identity with another Yellow Curve is inferred. Study keeps the observed support proportions and is excluded from true-scale plotting.",
+    "reviewed_date": "2026-10-28",
+    "true_scale_eligible": false,
+    "dimension_unit": "normalized_observed_proportions",
+    "true_scale_note": "Tate’s exact T07403 collection page supplied the full official image, viewed and downloaded through its ordinary public image element. Three yellow edges are visible: nearly horizontal top, long sloping left and gently bowed right. The source photograph is slightly oblique. Current Tate details still report support 1357 × 3556 × 32 mm, in conflict with the tall observed support. No dimension swap, physical-size correction or identity with another Yellow Curve is inferred. Study keeps the observed support proportions and is excluded from true-scale plotting."
+  },
+  "international-v4-flv-colored-panels": {
+    "path": "assets/studies/v6-museum-international-v4-flv-colored-panels.svg",
+    "colors": [
+      "red",
+      "yellow",
+      "blue",
+      "green",
+      "purple"
+    ],
+    "shape_type": "partial installation of five separated projected panels",
+    "source_url": "https://www.fondationlouisvuitton.fr/en/collection/artworks/colored-panels-red-yellow-blue-green-violet",
+    "reference_url": "https://www.fondationlouisvuitton.fr/en/collection/artworks/colored-panels-red-yellow-blue-green-violet",
+    "reference_id": "research/svg-gap-v6/museums/references/flv-panel-view1.jpg",
+    "method": "hand_authored_vector_after_visual_reference",
+    "geometry_confidence": "approximate observed projection; visually reviewed",
+    "palette": "standardized color families; not colorimetric",
+    "notes": "Partial installation study: five displayed panels of the museum’s stated six-panel work. The sixth panel is not specified or pictured and is not invented. This is the five panels’ observed perspective arrangement in the official auditorium photograph, with all architecture and empty wall transparent; it is not a canonical flat arrangement of the complete work. Individual panels are physically rectangular on different wall planes. Museum component dimensions are retained separately; no aggregate physical size is inferred. Violet is represented by the searchable purple color family. Excluded from true-scale plotting.",
+    "reviewed_date": "2026-10-28",
+    "true_scale_eligible": false,
+    "dimension_unit": "normalized_observed_proportions",
+    "true_scale_note": "Partial installation study: five displayed panels of the museum’s stated six-panel work. The sixth panel is not specified or pictured and is not invented. This is the five panels’ observed perspective arrangement in the official auditorium photograph, with all architecture and empty wall transparent; it is not a canonical flat arrangement of the complete work. Individual panels are physically rectangular on different wall planes. Museum component dimensions are retained separately; no aggregate physical size is inferred. Violet is represented by the searchable purple color family. Excluded from true-scale plotting."
+  }
+}

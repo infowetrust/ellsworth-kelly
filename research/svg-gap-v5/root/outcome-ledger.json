@@ -1,0 +1,134 @@
+[
+  {
+    "id": "artic-v4-152752",
+    "title": "Black Panel",
+    "outcome": "new_svg",
+    "reference_url": "https://www.artic.edu/artworks/152752",
+    "reference_id": "research/svg-gap-v5/root/black-panel.jpg",
+    "observation": "Individual Chicago component actually viewed in the museum public image preview and downloaded through the ordinary browser. Major corner/curve positions transcribed; wall and cast shadow omitted. Overall bounding aspect uses museum dimensions. Individual panels are distinct from the installation group.",
+    "reason": "Individual Chicago component actually viewed in the museum public image preview and downloaded through the ordinary browser. Major corner/curve positions transcribed; wall and cast shadow omitted. Overall bounding aspect uses museum dimensions. Individual panels are distinct from the installation group."
+  },
+  {
+    "id": "artic-v4-152760",
+    "title": "Blue Panel",
+    "outcome": "new_svg",
+    "reference_url": "https://www.artic.edu/artworks/152760",
+    "reference_id": "research/svg-gap-v5/root/blue-panel.jpg",
+    "observation": "Individual Chicago component actually viewed in the museum public image preview and downloaded through the ordinary browser. Major corner/curve positions transcribed; wall and cast shadow omitted. Overall bounding aspect uses museum dimensions. Individual panels are distinct from the installation group.",
+    "reason": "Individual Chicago component actually viewed in the museum public image preview and downloaded through the ordinary browser. Major corner/curve positions transcribed; wall and cast shadow omitted. Overall bounding aspect uses museum dimensions. Individual panels are distinct from the installation group."
+  },
+  {
+    "id": "artic-v4-152758",
+    "title": "Green Panel",
+    "outcome": "new_svg",
+    "reference_url": "https://www.artic.edu/artworks/152758",
+    "reference_id": "research/svg-gap-v5/root/green-panel.jpg",
+    "observation": "Individual Chicago component actually viewed in the museum public image preview and downloaded through the ordinary browser. Major corner/curve positions transcribed; wall and cast shadow omitted. Overall bounding aspect uses museum dimensions. Individual panels are distinct from the installation group.",
+    "reason": "Individual Chicago component actually viewed in the museum public image preview and downloaded through the ordinary browser. Major corner/curve positions transcribed; wall and cast shadow omitted. Overall bounding aspect uses museum dimensions. Individual panels are distinct from the installation group."
+  },
+  {
+    "id": "artic-v4-152759",
+    "title": "Orange Panel",
+    "outcome": "new_svg",
+    "reference_url": "https://www.artic.edu/artworks/152759",
+    "reference_id": "research/svg-gap-v5/root/orange-panel.jpg",
+    "observation": "Individual Chicago component actually viewed in the museum public image preview and downloaded through the ordinary browser. Major corner/curve positions transcribed; wall and cast shadow omitted. Overall bounding aspect uses museum dimensions. Individual panels are distinct from the installation group.",
+    "reason": "Individual Chicago component actually viewed in the museum public image preview and downloaded through the ordinary browser. Major corner/curve positions transcribed; wall and cast shadow omitted. Overall bounding aspect uses museum dimensions. Individual panels are distinct from the installation group."
+  },
+  {
+    "id": "artic-v4-152757",
+    "title": "Red Panel",
+    "outcome": "new_svg",
+    "reference_url": "https://www.artic.edu/artworks/152757",
+    "reference_id": "research/svg-gap-v5/root/red-panel.jpg",
+    "observation": "Individual Chicago component actually viewed in the museum public image preview and downloaded through the ordinary browser. Major corner/curve positions transcribed; wall and cast shadow omitted. Overall bounding aspect uses museum dimensions. Individual panels are distinct from the installation group.",
+    "reason": "Individual Chicago component actually viewed in the museum public image preview and downloaded through the ordinary browser. Major corner/curve positions transcribed; wall and cast shadow omitted. Overall bounding aspect uses museum dimensions. Individual panels are distinct from the installation group."
+  },
+  {
+    "id": "artic-v4-152761",
+    "title": "Yellow Panel",
+    "outcome": "new_svg",
+    "reference_url": "https://www.artic.edu/artworks/152761",
+    "reference_id": "research/svg-gap-v5/root/yellow-panel.jpg",
+    "observation": "Individual Chicago component actually viewed in the museum public image preview and downloaded through the ordinary browser. Major corner/curve positions transcribed; wall and cast shadow omitted. Overall bounding aspect uses museum dimensions. Individual panels are distinct from the installation group. Yellow Panel exception: museum reports189.5×212.3cm, but the downloaded installed silhouette is substantially taller than wide (about0.894width/height). Measurement axes/installed orientation remain unresolved; observed shape retained at comparable size only, without stretching it to the reported aspect.",
+    "reason": "Individual Chicago component actually viewed in the museum public image preview and downloaded through the ordinary browser. Major corner/curve positions transcribed; wall and cast shadow omitted. Overall bounding aspect uses museum dimensions. Individual panels are distinct from the installation group. Yellow Panel exception: museum reports189.5×212.3cm, but the downloaded installed silhouette is substantially taller than wide (about0.894width/height). Measurement axes/installed orientation remain unresolved; observed shape retained at comparable size only, without stretching it to the reported aspect."
+  },
+  {
+    "id": "artic-v4-57211",
+    "title": "East River",
+    "outcome": "new_svg",
+    "reference_url": "https://www.artic.edu/artworks/57211",
+    "reference_id": "research/svg-gap-v5/root/east-river.jpg",
+    "observation": "Dark blue rectangular field, two opposed open white curving forms, distinct upper and lower boundary contacts. The thin surrounding dark photo border is omitted. Curves simplified; title does not supply geometry.",
+    "reason": "Dark blue rectangular field, two opposed open white curving forms, distinct upper and lower boundary contacts. The thin surrounding dark photo border is omitted. Curves simplified; title does not supply geometry."
+  },
+  {
+    "id": "artic-v4-66184",
+    "title": "White/Black Curve",
+    "outcome": "new_svg",
+    "reference_url": "https://www.artic.edu/artworks/66184",
+    "reference_id": "research/svg-gap-v5/root/white-black-curve.jpg",
+    "observation": "Shaped parallelogram support with a white curved field and black upper-right wedge. Gray surrounding photo background is wall, not a painted rectangular ground. Painted white is retained.",
+    "reason": "Shaped parallelogram support with a white curved field and black upper-right wedge. Gray surrounding photo background is wall, not a painted rectangular ground. Painted white is retained."
+  },
+  {
+    "id": "artic-v4-154131",
+    "title": "Yuri Gagarin",
+    "outcome": "new_svg",
+    "reference_url": "https://www.artic.edu/artworks/154131",
+    "reference_id": "research/svg-gap-v5/root/yuri-gagarin.jpg",
+    "observation": "White canvas with a loose dark closed head-like contour and small almond loop. Thin filled vector outlines simplify brush variation; support retained, texture omitted. This remains a schematic of the observed painting, not a tracing of every brushstroke.",
+    "reason": "White canvas with a loose dark closed head-like contour and small almond loop. Thin filled vector outlines simplify brush variation; support retained, texture omitted. This remains a schematic of the observed painting, not a tracing of every brushstroke."
+  },
+  {
+    "id": "met-489307",
+    "title": "Blue Green Red",
+    "outcome": "new_svg",
+    "reference_url": "https://www.metmuseum.org/art/collection/search/489307",
+    "reference_id": "research/svg-gap-v5/root/met-blue-green-red-observation.md",
+    "observation": "Actual ordinary Met 544×600 public preview inspected in the browser. Green rectangular field; broad blue horizontal curved lens in upper half touches both sides; red band across bottom roughly23.6percent. Thin black external frame omitted. Museum disables enlargement/download; no enlarged or alternate hidden file requested.",
+    "reason": "Actual ordinary Met 544×600 public preview inspected in the browser. Green rectangular field; broad blue horizontal curved lens in upper half touches both sides; red band across bottom roughly23.6percent. Thin black external frame omitted. Museum disables enlargement/download; no enlarged or alternate hidden file requested."
+  },
+  {
+    "id": "ek-458",
+    "title": "Chatham VII: Black White",
+    "outcome": "new_svg",
+    "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-chatham-series/",
+    "reference_id": "research/svg-gap-v5/root/chatham-56.jpg",
+    "observation": "Chatham VII identified by Foundation EK458 caption in four-work installation view; center work nearly frontal. Approximate panel ratios, no inferred physical dimensions.",
+    "reason": "Chatham VII identified by Foundation EK458 caption in four-work installation view; center work nearly frontal. Approximate panel ratios, no inferred physical dimensions."
+  },
+  {
+    "id": "ek-459",
+    "title": "Chatham VIII: Red Yellow",
+    "outcome": "new_svg",
+    "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-chatham-series/",
+    "reference_id": "research/svg-gap-v5/root/chatham-57.jpg",
+    "observation": "Chatham VIII identified by EK459 caption; red horizontal upper panel and narrow yellow lower-left panel. Approximate view proportions, no inferred physical dimensions.",
+    "reason": "Chatham VIII identified by EK459 caption; red horizontal upper panel and narrow yellow lower-left panel. Approximate view proportions, no inferred physical dimensions."
+  },
+  {
+    "id": "ek-464",
+    "title": "Chatham XIII: Yellow Red",
+    "outcome": "new_svg",
+    "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-chatham-series/",
+    "reference_id": "research/svg-gap-v5/root/chatham-56.jpg",
+    "observation": "Chatham XIII identified by EK464 caption and unique yellow/red combination in the view. Internal proportions and overall aspect estimated from oblique installation photograph; normalized-only schematic pending frontal plate.",
+    "reason": "Chatham XIII identified by EK464 caption and unique yellow/red combination in the view. Internal proportions and overall aspect estimated from oblique installation photograph; normalized-only schematic pending frontal plate."
+  },
+  {
+    "id": "53ac12d02874",
+    "title": "Chatham XIV: Black White",
+    "outcome": "new_svg",
+    "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-and-sculptures-1963-1979/",
+    "reference_id": "research/svg-gap-v5/root/chatham-xiv-1979.jpg",
+    "observation": "Chatham XIV identified by EK465 caption in the 1979 Foundation view: left black/white work, distinct from right Chatham III black/blue. Overall aspect from MoMA2013 printed dimensions; internal panel ratios estimated from oblique historical photo.",
+    "reason": "Chatham XIV identified by EK465 caption in the 1979 Foundation view: left black/white work, distinct from right Chatham III black/blue. Overall aspect from MoMA2013 printed dimensions; internal panel ratios estimated from oblique historical photo."
+  },
+  {
+    "id": "artic-v4-193544",
+    "title": "The Chicago Panels",
+    "outcome": "remaining_gap",
+    "reason": "Three-dimensional six-panel architectural installation group. Six component SVGs added; no extra invented planar arrangement or combined dimensions."
+  }
+]

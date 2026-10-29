@@ -1,0 +1,149 @@
+{
+  "count": 16,
+  "checks": [
+    {
+      "id": "moma1973-pdf57-caption1",
+      "path": "assets/studies/v5-foundation-sanary.svg",
+      "xml": true,
+      "pure_vector": true,
+      "recolorable": true,
+      "rendered": true,
+      "reference_exists": true
+    },
+    {
+      "id": "moma1973-pdf62-caption2",
+      "path": "assets/studies/v5-foundation-black-and-white-1955.svg",
+      "xml": true,
+      "pure_vector": true,
+      "recolorable": true,
+      "rendered": true,
+      "reference_exists": true
+    },
+    {
+      "id": "moma1973-pdf95-caption1",
+      "path": "assets/studies/v5-foundation-black-square-with-red.svg",
+      "xml": true,
+      "pure_vector": true,
+      "recolorable": true,
+      "rendered": true,
+      "reference_exists": true
+    },
+    {
+      "id": "ek-808",
+      "path": "assets/studies/v5-foundation-yellow-curve-floor-projection.svg",
+      "xml": true,
+      "pure_vector": true,
+      "recolorable": true,
+      "rendered": true,
+      "reference_exists": true
+    },
+    {
+      "id": "ek-835",
+      "path": "assets/studies/v5-foundation-red-floor-panel-projection.svg",
+      "xml": true,
+      "pure_vector": true,
+      "recolorable": true,
+      "rendered": true,
+      "reference_exists": true
+    },
+    {
+      "id": "foundation-exhib-v4-ek951-ellsworth-kelly-sculpture-on-the-wall",
+      "path": "assets/studies/v5-foundation-black-white-black-951.svg",
+      "xml": true,
+      "pure_vector": true,
+      "recolorable": true,
+      "rendered": true,
+      "reference_exists": true
+    },
+    {
+      "id": "foundation-exhib-v4-ek1024-ellsworth-kelly-curated-by-jack-shear",
+      "path": "assets/studies/v5-foundation-white-plaque-bridge-arch-reflection-ii.svg",
+      "xml": true,
+      "pure_vector": true,
+      "recolorable": true,
+      "rendered": true,
+      "reference_exists": true
+    },
+    {
+      "id": "foundation-exhib-v4-ek946-ellsworth-kelly-curated-by-jack-shear",
+      "path": "assets/studies/v5-foundation-black-relief-white-946.svg",
+      "xml": true,
+      "pure_vector": true,
+      "recolorable": true,
+      "rendered": true,
+      "reference_exists": true
+    },
+    {
+      "id": "foundation-exhib-v4-ek82-ellsworth-kelly-paris-new-york-1949-1959",
+      "path": "assets/studies/v5-foundation-white-and-black-82.svg",
+      "xml": true,
+      "pure_vector": true,
+      "recolorable": true,
+      "rendered": true,
+      "reference_exists": true
+    },
+    {
+      "id": "foundation-exhib-v4-ek78-ellsworth-kelly-paris-new-york-1949-1959",
+      "path": "assets/studies/v5-foundation-barge-78.svg",
+      "xml": true,
+      "pure_vector": true,
+      "recolorable": true,
+      "rendered": true,
+      "reference_exists": true
+    },
+    {
+      "id": "foundation-exhib-v4-ek180-ellsworth-kelly-curated-by-jack-shear",
+      "path": "assets/studies/v5-foundation-slip-study-180.svg",
+      "xml": true,
+      "pure_vector": true,
+      "recolorable": true,
+      "rendered": true,
+      "reference_exists": true
+    },
+    {
+      "id": "foundation-exhib-v4-ek182-ellsworth-kelly-curated-by-jack-shear",
+      "path": "assets/studies/v5-foundation-falcon-study-182.svg",
+      "xml": true,
+      "pure_vector": true,
+      "recolorable": true,
+      "rendered": true,
+      "reference_exists": true
+    },
+    {
+      "id": "foundation-exhib-v4-ek176-ellsworth-kelly-curated-by-jack-shear",
+      "path": "assets/studies/v5-foundation-york-study-176.svg",
+      "xml": true,
+      "pure_vector": true,
+      "recolorable": true,
+      "rendered": true,
+      "reference_exists": true
+    },
+    {
+      "id": "foundation-exhib-v4-ek1046-ellsworth-kelly-sculpture-on-the-wall",
+      "path": "assets/studies/v5-foundation-two-curves-white-1046.svg",
+      "xml": true,
+      "pure_vector": true,
+      "recolorable": true,
+      "rendered": true,
+      "reference_exists": true
+    },
+    {
+      "id": "foundation-exhib-v4-ek746-ellsworth-kelly-sculpture-on-the-wall",
+      "path": "assets/studies/v5-foundation-red-curve-746.svg",
+      "xml": true,
+      "pure_vector": true,
+      "recolorable": true,
+      "rendered": true,
+      "reference_exists": true
+    },
+    {
+      "id": "moma1973-pdf42-caption1",
+      "path": "assets/studies/v5-foundation-november-painting.svg",
+      "xml": true,
+      "pure_vector": true,
+      "recolorable": true,
+      "rendered": true,
+      "reference_exists": true
+    }
+  ]
+}

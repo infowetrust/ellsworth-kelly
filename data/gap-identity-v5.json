@@ -1,0 +1,313 @@
+[
+  {
+    "keep": "christies-6482948",
+    "merge": [
+      "foundation-exhib-v4-ek249-ellsworth-kelly-2"
+    ],
+    "evidence": "Blue Pale Gray: identical distinctive blue double-lobed form with long curling lower stem, on the same narrow portrait support. The dated 1960 work precedes the documented 1962 Tooth installation. This is not a generic blue panel. The Foundation installation caption explicitly supplies EK 249. Source and target photographs were independently viewed in the saved paired comparison.",
+    "sources": [
+      "https://ellsworthkelly.org/exhibition/ellsworth-kelly-2/",
+      "https://www.christies.com/en/lot/lot-6482948"
+    ],
+    "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-39.jpg",
+    "target_reference_id": "research/auction-private-v4/references/auction-christies-6482948.jpg",
+    "canonical_id": "EK 249"
+  },
+  {
+    "keep": "christies-6606713",
+    "merge": [
+      "foundation-exhib-v4-ek282-ellsworth-kelly-2"
+    ],
+    "evidence": "White Black: identical square black ground crossed by a broad white curved band at the top; the distinctive endpoints and thin black top-right corner agree. Christie’s dates the painting 1962, consistent with the 1962 Tooth installation. EK246 is a different angular composition and remains separate. The Foundation installation caption explicitly supplies EK 282. Source and target photographs were independently viewed in the saved paired comparison.",
+    "sources": [
+      "https://ellsworthkelly.org/exhibition/ellsworth-kelly-2/",
+      "https://www.christies.com/en/lot/lot-6606713"
+    ],
+    "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-38.jpg",
+    "target_reference_id": "research/auction-private-v4/references/auction-christies-6606713.jpg",
+    "canonical_id": "EK 282"
+  },
+  {
+    "keep": "sothebys-en-auctions-ecatalogue-2017-contemporary-art-evening-auction-n09713-lot-42-html",
+    "merge": [
+      "foundation-exhib-v4-ek796-ellsworth-kelly-a-retrospective"
+    ],
+    "evidence": "Purple Panel with Blue Curve: identical blue curved sector joined along its vertical right edge to a lower purple rectangle. The unusual joined silhouette, colour placement and support proportions agree with the 1989 auction painting shown in the 1996 retrospective. The Foundation installation caption explicitly supplies EK 796. Source and target photographs were independently viewed in the saved paired comparison.",
+    "sources": [
+      "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+      "https://www.sothebys.com/en/auctions/ecatalogue/2017/contemporary-art-evening-auction-n09713/lot.42.html"
+    ],
+    "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-80.jpg",
+    "target_reference_id": "research/auction-private-v4/references/auction-sothebys-en-auctions-ecatalogue-2017-contemporary-art-evening-auction-n09713-lot-42-html.jpg",
+    "canonical_id": "EK 796"
+  },
+  {
+    "keep": "sfmoma-513-3",
+    "merge": [
+      "foundation-exhib-v4-ek852-ellsworth-kelly-a-retrospective"
+    ],
+    "evidence": "Red Curves: identical tall red shape bounded by two curved edges, with the same pointed lower end and narrow upper-left end. Its distinctive outline and portrait aspect agree with the 1996 SFMOMA painting, shown in the 1996 retrospective. The Foundation installation caption explicitly supplies EK 852. Source and target photographs were independently viewed in the saved paired comparison.",
+    "sources": [
+      "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+      "https://www.sfmoma.org/artwork/FC.603/"
+    ],
+    "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-81.jpg",
+    "target_reference_id": "research/sfmoma-v3-reference-images/FC.603.jpg",
+    "canonical_id": "EK 852"
+  },
+  {
+    "keep": "guggenheim1996-cat-104",
+    "merge": [
+      "foundation-exhib-v4-ek859-ellsworth-kelly-a-retrospective"
+    ],
+    "evidence": "Green Curve: the same distinctive green wedge has a vertical left edge, short convex upper edge and long diagonal descending to the lower-left point. The colour photograph is from the same 1996 retrospective as the dated 1996 catalogue entry104; the outline and aspect agree. This is not the later 1999 High Museum work. The Foundation installation caption explicitly supplies EK 859. Source and target photographs were independently viewed in the saved paired comparison.",
+    "sources": [
+      "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+      "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=249"
+    ],
+    "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-81.jpg",
+    "target_reference_id": "research/public-catalogues-v4/pages/page-249.png",
+    "canonical_id": "EK 859"
+  },
+  {
+    "keep": "nga-75042",
+    "merge": [
+      "foundation-exhib-v4-ek60-ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954"
+    ],
+    "evidence": "Tiger: the exact five-panel arrangement and colour order agree: yellow, red and orange across the top, with large white and black panels below. The 1953 NGA painting falls within the 1948–1954 scope of this Foundation-captioned exhibition. Both the unequal panel widths and the low top-row height agree. The Foundation installation caption explicitly supplies EK 60. Source and target photographs were independently viewed in the saved paired comparison.",
+    "sources": [
+      "https://ellsworthkelly.org/exhibition/ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954/",
+      "https://www.nga.gov/artworks/75042"
+    ],
+    "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-75.jpg",
+    "target_reference_id": "research/svg-v2-reference-images/nga-75042.jpg",
+    "canonical_id": "EK 60"
+  },
+  {
+    "keep": "museum-v2-walker-red-green-blue",
+    "merge": [
+      "foundation-exhib-v4-ek332-ellsworth-kelly-3"
+    ],
+    "evidence": "Red Green Blue: the same distinctive nested rectangular arrangement appears on the same portrait support, with a small lower-left red rectangle inside a larger green rectangle and a blue outer L-shaped panel. Walker dates its painting 1964; the source installation is Ferus 1966. The separately named 1965 Red Green Blue II has not been joined. The Foundation installation caption explicitly supplies EK 332. Source and target photographs were independently viewed in the saved paired comparison.",
+    "sources": [
+      "https://ellsworthkelly.org/exhibition/ellsworth-kelly-3/",
+      "https://www.walkerart.org/collections/artwork/red-green-blue/"
+    ],
+    "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-25.jpg",
+    "target_reference_id": "research/north-american-v4/reference-images/walker-red-green-blue.jpg",
+    "canonical_id": "EK 332"
+  },
+  {
+    "keep": "sfmoma-501-4",
+    "merge": [
+      "foundation-exhib-v4-ek388-ellsworth-kelly-4"
+    ],
+    "evidence": "Red Green: two unequal quadrilateral canvases join diagonally in the same distinctive descending silhouette and proportions. The 1968 SFMOMA work precedes the documented 1979 installation. The support outline, not merely the two colour names, establishes the match. The Foundation installation caption explicitly supplies EK 388. Source and target photographs were independently viewed in the saved paired comparison.",
+    "sources": [
+      "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-and-sculptures-1963-1979/",
+      "https://www.sfmoma.org/artwork/FC.518/"
+    ],
+    "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-33.jpg",
+    "target_reference_id": "research/sfmoma-v3-reference-images/FC.518.jpg",
+    "canonical_id": "EK 388"
+  },
+  {
+    "keep": "matthewmarks-kele-pa-50646",
+    "merge": [
+      "foundation-exhib-v4-ek98-ellsworth-kelly-paris-new-york-1949-1959"
+    ],
+    "evidence": "Study for Atlantic: identical two-part black ground with two different white curved bands, including the narrow upward-pointing centre junction. The 1956 study and 2006 historical installation have the same landscape support and distinctive unequal curves. The Foundation installation caption explicitly supplies EK 98. Source and target photographs were independently viewed in the saved paired comparison.",
+    "sources": [
+      "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paris-new-york-1949-1959/",
+      "https://matthewmarks.com/exhibitions/ellsworth-kelly-black-and-white-11-2024/lightbox/works/kele-pa-50646"
+    ],
+    "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-48.jpg",
+    "target_reference_id": "research/auction-private-v4/references/marks-kele-pa-50646.jpg",
+    "canonical_id": "EK 98"
+  },
+  {
+    "keep": "guggenheim1996-essay-37-fig-34b",
+    "merge": [
+      "foundation-exhib-v4-ek501-ellsworth-kelly-4"
+    ],
+    "evidence": "Black with White Triangle: the Foundation 1973 MoMA installation and the 1996 essay studio photograph show the same distinctive angled black quadrilateral joined to a white inverted triangle, with matching panel arrangement and unusually pointed joint. The book figure34 caption dates the painting 1973; the Foundation labels the installation work EK501. These are different photographs of the same specific configuration, independently checked by the market and museum researchers. The Foundation installation caption explicitly supplies EK 501. Source and target photographs were independently viewed in the saved paired comparison.",
+    "sources": [
+      "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+      "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=37"
+    ],
+    "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-53.jpg",
+    "target_reference_id": "research/svg-gap-v5/independent/guggenheim1996-page-37.png",
+    "canonical_id": "EK 501"
+  },
+  {
+    "keep": "christies-5315261",
+    "merge": [
+      "foundation-exhib-v4-ek293-ellsworth-kelly-2"
+    ],
+    "evidence": "Yellow Curve: Christie’s provenance identifies the 1962 Tooth exhibition, and the actual installation image places the same portrait oval-on-rectangular-ground painting above the fireplace. The43×33in support agrees with the auction description. This join was independently checked by the market researcher; it is not the 1996 Yellow Curve. The Foundation installation caption explicitly supplies EK 293. Source and target photographs were independently viewed in the saved paired comparison.",
+    "sources": [
+      "https://ellsworthkelly.org/exhibition/ellsworth-kelly-2/",
+      "https://ellsworthkelly.org/exhibition/ellsworth-kelly-2/"
+    ],
+    "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-38.jpg",
+    "target_reference_id": "research/svg-gap-v5/market/alt-reference-19.jpg",
+    "canonical_id": "EK 293"
+  },
+  {
+    "keep": "matthewmarks-white-curve-in-relief-over-white-belle-ile-2013-39467",
+    "merge": [
+      "foundation-exhib-v4-ek1057-monet-kelly"
+    ],
+    "evidence": "Identical distinctive downward white triangular support with a shallow raised curved white panel crossing its upper edge. The Foundation Monet/Kelly photograph labels EK 1057; the specific Marks 2013 Belle-Île work has the same support, relief contour and unusual subtitle. The market researcher independently confirmed this pair.",
+    "sources": [
+      "https://ellsworthkelly.org/exhibition/monet-kelly/",
+      "https://matthewmarks.com/exhibitions/ellsworth-kelly-recent-paintings-10-2013/lightbox/works/white-curve-in-relief-over-white-belle-ile-2013-39467"
+    ],
+    "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-4.jpg",
+    "target_reference_id": "research/svg-gap-v5/market/ref-46.jpg",
+    "canonical_id": "EK1057"
+  },
+  {
+    "keep": "matthewmarks-kele-pa-45015",
+    "merge": [
+      "foundation-exhib-v4-ek56-ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954"
+    ],
+    "evidence": "Red Yellow Blue White and Black: the same SIX equal vertical strips occur in the exact order red, white, black, yellow, white, blue. The specific 1953 Marks work agrees with this unusual repeated-white sequence and landscape aspect. Guggenheim 1996 catalogue19 is expressly NOT included: its identity remains under separate review. The Foundation installation caption explicitly supplies EK 56. Source and target photographs were independently viewed in the saved paired comparison.",
+    "sources": [
+      "https://ellsworthkelly.org/exhibition/ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954/",
+      "https://matthewmarks.com/exhibitions/ellsworth-kelly-the-naming-of-colors-02-2026/lightbox/works/kele-pa-45015"
+    ],
+    "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-74.jpg",
+    "target_reference_id": "research/auction-private-v4/references/marks-kele-pa-45015.jpg",
+    "canonical_id": "EK 56"
+  },
+  {
+    "keep": "moma1973-pdf66-caption1",
+    "merge": [
+      "foundation-exhib-v4-ek211-ellsworth-kelly-4"
+    ],
+    "evidence": "Orange Red Relief: the same two tall panels join vertically, orange at left and red at right, with the left panel projecting slightly. Both the Foundation photograph and the historical caption document the 1973 MoMA retrospective, where the caption dates it 1959; the later Marks image shows the same relief junction. The Foundation installation caption explicitly supplies EK 211. Source and target photographs were independently viewed in the saved paired comparison.",
+    "sources": [
+      "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+      "https://matthewmarks.com/exhibitions/ellsworth-kelly-relief-paintings-05-2001/lightbox/works/orange-red-relief-1959-12569"
+    ],
+    "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-62.jpg",
+    "target_reference_id": "research/auction-private-v4/references/marks-orange-red-relief-1959-12569.jpg",
+    "canonical_id": "EK 211"
+  },
+  {
+    "keep": "moma-79739",
+    "merge": [
+      "foundation-exhib-v4-ek384-ellsworth-kelly-4"
+    ],
+    "evidence": "Spectrum IV: the thirteen equal full-height strips form the same nearly square joined support. The Foundation photograph is the 1973 MoMA retrospective installation, matching the named 1967 MoMA painting; the Roman numeral distinguishes it from the much wider Spectrum III. The Foundation installation caption explicitly supplies EK 384. Source and target photographs were independently viewed in the saved paired comparison.",
+    "sources": [
+      "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+      "https://www.moma.org/collection/works/79739"
+    ],
+    "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-55.jpg",
+    "target_reference_id": "research/svg-v2-reference-images/moma-79739.jpg",
+    "canonical_id": "EK 384"
+  },
+  {
+    "keep": "moma-78403",
+    "merge": [
+      "foundation-exhib-v4-ek230-sixteen-americans"
+    ],
+    "evidence": "Running White: the same distinctive off-centre tilted white ring crosses the black rectangular support and continues as a separate sloping lower band. The Foundation photograph documents Sixteen Americans at MoMA in 1959, matching the dated 1959 MoMA object and its unique form. The Foundation installation caption explicitly supplies EK 230. Source and target photographs were independently viewed in the saved paired comparison.",
+    "sources": [
+      "https://ellsworthkelly.org/exhibition/sixteen-americans/",
+      "https://www.moma.org/collection/works/78403"
+    ],
+    "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-66.jpg",
+    "target_reference_id": "research/svg-v2-reference-images/moma-78403.jpg",
+    "canonical_id": "EK 230"
+  },
+  {
+    "keep": "moma1973-pdf40-caption2",
+    "merge": [
+      "foundation-exhib-v4-ek34-ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954"
+    ],
+    "evidence": "La Combe II: the nine-panel hinged wooden screen has the same distinctive black stair-shadow fragments on white. The actual 1950 screen reproduced beside the historical caption and the colour 1992 Foundation installation agree in panel count, format and fragment arrangement. This is distinct from the flat canvas La Combe I. Historical 1973 date 1950 and 1996 essay date 1950–1951 remain reported source differences.",
+    "sources": [
+      "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=40",
+      "https://ellsworthkelly.org/exhibition/ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954/"
+    ],
+    "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-70.jpg",
+    "target_reference_id": "research/svg-gap-v5/foundation/moma-pages/page-40.png",
+    "canonical_id": "EK34"
+  },
+  {
+    "keep": "whitney-9295",
+    "merge": [
+      "moma1973-pdf83-caption1"
+    ],
+    "evidence": "Painting in Five Panels: all five unequal separated canvases have the same distinctive curved and angular field arrangements. The historical caption names Mr. and Mrs. Charles H. Carpenter; Whitney records a gift of Charles H. Carpenter Jr. Height is36in in both sources. The old 1956 date differs from Whitney 1955, and historical144in installation width differs from Whitney 1405/16in; these source conflicts are retained rather than silently reconciled.",
+    "sources": [
+      "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=83",
+      "https://whitney.org/collection/works/9295",
+      "https://www.hausderkunst.de/eintauchen/ellsworth-kelly-schwarz-weiss"
+    ],
+    "reference_id": "research/svg-gap-v5/foundation/moma-pages/page-83.png",
+    "target_reference_id": "research/svg-gap-v5/museums/references/fivepanels-hdk.jpg",
+    "date_display": "1955 /1956 (sources disagree)"
+  },
+  {
+    "keep": "modern-v3-8497",
+    "merge": [
+      "moma1973-pdf82-caption1"
+    ],
+    "evidence": "Spectrum III: exact title and 1967 date, thirteen equal joined panels, and exact published overall33¼×108⅝in agree. The historical grayscale plate,1999 dealer installation photograph and current Fort Worth photograph have the same wide support and strip order. Historical MoMA/Janis ownership is retained as a dated source statement; the transition to the Modern’s 2022 Anne Windfohr Marion gift is not reconstructed here.",
+    "sources": [
+      "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=82",
+      "https://collection.themodern.org/objects/8497/spectrum-iii",
+      "https://www.themodern.org/exhibition/modern-masters-tribute-anne-windfohr-marion",
+      "https://www.miandn.com/exhibitions/ellsworth-kelly"
+    ],
+    "reference_id": "research/svg-gap-v5/foundation/moma-pages/page-82.png",
+    "target_reference_id": "research/root-museums-v3/reference-images/modern-8497.jpg"
+  },
+  {
+    "keep": "mfa-blue-green-yellow-orange-red-1968",
+    "merge": [
+      "guggenheim1996-essay-58-fig-19"
+    ],
+    "evidence": "The primary MFA 2010 gift announcement identifies Blue Green Yellow Orange Red 1968, five panels approximately10×22feet, donated by Bank of America. The 1996 essay figure19 and actual museum visitor photograph show the same five colour panels and distinctive tapered outer silhouette; the donor’s 2017 publication page6 independently identifies the MFA gift. Independently checked by the museum and market researchers. Current MFA ownership takes precedence over the historical loan credit.",
+    "sources": [
+      "https://www.mfa.org/news/press-releases/09-20-2010",
+      "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=58"
+    ],
+    "reference_id": "research/public-catalogues-v4/pages/page-58.png",
+    "target_reference_id": "research/svg-gap-v5/museums/references/bank2017-p6.png"
+  },
+  {
+    "keep": "moca-v3-two-panels-blackwhite",
+    "merge": [
+      "guggenheim1996-cat-59"
+    ],
+    "evidence": "The current MOCA object 2005.13 identifies Two Panels: Black/White 1970, oil on canvas,111×64in, gift of Robert H. Halff. The 1996 catalogue59 describes the same 1970 two joined panels at exactly111×64in, then in the Halff collection with a promised gift to MOCA. Identical dimensions, title, year, two-part support and the named gift establish physical identity. Current MOCA ownership is retained; the historical promised-gift statement remains dated evidence.",
+    "sources": [
+      "https://www.moca.org/artworks/two-panels-blackwhite",
+      "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=178"
+    ],
+    "reference_id": "research/public-catalogues-v4/pages/page-178.png",
+    "target_reference_id": "research/broad-moca-v3/pages/moca-two-panels-blackwhite.html"
+  },
+  {
+    "keep": "guggenheim1996-cat-28",
+    "merge": [
+      "moma1973-pdf68-caption1",
+      "foundation-exhib-v4-ek87-ellsworth-kelly-paintings-1951-1956"
+    ],
+    "evidence": "Bar: the actual 1973 and 1996 plates show the same distinctive long black bar with two shallow troughs along the upper edge and an asymmetric peaked indentation at the lower middle. Both captions give96in width and oil on canvas. The 1973 height32¾in differs slightly from 1996 height33in; the 1973 date 1956 differs from 1996 date 1955. The Foundation 1956 exhibition labels the matching bar EK87. These source discrepancies remain explicit; no generic black rectangle was joined by title alone.",
+    "sources": [
+      "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=68",
+      "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=129",
+      "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-1951-1956/"
+    ],
+    "reference_id": "research/svg-gap-v5/foundation/moma-pages/page-68.png",
+    "target_reference_id": "research/public-catalogues-v4/pages/page-129.png",
+    "canonical_id": "EK87",
+    "date_display": "1955 /1956 (sources disagree)"
+  }
+]

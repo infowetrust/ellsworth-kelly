@@ -1,0 +1,494 @@
+[
+  {
+    "source_id": "guggenheim1996:cat-1",
+    "verified_identity_of": "ek-a-22",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 41.9 x 32.7cm agree with existing 41.91 x 33.02cm within published rounding. Primary catalogue1 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=92"
+  },
+  {
+    "source_id": "guggenheim1996:cat-2",
+    "verified_identity_of": "sfmoma-504-5",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 64.8 x 53.3cm agree with existing 64.8 x 53.3cm within published rounding. Primary catalogue2 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=93"
+  },
+  {
+    "source_id": "guggenheim1996:cat-3",
+    "verified_identity_of": "ek-a-29",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 54.6 x 45.7cm agree with existing 54.61 x 45.72cm within published rounding. Primary catalogue3 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=94"
+  },
+  {
+    "source_id": "guggenheim1996:cat-4",
+    "verified_identity_of": "sfmoma-v3-99-348",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 73.0 x 50.2cm agree with existing 72.4 x 49.5cm within published rounding. Primary catalogue4 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=95"
+  },
+  {
+    "source_id": "guggenheim1996:cat-5",
+    "verified_identity_of": "ek-6",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 128.3 x 49.5cm agree with existing 128.27 x 49.53cm within published rounding. Primary catalogue5 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=96"
+  },
+  {
+    "source_id": "guggenheim1996:cat-6",
+    "verified_identity_of": "ek-10",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 69.9 x 18.4cm agree with existing 69.85 x 18.415cm within published rounding. Primary catalogue6 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=97"
+  },
+  {
+    "source_id": "guggenheim1996:cat-7",
+    "verified_identity_of": "ek-12",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 38.1 x 15.9cm agree with existing 38.1 x 15.875cm within published rounding. Primary catalogue7 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=98"
+  },
+  {
+    "source_id": "guggenheim1996:cat-8",
+    "verified_identity_of": "moma-82211",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 114.0 x 44.5cm agree with existing 114.0 x 44.5cm within published rounding. Primary catalogue8 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=99"
+  },
+  {
+    "source_id": "guggenheim1996:cat-9",
+    "verified_identity_of": "ek-18",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 100.0 x 70.2cm agree with existing 100.013 x 70.168cm within published rounding. Primary catalogue9 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=100"
+  },
+  {
+    "source_id": "guggenheim1996:cat-10",
+    "verified_identity_of": "whitney-17193",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 96.5 x 161.3cm agree with existing 96.5 x 161.8cm within published rounding. Primary catalogue10 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=102"
+  },
+  {
+    "source_id": "guggenheim1996:cat-11",
+    "verified_identity_of": "moma1973-pdf42-caption1",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 64.8 x 86.4cm agree with existing 64.77 x 86.36cm within published rounding. Primary catalogue11 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=103"
+  },
+  {
+    "source_id": "guggenheim1996:cat-12",
+    "verified_identity_of": "ek-40",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 142.9 x 179.1cm agree with existing 143.51 x 179.705cm within published rounding. Primary catalogue12 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=104"
+  },
+  {
+    "source_id": "guggenheim1996:cat-13",
+    "verified_identity_of": "moma1973-pdf45-caption1",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 149.9 x 149.9cm agree with existing 149.86 x 149.86cm within published rounding. Primary catalogue13 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=106"
+  },
+  {
+    "source_id": "guggenheim1996:cat-14",
+    "verified_identity_of": "ek-45",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 41.9 x 114.9cm agree with existing 41.91 x 114.935cm within published rounding. Primary catalogue14 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=108"
+  },
+  {
+    "source_id": "guggenheim1996:cat-15",
+    "verified_identity_of": "ek-63",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 152.4 x 152.4cm agree with existing 152.4 x 152.4cm within published rounding. Primary catalogue15 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=110"
+  },
+  {
+    "source_id": "guggenheim1996:cat-16",
+    "verified_identity_of": "ek-46",
+    "evidence": "Sixty-four joined panels, title1951 and MoMA Gift of the Artist1969 credit exactly identify EK46/MoMA80528. Historical243.8cm measurement independently agrees with MoMA1973 plate50; current240cm/94.5in statement retained separately.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=112"
+  },
+  {
+    "source_id": "guggenheim1996:cat-17",
+    "verified_identity_of": "ek-50",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 152.4 x 375.9cm agree with existing 152.4 x 375.92cm within published rounding. Primary catalogue17 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=114"
+  },
+  {
+    "source_id": "guggenheim1996:cat-18",
+    "verified_identity_of": "ek-54",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 59.7 x 181.0cm agree with existing 60.008 x 180.975cm within published rounding. Primary catalogue18 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=116"
+  },
+  {
+    "source_id": "guggenheim1996:cat-20",
+    "verified_identity_of": "ek-62",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 74.3 x 99.7cm agree with existing 74.295 x 99.695cm within published rounding. Primary catalogue20 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=118"
+  },
+  {
+    "source_id": "guggenheim1996:cat-21",
+    "verified_identity_of": "ek-61",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 111.8 x 111.8cm agree with existing 111.76 x 111.76cm within published rounding. Primary catalogue21 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=119"
+  },
+  {
+    "source_id": "guggenheim1996:cat-24",
+    "verified_identity_of": "ek-72",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 162.6 x 121.9cm agree with existing 162.56 x 121.92cm within published rounding. Primary catalogue24 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=122"
+  },
+  {
+    "source_id": "guggenheim1996:cat-25",
+    "verified_identity_of": "moma1973-pdf64-caption1",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 228.6 x 200.7cm agree with existing 228.6 x 200.66cm within published rounding. Primary catalogue25 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=124"
+  },
+  {
+    "source_id": "guggenheim1996:cat-29",
+    "verified_identity_of": "ek-90",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 160.0 x 151.1cm agree with existing 160.655 x 150.812cm within published rounding. Primary catalogue29 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=130"
+  },
+  {
+    "source_id": "guggenheim1996:cat-30",
+    "verified_identity_of": "tate-7889",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 198.1 x 175.3cm agree with existing 198.2 x 176.7cm within published rounding. Primary catalogue30 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=132"
+  },
+  {
+    "source_id": "guggenheim1996:cat-31",
+    "verified_identity_of": "ek-167",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 198.1 x 144.8cm agree with existing 198.12 x 144.78cm within published rounding. Primary catalogue31 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=134"
+  },
+  {
+    "source_id": "guggenheim1996:cat-37",
+    "verified_identity_of": "moma1973-pdf66-caption1",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 152.4 x 152.4cm agree with existing 152.4 x 152.4cm within published rounding. Primary catalogue37 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=144"
+  },
+  {
+    "source_id": "guggenheim1996:cat-38",
+    "verified_identity_of": "ek-213",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 173.4 x 181.6cm agree with existing 173.355 x 181.61cm within published rounding. Primary catalogue38 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=146"
+  },
+  {
+    "source_id": "guggenheim1996:cat-40",
+    "verified_identity_of": "nelson-v3-22857",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 218.8 x 124.8cm agree with existing 218.76 x 124.78cm within published rounding. Primary catalogue40 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=150"
+  },
+  {
+    "source_id": "guggenheim1996:cat-42",
+    "verified_identity_of": "ek-316",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 213.4 x 345.4cm agree with existing 212.407 x 345.123cm within published rounding. Primary catalogue42 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=154"
+  },
+  {
+    "source_id": "guggenheim1996:cat-43",
+    "verified_identity_of": "lacma-33895",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 203.2 x 152.4cm agree with existing 203.2 x 152.4cm within published rounding. Primary catalogue43 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=157"
+  },
+  {
+    "source_id": "guggenheim1996:cat-44",
+    "verified_identity_of": "short-book-v4-ellsworthkelly20132-19-orange-green",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 170.2 x 127.0cm agree with existing 170 x 127cm within published rounding. Primary catalogue44 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=157"
+  },
+  {
+    "source_id": "guggenheim1996:cat-45",
+    "verified_identity_of": "ek-351",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 193.0 x 647.7cm agree with existing 193.04 x 647.7cm within published rounding. Primary catalogue45 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=158"
+  },
+  {
+    "source_id": "guggenheim1996:cat-46",
+    "verified_identity_of": "ek-356",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 205.7 x 152.4cm agree with existing 205.74 x 152.4cm within published rounding. Primary catalogue46 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=160"
+  },
+  {
+    "source_id": "guggenheim1996:cat-48",
+    "verified_identity_of": "ek-360",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 152.4 x 609.6cm agree with existing 152.4 x 609.6cm within published rounding. Primary catalogue48 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=163"
+  },
+  {
+    "source_id": "guggenheim1996:cat-49",
+    "verified_identity_of": "ek-363",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 190.5 x 190.5cm agree with existing 190.5 x 190.5cm within published rounding. Primary catalogue49 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=164"
+  },
+  {
+    "source_id": "guggenheim1996:cat-50",
+    "verified_identity_of": "moma1973-pdf80-caption1",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 218.4 x 203.2cm agree with existing 218.44 x 203.2cm within published rounding. Primary catalogue50 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=166"
+  },
+  {
+    "source_id": "guggenheim1996:cat-52",
+    "verified_identity_of": "sfmoma-501-4",
+    "evidence": "Distinctive two joined angled red/green trapezoids and1968 agree with existing SFMOMA FisherFC.518 identity, already independently tied to MoMA1973 plate88. Historical284.5x330.2cm matches1973 source284.48x330.2cm; current museum277.6x328.9cm preserved as discrepancy.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=168"
+  },
+  {
+    "source_id": "guggenheim1996:cat-53",
+    "verified_identity_of": "moma1973-pdf92-caption1",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 180.3 x 358.1cm agree with existing 180.34 x 358.14cm within published rounding. Primary catalogue53 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=169"
+  },
+  {
+    "source_id": "guggenheim1996:cat-55",
+    "verified_identity_of": "moma1973-pdf94-caption1",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 243.8 x 243.8cm agree with existing 243.84 x 243.84cm within published rounding. Primary catalogue55 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=172"
+  },
+  {
+    "source_id": "guggenheim1996:cat-56",
+    "verified_identity_of": "sfmoma-501-3",
+    "evidence": "Directly compared rendered1996 PDFpage174 with current SFMOMAFC.536 photograph: identical blue left triangle joined to white right quadrilateral,1968, historical private collection SanFrancisco. Current184.2x400.8cm differs historical182.9x396.2cm and both must be retained.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=174"
+  },
+  {
+    "source_id": "guggenheim1996:cat-57",
+    "verified_identity_of": "ek-407",
+    "evidence": "Directly compared rendered1996 PDFpage175 with FoundationEK407 photograph: identical slender right-leaning three-band red/white/blue parallelogram, same101in height and1968. Historical width30in/76.2cm differs Foundation45in/114.3cm; retain source disagreement, do not silently replace current overall dimensions.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=175"
+  },
+  {
+    "source_id": "guggenheim1996:cat-58",
+    "verified_identity_of": "tate-21633",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 304.8 x 304.8cm agree with existing 304.8 x 304.8cm within published rounding. Primary catalogue58 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=176"
+  },
+  {
+    "source_id": "guggenheim1996:cat-61",
+    "verified_identity_of": "broad-v3-green-angle",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 177.8 x 586.7cm agree with existing 177.8 x 586.74cm within published rounding. Primary catalogue61 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=180"
+  },
+  {
+    "source_id": "guggenheim1996:cat-62",
+    "verified_identity_of": "international-v4-stedelijk-black-white-bar-ii",
+    "evidence": "Exact1971 title Black with White BarII, Stedelijk Museum credit, two joined panels in1996caption PDFpage182 agree with museum conservator source identifying1971 TwoPanels:BlackwithWhiteBarII/EK449. Historical199.4x406.4cm resolves previously missing physical size; visually reviewed museum reference remains contour source.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=182"
+  },
+  {
+    "source_id": "guggenheim1996:cat-63",
+    "verified_identity_of": "ek-451",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 182.9 x 188.0cm agree with existing 182.88 x 187.96cm within published rounding. Primary catalogue63 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=184"
+  },
+  {
+    "source_id": "guggenheim1996:cat-64",
+    "verified_identity_of": "ek-460",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 276.9 x 243.8cm agree with existing 276.9 x 243.8cm within published rounding. Primary catalogue64 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=186"
+  },
+  {
+    "source_id": "guggenheim1996:cat-66",
+    "verified_identity_of": "north-v4-lacma-33211",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 172.1 x 422.9cm agree with existing 172.24 x 422.91cm within published rounding. Primary catalogue66 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=190"
+  },
+  {
+    "source_id": "guggenheim1996:cat-67",
+    "verified_identity_of": "moca-v3-blue-green-curve",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 222.3 x 365.8cm agree with existing 222.89 x 366.4cm within published rounding. Primary catalogue67 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=192"
+  },
+  {
+    "source_id": "guggenheim1996:cat-71",
+    "verified_identity_of": "museum-v2-grenoble-red-curve-iv",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 254.0 x 254.0cm agree with existing 254.0 x 254.0cm within published rounding. Primary catalogue71 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=197"
+  },
+  {
+    "source_id": "guggenheim1996:cat-73",
+    "verified_identity_of": "whitney-1236",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 266.7 x 144.1cm agree with existing 266.4 x 143.7cm within published rounding. Primary catalogue73 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=202"
+  },
+  {
+    "source_id": "guggenheim1996:cat-76",
+    "verified_identity_of": "ek-562",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 276.9 x 266.7cm agree with existing 276.86 x 266.7cm within published rounding. Primary catalogue76 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=208"
+  },
+  {
+    "source_id": "guggenheim1996:cat-77",
+    "verified_identity_of": "ek-609",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 289.6 x 235.0cm agree with existing 289.56 x 234.95cm within published rounding. Primary catalogue77 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=207"
+  },
+  {
+    "source_id": "guggenheim1996:cat-86",
+    "verified_identity_of": "ek-738",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 294.6 x 1047.8cm agree with existing 294.64 x 1047.75cm within published rounding. Primary catalogue86 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=222"
+  },
+  {
+    "source_id": "guggenheim1996:cat-91",
+    "verified_identity_of": "ek-781",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 255.3 x 353.1cm agree with existing 255.27 x 353.06cm within published rounding. Primary catalogue91 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=230"
+  },
+  {
+    "source_id": "guggenheim1996:cat-92",
+    "verified_identity_of": "sothebys-en-auctions-ecatalogue-2017-contemporary-art-evening-auction-n09713-lot-42-html",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 193.0 x 289.6cm agree with existing 193.0 x 289.6cm within published rounding. Primary catalogue92 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=231"
+  },
+  {
+    "source_id": "guggenheim1996:cat-93",
+    "verified_identity_of": "ek-809",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 306.1 x 250.2cm agree with existing 305.435 x 250.19cm within published rounding. Primary catalogue93 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=232"
+  },
+  {
+    "source_id": "guggenheim1996:cat-94",
+    "verified_identity_of": "matthewmarks-yellow-relief-with-blue-1991-2096",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 304.8 x 132.1cm agree with existing 305.0 x 132.0cm within published rounding. Primary catalogue94 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=233"
+  },
+  {
+    "source_id": "guggenheim1996:cat-95",
+    "verified_identity_of": "ek-818",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 237.5 x 215.3cm agree with existing 237.49 x 215.265cm within published rounding. Primary catalogue95 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=234"
+  },
+  {
+    "source_id": "guggenheim1996:cat-96",
+    "verified_identity_of": "matthewmarks-blue-relief-with-black-1993-2473",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 249.6 x 226.1cm agree with existing 250.0 x 226.0cm within published rounding. Primary catalogue96 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=236"
+  },
+  {
+    "source_id": "guggenheim1996:cat-97",
+    "verified_identity_of": "matthewmarks-orange-and-gray-1993-17403",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 305.4 x 195.6cm agree with existing 305.0 x 196.0cm within published rounding. Primary catalogue97 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=238"
+  },
+  {
+    "source_id": "guggenheim1996:cat-99",
+    "verified_identity_of": "ek-856",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 117.0 x 482.6cm agree with existing 116.84 x 482.6cm within published rounding. Primary catalogue99 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=242"
+  },
+  {
+    "source_id": "guggenheim1996:cat-101",
+    "verified_identity_of": "international-v4-winterthur-black-curves",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 365.8 x 108.0cm agree with existing 366 x 108cm within published rounding. Primary catalogue101 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=246"
+  },
+  {
+    "source_id": "guggenheim1996:cat-102",
+    "verified_identity_of": "sfmoma-513-3",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 360.7 x 166.4cm agree with existing 360.7 x 166.4cm within published rounding. Primary catalogue102 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=247"
+  },
+  {
+    "source_id": "guggenheim1996:cat-105",
+    "verified_identity_of": "glenstone-v3-blue-curve",
+    "evidence": "Independent comparison: exact normalized title/date overlap; historical overall dimensions 304.8 x 275.0cm agree with existing 304.8 x 274.96cm within published rounding. Primary catalogue105 caption retained; catalogue plate number is not EK number.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=250"
+  },
+  {
+    "source_id": "guggenheim1996:essay-44-fig-41",
+    "verified_identity_of": "moma-79739",
+    "evidence": "Directly compared1996figure41 with currentMoMA79739 reference: same13joined equal vertical panels and yellow-through-green/blue/violet/red/orange/yellow sequence; exact297.2cm square. Historical1969 conflicts current1967; preserve the date disagreement.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=44"
+  },
+  {
+    "source_id": "guggenheim1996:essay-52-fig-4",
+    "verified_identity_of": "moma1973-pdf40-caption2",
+    "evidence": "Same LaCombeII1950–51 oil-on-wood folding screen of nine hinged panels, explicitly described beside1996figure4; existing1973 work entry is same named1950 work. New source supplies99.1x118.1cm; depth is variable, not a fixed planar wall work.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=52"
+  },
+  {
+    "source_id": "guggenheim1996:essay-53-fig-5",
+    "verified_identity_of": "short-book-v4-ellsworthkelly20132-42-f-te-torcy",
+    "evidence": "Independently compared1996figure5 with2013printed36 reference: same two blue/yellow panel pairs and dark central wooden strip,1952;115.6x96.5cm agrees currentMoMA169712.2013rounded116x97cm retained.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=53"
+  },
+  {
+    "source_id": "guggenheim1996:essay-53-fig-6",
+    "verified_identity_of": "matthewmarks-kite-i-1952-44834",
+    "evidence": "Exact KiteI1952 title and99.7x232.4cm overall dimensions agree rounded100x233cm gallery record;1996photograph shows identical yellowendpanels/whitebars/centralblue-black-redstack.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=53"
+  },
+  {
+    "source_id": "guggenheim1996:essay-54-fig-7",
+    "verified_identity_of": "moma1973-pdf52-caption1",
+    "evidence": "Exact Mediterranee1952 title and150.5x193.7cm overall agree historical1973inch conversions150.495x193.675cm. Same nine-panel colored arrangement.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=54"
+  },
+  {
+    "source_id": "guggenheim1996:essay-55-fig-12",
+    "verified_identity_of": "international-v4-maeght-red-yellow-blue-i",
+    "evidence": "Exact title1963,231cm square, FondationMaeght credit and photographed redsquare/yellowL/blueL arrangement independently confirm internationalMaeght identity.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=55"
+  },
+  {
+    "source_id": "guggenheim1996:essay-56-fig-14",
+    "verified_identity_of": "moma1973-pdf87-caption1",
+    "evidence": "Directly compared1996figure14 with renderedMoMA1973PDFpage87: identical green clipped upper-left support joined to lower-right blue square, same1968 and231.1cm vs231.14cm square. BlueGreenI is more specific title than historical BlueGreen.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=56"
+  },
+  {
+    "source_id": "guggenheim1996:essay-56-fig-15",
+    "verified_identity_of": "ek-502",
+    "evidence": "Exact YellowwithRedTriangle1973 title,302.3x369.6cm matches FoundationEK502302.26x369.57cm.1996Corcoran historical ownership agrees currentNGA transfer context; do not treat historicalcollection as current.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=56"
+  },
+  {
+    "source_id": "guggenheim1996:essay-59-fig-22",
+    "verified_identity_of": "ek-453",
+    "evidence": "Exact numberedChathamII:BlueRed1971 title,243.8x222.3cm overall agree FoundationEK453; currentprivatecollection is not replaced by1996lendercredit.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=59"
+  },
+  {
+    "source_id": "guggenheim1996:essay-60-fig-24",
+    "verified_identity_of": "christies-2056201",
+    "evidence": "Christies2001lot2056201 explicitly cites Waldman1996p50 illustrated, which is this PDFpage60 figure24. Thus same EK799 despite1989date/231.8x360.7cm historical caption vs signed1990/230x360cm auction statement; retain both source disagreements.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=60"
+  },
+  {
+    "source_id": "guggenheim1996:essay-61-fig-25",
+    "verified_identity_of": "matthewmarks-white-relief-with-green-1994-2425",
+    "evidence": "Exact WhiteReliefwithGreen1994 title and304.8x152.4cm agree galleryrounded305x152cm. Museumcaption supplieshistoricalHaascredit.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=61"
+  },
+  {
+    "source_id": "guggenheim1996:essay-79-fig-6",
+    "verified_identity_of": "sfmoma-504-6",
+    "evidence": "Exact LaCombeIII1951 title and161.3x113cm agree currentFisherFCsource dimensions; preserve1996privatecollectioncredit as historical.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=79"
+  },
+  {
+    "source_id": "guggenheim1996:essay-37-fig-34a",
+    "verified_identity_of": "seattle-20691",
+    "evidence": "Exact WhiteCurveV1973 named studio photograph, distinct numberedseries title/year, agrees Seattle20691/FoundationEK497; no dimensions inferred from installation photograph.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=37"
+  },
+  {
+    "source_id": "guggenheim1996:essay-55-fig-11",
+    "verified_identity_of": "ek-350",
+    "evidence": "Exact numbered RedYellowBlueII1965 title in identified1990installation photograph agrees FoundationEK350/Milwaukee painting; depicted three spaced rectangular primarycolorpanels, not1963joinedLpainting.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=55"
+  },
+  {
+    "source_id": "guggenheim1996:essay-60-fig-23a",
+    "verified_identity_of": "cincinnati-1996-447",
+    "evidence": "Named1989installation photograph depicts green squareleft and orange curvedsectorright, agreeing currentCincinnatiGreenPanelwithOrangeCurve1989; no dimensions inferred from galleryview.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=60"
+  },
+  {
+    "source_id": "guggenheim1996:essay-60-fig-23b",
+    "verified_identity_of": "sfmoma-v3-fc-351",
+    "evidence": "Directly compared1989installation photograph with currentSFMOMAFC351 photograph: black upper-right square and white left/lower curvedpanel; exact BlackPanelwithWhiteCurveI1989 title. Not BroadCurveIII.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=60"
+  },
+  {
+    "source_id": "guggenheim1996:essay-68-fig-2d",
+    "verified_identity_of": "christies-5792555",
+    "evidence": "Exact RedCurveV1982 title in identified1982studio photograph; redcurvedwedge contour agrees auctionphotoChristies5792555, inscribedEK6331982. No dimensions inferred from studio scale.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=68"
+  },
+  {
+    "source_id": "guggenheim1996:essay-69-fig-3",
+    "verified_identity_of": "matthewmarks-red-curved-panel-1994-2483",
+    "evidence": "Same exactRedCurvedPanel1994 named in studio photograph and gallerywork record; distinctive singlecurvededge/straightedge support matches under rotation. Studio orientation differs displayphoto; avoid using studio angle as canonical geometry.",
+    "source_url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=69"
+  }
+]

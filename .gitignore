@@ -1,0 +1,22 @@
+# Local reference material and hosting credentials are never public inputs.
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*
+node_modules/
+.openai/
+**/.openai/
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.tif
+*.tiff
+*.zip
+*.tar.gz
+research/**/raw/
+research/**/references/
+research/**/reference-images/
+research/**/renders/

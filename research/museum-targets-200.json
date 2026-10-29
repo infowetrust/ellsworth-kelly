@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "museum-001",
+    "name": "Museum of Modern Art",
+    "domain": "moma.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-002",
+    "name": "Metropolitan Museum of Art",
+    "domain": "metmuseum.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-003",
+    "name": "Solomon R. Guggenheim Museum",
+    "domain": "guggenheim.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-004",
+    "name": "Whitney Museum of American Art",
+    "domain": "whitney.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-005",
+    "name": "San Francisco Museum of Modern Art",
+    "domain": "sfmoma.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-006",
+    "name": "Art Institute of Chicago",
+    "domain": "artic.edu",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-007",
+    "name": "National Gallery of Art Washington",
+    "domain": "nga.gov",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-008",
+    "name": "Los Angeles County Museum of Art",
+    "domain": "lacma.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-009",
+    "name": "Museum of Contemporary Art Los Angeles",
+    "domain": "moca.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-010",
+    "name": "Hammer Museum",
+    "domain": "hammer.ucla.edu",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-011",
+    "name": "Getty Museum",
+    "domain": "getty.edu",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-012",
+    "name": "Broad",
+    "domain": "thebroad.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-013",
+    "name": "Hirshhorn Museum and Sculpture Garden",
+    "domain": "hirshhorn.si.edu",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-014",
+    "name": "Smithsonian American Art Museum",
+    "domain": "americanart.si.edu",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-015",
+    "name": "Phillips Collection",
+    "domain": "phillipscollection.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-016",
+    "name": "Walker Art Center",
+    "domain": "walkerart.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-017",
+    "name": "Minneapolis Institute of Art",
+    "domain": "artsmia.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-018",
+    "name": "Saint Louis Art Museum",
+    "domain": "slam.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-019",
+    "name": "Nelson-Atkins Museum of Art",
+    "domain": "nelson-atkins.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-020",
+    "name": "Dallas Museum of Art",
+    "domain": "dma.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-021",
+    "name": "Modern Art Museum of Fort Worth",
+    "domain": "themodern.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-022",
+    "name": "Menil Collection",
+    "domain": "menil.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-023",
+    "name": "Museum of Fine Arts Houston",
+    "domain": "mfah.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-024",
+    "name": "Blanton Museum of Art",
+    "domain": "blantonmuseum.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-025",
+    "name": "Nasher Sculpture Center",
+    "domain": "nashersculpturecenter.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-026",
+    "name": "Buffalo AKG Art Museum",
+    "domain": "buffaloakg.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-027",
+    "name": "Cleveland Museum of Art",
+    "domain": "clevelandart.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-028",
+    "name": "Detroit Institute of Arts",
+    "domain": "dia.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-029",
+    "name": "Toledo Museum of Art",
+    "domain": "toledomuseum.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-030",
+    "name": "Cincinnati Art Museum",
+    "domain": "cincinnatiartmuseum.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-031",
+    "name": "Columbus Museum of Art",
+    "domain": "columbusmuseum.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-032",
+    "name": "Carnegie Museum of Art",
+    "domain": "carnegiemuseums.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-033",
+    "name": "Philadelphia Museum of Art",
+    "domain": "philamuseum.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-034",
+    "name": "Barnes Foundation",
+    "domain": "barnesfoundation.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-035",
+    "name": "Baltimore Museum of Art",
+    "domain": "artbma.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-036",
+    "name": "Virginia Museum of Fine Arts",
+    "domain": "vmfa.museum",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-037",
+    "name": "North Carolina Museum of Art",
+    "domain": "ncartmuseum.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-038",
+    "name": "High Museum of Art",
+    "domain": "high.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-039",
+    "name": "New Orleans Museum of Art",
+    "domain": "noma.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-040",
+    "name": "Pérez Art Museum Miami",
+    "domain": "pamm.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-041",
+    "name": "Norton Museum of Art",
+    "domain": "norton.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-042",
+    "name": "Tampa Museum of Art",
+    "domain": "tampamuseum.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-043",
+    "name": "Orlando Museum of Art",
+    "domain": "omart.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-044",
+    "name": "MFA Boston",
+    "domain": "mfa.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-045",
+    "name": "ICA Boston",
+    "domain": "icaboston.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-046",
+    "name": "Harvard Art Museums",
+    "domain": "harvardartmuseums.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-047",
+    "name": "Rose Art Museum",
+    "domain": "brandeis.edu",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-048",
+    "name": "Yale University Art Gallery",
+    "domain": "artgallery.yale.edu",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-049",
+    "name": "Princeton University Art Museum",
+    "domain": "artmuseum.princeton.edu",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-050",
+    "name": "RISD Museum",
+    "domain": "risdmuseum.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-051",
+    "name": "Williams College Museum of Art",
+    "domain": "artmuseum.williams.edu",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-052",
+    "name": "Wadsworth Atheneum",
+    "domain": "thewadsworth.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-053",
+    "name": "Addison Gallery of American Art",
+    "domain": "addison.andover.edu",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-054",
+    "name": "Mass MoCA",
+    "domain": "massmoca.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-055",
+    "name": "Dia Art Foundation",
+    "domain": "diaart.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-056",
+    "name": "Glenstone",
+    "domain": "glenstone.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-057",
+    "name": "New Museum",
+    "domain": "newmuseum.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-058",
+    "name": "Brooklyn Museum",
+    "domain": "brooklynmuseum.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-059",
+    "name": "Milwaukee Art Museum",
+    "domain": "mam.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-060",
+    "name": "Newfields Indianapolis Museum of Art",
+    "domain": "discovernewfields.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-061",
+    "name": "Des Moines Art Center",
+    "domain": "desmoinesartcenter.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-062",
+    "name": "Joslyn Art Museum",
+    "domain": "joslyn.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-063",
+    "name": "Denver Art Museum",
+    "domain": "denverartmuseum.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-064",
+    "name": "Seattle Art Museum",
+    "domain": "seattleartmuseum.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-065",
+    "name": "Portland Art Museum",
+    "domain": "portlandartmuseum.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-066",
+    "name": "Henry Art Gallery",
+    "domain": "henryart.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-067",
+    "name": "Museum of Contemporary Art San Diego",
+    "domain": "mcasd.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-068",
+    "name": "Orange County Museum of Art",
+    "domain": "ocma.art",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-069",
+    "name": "Palm Springs Art Museum",
+    "domain": "psmuseum.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-070",
+    "name": "Cantor Arts Center",
+    "domain": "museum.stanford.edu",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-071",
+    "name": "Berkeley Art Museum and Pacific Film Archive",
+    "domain": "bampfa.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-072",
+    "name": "de Young and Legion of Honor",
+    "domain": "famsf.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-073",
+    "name": "National Gallery of Canada",
+    "domain": "gallery.ca",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-074",
+    "name": "Art Gallery of Ontario",
+    "domain": "ago.ca",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-075",
+    "name": "Montreal Museum of Fine Arts",
+    "domain": "mbam.qc.ca",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-076",
+    "name": "Musée d'art contemporain de Montréal",
+    "domain": "macm.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-077",
+    "name": "Vancouver Art Gallery",
+    "domain": "vanartgallery.bc.ca",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-078",
+    "name": "Art Gallery of Alberta",
+    "domain": "youraga.ca",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-079",
+    "name": "Winnipeg Art Gallery",
+    "domain": "wag.ca",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-080",
+    "name": "Musée national des beaux-arts du Québec",
+    "domain": "mnbaq.org",
+    "region": "North America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-081",
+    "name": "Tate",
+    "domain": "tate.org.uk",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-082",
+    "name": "National Galleries of Scotland",
+    "domain": "nationalgalleries.org",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-083",
+    "name": "National Museum Cardiff",
+    "domain": "museum.wales",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-084",
+    "name": "National Museums Liverpool",
+    "domain": "liverpoolmuseums.org.uk",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-085",
+    "name": "Whitworth Manchester",
+    "domain": "whitworth.manchester.ac.uk",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-086",
+    "name": "Hepworth Wakefield",
+    "domain": "hepworthwakefield.org",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-087",
+    "name": "Sainsbury Centre",
+    "domain": "sainsburycentre.ac.uk",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-088",
+    "name": "Birmingham Museums",
+    "domain": "birminghammuseums.org.uk",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-089",
+    "name": "Dublin Hugh Lane Gallery",
+    "domain": "hughlane.ie",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-090",
+    "name": "Irish Museum of Modern Art",
+    "domain": "imma.ie",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-091",
+    "name": "Centre Pompidou",
+    "domain": "centrepompidou.fr",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-092",
+    "name": "Musée d'Art Moderne de Paris",
+    "domain": "mam.paris.fr",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-093",
+    "name": "Fondation Louis Vuitton",
+    "domain": "fondationlouisvuitton.fr",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-094",
+    "name": "Fondation Maeght",
+    "domain": "fondation-maeght.com",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-095",
+    "name": "Musée d'art moderne Saint-Étienne",
+    "domain": "mamc.saint-etienne.fr",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-096",
+    "name": "Musée d'art moderne Strasbourg",
+    "domain": "musees.strasbourg.eu",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-097",
+    "name": "LaM Lille",
+    "domain": "musee-lam.fr",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-098",
+    "name": "CAPC Bordeaux",
+    "domain": "capc-bordeaux.fr",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-099",
+    "name": "Carré d'Art Nîmes",
+    "domain": "carreartmusee.com",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-100",
+    "name": "Collection Lambert Avignon",
+    "domain": "collectionlambert.com",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-101",
+    "name": "Musée d'art contemporain Lyon",
+    "domain": "mac-lyon.com",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-102",
+    "name": "Musée de Grenoble",
+    "domain": "museedegrenoble.fr",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-103",
+    "name": "MAMAC Nice",
+    "domain": "mamac-nice.org",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-104",
+    "name": "Stedelijk Museum Amsterdam",
+    "domain": "stedelijk.nl",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-105",
+    "name": "Kröller-Müller Museum",
+    "domain": "krollermuller.nl",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-106",
+    "name": "Kunstmuseum Den Haag",
+    "domain": "kunstmuseum.nl",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-107",
+    "name": "Museum Boijmans Van Beuningen",
+    "domain": "boijmans.nl",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-108",
+    "name": "Van Abbemuseum",
+    "domain": "vanabbemuseum.nl",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-109",
+    "name": "Museum Voorlinden",
+    "domain": "voorlinden.nl",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-110",
+    "name": "Kunstmuseum Basel",
+    "domain": "kunstmuseumbasel.ch",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-111",
+    "name": "Fondation Beyeler",
+    "domain": "fondationbeyeler.ch",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-112",
+    "name": "Kunsthaus Zürich",
+    "domain": "kunsthaus.ch",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-113",
+    "name": "Kunstmuseum Bern",
+    "domain": "kunstmuseumbern.ch",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-114",
+    "name": "Kunstmuseum Winterthur",
+    "domain": "kmw.ch",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-115",
+    "name": "MASI Lugano",
+    "domain": "masilugano.ch",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-116",
+    "name": "MAMCO Geneva",
+    "domain": "mamco.ch",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-117",
+    "name": "Kunstmuseum St Gallen",
+    "domain": "kunstmuseumsg.ch",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-118",
+    "name": "Museum Ludwig Cologne",
+    "domain": "museum-ludwig.de",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-119",
+    "name": "Kunstsammlung Nordrhein-Westfalen",
+    "domain": "kunstsammlung.de",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-120",
+    "name": "Museum Folkwang",
+    "domain": "museum-folkwang.de",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-121",
+    "name": "Pinakothek der Moderne",
+    "domain": "pinakothek.de",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-122",
+    "name": "Neue Nationalgalerie",
+    "domain": "smb.museum",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-123",
+    "name": "Hamburger Bahnhof",
+    "domain": "smb.museum",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-124",
+    "name": "Hamburger Kunsthalle",
+    "domain": "hamburger-kunsthalle.de",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-125",
+    "name": "Staatsgalerie Stuttgart",
+    "domain": "staatsgalerie.de",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-126",
+    "name": "Städel Museum",
+    "domain": "staedelmuseum.de",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-127",
+    "name": "Sprengel Museum Hannover",
+    "domain": "sprengel-museum.de",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-128",
+    "name": "Kunstmuseum Bonn",
+    "domain": "kunstmuseum-bonn.de",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-129",
+    "name": "Museum Brandhorst",
+    "domain": "museum-brandhorst.de",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-130",
+    "name": "Kunstmuseum Stuttgart",
+    "domain": "kunstmuseum-stuttgart.de",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-131",
+    "name": "Museum Abteiberg",
+    "domain": "museum-abteiberg.de",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-132",
+    "name": "Museum Wiesbaden",
+    "domain": "museum-wiesbaden.de",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-133",
+    "name": "ZKM Karlsruhe",
+    "domain": "zkm.de",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-134",
+    "name": "Lenbachhaus",
+    "domain": "lenbachhaus.de",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-135",
+    "name": "mumok Vienna",
+    "domain": "mumok.at",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-136",
+    "name": "Albertina",
+    "domain": "albertina.at",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-137",
+    "name": "Belvedere",
+    "domain": "belvedere.at",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-138",
+    "name": "Louisiana Museum of Modern Art",
+    "domain": "louisiana.dk",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-139",
+    "name": "SMK National Gallery Denmark",
+    "domain": "smk.dk",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-140",
+    "name": "ARoS Aarhus",
+    "domain": "aros.dk",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-141",
+    "name": "Kunsten Aalborg",
+    "domain": "kunsten.dk",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-142",
+    "name": "Moderna Museet",
+    "domain": "modernamuseet.se",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-143",
+    "name": "Gothenburg Museum of Art",
+    "domain": "goteborgskonstmuseum.se",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-144",
+    "name": "National Museum Oslo",
+    "domain": "nasjonalmuseet.no",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-145",
+    "name": "Astrup Fearnley Museet",
+    "domain": "afmuseet.no",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-146",
+    "name": "Kiasma",
+    "domain": "kiasma.fi",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-147",
+    "name": "EMMA Espoo",
+    "domain": "emmamuseum.fi",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-148",
+    "name": "Reina Sofía",
+    "domain": "museoreinasofia.es",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-149",
+    "name": "Guggenheim Bilbao",
+    "domain": "guggenheim-bilbao.eus",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-150",
+    "name": "Museo Thyssen-Bornemisza",
+    "domain": "museothyssen.org",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-151",
+    "name": "MACBA Barcelona",
+    "domain": "macba.cat",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-152",
+    "name": "IVAM Valencia",
+    "domain": "ivam.es",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-153",
+    "name": "Museu Serralves",
+    "domain": "serralves.pt",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-154",
+    "name": "Gulbenkian Museum",
+    "domain": "gulbenkian.pt",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-155",
+    "name": "Peggy Guggenheim Collection",
+    "domain": "guggenheim-venice.it",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-156",
+    "name": "GAM Turin",
+    "domain": "gamtorino.it",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-157",
+    "name": "Castello di Rivoli",
+    "domain": "castellodirivoli.org",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-158",
+    "name": "MART Rovereto",
+    "domain": "mart.tn.it",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-159",
+    "name": "Galleria Nazionale Rome",
+    "domain": "lagallerianazionale.com",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-160",
+    "name": "MAXXI Rome",
+    "domain": "maxxi.art",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-161",
+    "name": "Museo del Novecento Milan",
+    "domain": "museodelnovecento.org",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-162",
+    "name": "M HKA Antwerp",
+    "domain": "muhka.be",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-163",
+    "name": "SMAK Ghent",
+    "domain": "smak.be",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-164",
+    "name": "Royal Museums of Fine Arts Belgium",
+    "domain": "fine-arts-museum.be",
+    "region": "Europe",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-165",
+    "name": "National Museum of Modern Art Tokyo",
+    "domain": "momat.go.jp",
+    "region": "Asia",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-166",
+    "name": "National Museum of Modern Art Kyoto",
+    "domain": "momak.go.jp",
+    "region": "Asia",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-167",
+    "name": "National Museum of Western Art Tokyo",
+    "domain": "nmwa.go.jp",
+    "region": "Asia",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-168",
+    "name": "Museum of Contemporary Art Tokyo",
+    "domain": "mot-art-museum.jp",
+    "region": "Asia",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-169",
+    "name": "Yokohama Museum of Art",
+    "domain": "yokohama.art.museum",
+    "region": "Asia",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-170",
+    "name": "Hara Museum ARC",
+    "domain": "haramuseum.or.jp",
+    "region": "Asia",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-171",
+    "name": "DIC Kawamura Memorial Museum of Art",
+    "domain": "kawamura-museum.dic.co.jp",
+    "region": "Asia",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-172",
+    "name": "Toyota Municipal Museum of Art",
+    "domain": "museum.toyota.aichi.jp",
+    "region": "Asia",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-173",
+    "name": "21st Century Museum Kanazawa",
+    "domain": "kanazawa21.jp",
+    "region": "Asia",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-174",
+    "name": "Fukuoka Art Museum",
+    "domain": "fukuoka-art-museum.jp",
+    "region": "Asia",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-175",
+    "name": "Hiroshima City Museum of Contemporary Art",
+    "domain": "hiroshima-moca.jp",
+    "region": "Asia",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-176",
+    "name": "National Museum of Art Osaka",
+    "domain": "nmao.go.jp",
+    "region": "Asia",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-177",
+    "name": "Leeum Museum of Art",
+    "domain": "leeumhoam.org",
+    "region": "Asia",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-178",
+    "name": "MMCA Korea",
+    "domain": "mmca.go.kr",
+    "region": "Asia",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-179",
+    "name": "Seoul Museum of Art",
+    "domain": "sema.seoul.go.kr",
+    "region": "Asia",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-180",
+    "name": "M+ Hong Kong",
+    "domain": "mplus.org.hk",
+    "region": "Asia",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-181",
+    "name": "Hong Kong Museum of Art",
+    "domain": "hk.art.museum",
+    "region": "Asia",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-182",
+    "name": "Taipei Fine Arts Museum",
+    "domain": "tfam.museum",
+    "region": "Asia",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-183",
+    "name": "National Taiwan Museum of Fine Arts",
+    "domain": "ntmofa.gov.tw",
+    "region": "Asia",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-184",
+    "name": "National Gallery Singapore",
+    "domain": "nationalgallery.sg",
+    "region": "Asia",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-185",
+    "name": "Singapore Art Museum",
+    "domain": "singaporeartmuseum.sg",
+    "region": "Asia",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-186",
+    "name": "National Gallery of Australia",
+    "domain": "nga.gov.au",
+    "region": "Oceania",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-187",
+    "name": "Art Gallery of New South Wales",
+    "domain": "artgallery.nsw.gov.au",
+    "region": "Oceania",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-188",
+    "name": "National Gallery of Victoria",
+    "domain": "ngv.vic.gov.au",
+    "region": "Oceania",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-189",
+    "name": "Queensland Art Gallery GOMA",
+    "domain": "qagoma.qld.gov.au",
+    "region": "Oceania",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-190",
+    "name": "Art Gallery of South Australia",
+    "domain": "agsa.sa.gov.au",
+    "region": "Oceania",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-191",
+    "name": "Auckland Art Gallery",
+    "domain": "aucklandartgallery.com",
+    "region": "Oceania",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-192",
+    "name": "Te Papa Tongarewa",
+    "domain": "tepapa.govt.nz",
+    "region": "Oceania",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-193",
+    "name": "MASP São Paulo",
+    "domain": "masp.org.br",
+    "region": "Latin America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-194",
+    "name": "Museu de Arte Moderna Rio",
+    "domain": "mam.rio",
+    "region": "Latin America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-195",
+    "name": "MALBA Buenos Aires",
+    "domain": "malba.org.ar",
+    "region": "Latin America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-196",
+    "name": "Museo Tamayo",
+    "domain": "museotamayo.org",
+    "region": "Latin America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-197",
+    "name": "Museo Jumex",
+    "domain": "fundacionjumex.org",
+    "region": "Latin America",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-198",
+    "name": "Zeitz Museum of Contemporary Art Africa",
+    "domain": "zeitzmocaa.museum",
+    "region": "Africa",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-199",
+    "name": "Iziko South African National Gallery",
+    "domain": "iziko.org.za",
+    "region": "Africa",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  },
+  {
+    "id": "museum-200",
+    "name": "Mohammed VI Museum of Modern and Contemporary Art",
+    "domain": "fnm.ma",
+    "region": "Africa",
+    "status": "queued",
+    "ranking_note": "Curated research target; not an externally ranked top-200 list"
+  }
+]

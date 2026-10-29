@@ -1,0 +1,1396 @@
+[
+  {
+    "source_id": "north-v4:walker-black-relief-with-white",
+    "source_record_id": "2022.50",
+    "title": "Black Relief with White",
+    "year_start": 1991,
+    "year_end": 1991,
+    "date_display": "1991",
+    "medium": "oil on joined canvases",
+    "height_cm": 177.8,
+    "width_cm": 245.11,
+    "collection": "Walker Art Center",
+    "accession": "2022.50",
+    "ek_id": null,
+    "source_url": "https://www.walkerart.org/collections/artwork/black-relief-with-white/",
+    "image_url": "https://imgix-proxy.walkerart.org/wac_42848.tif?fm=jpg&w=1024&h=1024&fit=fit",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Exact-creator public collection search:184 Kelly objects; five classified paintings. Gift of Judy and Kenneth Dayton, 2022"
+    ],
+    "sources": [
+      {
+        "url": "https://www.walkerart.org/collections/artwork/black-relief-with-white/",
+        "label": "Walker Art Center primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "museum-v2-walker-black-relief-with-white",
+    "dimensions_display": "70 x 96-1/2 x 4 inches overall installed",
+    "credit_line": "Gift of Judy and Kenneth Dayton, 2022"
+  },
+  {
+    "source_id": "north-v4:walker-yellow-red",
+    "source_record_id": "1994.215",
+    "title": "Yellow/Red",
+    "year_start": 1968,
+    "year_end": 1968,
+    "date_display": "1968",
+    "medium": "oil on canvas",
+    "height_cm": 187.96,
+    "width_cm": 261.62,
+    "collection": "Walker Art Center",
+    "accession": "1994.215",
+    "ek_id": null,
+    "source_url": "https://www.walkerart.org/collections/artwork/yellow-red/",
+    "image_url": "https://imgix-proxy.walkerart.org/wac_3709.tif?fm=jpg&w=1024&h=1024&fit=fit",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Exact-creator public collection search:184 Kelly objects; five classified paintings. Gift of Penny and Mike Winton, 1994",
+      "Published74×103in describes FRAMED extent. It is retained as reported, not relabeled unframed."
+    ],
+    "sources": [
+      {
+        "url": "https://www.walkerart.org/collections/artwork/yellow-red/",
+        "label": "Walker Art Center primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "museum-v2-walker-yellow-red",
+    "dimensions_display": "74 x 103 x 1-1/2 inches Framed",
+    "credit_line": "Gift of Penny and Mike Winton, 1994",
+    "true_scale_eligible": false,
+    "true_scale_note": "Only framed dimensions located; exact canvas extent not verified."
+  },
+  {
+    "source_id": "north-v4:walker-red-yellow-blue-iii",
+    "source_record_id": "1998.13.1-.3",
+    "title": "Red Yellow Blue III",
+    "year_start": 1966,
+    "year_end": 1966,
+    "date_display": "1966",
+    "medium": "oil on canvas",
+    "height_cm": 179.07,
+    "width_cm": null,
+    "collection": "Walker Art Center",
+    "accession": "1998.13.1-.3",
+    "ek_id": null,
+    "source_url": "https://www.walkerart.org/collections/artwork/red-yellow-blue-iii/",
+    "image_url": "https://imgix-proxy.walkerart.org/wac_15888.tif?fm=jpg&w=1024&h=1024&fit=fit",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Exact-creator public collection search:184 Kelly objects; five classified paintings. Gift of Judy and Kenneth Dayton, 1998",
+      "Published70½×70⅛in dimensions describe EACH panel, not overall installation. Variable gaps; overall width deliberately unknown. Study uses approximate observed spacing."
+    ],
+    "sources": [
+      {
+        "url": "https://www.walkerart.org/collections/artwork/red-yellow-blue-iii/",
+        "label": "Walker Art Center primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "museum-v2-walker-red-yellow-blue-iii",
+    "dimensions_display": "70-1/2 x 70-1/8 x 1-3/8 inches each unframed",
+    "credit_line": "Gift of Judy and Kenneth Dayton, 1998",
+    "panel_height_cm": 179.07,
+    "panel_width_cm": 178.1175,
+    "panel_count": 3,
+    "true_scale_eligible": false,
+    "true_scale_note": "Separate panels with installation-dependent spacing; no verified overall width."
+  },
+  {
+    "source_id": "north-v4:walker-red-green-blue",
+    "source_record_id": "1966.9",
+    "title": "Red Green Blue",
+    "year_start": 1964,
+    "year_end": 1964,
+    "date_display": "1964",
+    "medium": "oil on canvas",
+    "height_cm": 228.6,
+    "width_cm": 167.64,
+    "collection": "Walker Art Center",
+    "accession": "1966.9",
+    "ek_id": null,
+    "source_url": "https://www.walkerart.org/collections/artwork/red-green-blue/",
+    "image_url": "https://imgix-proxy.walkerart.org/wac_423.tif?fm=jpg&w=1024&h=1024&fit=fit",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Exact-creator public collection search:184 Kelly objects; five classified paintings. Gift of the T. B. Walker Foundation, 1966"
+    ],
+    "sources": [
+      {
+        "url": "https://www.walkerart.org/collections/artwork/red-green-blue/",
+        "label": "Walker Art Center primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "museum-v2-walker-red-green-blue",
+    "dimensions_display": "90 x 66 inches unframed",
+    "credit_line": "Gift of the T. B. Walker Foundation, 1966"
+  },
+  {
+    "source_id": "north-v4:walker-black-curve",
+    "source_record_id": "1995.73",
+    "title": "Black Curve",
+    "year_start": 1962,
+    "year_end": 1962,
+    "date_display": "1962",
+    "medium": "oil on canvas",
+    "height_cm": 106.998,
+    "width_cm": 87.948,
+    "collection": "Walker Art Center",
+    "accession": "1995.73",
+    "ek_id": null,
+    "source_url": "https://www.walkerart.org/collections/artwork/black-curve/",
+    "image_url": "https://imgix-proxy.walkerart.org/wac_2158.tif?fm=jpg&w=1024&h=1024&fit=fit",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Exact-creator public collection search:184 Kelly objects; five classified paintings. Donated by Mr. and Mrs. Edmond R. Ruben, 1995"
+    ],
+    "sources": [
+      {
+        "url": "https://www.walkerart.org/collections/artwork/black-curve/",
+        "label": "Walker Art Center primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "museum-v2-walker-black-curve",
+    "dimensions_display": "42-1/8 x 34-5/8 x 1-1/16 inches actual",
+    "credit_line": "Donated by Mr. and Mrs. Edmond R. Ruben, 1995"
+  },
+  {
+    "source_id": "north-v4:buffalo-newyork",
+    "source_record_id": "K1959:11",
+    "title": "New York, NY",
+    "year_start": 1957,
+    "year_end": 1957,
+    "date_display": "1957",
+    "medium": "Oil on canvas",
+    "height_cm": 187.33,
+    "width_cm": 228.6,
+    "collection": "Buffalo AKG Art Museum",
+    "accession": "K1959:11",
+    "ek_id": null,
+    "source_url": "https://buffaloakg.org/artworks/k195911-new-york-ny",
+    "image_url": "https://buffaloakg.org/sites/default/files/styles/fixed_height_medium/public/artwork/K1959_011_o2.jpg?itok=rIAZYd3n",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://buffaloakg.org/artworks/k195911-new-york-ny",
+        "label": "Buffalo AKG Art Museum primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "buffalo-k1959-11",
+    "dimensions_display": null
+  },
+  {
+    "source_id": "north-v4:buffalo-blueyellowred",
+    "source_record_id": "K1969:3",
+    "title": "Blue, Yellow and Red",
+    "year_start": 1968,
+    "year_end": 1968,
+    "date_display": "1968",
+    "medium": "Oil on canvas",
+    "height_cm": 256.54,
+    "width_cm": 76.2,
+    "collection": "Buffalo AKG Art Museum",
+    "accession": "K1969:3",
+    "ek_id": null,
+    "source_url": "https://buffaloakg.org/artworks/k19693-blue-yellow-and-red",
+    "image_url": "https://buffaloakg.org/sites/default/files/styles/fixed_height_medium/public/artwork/K1969_003_o2.jpg?itok=V0BRTvdB",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Museum text explicitly describes an elongated parallelogram. Reported 256.54 × 76.2 cm does not match its full photographic bounding box aspect (~0.437); short-edge width versus overall extent remains unresolved. Study preserves observed slant, is excluded from physical scale."
+    ],
+    "sources": [
+      {
+        "url": "https://buffaloakg.org/artworks/k19693-blue-yellow-and-red",
+        "label": "Buffalo AKG Art Museum primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "buffalo-k1969-3",
+    "dimensions_display": null,
+    "true_scale_eligible": false,
+    "true_scale_note": "Published width appears to describe the short edge of the parallelogram, not its bounding box; full horizontal extent not verified."
+  },
+  {
+    "source_id": "north-v4:buffalo-greencurve",
+    "source_record_id": "2023:222",
+    "title": "Green Curve I",
+    "year_start": 1969,
+    "year_end": 1969,
+    "date_display": "1969",
+    "medium": "Oil on canvas",
+    "height_cm": 90.8,
+    "width_cm": 147.32,
+    "collection": "Buffalo AKG Art Museum",
+    "accession": "2023:222",
+    "ek_id": null,
+    "source_url": "https://buffaloakg.org/artworks/2023222-green-curve-i",
+    "image_url": "https://buffaloakg.org/sites/default/files/styles/fixed_height_medium/public/artwork/2023_222_o2.jpg?itok=MiX_oCC1",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://buffaloakg.org/artworks/2023222-green-curve-i",
+        "label": "Buffalo AKG Art Museum primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "buffalo-2023-222",
+    "dimensions_display": null
+  },
+  {
+    "source_id": "north-v4:lacma-33895",
+    "source_record_id": "M.74.142",
+    "title": "Blue on Blue",
+    "year_start": 1963,
+    "year_end": 1963,
+    "date_display": "1963",
+    "medium": "Painted aluminum",
+    "height_cm": 203.2,
+    "width_cm": 152.4,
+    "collection": "Los Angeles County Museum of Art",
+    "accession": "M.74.142",
+    "ek_id": null,
+    "source_url": "https://collections.lacma.org/object/33895",
+    "image_url": "https://collections-images.lacma.org/images/33895/33895-1-primary.webp",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Museum explicitly classifies painted-aluminum Blue on Blue as Paintings; retained as museum-classified painted relief. Depth and shadows omitted in study."
+    ],
+    "sources": [
+      {
+        "url": "https://collections.lacma.org/object/33895",
+        "label": "Los Angeles County Museum of Art primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "lacma-33895",
+    "dimensions_display": "80 x 60 x 7 1/2 in. (203.2 x 152.4 x 19.05 cm)"
+  },
+  {
+    "source_id": "north-v4:dia-50442",
+    "source_record_id": "dia-50442",
+    "title": "Blue Red",
+    "year_start": 1964,
+    "year_end": 1964,
+    "date_display": "1964",
+    "medium": "Oil on canvas",
+    "height_cm": 182.9,
+    "width_cm": 147.3,
+    "collection": "Detroit Institute of Arts",
+    "accession": null,
+    "ek_id": "EK 333",
+    "source_url": "https://dia.org/collection/blue-red/50442",
+    "image_url": "https://dia.widen.net/content/ouxtgcy9j6/webp/75.32-d1-2024-05-17.webp?quality=75",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Current overview says oil and72×58in; verso transcription says#33372½×58in and a historical label says acrylic. Keep these source-level inconsistencies."
+    ],
+    "sources": [
+      {
+        "url": "https://dia.org/collection/blue-red/50442",
+        "label": "Detroit Institute of Arts primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "museum-v2-dia-50442",
+    "dimensions_display": "182.9 x147.3 cm"
+  },
+  {
+    "source_id": "north-v4:dia-50445",
+    "source_record_id": "dia-50445",
+    "title": "Black White",
+    "year_start": 1966,
+    "year_end": 1966,
+    "date_display": "1966",
+    "medium": "Oil on canvas",
+    "height_cm": 223.5,
+    "width_cm": 165.1,
+    "collection": "Detroit Institute of Arts",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://dia.org/collection/black-white/50445",
+    "image_url": "https://dia.widen.net/content/umnqk2kfqb/webp/67.13-d1-2024-05-17.webp?quality=75",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://dia.org/collection/black-white/50445",
+        "label": "Detroit Institute of Arts primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "museum-v2-dia-50445",
+    "dimensions_display": "223.5 x165.1 cm"
+  },
+  {
+    "source_id": "north-v4:mfah-60998",
+    "source_record_id": "2024.302",
+    "title": "Blue Red",
+    "year_start": 1965,
+    "year_end": 1965,
+    "date_display": "1965",
+    "medium": "Oil on canvas",
+    "height_cm": 172.1,
+    "width_cm": 388.9,
+    "collection": "Museum of Fine Arts, Houston",
+    "accession": "2024.302",
+    "ek_id": "EK 338",
+    "source_url": "https://emuseum.mfah.org/objects/60998/blue-red",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Museum purchase2024; stale exhibition field still says long-term loan2003-present. Current acquisition/provenance field takes precedence. Verso explicitly names painting#338."
+    ],
+    "sources": [
+      {
+        "url": "https://emuseum.mfah.org/objects/60998/blue-red",
+        "label": "Museum of Fine Arts, Houston primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "museum-v2-mfah-60998",
+    "dimensions_display": "172.1 × 388.9 cm"
+  },
+  {
+    "source_id": "north-v4:mfah-12441",
+    "source_record_id": "89.11",
+    "title": "Green Black",
+    "year_start": 1988,
+    "year_end": 1988,
+    "date_display": "1988",
+    "medium": "Oil on canvas",
+    "height_cm": 243.8,
+    "width_cm": 335.3,
+    "collection": "Museum of Fine Arts, Houston",
+    "accession": "89.11",
+    "ek_id": "EK 775",
+    "source_url": "https://emuseum.mfah.org/objects/12441/green-black",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Verso signature explicitly EK#775; museum current purchase1989. Image retrieval/browser blocked by security verification; no new study."
+    ],
+    "sources": [
+      {
+        "url": "https://emuseum.mfah.org/objects/12441/green-black",
+        "label": "Museum of Fine Arts, Houston primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "museum-v2-mfah-12441",
+    "dimensions_display": "243.8 × 335.3 cm"
+  },
+  {
+    "source_id": "north-v4:slam-spectrum",
+    "source_record_id": "4:1967a-m",
+    "title": "Spectrum II",
+    "year_start": 1966,
+    "year_end": 1967,
+    "date_display": "1966–1967",
+    "medium": "Oil on canvas",
+    "height_cm": 203.2,
+    "width_cm": 693.4,
+    "collection": "Saint Louis Art Museum",
+    "accession": "4:1967a-m",
+    "ek_id": null,
+    "source_url": "https://www.slam.org/collection/objects/5746/",
+    "image_url": "https://www.slam.org/wp-content/uploads/piction/image-cache/7113.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.slam.org/collection/objects/5746/",
+        "label": "Saint Louis Art Museum primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "museum-v2-slam-5746",
+    "dimensions_display": "203.2 x693.4 cm"
+  },
+  {
+    "source_id": "north-v4:lacma-33211",
+    "source_record_id": "M.73.76",
+    "title": "Blue Curve III",
+    "year_start": 1972,
+    "year_end": 1972,
+    "date_display": "1972",
+    "medium": "Oil on canvas",
+    "height_cm": 172.24,
+    "width_cm": 422.91,
+    "collection": "Los Angeles County Museum of Art",
+    "accession": "M.73.76",
+    "ek_id": null,
+    "source_url": "https://collections.lacma.org/object/33211",
+    "image_url": "https://collections-images.lacma.org/images/33211/33211-1-primary.webp",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Painted white upper area is part of the shaped canvas, not transparent wall."
+    ],
+    "sources": [
+      {
+        "url": "https://collections.lacma.org/object/33211",
+        "label": "Los Angeles County Museum of Art primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "gap-blue-curve-iii-undated",
+    "dimensions_display": "67 13/16 ×166½in (172.24×422.91cm)"
+  },
+  {
+    "source_id": "north-v4:carnegie-greenorange",
+    "source_record_id": "2002.32.3",
+    "title": "Two Panels: Green Orange",
+    "year_start": 1970,
+    "year_end": 1970,
+    "date_display": "1970",
+    "medium": "oil on canvas",
+    "height_cm": 177.8,
+    "width_cm": 272.415,
+    "collection": "Carnegie Museum of Art",
+    "accession": "2002.32.3",
+    "ek_id": null,
+    "source_url": "https://collection.carnegieart.org/objects/188e525f-c11a-4a63-b255-7dafd6338eaf",
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/thing/119271/362.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Current public artist subset has8objects,2paintings; collection warns its search data is under revision. Partial gift of Charles H. Carpenter, Jr. and partial purchase from The Henry L. Hillman Fund"
+    ],
+    "sources": [
+      {
+        "url": "https://collection.carnegieart.org/objects/188e525f-c11a-4a63-b255-7dafd6338eaf",
+        "label": "Carnegie Museum of Art primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "dimensions_display": "[{'type': 'overall', 'decimal': {'width': '107.250', 'height': '70.000', 'depth': '1.250'}, 'fraction': {'width': '107 1/4', 'height': '70', 'depth': '1 1/4'}}]",
+    "credit_line": "Partial gift of Charles H. Carpenter, Jr. and partial purchase from The Henry L. Hillman Fund"
+  },
+  {
+    "source_id": "north-v4:carnegie-aubade",
+    "source_record_id": "58.70",
+    "title": "Aubade",
+    "year_start": 1957,
+    "year_end": 1957,
+    "date_display": "1957",
+    "medium": "oil on canvas",
+    "height_cm": 203.2,
+    "width_cm": 203.2,
+    "collection": "Carnegie Museum of Art",
+    "accession": "58.70",
+    "ek_id": null,
+    "source_url": "https://collection.carnegieart.org/objects/34bc4285-1106-46cd-b6b7-8346c4cde531",
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/thing/193846/1010911.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Current public artist subset has8objects,2paintings; collection warns its search data is under revision. Richard Mace Feldman Memorial Fund"
+    ],
+    "sources": [
+      {
+        "url": "https://collection.carnegieart.org/objects/34bc4285-1106-46cd-b6b7-8346c4cde531",
+        "label": "Carnegie Museum of Art primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "gap-aubade-1957",
+    "dimensions_display": "[{'type': 'overall', 'decimal': {'width': '80.000', 'height': '80.000', 'depth': '1.250'}, 'fraction': {'width': '80', 'height': '80', 'depth': '1 1/4'}}]",
+    "credit_line": "Richard Mace Feldman Memorial Fund"
+  },
+  {
+    "source_id": "north-v4:anderson-blackripe",
+    "source_record_id": "2014.1.048",
+    "title": "Black Ripe",
+    "year_start": 1955,
+    "year_end": 1955,
+    "date_display": "1955",
+    "medium": "oil on canvas",
+    "height_cm": 160.655,
+    "width_cm": 150.8125,
+    "collection": "Anderson Collection at Stanford University",
+    "accession": "2014.1.048",
+    "ek_id": "EK 90",
+    "source_url": "https://anderson.stanford.edu/collection/black-ripe-by-ellsworth-kelly/",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Gift of Harry W. and Mary Margaret Anderson, and Mary Patricia Anderson Pence. Verso1955 90. Ordinary browser page visually inspected; its photo was not downloaded because the page forbids image downloading. Existing good Foundation study retained."
+    ],
+    "sources": [
+      {
+        "url": "https://anderson.stanford.edu/collection/black-ripe-by-ellsworth-kelly/",
+        "label": "Anderson Collection at Stanford University primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "ek-90",
+    "dimensions_display": "63 3/16×59⅜in"
+  },
+  {
+    "source_id": "north-v4:ago-whiteblue",
+    "source_record_id": "62/63",
+    "title": "White Blue",
+    "year_start": 1960,
+    "year_end": 1960,
+    "date_display": "1960",
+    "medium": "Oil on canvas",
+    "height_cm": 215.9,
+    "width_cm": 172.7,
+    "collection": "Art Gallery of Ontario",
+    "accession": "62/63",
+    "ek_id": null,
+    "source_url": "https://ago.ca/events/ellsworth-kelly-curators-talk",
+    "image_url": "https://ago.ca/sites/default/files/styles/max_800x800/public/2024-10/AGO.51671.a01-1200px-72dpi.jpg?itok=_rYzc2HF",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Gift from the Women’s Committee Fund,1963. Accession62/63 is also printed on official museum shop reproduction caption."
+    ],
+    "sources": [
+      {
+        "url": "https://ago.ca/events/ellsworth-kelly-curators-talk",
+        "label": "Art Gallery of Ontario primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "dimensions_display": "Overall215.9×172.7cm"
+  },
+  {
+    "source_id": "north-v4:desmoines-yellowblue",
+    "source_record_id": "1971.17",
+    "title": "Yellow Blue",
+    "year_start": 1963,
+    "year_end": 1963,
+    "date_display": "1963",
+    "medium": "Oil on canvas",
+    "height_cm": 228.6,
+    "width_cm": 165.1,
+    "collection": "Des Moines Art Center",
+    "accession": "1971.17",
+    "ek_id": null,
+    "source_url": "https://desmoinesartcenter.org/news/ellsworth-kelly-foundation-gift/",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Purchased with funds from the Coffin Fine Arts Trust; Nathan Emory Coffin Collection. Dimensions90×65in verified in public eMuseum BasicDetailReport (object39779). Exact painting reproduced in2025 museum gallery guide PDF3/printed4."
+    ],
+    "sources": [
+      {
+        "url": "https://desmoinesartcenter.org/news/ellsworth-kelly-foundation-gift/",
+        "label": "Museum2023collection statement"
+      },
+      {
+        "url": "https://emuseum.desmoinesartcenter.org/objects/39779/yellow-blue",
+        "label": "Museum object39779 / indexed Basic Detail Report"
+      },
+      {
+        "url": "https://desmoinesartcenter.org/wp-content/uploads/2025/04/iowa-artists-2025-gallery-guide_Ben-MILLETT.pdf",
+        "label": "Museum2025gallery guide",
+        "pdf_page": 3,
+        "book_page": 4
+      }
+    ],
+    "dimensions_display": "Canvas(/image):90×65in (228.6×165.1cm)"
+  },
+  {
+    "source_id": "north-v4:addison-green-red-orange",
+    "source_record_id": "1991.39",
+    "title": "Green Red-Orange",
+    "year_start": 1974,
+    "year_end": 1974,
+    "date_display": "1974",
+    "medium": "Oil on canvas (two joined panels)",
+    "height_cm": 106.68,
+    "width_cm": 391.16,
+    "collection": "Addison Gallery of American Art, Phillips Academy",
+    "accession": "1991.39",
+    "ek_id": null,
+    "source_url": "https://addison.andover.edu/wp-content/uploads/Image-Highlights_Playing-to-Our-Strengths.pdf",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Gift of Frank Stella(PA1954), AddisonArtDrive. Museum illustrated checklist PDF4;42×154in."
+    ],
+    "sources": [
+      {
+        "url": "https://addison.andover.edu/wp-content/uploads/Image-Highlights_Playing-to-Our-Strengths.pdf",
+        "label": "Addison Gallery of American Art, Phillips Academy primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "dimensions_display": "42×154in"
+  },
+  {
+    "source_id": "north-v4:wadsworth-maya",
+    "source_record_id": "1992.11",
+    "title": "Red Orange (Maya)",
+    "year_start": 1959,
+    "year_end": 1959,
+    "date_display": "1959",
+    "medium": "Oil on canvas",
+    "height_cm": 109.22,
+    "width_cm": 48.26,
+    "collection": "Wadsworth Atheneum Museum of Art",
+    "accession": "1992.11",
+    "ek_id": null,
+    "source_url": "https://www.thewadsworth.org/wp-content/uploads/2014/01/post-war_contemporary_checklist.pdf",
+    "image_url": "https://dwty444dk0mlr.cloudfront.net/s3fs-public/uploads/Figure-10.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Gift of Susan Morse Hilles. Museum checklist printed3 says43×19in. Curator-authored2016 Incollect article says43×18½in; retain width disagreement rather than silently reconcile. No study before defensible visual reference.",
+      "Actual Fig.10 photograph in museum chief curator’s article visually inspected; SVG now available. Rounded red forms are approximate, not inferred from the loose textual description of circles."
+    ],
+    "sources": [
+      {
+        "url": "https://www.thewadsworth.org/wp-content/uploads/2014/01/post-war_contemporary_checklist.pdf",
+        "label": "Wadsworth Atheneum Museum of Art primary record / publication",
+        "accessed": "2026-10-27"
+      },
+      {
+        "url": "https://www.incollect.com/articles/the-winter-antiques-show-loan-exhibition-legacy-for-the-future-the-wadsworth-atheneum-museum-of-art",
+        "label": "Museum chief curator Robin Jaffee Frank, illustrated Fig.10, 2016"
+      }
+    ],
+    "dimensions_display": "43×19in (museum checklist)"
+  },
+  {
+    "source_id": "north-v4:yale-charter",
+    "source_record_id": "1966.143",
+    "title": "Charter",
+    "year_start": 1959,
+    "year_end": 1959,
+    "date_display": "1959",
+    "medium": "Oil on canvas",
+    "height_cm": null,
+    "width_cm": null,
+    "collection": "Yale University Art Gallery",
+    "accession": "1966.143",
+    "ek_id": null,
+    "source_url": "https://artgallery.yale.edu/sites/default/files/publication/pdfs/ag-doc-2106-0001-doc.pdf",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Primary museum Then and Now publication printed39 identifies date,medium and gift of Helen W. Benjamin in memory of Robert M. Benjamin. Current object URL/measurements/image blocked/unresolved; no secondary dimensions promoted."
+    ],
+    "sources": [
+      {
+        "url": "https://artgallery.yale.edu/sites/default/files/publication/pdfs/ag-doc-2106-0001-doc.pdf",
+        "label": "Yale University Art Gallery primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "north-v4:baltimore-green-red-yellow-blue",
+    "source_record_id": "2019.84",
+    "title": "Green Red Yellow Blue",
+    "year_start": 1966,
+    "year_end": 1966,
+    "date_display": "1966",
+    "medium": "Acrylic on canvas, four panels",
+    "height_cm": 134.6,
+    "width_cm": 271.8,
+    "collection": "The Baltimore Museum of Art",
+    "accession": "2019.84",
+    "ek_id": null,
+    "source_url": "https://artbma.org/artwork/green-red-yellow-blue/",
+    "image_url": "https://artbma.org/wp-content/uploads/resized/2026/06/53153_26259073-3000x0-c-default.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Current museum object2019.84 dates1966 and supplies each-panel and overall dimensions. Credit: In Memory of Suzanne F. Cohen and Nathan L. Cohen, by way of promised gift of Suzanne F. Cohen and bequest from her estate. Source’s typo Suaznne retained in saved raw evidence. DEFINITELY DISTINCT from FoundationEK351 dated1965: that painting is76 ×255in, while this is53 ×107in. Exact artist23-object index enumerated; three oil/acrylic canvas paintings found. Published each-panel height52½in differs from overall53in; both retained, display uses reported overall extent."
+    ],
+    "sources": [
+      {
+        "url": "https://artbma.org/artwork/green-red-yellow-blue/",
+        "label": "Current primary object2019.84; exact artist1529 index"
+      },
+      {
+        "url": "https://artbma.org/wp-content/uploads/2026/03/BMA_Annual-Report_FY19-1.pdf",
+        "label": "The Baltimore Museum of Art primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "panel_height_cm": 133.4,
+    "panel_width_cm": 57.2,
+    "panel_count": 4,
+    "dimensions_display": "Each: 52½ × 22½ × 1⅛in (133.4 × 57.2cm); overall53 ×107in (134.6 ×271.8cm)"
+  },
+  {
+    "source_id": "north-v4:vmfa-four-panels",
+    "source_record_id": "vmfa-four-panels",
+    "title": "Green Black Red Blue",
+    "year_start": 1966,
+    "year_end": 1966,
+    "date_display": "1966",
+    "medium": "Acrylic paint on canvas, four panels",
+    "height_cm": 132.7,
+    "width_cm": null,
+    "collection": "Virginia Museum of Fine Arts, Richmond",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://www.sfmoma.org/essay/how-to-install-an-ellsworth-kelly-artwork-blue-green-black-red-1996-as-a-case-study/",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "SFMOMA conservation essay figure3 supplies exact title/date/medium, four panels EACH52¼×22 9/16in (132.7×57.3cm), gift of Sydney and FrancesLewis. Approximate observed gap is shown in study; no verified overall width."
+    ],
+    "sources": [
+      {
+        "url": "https://www.sfmoma.org/essay/how-to-install-an-ellsworth-kelly-artwork-blue-green-black-red-1996-as-a-case-study/",
+        "label": "Virginia Museum of Fine Arts, Richmond primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "panel_height_cm": 132.7,
+    "panel_width_cm": 57.3,
+    "panel_count": 4,
+    "true_scale_eligible": false,
+    "true_scale_note": "Only per-panel dimensions verified; installation width varies.",
+    "dimensions_display": "Each52¼×22 9/16in (132.7×57.3cm)"
+  },
+  {
+    "source_id": "north-v4:milwaukee-red-yellow-blue-ii",
+    "source_record_id": "M1977.113a-c",
+    "title": "Red, Yellow, Blue II",
+    "year_start": 1965,
+    "year_end": 1965,
+    "date_display": "1965",
+    "medium": "Acrylic on canvas",
+    "height_cm": null,
+    "width_cm": null,
+    "collection": "Milwaukee Art Museum",
+    "accession": "M1977.113a-c",
+    "ek_id": "EK 350",
+    "source_url": "https://blog.mam.org/2019/05/14/mam-in-full-color/",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Gift of Mrs.HarryLyndeBradley. Actual primary image shows three separate rectangular panels. Overall and individual dimensions not verified in primary record; study is comparable-size only.",
+      "Foundation work EK350 explicitly gives the same Milwaukee collection/gift, title and date; this is an enrichment of EK350, not a new painting. Existing good Foundation study and its sourced overall measurements are retained."
+    ],
+    "sources": [
+      {
+        "url": "https://blog.mam.org/2019/05/14/mam-in-full-color/",
+        "label": "Milwaukee Art Museum primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "true_scale_eligible": false,
+    "true_scale_note": "Primary physical measurements not yet verified.",
+    "verified_identity_of": "ek-350"
+  },
+  {
+    "source_id": "north-v4:slam-purple-panel",
+    "source_record_id": "2021.611",
+    "title": "Purple Panel",
+    "year_start": 1988,
+    "year_end": 1988,
+    "date_display": "1988",
+    "medium": "Oil on canvas",
+    "height_cm": 280.67,
+    "width_cm": 280.67,
+    "collection": "Saint Louis Art Museum — promised gift, Collection of Emily Rauh Pulitzer and Joseph Pulitzer Jr.",
+    "accession": "2021.611",
+    "ek_id": null,
+    "source_url": "https://www.slam.org/blog/ellsworth-kelly-was-a-diligent-student-of-nature/",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Primary2025 museum caption:110½×110½in; promised gift status retained. Museum describes three subtly inward-curving sides. Image not yet defensibly inspected; no invented study."
+    ],
+    "sources": [
+      {
+        "url": "https://www.slam.org/blog/ellsworth-kelly-was-a-diligent-student-of-nature/",
+        "label": "Saint Louis Art Museum — promised gift, Collection of Emily Rauh Pulitzer and Joseph Pulitzer Jr. primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "dimensions_display": "110½×110½in"
+  },
+  {
+    "source_id": "north-v4:philadelphia-cutout",
+    "source_record_id": "philadelphia-cutout",
+    "title": "Cutout in Wood",
+    "year_start": 1950,
+    "year_end": 1950,
+    "date_display": "1950",
+    "medium": "Gesso on wood",
+    "height_cm": null,
+    "width_cm": null,
+    "collection": "Philadelphia Museum of Art — promised gift of Keith L. and Katherine Sachs",
+    "accession": null,
+    "ek_id": "EK 12",
+    "source_url": "https://press.philamuseum.org/embracing-the-contemporary-the-keith-l-and-katherine-sachs-collection/",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "2016 primary exhibition caption, promised gift rather than completed ownership. Foundation EK12 has the same title/date/material and exact promised-gift Sachs credit; existing Foundation study retained."
+    ],
+    "sources": [
+      {
+        "url": "https://press.philamuseum.org/embracing-the-contemporary-the-keith-l-and-katherine-sachs-collection/",
+        "label": "Philadelphia Museum of Art — promised gift of Keith L. and Katherine Sachs primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "ek-12"
+  },
+  {
+    "source_id": "north-v4:philadelphia-black-red-orange",
+    "source_record_id": "philadelphia-black-red-orange",
+    "title": "Black Red Orange",
+    "year_start": 1966,
+    "year_end": 1966,
+    "date_display": "1966",
+    "medium": "Oil on canvas, two joined panels",
+    "height_cm": null,
+    "width_cm": null,
+    "collection": "Philadelphia Museum of Art — promised gift of Keith L. and Katherine Sachs",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://press.philamuseum.org/embracing-the-contemporary-the-keith-l-and-katherine-sachs-collection/",
+    "image_url": "https://content.presspage.com/uploads/1935/800_sachscollectionimage3-kelly.jpg?10000",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "2016 primary exhibition caption.2013 Homage exhibition called it Black Red-Orange and a private loan. Metadata does not establish completed museum ownership. Actual press photo viewed; dimensions pending."
+    ],
+    "sources": [
+      {
+        "url": "https://press.philamuseum.org/embracing-the-contemporary-the-keith-l-and-katherine-sachs-collection/",
+        "label": "Philadelphia Museum of Art — promised gift of Keith L. and Katherine Sachs primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "true_scale_eligible": false,
+    "true_scale_note": "Physical measurements not yet verified in primary source."
+  },
+  {
+    "source_id": "north-v4:philadelphia-seaweed",
+    "source_record_id": "philadelphia-seaweed",
+    "title": "Seaweed",
+    "year_start": 1949,
+    "year_end": 1949,
+    "date_display": "1949",
+    "medium": null,
+    "height_cm": null,
+    "width_cm": null,
+    "collection": "Philadelphia Museum of Art — offered gift reported2023",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://press.philamuseum.org/museum-receives-major-gift-of-eighteen-drawings-an-early-painting-and-a-steel-sculpture-by-ellsworth-kelly/",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Museum identifies the PAINTING Seaweed1949, separately from graphite StudyforSeaweed1949. Paint support, dimensions, accession and precise current gift completion remain unknown. Do not confuse the drawing with the painting."
+    ],
+    "sources": [
+      {
+        "url": "https://press.philamuseum.org/museum-receives-major-gift-of-eighteen-drawings-an-early-painting-and-a-steel-sculpture-by-ellsworth-kelly/",
+        "label": "Philadelphia Museum of Art — offered gift reported2023 primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "north-v4:blanton-high-yellow",
+    "source_record_id": "blanton-high-yellow",
+    "title": "High Yellow",
+    "year_start": 1960,
+    "year_end": 1960,
+    "date_display": "1960",
+    "medium": "Oil on canvas",
+    "height_cm": 204.62875,
+    "width_cm": 146.84375,
+    "collection": "Blanton Museum of Art, The University of Texas at Austin",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://blantonmuseum.org/wp-content/uploads/2021/10/Blanton-SEL-FindingJoy-Journal-10.2.pdf",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Official museum educational guide printed26:80 9/16×57 13/16in; Gift of Mari and JamesA.Michener,1991. Primary PDF currently500 on direct retrieval; indexed caption preserved; no geometry invented."
+    ],
+    "sources": [
+      {
+        "url": "https://blantonmuseum.org/wp-content/uploads/2021/10/Blanton-SEL-FindingJoy-Journal-10.2.pdf",
+        "label": "Blanton Museum of Art, The University of Texas at Austin primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "dimensions_display": "80 9/16×57 13/16in"
+  },
+  {
+    "source_id": "north-v4:blanton-red-relief-white",
+    "source_record_id": "blanton-red-relief-white",
+    "title": "Red Relief with White",
+    "year_start": 2007,
+    "year_end": 2007,
+    "date_display": "2007",
+    "medium": "Oil on canvas",
+    "height_cm": null,
+    "width_cm": null,
+    "collection": "Blanton Museum of Art — promised gift of David Booth reported2015",
+    "accession": null,
+    "ek_id": "EK 961",
+    "source_url": "https://old.blantonmuseum.org/wp-content/uploads/2021/09/KellyReleaseFINAL.pdf",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Museum2015 release names promised painting RedReliefwithWhite2007. Same distinctive title/year as FoundationEK961; no assertion gift since completed. Existing Foundation study retained."
+    ],
+    "sources": [
+      {
+        "url": "https://old.blantonmuseum.org/wp-content/uploads/2021/09/KellyReleaseFINAL.pdf",
+        "label": "Blanton Museum of Art — promised gift of David Booth reported2015 primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "ek-961"
+  },
+  {
+    "source_id": "north-v4:guggenheim-2075",
+    "source_record_id": "96.4512",
+    "title": "Dark Blue Curve",
+    "year_start": 1995,
+    "year_end": 1995,
+    "date_display": "1995",
+    "medium": "Oil on canvas",
+    "height_cm": 116.8,
+    "width_cm": 482.6,
+    "collection": "Solomon R. Guggenheim Museum, New York",
+    "accession": "96.4512",
+    "ek_id": null,
+    "source_url": "https://www.guggenheim.org/artwork/2075",
+    "image_url": "https://www.guggenheim.org/wp-content/uploads/1995/01/96.4512_ph_web-1-1024x661.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Exact public artist index contains eight objects, three paintings. All three painting reference photographs visually inspected. Other five records are graphite drawings or sculpture. "
+    ],
+    "sources": [
+      {
+        "url": "https://www.guggenheim.org/artwork/2075",
+        "label": "Solomon R. Guggenheim Museum, New York primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "north-v4:guggenheim-2066",
+    "source_record_id": "96.4511",
+    "title": "Orange Red Relief",
+    "year_start": 1959,
+    "year_end": 1959,
+    "date_display": "1959",
+    "medium": "Oil on canvas, two joined panels",
+    "height_cm": 152.4,
+    "width_cm": 152.4,
+    "collection": "Solomon R. Guggenheim Museum, New York",
+    "accession": "96.4511",
+    "ek_id": null,
+    "source_url": "https://www.guggenheim.org/artwork/2066",
+    "image_url": "https://www.guggenheim.org/wp-content/uploads/1959/01/96.4511_ph_web-1-1024x1024.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Exact public artist index contains eight objects, three paintings. All three painting reference photographs visually inspected. Other five records are graphite drawings or sculpture. Gift of the artist, 1996."
+    ],
+    "sources": [
+      {
+        "url": "https://www.guggenheim.org/artwork/2066",
+        "label": "Solomon R. Guggenheim Museum, New York primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "moma1973-pdf66-caption1"
+  },
+  {
+    "source_id": "north-v4:guggenheim-2070",
+    "source_record_id": "67.1833",
+    "title": "Blue Green Yellow Orange Red",
+    "year_start": 1966,
+    "year_end": 1966,
+    "date_display": "1966",
+    "medium": "Oil on canvas, five panels",
+    "height_cm": 152.4,
+    "width_cm": 609.6,
+    "collection": "Solomon R. Guggenheim Museum, New York",
+    "accession": "67.1833",
+    "ek_id": null,
+    "source_url": "https://www.guggenheim.org/artwork/2070",
+    "image_url": "https://www.guggenheim.org/wp-content/uploads/1966/01/67.1833_ph_web-1-1024x250.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Exact public artist index contains eight objects, three paintings. All three painting reference photographs visually inspected. Other five records are graphite drawings or sculpture. "
+    ],
+    "sources": [
+      {
+        "url": "https://www.guggenheim.org/artwork/2070",
+        "label": "Solomon R. Guggenheim Museum, New York primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "ek-360"
+  },
+  {
+    "source_id": "north-v4:mcasd-3812",
+    "source_record_id": "1978.3",
+    "title": "Red Blue Green",
+    "year_start": 1963,
+    "year_end": 1963,
+    "date_display": "1963",
+    "medium": "Oil on canvas",
+    "height_cm": 212.4,
+    "width_cm": 345.1,
+    "collection": "Museum of Contemporary Art San Diego",
+    "accession": "1978.3",
+    "ek_id": "EK 316",
+    "source_url": "https://collection.mcasd.org/objects/3812/red-blue-green",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Gift of Dr. and Mrs. Jack M. Farris. Exact artist57 public index exhausted: five objects, one painting, three lithographs and one photograph. Keyword search nine hits includes other creators. Museum separately reports framed dimensions; these measurements describe canvas. Existing Foundation study retained."
+    ],
+    "sources": [
+      {
+        "url": "https://collection.mcasd.org/objects/3812/red-blue-green",
+        "label": "Museum of Contemporary Art San Diego primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "ek-316",
+    "dimensions_display": "83 5/8 × 135 7/8 in. (212.4 × 345.1 cm); framed: 84 1/2 × 136 1/2 × 1 1/2 in."
+  },
+  {
+    "source_id": "north-v4:cincinnati-5721",
+    "source_record_id": "1996.446",
+    "title": "Black Diamond with White",
+    "year_start": 1982,
+    "year_end": 1982,
+    "date_display": "1982",
+    "medium": "Oil on canvas, two joined panels",
+    "height_cm": 276.2,
+    "width_cm": 367,
+    "collection": "Cincinnati Art Museum",
+    "accession": "1996.446",
+    "ek_id": null,
+    "source_url": "https://collection.cincinnatiartmuseum.org/objects/5721/black-diamond-with-white",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Gift of PNC Bank, by exchange. Exact artist16018 index exhausted: eight objects, two paintings, five prints and one ink drawing. Public object explicitly says Image Not Available, so no geometry invented."
+    ],
+    "sources": [
+      {
+        "url": "https://collection.cincinnatiartmuseum.org/objects/5721/black-diamond-with-white",
+        "label": "Cincinnati Art Museum primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "dimensions_display": "108 3/4 × 144 1/2 in. (276.2 × 367 cm)"
+  },
+  {
+    "source_id": "north-v4:cincinnati-5722",
+    "source_record_id": "1996.447",
+    "title": "Green Panel with Orange Curve",
+    "year_start": 1989,
+    "year_end": 1989,
+    "date_display": "1989",
+    "medium": "Oil on canvas, two joined panels",
+    "height_cm": 250.8,
+    "width_cm": 332.7,
+    "collection": "Cincinnati Art Museum",
+    "accession": "1996.447",
+    "ek_id": null,
+    "source_url": "https://collection.cincinnatiartmuseum.org/objects/5722/green-panel-with-orange-curve",
+    "image_url": "https://collection.cincinnatiartmuseum.org/internal/media/dispatcher/141877/preview",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Gift of PNC Bank, by exchange. Exact artist16018 index exhausted: eight objects, two paintings, five prints and one ink drawing. Ordinary browser object page photograph inspected and screenshot saved; direct photo retrieval403, no challenge bypass."
+    ],
+    "sources": [
+      {
+        "url": "https://collection.cincinnatiartmuseum.org/objects/5722/green-panel-with-orange-curve",
+        "label": "Cincinnati Art Museum primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "cincinnati-1996-447",
+    "dimensions_display": "98 3/4 × 131 in. (250.8 × 332.7 cm)"
+  },
+  {
+    "source_id": "north-v4:dallas-red-panel",
+    "source_record_id": "1985.99",
+    "title": "Red Panel",
+    "year_start": 1980,
+    "year_end": 1980,
+    "date_display": "1980",
+    "medium": "Oil on canvas",
+    "height_cm": null,
+    "width_cm": null,
+    "collection": "Dallas Museum of Art",
+    "accession": "1985.99",
+    "ek_id": null,
+    "source_url": "https://texashistory.unt.edu/ark:/67531/metapth307668/m1/88/",
+    "image_url": "https://blog.dma.org/wp-content/uploads/2015/10/red_panel_elsworth_kelly_10_2015_343.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Museum-published NOW/THEN/AGAIN1989 checklist printed83, digitized by UNT with Dallas Museum of Art credit, establishes title/year/medium/accession and General Acquisitions Fund plus gift from Robert Meltzer by exchange. Museum2015 installation blog independently confirms continuing collection ownership. Original moving/installation photos visually inspected; dimension and orthographic aspect unknown. Not confused with Fort Worth1986 or Foundation1985 Red Panel."
+    ],
+    "sources": [
+      {
+        "url": "https://texashistory.unt.edu/ark:/67531/metapth307668/m1/88/",
+        "label": "Dallas Museum of Art1989publication, printed83"
+      },
+      {
+        "url": "https://blog.dma.org/2015/10/26/red-hot/",
+        "label": "Museum2015installation / continuing collection evidence"
+      }
+    ],
+    "true_scale_eligible": false,
+    "true_scale_note": "Physical dimensions and rectified outline not yet verified."
+  },
+  {
+    "source_id": "north-v4:dallas-kite-i-loan",
+    "source_record_id": "363.1983 (loan record)",
+    "title": "Kite I",
+    "year_start": 1952,
+    "year_end": 1952,
+    "date_display": "1952",
+    "medium": "Oil on canvas",
+    "height_cm": null,
+    "width_cm": null,
+    "collection": "Collection of the artist — Dallas exhibition loan reported1989; current owner unverified",
+    "accession": "363.1983 (loan record)",
+    "ek_id": null,
+    "source_url": "https://texashistory.unt.edu/ark:/67531/metapth307668/m1/88/",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Museum1989checklist printed83 explicitly labels Collection of the artist, not Dallas-owned. Same unique title/year as existing Marks exhibition record; retained as historical loan evidence without asserting current ownership."
+    ],
+    "sources": [
+      {
+        "url": "https://texashistory.unt.edu/ark:/67531/metapth307668/m1/88/",
+        "label": "Collection of the artist — Dallas exhibition loan reported1989; current owner unverified primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "verified_identity_of": "matthewmarks-kite-i-1952-44834"
+  },
+  {
+    "source_id": "north-v4:mfa-white-relief-over-white",
+    "source_record_id": "mfa-white-relief-over-white",
+    "title": "White Relief Over White",
+    "year_start": 2012,
+    "year_end": 2012,
+    "date_display": "2012",
+    "medium": null,
+    "height_cm": null,
+    "width_cm": null,
+    "collection": "Museum of Fine Arts, Boston — promised gift of Richard and Nancy Lubin reported2014",
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://www.mfa.org/news/mr20-weekend",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Primary museum2014release describes a relief painting of two joined panels and explicitly a promised gift. Paint medium, size, accession and completion of gift unreported. Possible identity with Marks2012WhiteReliefOverWhite37119 remains provisional without dimensions or direct photo. Do not assert current completed ownership."
+    ],
+    "sources": [
+      {
+        "url": "https://www.mfa.org/news/mr20-weekend",
+        "label": "Museum of Fine Arts, Boston — promised gift of Richard and Nancy Lubin reported2014 primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "possible_identity_of": "matthewmarks-white-relief-over-white-2012-37119",
+    "panel_count": 2
+  },
+  {
+    "source_id": "north-v4:baltimore-diagonal-curve",
+    "source_record_id": "1979.32",
+    "title": "Diagonal with Curve II",
+    "year_start": 1978,
+    "year_end": 1978,
+    "date_display": "1978",
+    "medium": "Oil on canvas",
+    "height_cm": 242.6,
+    "width_cm": 247.7,
+    "collection": "The Baltimore Museum of Art",
+    "accession": "1979.32",
+    "ek_id": null,
+    "source_url": "https://artbma.org/artwork/diagonal-with-curve-ii/",
+    "image_url": "https://artbma.org/wp-content/uploads/resized/2026/08/38421_12993446-2560x0-c-default.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "Purchase with exchange funds from Gift of Edith Ferry Hooper. Current museum object dates1978, describes a series of seven paintings. Actual primary source photograph visually inspected."
+    ],
+    "sources": [
+      {
+        "url": "https://artbma.org/artwork/diagonal-with-curve-ii/",
+        "label": "The Baltimore Museum of Art primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "dimensions_display": "95½ ×97½in (242.6 ×247.7cm)"
+  },
+  {
+    "source_id": "north-v4:baltimore-two-blacks-white",
+    "source_record_id": "1993.26",
+    "title": "Two Blacks and White",
+    "year_start": 1991,
+    "year_end": 1991,
+    "date_display": "1991",
+    "medium": "Oil on canvas",
+    "height_cm": 236.2,
+    "width_cm": 376.6,
+    "collection": "The Baltimore Museum of Art",
+    "accession": "1993.26",
+    "ek_id": "EK 819CBA (verso)",
+    "source_url": "https://artbma.org/artwork/two-blacks-and-white/",
+    "image_url": null,
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_collection_record",
+    "retrieved_date": "2026-10-27",
+    "notes": [
+      "The Caplan Family Contemporary Art Fund, and Collectors Circle Fund. Purchased1993 from Blum Helman Gallery. Verso: #819CBA-/KELLY/TWO BLACKS AND WHITE/1991/93 ×148¼. Current source explicitly uses NoPhoto placeholder; no reconstruction invented."
+    ],
+    "sources": [
+      {
+        "url": "https://artbma.org/artwork/two-blacks-and-white/",
+        "label": "The Baltimore Museum of Art primary record / publication",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "dimensions_display": "93 ×148¼in (236.2 ×376.6cm)"
+  }
+]

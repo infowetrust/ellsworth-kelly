@@ -1,0 +1,32 @@
+[
+  {
+    "record_id": "international-v4-vanabbe-black-curve-i",
+    "primary_medium": "pencil and lithograph on paper",
+    "primary_url": "https://vanabbemuseum.nl/en/collection-research/collection/black-curve-i",
+    "reason": "Actual recovered primary friends journal 2009 no 4 PDFpage 6 (printedpage 10) illustrates this same squared paper sheet, with the same curved black/white field, broad paper margins and pencil edition/signature below the image. Both actual journal illustration and current museum photo visually compared, not just title/year. Current individual museum record explicitly identifies paper lithograph, inventory 1018, acquired 1985. The friends interview’s colloquial schilderijen wording was insufficient to classify it as canvas painting. This does not remove any separately documented painting of similar title.",
+    "source_ids": [
+      "international-v4:vanabbe-black-curve-i"
+    ],
+    "reference_id": "research/svg-gap-v6/museums/references/vanabbe-journal-p6.png",
+    "evidence_file": "research/svg-gap-v6/museums/references/vanabbe-black.jpg",
+    "comparison_file": "research/svg-gap-v6/museums/vanabbe-scope-comparison.jpg",
+    "journal_url": "https://old-plone.vanabbemuseum.nl/nl/museum/vriendenvereniging/journaals/journaal_2009_nr_4.pdf/@@download/file",
+    "current_inventory": "1018",
+    "reviewed_date": "2026-10-28"
+  },
+  {
+    "record_id": "international-v4-vanabbe-white-curve-i",
+    "primary_medium": "pencil, litho on paper",
+    "primary_url": "https://vanabbemuseum.nl/en/collection-research/collection/white-curve-i",
+    "reason": "Actual recovered primary friends journal 2009 no 4 PDFpage 5 (printedpage 9) illustrates this same squared paper sheet, with the same curved black/white field, broad paper margins and pencil edition/signature below the image. Both actual journal illustration and current museum photo visually compared, not just title/year. Current individual museum record explicitly identifies paper lithograph, inventory 1019, acquired 1985. The friends interview’s colloquial schilderijen wording was insufficient to classify it as canvas painting. This does not remove any separately documented painting of similar title.",
+    "source_ids": [
+      "international-v4:vanabbe-white-curve-i"
+    ],
+    "reference_id": "research/svg-gap-v6/museums/references/vanabbe-journal-p5.png",
+    "evidence_file": "research/svg-gap-v6/museums/references/vanabbe-white.jpg",
+    "comparison_file": "research/svg-gap-v6/museums/vanabbe-scope-comparison.jpg",
+    "journal_url": "https://old-plone.vanabbemuseum.nl/nl/museum/vriendenvereniging/journaals/journaal_2009_nr_4.pdf/@@download/file",
+    "current_inventory": "1019",
+    "reviewed_date": "2026-10-28"
+  }
+]

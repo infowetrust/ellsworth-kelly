@@ -1,0 +1,215 @@
+{
+  "artic-v4-152752": {
+    "path": "assets/studies/v5-root-artic-v4-152752.svg",
+    "colors": [
+      "black"
+    ],
+    "shape_type": "quadrilateral",
+    "reference_url": "https://www.artic.edu/artworks/152752",
+    "reference_id": "research/svg-gap-v5/root/black-panel.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate contours, actual reference visually reviewed",
+    "palette": "standardized vivid screen colors, not calibrated pigments",
+    "notes": "Individual Chicago component actually viewed in the museum public image preview and downloaded through the ordinary browser. Major corner/curve positions transcribed; wall and cast shadow omitted. Overall bounding aspect uses museum dimensions. Individual panels are distinct from the installation group.",
+    "reviewed_date": "2026-10-27"
+  },
+  "artic-v4-152760": {
+    "path": "assets/studies/v5-root-artic-v4-152760.svg",
+    "colors": [
+      "blue"
+    ],
+    "shape_type": "quadrilateral",
+    "reference_url": "https://www.artic.edu/artworks/152760",
+    "reference_id": "research/svg-gap-v5/root/blue-panel.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate contours, actual reference visually reviewed",
+    "palette": "standardized vivid screen colors, not calibrated pigments",
+    "notes": "Individual Chicago component actually viewed in the museum public image preview and downloaded through the ordinary browser. Major corner/curve positions transcribed; wall and cast shadow omitted. Overall bounding aspect uses museum dimensions. Individual panels are distinct from the installation group.",
+    "reviewed_date": "2026-10-27"
+  },
+  "artic-v4-152758": {
+    "path": "assets/studies/v5-root-artic-v4-152758.svg",
+    "colors": [
+      "green"
+    ],
+    "shape_type": "quadrilateral",
+    "reference_url": "https://www.artic.edu/artworks/152758",
+    "reference_id": "research/svg-gap-v5/root/green-panel.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate contours, actual reference visually reviewed",
+    "palette": "standardized vivid screen colors, not calibrated pigments",
+    "notes": "Individual Chicago component actually viewed in the museum public image preview and downloaded through the ordinary browser. Major corner/curve positions transcribed; wall and cast shadow omitted. Overall bounding aspect uses museum dimensions. Individual panels are distinct from the installation group.",
+    "reviewed_date": "2026-10-27"
+  },
+  "artic-v4-152759": {
+    "path": "assets/studies/v5-root-artic-v4-152759.svg",
+    "colors": [
+      "orange"
+    ],
+    "shape_type": "curved quadrilateral",
+    "reference_url": "https://www.artic.edu/artworks/152759",
+    "reference_id": "research/svg-gap-v5/root/orange-panel.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate contours, actual reference visually reviewed",
+    "palette": "standardized vivid screen colors, not calibrated pigments",
+    "notes": "Individual Chicago component actually viewed in the museum public image preview and downloaded through the ordinary browser. Major corner/curve positions transcribed; wall and cast shadow omitted. Overall bounding aspect uses museum dimensions. Individual panels are distinct from the installation group.",
+    "reviewed_date": "2026-10-27"
+  },
+  "artic-v4-152757": {
+    "path": "assets/studies/v5-root-artic-v4-152757.svg",
+    "colors": [
+      "red"
+    ],
+    "shape_type": "quadrilateral",
+    "reference_url": "https://www.artic.edu/artworks/152757",
+    "reference_id": "research/svg-gap-v5/root/red-panel.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate contours, actual reference visually reviewed",
+    "palette": "standardized vivid screen colors, not calibrated pigments",
+    "notes": "Individual Chicago component actually viewed in the museum public image preview and downloaded through the ordinary browser. Major corner/curve positions transcribed; wall and cast shadow omitted. Overall bounding aspect uses museum dimensions. Individual panels are distinct from the installation group.",
+    "reviewed_date": "2026-10-27"
+  },
+  "artic-v4-152761": {
+    "path": "assets/studies/v5-root-artic-v4-152761.svg",
+    "colors": [
+      "yellow"
+    ],
+    "shape_type": "curved quadrilateral",
+    "reference_url": "https://www.artic.edu/artworks/152761",
+    "reference_id": "research/svg-gap-v5/root/yellow-panel.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate contours, actual reference visually reviewed",
+    "palette": "standardized vivid screen colors, not calibrated pigments",
+    "notes": "Individual Chicago component actually viewed in the museum public image preview and downloaded through the ordinary browser. Major corner/curve positions transcribed; wall and cast shadow omitted. Overall bounding aspect uses museum dimensions. Individual panels are distinct from the installation group. Yellow Panel exception: museum reports189.5×212.3cm, but the downloaded installed silhouette is substantially taller than wide (about0.894width/height). Measurement axes/installed orientation remain unresolved; observed shape retained at comparable size only, without stretching it to the reported aspect.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": false,
+    "true_scale_note": "Reported museum dimensions have a substantially different aspect from the actual installed silhouette. Measurement axes/installed orientation unresolved; comparable-size study only."
+  },
+  "artic-v4-57211": {
+    "path": "assets/studies/v5-root-artic-v4-57211.svg",
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.artic.edu/artworks/57211",
+    "reference_id": "research/svg-gap-v5/root/east-river.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate contours, actual reference visually reviewed",
+    "palette": "standardized vivid screen colors, not calibrated pigments",
+    "notes": "Dark blue rectangular field, two opposed open white curving forms, distinct upper and lower boundary contacts. The thin surrounding dark photo border is omitted. Curves simplified; title does not supply geometry.",
+    "reviewed_date": "2026-10-27"
+  },
+  "artic-v4-66184": {
+    "path": "assets/studies/v5-root-artic-v4-66184.svg",
+    "colors": [
+      "white",
+      "black"
+    ],
+    "shape_type": "curved parallelogram",
+    "reference_url": "https://www.artic.edu/artworks/66184",
+    "reference_id": "research/svg-gap-v5/root/white-black-curve.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate contours, actual reference visually reviewed",
+    "palette": "standardized vivid screen colors, not calibrated pigments",
+    "notes": "Shaped parallelogram support with a white curved field and black upper-right wedge. Gray surrounding photo background is wall, not a painted rectangular ground. Painted white is retained.",
+    "reviewed_date": "2026-10-27"
+  },
+  "artic-v4-154131": {
+    "path": "assets/studies/v5-root-artic-v4-154131.svg",
+    "colors": [
+      "white",
+      "black"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.artic.edu/artworks/154131",
+    "reference_id": "research/svg-gap-v5/root/yuri-gagarin.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate contours, actual reference visually reviewed",
+    "palette": "standardized vivid screen colors, not calibrated pigments",
+    "notes": "White canvas with a loose dark closed head-like contour and small almond loop. Thin filled vector outlines simplify brush variation; support retained, texture omitted. This remains a schematic of the observed painting, not a tracing of every brushstroke.",
+    "reviewed_date": "2026-10-27"
+  },
+  "met-489307": {
+    "path": "assets/studies/v5-root-met-489307.svg",
+    "colors": [
+      "blue",
+      "green",
+      "red"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.metmuseum.org/art/collection/search/489307",
+    "reference_id": "research/svg-gap-v5/root/met-blue-green-red-observation.md",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate contours, actual reference visually reviewed",
+    "palette": "standardized vivid screen colors, not calibrated pigments",
+    "notes": "Actual ordinary Met 544×600 public preview inspected in the browser. Green rectangular field; broad blue horizontal curved lens in upper half touches both sides; red band across bottom roughly23.6percent. Thin black external frame omitted. Museum disables enlargement/download; no enlarged or alternate hidden file requested.",
+    "reviewed_date": "2026-10-27"
+  },
+  "ek-458": {
+    "path": "assets/studies/v5-root-ek-458.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "joined rectangles",
+    "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-chatham-series/",
+    "reference_id": "research/svg-gap-v5/root/chatham-56.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate contours, actual reference visually reviewed",
+    "palette": "standardized vivid screen colors, not calibrated pigments",
+    "notes": "Chatham VII identified by Foundation EK458 caption in four-work installation view; center work nearly frontal. Approximate panel ratios, no inferred physical dimensions.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": false,
+    "true_scale_note": "Only normalized study: overall proportions estimated from an installation photograph; physical dimensions remain unknown."
+  },
+  "ek-459": {
+    "path": "assets/studies/v5-root-ek-459.svg",
+    "colors": [
+      "red",
+      "yellow"
+    ],
+    "shape_type": "joined rectangles",
+    "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-chatham-series/",
+    "reference_id": "research/svg-gap-v5/root/chatham-57.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate contours, actual reference visually reviewed",
+    "palette": "standardized vivid screen colors, not calibrated pigments",
+    "notes": "Chatham VIII identified by EK459 caption; red horizontal upper panel and narrow yellow lower-left panel. Approximate view proportions, no inferred physical dimensions.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": false,
+    "true_scale_note": "Only normalized study: overall proportions estimated from an installation photograph; physical dimensions remain unknown."
+  },
+  "ek-464": {
+    "path": "assets/studies/v5-root-ek-464.svg",
+    "colors": [
+      "yellow",
+      "red"
+    ],
+    "shape_type": "joined rectangles",
+    "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-chatham-series/",
+    "reference_id": "research/svg-gap-v5/root/chatham-56.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate contours, actual reference visually reviewed",
+    "palette": "standardized vivid screen colors, not calibrated pigments",
+    "notes": "Chatham XIII identified by EK464 caption and unique yellow/red combination in the view. Internal proportions and overall aspect estimated from oblique installation photograph; normalized-only schematic pending frontal plate.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": false,
+    "true_scale_note": "Only normalized study: overall proportions estimated from an installation photograph; physical dimensions remain unknown."
+  },
+  "53ac12d02874": {
+    "path": "assets/studies/v5-root-53ac12d02874.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "joined rectangles",
+    "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-and-sculptures-1963-1979/",
+    "reference_id": "research/svg-gap-v5/root/chatham-xiv-1979.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate contours, actual reference visually reviewed",
+    "palette": "standardized vivid screen colors, not calibrated pigments",
+    "notes": "Chatham XIV identified by EK465 caption in the 1979 Foundation view: left black/white work, distinct from right Chatham III black/blue. Overall aspect from MoMA2013 printed dimensions; internal panel ratios estimated from oblique historical photo.",
+    "reviewed_date": "2026-10-27"
+  }
+}

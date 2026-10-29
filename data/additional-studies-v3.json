@@ -1,0 +1,220 @@
+{
+  "modern-v3:1781": {
+    "path": "assets/studies/v3-modern-v3-1781.svg",
+    "colors": [
+      "green"
+    ],
+    "shape_type": "concave polygon",
+    "reference_url": "https://collection.themodern.org/objects/1781/dark-green-panel",
+    "reference_id": "research/root-museums-v3/reference-images/modern-1781.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid screen colours, not calibrated paint measurements",
+    "notes": "Six-sided indented support traced by eye from the oblique museum photograph; depth omitted and contour approximate.",
+    "reviewed_date": "2026-10-27"
+  },
+  "modern-v3:1782": {
+    "path": "assets/studies/v3-modern-v3-1782.svg",
+    "colors": [
+      "blue"
+    ],
+    "shape_type": "polygon",
+    "reference_url": "https://collection.themodern.org/objects/1782/dark-blue-panel",
+    "reference_id": "research/root-museums-v3/reference-images/modern-1782.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid screen colours, not calibrated paint measurements",
+    "notes": "Six-sided shaped canvas; photographic perspective is not fully rectified.",
+    "reviewed_date": "2026-10-27"
+  },
+  "modern-v3:1783": {
+    "path": "assets/studies/v3-modern-v3-1783.svg",
+    "colors": [
+      "red"
+    ],
+    "shape_type": "curved triangle",
+    "reference_url": "https://collection.themodern.org/objects/1783/red-panel",
+    "reference_id": "research/root-museums-v3/reference-images/modern-1783.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid screen colours, not calibrated paint measurements",
+    "notes": "Three curved edges preserve the photographed concave/convex character; control points approximate.",
+    "reviewed_date": "2026-10-27"
+  },
+  "modern-v3:1784": {
+    "path": "assets/studies/v3-modern-v3-1784.svg",
+    "colors": [
+      "red",
+      "blue"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://collection.themodern.org/objects/1784/curved-red-on-blue",
+    "reference_id": "research/root-museums-v3/reference-images/modern-1784.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid screen colours, not calibrated paint measurements",
+    "notes": "Organic red curve traced by eye from the actual reference, including cropped top/left/bottom contacts. Fine irregularities simplified.",
+    "reviewed_date": "2026-10-27"
+  },
+  "modern-v3:8497": {
+    "path": "assets/studies/v3-modern-v3-8497.svg",
+    "colors": [
+      "yellow",
+      "green",
+      "blue",
+      "purple",
+      "red",
+      "orange"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://collection.themodern.org/objects/8497/spectrum-iii",
+    "reference_id": "research/root-museums-v3/reference-images/modern-8497.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid screen colours, not calibrated paint measurements",
+    "notes": "Thirteen observed spectrum strips retained in order; screen palette is interpretive.",
+    "reviewed_date": "2026-10-27"
+  },
+  "nelson-v3:22857": {
+    "path": "assets/studies/v3-nelson-v3-22857.svg",
+    "colors": [
+      "white",
+      "black"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://art.nelson-atkins.org/objects/22857/white-black",
+    "reference_id": "research/root-museums-v3/reference-images/nelson-22857.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid screen colours, not calibrated paint measurements",
+    "notes": "White zigzag and lower sweeping edge traced from the exact museum recto image; rectangle boundary preserved.",
+    "reviewed_date": "2026-10-27"
+  },
+  "glenstone-v3:white-red": {
+    "path": "assets/studies/v3-glenstone-v3-white-red.svg",
+    "colors": [
+      "white",
+      "red"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.glenstone.org/artworks/white-red",
+    "reference_id": "research/root-museums-v3/reference-images/glenstone-white-red.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid screen colours, not calibrated paint measurements",
+    "notes": "Observed diagonal white band and its bottom/right contacts retained.",
+    "reviewed_date": "2026-10-27"
+  },
+  "glenstone-v3:black-white": {
+    "path": "assets/studies/v3-glenstone-v3-black-white.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "joined triangles",
+    "reference_url": "https://www.glenstone.org/artworks/black-white",
+    "reference_id": "research/root-museums-v3/reference-images/glenstone-black-white.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid screen colours, not calibrated paint measurements",
+    "notes": "The photograph shows a square split diagonally into black upper-left and white lower-right triangles.",
+    "reviewed_date": "2026-10-27"
+  },
+  "glenstone-v3:black-green": {
+    "path": "assets/studies/v3-glenstone-v3-black-green.svg",
+    "colors": [
+      "black",
+      "green"
+    ],
+    "shape_type": "joined rectangles",
+    "reference_url": "https://www.glenstone.org/artworks/black-green",
+    "reference_id": "research/root-museums-v3/reference-images/glenstone-black-green.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid screen colours, not calibrated paint measurements",
+    "notes": "Unequal black and green panel heights follow the primary photograph.",
+    "reviewed_date": "2026-10-27"
+  },
+  "glenstone-v3:blue-curve": {
+    "path": "assets/studies/v3-glenstone-v3-blue-curve.svg",
+    "colors": [
+      "blue"
+    ],
+    "shape_type": "curved triangle",
+    "reference_url": "https://www.glenstone.org/artworks/blue-curve",
+    "reference_id": "research/root-museums-v3/reference-images/glenstone-blue-curve.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid screen colours, not calibrated paint measurements",
+    "notes": "Shaped blue support reconstructed without the photographed wall, frame-like shadows or plinth.",
+    "reviewed_date": "2026-10-27"
+  },
+  "glenstone-v3:blue-relief-with-black": {
+    "path": "assets/studies/v3-glenstone-v3-blue-relief-with-black.svg",
+    "colors": [
+      "blue",
+      "black"
+    ],
+    "shape_type": "rectangle relief",
+    "reference_url": "https://www.glenstone.org/artworks/blue-relief-with-black",
+    "reference_id": "research/root-museums-v3/reference-images/glenstone-blue-relief-with-black.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid screen colours, not calibrated paint measurements",
+    "notes": "The black backing rectangle is painted support and remains; blue curved overlay and depth are simplified.",
+    "reviewed_date": "2026-10-27"
+  },
+  "glenstone-v3:white-relief-with-black-iii": {
+    "path": "assets/studies/v3-glenstone-v3-white-relief-with-black-iii.svg",
+    "colors": [
+      "white",
+      "black"
+    ],
+    "shape_type": "polygon relief",
+    "reference_url": "https://www.glenstone.org/artworks/white-relief-with-black-iii",
+    "reference_id": "research/root-museums-v3/reference-images/glenstone-white-relief-with-black-iii.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid screen colours, not calibrated paint measurements",
+    "notes": "Overlapping black rectangle and rotated white panel follow the photograph. Thin neutral line is a relief-edge guide, not grey paint.",
+    "reviewed_date": "2026-10-27"
+  },
+  "glenstone-v3:spectrum-ix": {
+    "path": "assets/studies/v3-glenstone-v3-spectrum-ix.svg",
+    "colors": [
+      "yellow",
+      "green",
+      "blue",
+      "purple",
+      "red",
+      "orange"
+    ],
+    "shape_type": "joined rectangles",
+    "reference_url": "https://www.glenstone.org/artworks/spectrum-ix",
+    "reference_id": "research/root-museums-v3/reference-images/glenstone-spectrum-ix.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid screen colours, not calibrated paint measurements",
+    "notes": "Twelve observed monochromatic strips retained in order; vivid palette preserves progression rather than calibrated pigment values.",
+    "reviewed_date": "2026-10-27"
+  },
+  "glenstone-v3:painting-in-three-panels": {
+    "path": "assets/studies/v3-glenstone-v3-painting-in-three-panels.svg",
+    "colors": [
+      "yellow",
+      "red",
+      "blue",
+      "green",
+      "black",
+      "white"
+    ],
+    "shape_type": "separate panels",
+    "reference_url": "https://www.glenstone.org/artworks/painting-in-three-panels",
+    "reference_id": "research/root-museums-v3/reference-images/glenstone-painting-in-three-panels.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid screen colours, not calibrated paint measurements",
+    "notes": "Individual support sizes use the museum’s panel dimensions; left/middle spacing and curve geometry approximate the photographed installation. Overall bounds use the museum’s stated display size.",
+    "reviewed_date": "2026-10-27"
+  }
+}

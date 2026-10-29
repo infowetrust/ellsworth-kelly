@@ -1,0 +1,144 @@
+{
+  "checked_date": "2026-10-26",
+  "full_inventory_accessed": false,
+  "volumes": [
+    {
+      "authority_id": "bois-kelly-v1",
+      "title": "Ellsworth Kelly: Catalogue Raisonné of Paintings, Reliefs, and Sculpture, Volume 1",
+      "author": "Yve-Alain Bois",
+      "publisher": "Cahiers d’Art",
+      "year_start": 1940,
+      "year_end": 1953,
+      "publication_year": 2015,
+      "isbn_13": "9782851171900",
+      "digital_status": "published, minor updates and corrections",
+      "access_status": "public description; catalogue search requires sign-in or registration; full subscription not accessed",
+      "full_inventory_accessed": false,
+      "unauthenticated_work_entries_accessed": false,
+      "subscription": {
+        "initial_price": 300,
+        "annual_maintenance": 30,
+        "currency": "USD",
+        "price_tested_url": "https://www.cahiersdartinstitute.org/checkout/select_catalogues",
+        "price_test_method": "Chrome ordinary checkout catalogue-selection page; no items selected or purchase initiated"
+      },
+      "tested_urls": [
+        {
+          "url": "https://cahiersdartinstitute.org/catalogues/ellsworth-kelly/description?locale=en",
+          "result": "Public introduction, coverage, covers and publication details; no entry checklist"
+        },
+        {
+          "url": "https://cahiersdartinstitute.org/error/not_signed_in?locale=en",
+          "result": "Submitting Search This Catalogue for Seine redirects here; says sign in or register to preview"
+        },
+        {
+          "url": "https://cahiersdartinstitute.org/users/sign_up?class=reg-required&locale=en",
+          "result": "Registration form opens and includes CAPTCHA/terms; no registration submitted; preview scope untested"
+        },
+        {
+          "url": "https://cahiersdartinstitute.org/users/sign_in?locale=en",
+          "result": "Public sign-in form with library/institution login link"
+        },
+        {
+          "url": "https://cahiersdartinstitute.org/subscriptions",
+          "result": "Full-content individual subscription described; institutional subscriptions and selected subscribers listed"
+        },
+        {
+          "url": "https://cahiersdartinstitute.org/authorization-portal",
+          "result": "Web reader follows institutional-login link to subscriptions page; no institutional session authenticated"
+        },
+        {
+          "url": "https://cahiersdart.com/products/ellsworth-kelly-catalogue-raisonne-of-paintings-reliefs-and-sculpture-volume-one-1940-1953-2015",
+          "result": "Public print product metadata and three product images; no full text/checklist"
+        }
+      ]
+    },
+    {
+      "authority_id": "bois-kelly-v2",
+      "title": "Ellsworth Kelly: Catalogue Raisonné of Paintings, Reliefs, and Sculpture, Volume 2",
+      "author": "Yve-Alain Bois",
+      "publisher": "Cahiers d’Art",
+      "year_start": 1954,
+      "year_end": 1958,
+      "publication_year": 2021,
+      "publication_date": "2021-10-26",
+      "isbn_13": "9782851173195",
+      "digital_status": "described as forthcoming by publisher digital platform on check date",
+      "access_status": "public product description and selected photographed interior spreads; no digital volume/work inventory accessed",
+      "full_inventory_accessed": false,
+      "unauthenticated_work_entries_accessed": false,
+      "print_price": {
+        "amount": 395,
+        "currency": "USD",
+        "source_url": "https://www.artbook.com/9782851173195.html",
+        "note": "Distributor advertised price; checkout not performed. Publisher storefront localizes currency/pricing separately."
+      },
+      "tested_urls": [
+        {
+          "url": "https://cahiersdartinstitute.org/catalogues/ellsworth-kelly/description?locale=en",
+          "result": "Explicitly says Volume 2 digital version forthcoming"
+        },
+        {
+          "url": "https://www.artbook.com/9782851173195.html",
+          "result": "Public bibliographic/product details, ISBN/date, cover; no full text or checklist"
+        },
+        {
+          "url": "https://cahiersdart.com/products/ellsworth-kelly-catalogue-raisonne-of-paintings-reliefs-and-sculpture-volume-two-1954-1958-2021",
+          "result": "Public five-image product gallery: three exterior/cover photos and two interior-spread photos. Item 4 opened in Chrome and interior spread visually confirmed; no sequential reader or complete inventory available"
+        }
+      ]
+    }
+  ],
+  "library_routes": [
+    {
+      "url": "https://libguides.nypl.org/az/artifex",
+      "institution": "New York Public Library",
+      "status": "Library description states at-home access with validated card and at-library access, as verified by lead agent. Authentication and Kelly full-content access not tested. This subagent web fetch returned429.",
+      "full_inventory_accessed": false
+    },
+    {
+      "url": "https://libguides.nypl.org/c.php?g=1457356&p=10836729",
+      "institution": "New York Public Library",
+      "format": "print",
+      "call_number": "(C.R.) MCX K297 16-3463",
+      "status": "Primary library guide verified by lead agent lists Bois Kelly catalogue, Paris2015–. Does not establish Volume2 holding or full inventory access.",
+      "full_inventory_accessed": false
+    },
+    {
+      "institution": "San Francisco Public Library",
+      "checked_date": "2026-10-26",
+      "status": "Both known Bois volume ISBNs returned no catalogue results in actual Chrome UI. Title query Ellsworth Kelly catalogue raisonne returned prints catalogue but no Bois painting catalogue. Search results do not prove absolute holdings absence.",
+      "tested_urls": [
+        "https://sfpl.bibliocommons.com/v2/search?query=9782851171900&searchType=smart",
+        "https://sfpl.bibliocommons.com/v2/search?query=9782851173195&searchType=smart"
+      ],
+      "title_search_url": "https://sfpl.bibliocommons.com/v2/search?query=Ellsworth%20Kelly%20catalogue%20raisonne&searchType=smart",
+      "full_inventory_accessed": false,
+      "request_submitted": false
+    },
+    {
+      "institution": "LINK+",
+      "checked_date": "2026-10-26",
+      "status": "Both known Bois volume ISBNs returned no catalogue results in actual Chrome UI. Title query Ellsworth Kelly catalogue raisonne returned prints catalogue but no Bois painting catalogue. Search results do not prove absolute holdings absence.",
+      "tested_urls": [
+        "https://linkencore.iii.com/iii/encore/search/C__S9782851171900?lang=eng",
+        "https://linkencore.iii.com/iii/encore/search/C__S9782851173195?lang=eng"
+      ],
+      "title_search_url": "https://linkencore.iii.com/iii/encore/search/C__SEllsworth%20Kelly%20catalogue%20raisonne?lang=eng",
+      "full_inventory_accessed": false,
+      "request_submitted": false
+    },
+    {
+      "institution": "San Francisco Public Library",
+      "format": "interlibrary loan",
+      "url": "https://sfpl.libanswers.com/faq/97320",
+      "status": "Lead agent verified current 2026-04-08 FAQ: printed books from North America may be requested when unavailable in SFPL/LINK+, expected 4–6 weeks. Eligibility/lending for these volumes untested; no request submitted.",
+      "full_inventory_accessed": false
+    }
+  ],
+  "limits": [
+    "No purchase, account registration, CAPTCHA response, or authenticated access performed.",
+    "Registration preview scope is unknown; do not describe it as full or free access.",
+    "Publisher digital edition access does not itself establish permission for bulk transcription or republication."
+  ]
+}

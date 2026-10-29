@@ -1,0 +1,113 @@
+[
+  {
+    "source_id": "freeman:PF0405",
+    "source_record_id": "PF0405",
+    "title": "Red Blue Yellow",
+    "year_start": 1963,
+    "year_end": 1963,
+    "date_display": "1963",
+    "medium": "Oil on canvas",
+    "height_cm": 20.3,
+    "width_cm": 25.4,
+    "depth_cm": null,
+    "dimensions_display": "8 ×10inches (20.3 ×25.4cm)",
+    "collection": "Unknown; documented in a 2005 gallery exhibition",
+    "collection_as_of": "2005",
+    "collection_status": "gallery_exhibition_documentation",
+    "historical_source": true,
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://www.peterfreemaninc.com/exhibitions/ellsworth-kelly/selected-works?view=multiple-sliders",
+    "image_url": "https://static-assets.artlogic.net/w_719,h_431,c_limit/exhibit-e/5b858d056aa72c55196fc2df/001429b66d7a95d2f58218b62c30c93a.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_gallery_exhibition_caption_and_photo",
+    "retrieved_date": "2026-10-27",
+    "reference_id": "research/svg-gap-v5/market/freeman-red-blue-yellow.jpg",
+    "notes": [
+      "Primary Peter Freeman, Small Paintings, 1955–63 exhibition, 3 February–23 April 2005. Title, year, medium and dimensions transcribed from visible artwork caption; actual color photograph inspected. Gallery documentation does not establish current ownership.",
+      "Small Sumac Study (1959) is a different physical painting from the 188 × 160 cm Sumac (1959); Blue Green Red, EK303, 30.5 × 40.6 cm, is different from the large Met 1963 painting."
+    ],
+    "sources": [
+      {
+        "url": "https://www.peterfreemaninc.com/exhibitions/ellsworth-kelly/selected-works?view=multiple-sliders",
+        "label": "Peter Freeman, Inc., Ellsworth Kelly: Small Paintings, 1955–63 (2005), PF0405",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "freeman:PF0900",
+    "source_record_id": "PF0900",
+    "title": "Blue Green Red",
+    "year_start": 1963,
+    "year_end": 1963,
+    "date_display": "1963",
+    "medium": "Oil on canvas",
+    "height_cm": 30.5,
+    "width_cm": 40.6,
+    "depth_cm": null,
+    "dimensions_display": "12 ×16inches (30.5 ×40.6cm)",
+    "collection": "Unknown; documented in a 2005 gallery exhibition",
+    "collection_as_of": "2005",
+    "collection_status": "gallery_exhibition_documentation",
+    "historical_source": true,
+    "accession": null,
+    "ek_id": "EK303",
+    "source_url": "https://www.peterfreemaninc.com/exhibitions/ellsworth-kelly/selected-works?view=multiple-sliders",
+    "image_url": "https://static-assets.artlogic.net/w_719,h_431,c_limit/exhibit-e/5b858d056aa72c55196fc2df/3a24c7278a3b8096235f88091338394a.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_gallery_exhibition_caption_and_photo",
+    "retrieved_date": "2026-10-27",
+    "reference_id": "research/svg-gap-v5/market/freeman-blue-green-red.jpg",
+    "notes": [
+      "Primary Peter Freeman, Small Paintings, 1955–63 exhibition, 3 February–23 April 2005. Title, year, medium and dimensions transcribed from visible artwork caption; actual color photograph inspected. Gallery documentation does not establish current ownership.",
+      "Small Sumac Study (1959) is a different physical painting from the 188 × 160 cm Sumac (1959); Blue Green Red, EK303, 30.5 × 40.6 cm, is different from the large Met 1963 painting."
+    ],
+    "sources": [
+      {
+        "url": "https://www.peterfreemaninc.com/exhibitions/ellsworth-kelly/selected-works?view=multiple-sliders",
+        "label": "Peter Freeman, Inc., Ellsworth Kelly: Small Paintings, 1955–63 (2005), PF0900",
+        "accessed": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "source_id": "freeman:PF0898",
+    "source_record_id": "PF0898",
+    "title": "Sumac Study",
+    "year_start": 1959,
+    "year_end": 1959,
+    "date_display": "1959",
+    "medium": "Oil on canvas",
+    "height_cm": 61.0,
+    "width_cm": 50.8,
+    "depth_cm": null,
+    "dimensions_display": "24 ×20inches (61 ×50.8cm)",
+    "collection": "Unknown; documented in a 2005 gallery exhibition",
+    "collection_as_of": "2005",
+    "collection_status": "gallery_exhibition_documentation",
+    "historical_source": true,
+    "accession": null,
+    "ek_id": null,
+    "source_url": "https://www.peterfreemaninc.com/exhibitions/ellsworth-kelly/selected-works?view=multiple-sliders",
+    "image_url": "https://static-assets.artlogic.net/w_719,h_431,c_limit/exhibit-e/5b858d056aa72c55196fc2df/14c01a659132fbf87c8facd754d740d3.jpg",
+    "record_kind": "painting",
+    "record_status": "sourced_metadata",
+    "source_confidence": "primary_gallery_exhibition_caption_and_photo",
+    "retrieved_date": "2026-10-27",
+    "reference_id": "research/svg-gap-v5/market/freeman-sumac-study.jpg",
+    "notes": [
+      "Primary Peter Freeman, Small Paintings, 1955–63 exhibition, 3 February–23 April 2005. Title, year, medium and dimensions transcribed from visible artwork caption; actual color photograph inspected. Gallery documentation does not establish current ownership.",
+      "Small Sumac Study (1959) is a different physical painting from the 188 × 160 cm Sumac (1959); Blue Green Red, EK303, 30.5 × 40.6 cm, is different from the large Met 1963 painting."
+    ],
+    "sources": [
+      {
+        "url": "https://www.peterfreemaninc.com/exhibitions/ellsworth-kelly/selected-works?view=multiple-sliders",
+        "label": "Peter Freeman, Inc., Ellsworth Kelly: Small Paintings, 1955–63 (2005), PF0898",
+        "accessed": "2026-10-27"
+      }
+    ]
+  }
+]

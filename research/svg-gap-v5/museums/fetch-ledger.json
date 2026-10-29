@@ -1,0 +1,475 @@
+[
+  {
+    "id": "sfmoma-v3-99-351",
+    "attempts": [
+      {
+        "url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/06/12132233/99.351_01_H02.jpg",
+        "file": "research/svg-gap-v5/museums/references/sfmoma-v3-99-351-0.jpg",
+        "content_type": "image/jpeg",
+        "size": 359698,
+        "status": 200
+      },
+      {
+        "url": "https://www.sfmoma.org/artwork/99.351/",
+        "error": "HTTP Error 403: Forbidden"
+      }
+    ]
+  },
+  {
+    "id": "sfmoma-v3-99-340",
+    "attempts": [
+      {
+        "url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/07/27172858/99.340_01_H02.jpg",
+        "file": "research/svg-gap-v5/museums/references/sfmoma-v3-99-340-0.jpg",
+        "content_type": "image/jpeg",
+        "size": 543337,
+        "status": 200
+      },
+      {
+        "url": "https://www.sfmoma.org/artwork/99.340/",
+        "error": "HTTP Error 403: Forbidden"
+      }
+    ]
+  },
+  {
+    "id": "sfmoma-v3-99-348",
+    "attempts": [
+      {
+        "url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/07/15202433/99.348_01_P02.jpg",
+        "file": "research/svg-gap-v5/museums/references/sfmoma-v3-99-348-0.jpg",
+        "content_type": "image/jpeg",
+        "size": 601544,
+        "status": 200
+      },
+      {
+        "url": "https://www.sfmoma.org/artwork/99.348/",
+        "error": "HTTP Error 403: Forbidden"
+      }
+    ]
+  },
+  {
+    "id": "international-v4-kroller-plant-i",
+    "attempts": []
+  },
+  {
+    "id": "sfmoma-v3-99-350",
+    "attempts": [
+      {
+        "url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/04/02091658/99.350_01_H02.jpg",
+        "file": "research/svg-gap-v5/museums/references/sfmoma-v3-99-350-0.jpg",
+        "content_type": "image/jpeg",
+        "size": 311578,
+        "status": 200
+      },
+      {
+        "url": "https://www.sfmoma.org/artwork/99.350/",
+        "error": "HTTP Error 403: Forbidden"
+      }
+    ]
+  },
+  {
+    "id": "north-v4-philadelphia-seaweed",
+    "attempts": [
+      {
+        "url": "https://press.philamuseum.org/museum-receives-major-gift-of-eighteen-drawings-an-early-painting-and-a-steel-sculpture-by-ellsworth-kelly/",
+        "file": "research/svg-gap-v5/museums/references/north-v4-philadelphia-seaweed-0.html",
+        "content_type": "text/html; charset=UTF-8",
+        "size": 101592,
+        "status": 200,
+        "og_images": [
+          "https://content.presspage.com/uploads/1935/1b3394ad-1d6d-4721-baf6-a3c361b09bbf/1920_automaticdrawingshelledbunker11950-ellsworthkelly-pencilonpaper-onloanfromjackshear-hero.jpg?10000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "north-v4-dallas-kite-i-loan",
+    "attempts": [
+      {
+        "url": "https://texashistory.unt.edu/ark:/67531/metapth307668/m1/88/",
+        "file": "research/svg-gap-v5/museums/references/north-v4-dallas-kite-i-loan-0.html",
+        "content_type": "text/html; charset=utf-8",
+        "size": 3647,
+        "status": 200,
+        "og_images": []
+      }
+    ]
+  },
+  {
+    "id": "whitney-9295",
+    "attempts": [
+      {
+        "url": "https://whitney.org/collection/works/9295",
+        "file": "research/svg-gap-v5/museums/references/whitney-9295-0.html",
+        "content_type": "text/html; charset=utf-8",
+        "size": 56759,
+        "status": 200,
+        "og_images": []
+      }
+    ]
+  },
+  {
+    "id": "north-v4-yale-charter",
+    "attempts": []
+  },
+  {
+    "id": "north-v4-blanton-high-yellow",
+    "attempts": []
+  },
+  {
+    "id": "museum-v2-mumok-blue-curve",
+    "attempts": [
+      {
+        "url": "https://www.mumok.at/onlinesammlung/detail/blue-curve-1552",
+        "file": "research/svg-gap-v5/museums/references/museum-v2-mumok-blue-curve-0.html",
+        "content_type": "text/html; charset=utf-8",
+        "size": 106928,
+        "status": 200,
+        "og_images": []
+      }
+    ]
+  },
+  {
+    "id": "nga-au-orange-curve-116211",
+    "attempts": [
+      {
+        "url": "https://nga.gov.au/stories-ideas/artists-artists-virginia-cuppaidge/",
+        "error": "HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://digital.nga.gov.au/archive/americanmasters/works.cfm%3Fwrkirn%3D116211.html",
+        "error": "<urlopen error timed out>"
+      }
+    ]
+  },
+  {
+    "id": "whitney-16879",
+    "attempts": [
+      {
+        "url": "https://whitney.org/collection/works/16879",
+        "file": "research/svg-gap-v5/museums/references/whitney-16879-0.html",
+        "content_type": "text/html; charset=utf-8",
+        "size": 57425,
+        "status": 200,
+        "og_images": []
+      },
+      {
+        "url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+        "error": "HTTP Error 403: Forbidden"
+      }
+    ]
+  },
+  {
+    "id": "museum-v2-mfah-60998",
+    "attempts": [
+      {
+        "url": "https://emuseum.mfah.org/objects/60998/blue-red",
+        "error": "HTTP Error 403: Forbidden"
+      }
+    ]
+  },
+  {
+    "id": "international-v4-tate-red-white-1966",
+    "attempts": []
+  },
+  {
+    "id": "international-v4-mot-red-yellow-blue",
+    "attempts": [
+      {
+        "url": "https://museumcollection.tokyo/wp-content/uploads/2022/08/20618.jpg",
+        "error": "HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://museumcollection.tokyo/works/6382954/",
+        "error": "HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://mot-collection-search.jp/en/shiryo/3935/",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ]
+  },
+  {
+    "id": "mfa-blue-green-yellow-orange-red-1968",
+    "attempts": [
+      {
+        "url": "https://www.mfa.org/news/press-releases/09-20-2010",
+        "file": "research/svg-gap-v5/museums/references/mfa-blue-green-yellow-orange-red-1968-0.html",
+        "content_type": "text/html; charset=UTF-8",
+        "size": 77462,
+        "status": 200,
+        "og_images": []
+      }
+    ]
+  },
+  {
+    "id": "international-v4-louisiana-yellow-black",
+    "attempts": []
+  },
+  {
+    "id": "moca-v3-two-panels-blackwhite",
+    "attempts": [
+      {
+        "url": "https://www.moca.org/artworks/two-panels-blackwhite",
+        "file": "research/svg-gap-v5/museums/references/moca-v3-two-panels-blackwhite-0.html",
+        "content_type": "text/html; charset=utf-8",
+        "size": 162081,
+        "status": 200,
+        "og_images": [
+          "https://cdn.sanity.io/images/ianh83xv/production/0e109501af82b4ce0afe0d7ea89c1ac064c58348-1200x630.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "international-v4-fukuoka-blue-black-curve-iii",
+    "attempts": [
+      {
+        "url": "https://www.fukuoka-art-museum.jp/archives/img/modern/2611/2611_1.jpg",
+        "file": "research/svg-gap-v5/museums/references/international-v4-fukuoka-blue-black-curve-iii-0.jpg",
+        "content_type": "image/jpeg",
+        "size": 20390,
+        "status": 200
+      },
+      {
+        "url": "https://www.fukuoka-art-museum.jp/archives/modern_arts/2611",
+        "file": "research/svg-gap-v5/museums/references/international-v4-fukuoka-blue-black-curve-iii-1.html",
+        "content_type": "text/html; charset=UTF-8",
+        "size": 24988,
+        "status": 200,
+        "og_images": [
+          "https://www.fukuoka-art-museum.jp/assets/images/og.jpg"
+        ]
+      },
+      {
+        "url": "https://www.fukuoka-art-museum.jp/laravel/api/modern_arts?name=Kelly&lang=en",
+        "file": "research/svg-gap-v5/museums/references/international-v4-fukuoka-blue-black-curve-iii-2.html",
+        "content_type": "application/json",
+        "size": 1366,
+        "status": 200
+      }
+    ]
+  },
+  {
+    "id": "international-v4-vanabbe-black-curve-i",
+    "attempts": []
+  },
+  {
+    "id": "international-v4-vanabbe-white-curve-i",
+    "attempts": []
+  },
+  {
+    "id": "international-v4-k20-concorde-iv",
+    "attempts": [
+      {
+        "url": "https://sammlung.kunstsammlung.de/museumplus/71867_son181.jpg?w=2000",
+        "file": "research/svg-gap-v5/museums/references/international-v4-k20-concorde-iv-0.jpg",
+        "content_type": "image/jpeg",
+        "size": 173626,
+        "status": 200
+      },
+      {
+        "url": "https://sammlung.kunstsammlung.de/de/werke/68",
+        "file": "research/svg-gap-v5/museums/references/international-v4-k20-concorde-iv-1.html",
+        "content_type": "text/html; charset=utf-8",
+        "size": 90740,
+        "status": 200,
+        "og_images": [
+          "https://sammlung.kunstsammlung.de/museumplus/71867_son181.jpg?w=2000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "north-v4-dallas-red-panel",
+    "attempts": [
+      {
+        "url": "https://blog.dma.org/wp-content/uploads/2015/10/red_panel_elsworth_kelly_10_2015_343.jpg",
+        "file": "research/svg-gap-v5/museums/references/north-v4-dallas-red-panel-0.jpg",
+        "content_type": "image/jpeg",
+        "size": 76095,
+        "status": 200
+      },
+      {
+        "url": "https://texashistory.unt.edu/ark:/67531/metapth307668/m1/88/",
+        "file": "research/svg-gap-v5/museums/references/north-v4-dallas-red-panel-1.html",
+        "content_type": "text/html; charset=utf-8",
+        "size": 3647,
+        "status": 200,
+        "og_images": []
+      },
+      {
+        "url": "https://blog.dma.org/2015/10/26/red-hot/",
+        "file": "research/svg-gap-v5/museums/references/north-v4-dallas-red-panel-2.html",
+        "content_type": "text/html; charset=UTF-8",
+        "size": 87835,
+        "status": 200,
+        "og_images": []
+      }
+    ]
+  },
+  {
+    "id": "north-v4-cincinnati-5721",
+    "attempts": [
+      {
+        "url": "https://collection.cincinnatiartmuseum.org/objects/5721/black-diamond-with-white",
+        "file": "research/svg-gap-v5/museums/references/north-v4-cincinnati-5721-0.html",
+        "content_type": "text/html;charset=UTF-8",
+        "size": 21582,
+        "status": 200,
+        "og_images": []
+      }
+    ]
+  },
+  {
+    "id": "international-v4-saint-etienne-blue-diagonal-curve",
+    "attempts": [
+      {
+        "url": "https://mamc.saint-etienne-metropole.fr/en/collections?page=191",
+        "file": "research/svg-gap-v5/museums/references/international-v4-saint-etienne-blue-diagonal-curve-0.html",
+        "content_type": "text/html; charset=UTF-8",
+        "size": 49674,
+        "status": 200,
+        "og_images": []
+      }
+    ]
+  },
+  {
+    "id": "museum-v2-mfah-12441",
+    "attempts": [
+      {
+        "url": "https://emuseum.mfah.org/objects/12441/green-black",
+        "error": "HTTP Error 403: Forbidden"
+      }
+    ]
+  },
+  {
+    "id": "north-v4-slam-purple-panel",
+    "attempts": [
+      {
+        "url": "https://www.slam.org/blog/ellsworth-kelly-was-a-diligent-student-of-nature/",
+        "error": "HTTP Error 403: Forbidden"
+      }
+    ]
+  },
+  {
+    "id": "museum-v2-lenbach-documenta-a",
+    "attempts": [
+      {
+        "url": "https://www.lenbachhaus.de/en/digital/collection-online/detail/the-documenta-room-a-blue-panel-with-curve-1991-b-red-panel-with-curve-1991-c-green-panel-with-curve-1992-d-white-panel-with-curve-1992-30014052",
+        "file": "research/svg-gap-v5/museums/references/museum-v2-lenbach-documenta-a-0.html",
+        "content_type": "text/html; charset=utf-8",
+        "size": 28227,
+        "status": 200,
+        "og_images": [
+          "https://www.lenbachhaus.de/fileadmin/user_upload/images/LH_SammlungOnline_Platzhalter_de_en.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "museum-v2-lenbach-documenta-b",
+    "attempts": [
+      {
+        "url": "https://www.lenbachhaus.de/en/digital/collection-online/detail/the-documenta-room-a-blue-panel-with-curve-1991-b-red-panel-with-curve-1991-c-green-panel-with-curve-1992-d-white-panel-with-curve-1992-30014052",
+        "file": "research/svg-gap-v5/museums/references/museum-v2-lenbach-documenta-b-0.html",
+        "content_type": "text/html; charset=utf-8",
+        "size": 28227,
+        "status": 200,
+        "og_images": [
+          "https://www.lenbachhaus.de/fileadmin/user_upload/images/LH_SammlungOnline_Platzhalter_de_en.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "north-v4-baltimore-two-blacks-white",
+    "attempts": [
+      {
+        "url": "https://artbma.org/artwork/two-blacks-and-white/",
+        "error": "HTTP Error 403: Forbidden"
+      }
+    ]
+  },
+  {
+    "id": "international-v4-maeght-blue-floor-panel-leo",
+    "attempts": [
+      {
+        "url": "https://tlmagazine.com/fondation-maeght-summer-2026/?print=true",
+        "file": "research/svg-gap-v5/museums/references/international-v4-maeght-blue-floor-panel-leo-0.html",
+        "content_type": "text/html; charset=UTF-8",
+        "size": 79038,
+        "status": 200,
+        "og_images": [
+          "https://tlmagazine.com/wp-content/uploads/2026/07/20260626-ellsworth-kelly-0084-hdr-1024x768.jpg"
+        ]
+      },
+      {
+        "url": "https://ellsworthkelly.org/chronology/",
+        "error": "HTTP Error 403: Forbidden"
+      }
+    ]
+  },
+  {
+    "id": "museum-v2-lenbach-documenta-c",
+    "attempts": [
+      {
+        "url": "https://www.lenbachhaus.de/en/digital/collection-online/detail/the-documenta-room-a-blue-panel-with-curve-1991-b-red-panel-with-curve-1991-c-green-panel-with-curve-1992-d-white-panel-with-curve-1992-30014052",
+        "file": "research/svg-gap-v5/museums/references/museum-v2-lenbach-documenta-c-0.html",
+        "content_type": "text/html; charset=utf-8",
+        "size": 28227,
+        "status": 200,
+        "og_images": [
+          "https://www.lenbachhaus.de/fileadmin/user_upload/images/LH_SammlungOnline_Platzhalter_de_en.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "museum-v2-lenbach-documenta-d",
+    "attempts": [
+      {
+        "url": "https://www.lenbachhaus.de/en/digital/collection-online/detail/the-documenta-room-a-blue-panel-with-curve-1991-b-red-panel-with-curve-1991-c-green-panel-with-curve-1992-d-white-panel-with-curve-1992-30014052",
+        "file": "research/svg-gap-v5/museums/references/museum-v2-lenbach-documenta-d-0.html",
+        "content_type": "text/html; charset=utf-8",
+        "size": 28227,
+        "status": 200,
+        "og_images": [
+          "https://www.lenbachhaus.de/fileadmin/user_upload/images/LH_SammlungOnline_Platzhalter_de_en.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "international-v4-kawamura-black-curve",
+    "attempts": []
+  },
+  {
+    "id": "tate-26107",
+    "attempts": [
+      {
+        "url": "https://www.tate.org.uk/art/artworks/kelly-yellow-curve-t07403",
+        "file": "research/svg-gap-v5/museums/references/tate-26107-0.html",
+        "content_type": "text/html; charset=utf-8",
+        "size": 99526,
+        "status": 200,
+        "og_images": [
+          "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_iITg18T.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "north-v4-mfa-white-relief-over-white",
+    "attempts": [
+      {
+        "url": "https://www.mfa.org/news/mr20-weekend",
+        "file": "research/svg-gap-v5/museums/references/north-v4-mfa-white-relief-over-white-0.html",
+        "content_type": "text/html; charset=UTF-8",
+        "size": 77833,
+        "status": 200,
+        "og_images": []
+      }
+    ]
+  }
+]

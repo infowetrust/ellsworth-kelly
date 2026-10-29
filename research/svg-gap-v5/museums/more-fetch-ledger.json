@@ -1,0 +1,24 @@
+[
+  {
+    "key": "tate-yellow-sketchline",
+    "url": "https://thesketchline.com/en/pictures/yellow-curve/",
+    "path": "research/svg-gap-v5/museums/references/tate-yellow-sketchline.html",
+    "size": 166331
+  },
+  {
+    "key": "blanton-artsy",
+    "url": "https://www.artsy.net/artwork/ellsworth-kelly-high-yellow",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "key": "tate-redwhite-eflux",
+    "url": "https://www.e-flux.com/announcements/121707/christopher-klineo-k-the-musicalellsworth-kelly-in-focusconstellations",
+    "path": "research/svg-gap-v5/museums/references/tate-redwhite-eflux.html",
+    "size": 153117
+  },
+  {
+    "key": "slam-purple",
+    "url": "https://www.slam.org/blog/ellsworth-kelly-was-a-diligent-student-of-nature/",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

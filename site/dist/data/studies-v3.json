@@ -1,0 +1,784 @@
+{
+  "sfmoma-v3:99.359": {
+    "path": "assets/studies/v3-sfmoma-99-359.svg",
+    "colors": [
+      "white",
+      "black"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.sfmoma.org/artwork/99.359/",
+    "reference_id": "research/sfmoma-v3-reference-images/99.359.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Observed black bars and white support retained; wood/gesso texture and age omitted.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:66.3": {
+    "path": "assets/studies/v3-sfmoma-66-3.svg",
+    "colors": [
+      "red",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.sfmoma.org/artwork/66.3/",
+    "reference_id": "research/sfmoma-v3-reference-images/66.3.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Red outer cap and central lower notch hand-traced. Distinct from Fisher FC.566; white painted background remains opaque.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:FC.566": {
+    "path": "assets/studies/v3-sfmoma-fc-566.svg",
+    "colors": [
+      "red",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.sfmoma.org/artwork/FC.566/",
+    "reference_id": "research/sfmoma-v3-reference-images/FC.566.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Observed red figure and two white leaf-like slashes; contour approximate. Distinct from SFMOMA 66.3 and Foundation EK 290.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:FC.713": {
+    "path": "assets/studies/v3-sfmoma-fc-713.svg",
+    "colors": [
+      "red"
+    ],
+    "shape_type": "overlapping rectangles",
+    "reference_url": "https://www.sfmoma.org/artwork/FC.713/",
+    "reference_id": "research/sfmoma-v3-reference-images/FC.713.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Two equal red panels offset diagonally. Thin darker seam is a viewing guide for overlap, not an additional paint colour.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:FC.603": {
+    "path": "assets/studies/v3-sfmoma-fc-603.svg",
+    "colors": [
+      "red"
+    ],
+    "shape_type": "curved panel",
+    "reference_url": "https://www.sfmoma.org/artwork/FC.603/",
+    "reference_id": "research/sfmoma-v3-reference-images/FC.603.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Two sweeping curved boundaries preserved; no photograph shadow or white wall included.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:FC.571": {
+    "path": "assets/studies/v3-sfmoma-fc-571.svg",
+    "colors": [
+      "white"
+    ],
+    "shape_type": "rectangle relief",
+    "reference_url": "https://www.sfmoma.org/artwork/FC.571/",
+    "reference_id": "research/sfmoma-v3-reference-images/FC.571.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Hand-traced raised cutout and strings on a white rectangular support. Neutral contour/string guides distinguish construction; they are not extra grey paint. Depth and fine irregularities omitted.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:FC.558.A-D": {
+    "path": "assets/studies/v3-sfmoma-fc-558-a-d.svg",
+    "colors": [
+      "blue",
+      "green",
+      "black",
+      "red"
+    ],
+    "shape_type": "separate panels",
+    "reference_url": "https://www.sfmoma.org/artwork/FC.558.A-D/",
+    "reference_id": "research/sfmoma-v3-reference-images/FC.558.A-D.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Four 63 × 32 in panels in observed colour order, using the conservation essay’s suggested18 in intervals. Installation spacing varies; this study depicts one arrangement and has no asserted fixed overall width.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:FC.536": {
+    "path": "assets/studies/v3-sfmoma-fc-536.svg",
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "shape_type": "joined polygons",
+    "reference_url": "https://www.sfmoma.org/artwork/FC.536/",
+    "reference_id": "research/sfmoma-v3-reference-images/FC.536.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Blue triangle and adjoining white quadrilateral from actual source; photographic perspective simplified.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:FC.518": {
+    "path": "assets/studies/v3-sfmoma-fc-518.svg",
+    "colors": [
+      "red",
+      "green"
+    ],
+    "shape_type": "joined polygons",
+    "reference_url": "https://www.sfmoma.org/artwork/FC.518/",
+    "reference_id": "research/sfmoma-v3-reference-images/FC.518.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Observed oblique two-panel outline and division preserved; not converted to a horizontal rectangle.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:FC.351": {
+    "path": "assets/studies/v3-sfmoma-fc-351.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle with curve",
+    "reference_url": "https://www.sfmoma.org/artwork/FC.351/",
+    "reference_id": "research/sfmoma-v3-reference-images/FC.351.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Rectangular black panel and adjoining white half-ellipse preserved; arc control points approximate.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:99.347": {
+    "path": "assets/studies/v3-sfmoma-99-347.svg",
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.sfmoma.org/artwork/99.347/",
+    "reference_id": "research/sfmoma-v3-reference-images/99.347.jpg",
+    "method": "reference_mask_vector_contours",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Observed blue marks traced from the actual source mask, then polygon-simplified. Source cyan maps to shared blue; linen texture and minor edge noise omitted. No random pattern generated.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:99.345": {
+    "path": "assets/studies/v3-sfmoma-99-345.svg",
+    "colors": [
+      "red",
+      "yellow"
+    ],
+    "shape_type": "joined rectangles",
+    "reference_url": "https://www.sfmoma.org/artwork/99.345/",
+    "reference_id": "research/sfmoma-v3-reference-images/99.345.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Four observed horizontal fields. Red-orange maps to shared red; distinct yellows use three vivid values. Current SFMOMA date 1956; 1973 caption gives 1952–1956.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:99.349": {
+    "path": "assets/studies/v3-sfmoma-99-349.svg",
+    "colors": [
+      "red",
+      "yellow",
+      "blue",
+      "white",
+      "black"
+    ],
+    "shape_type": "joined rectangles",
+    "reference_url": "https://www.sfmoma.org/artwork/99.349/",
+    "reference_id": "research/sfmoma-v3-reference-images/99.349.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Seven observed panels in order blue, red, white, black, yellow, white, blue. White painted borders retained; neutral seam guides are diagrammatic.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:98.376": {
+    "path": "assets/studies/v3-sfmoma-98-376.svg",
+    "colors": [
+      "yellow",
+      "black"
+    ],
+    "shape_type": "triangle relief",
+    "reference_url": "https://www.sfmoma.org/artwork/98.376/",
+    "reference_id": "research/sfmoma-v3-reference-images/98.376.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Black upper panel behind a large left-pointing yellow triangle; depth and shadows omitted.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:FC.465": {
+    "path": "assets/studies/v3-sfmoma-fc-465.svg",
+    "colors": [
+      "purple",
+      "white"
+    ],
+    "shape_type": "joined polygons",
+    "reference_url": "https://www.sfmoma.org/artwork/FC.465/",
+    "reference_id": "research/sfmoma-v3-reference-images/FC.465.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Purple diamond with adjoining smaller white panel; outline and edge meeting approximate.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:FC.310": {
+    "path": "assets/studies/v3-sfmoma-fc-310.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "triangle with diagonal",
+    "reference_url": "https://www.sfmoma.org/artwork/FC.310/",
+    "reference_id": "research/sfmoma-v3-reference-images/FC.310.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Black right triangle and wide white diagonal panel; transparent outside support contours.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:FC.289": {
+    "path": "assets/studies/v3-sfmoma-fc-289.svg",
+    "colors": [
+      "blue"
+    ],
+    "shape_type": "curved polygon",
+    "reference_url": "https://www.sfmoma.org/artwork/FC.289/",
+    "reference_id": "research/sfmoma-v3-reference-images/FC.289.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Curved upper boundary and two straight sides hand-traced; overall aspect uses museum dimensions.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:99.358": {
+    "path": "assets/studies/v3-sfmoma-99-358.svg",
+    "colors": [
+      "white"
+    ],
+    "shape_type": "rectangle relief",
+    "reference_url": "https://www.sfmoma.org/artwork/99.358/",
+    "reference_id": "research/sfmoma-v3-reference-images/99.358.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "White curved raised form over a white rectangular support. Neutral edge guide distinguishes the relief, not grey paint.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:99.338": {
+    "path": "assets/studies/v3-sfmoma-99-338.svg",
+    "colors": [
+      "black",
+      "blue"
+    ],
+    "shape_type": "rectangle relief",
+    "reference_url": "https://www.sfmoma.org/artwork/99.338/",
+    "reference_id": "research/sfmoma-v3-reference-images/99.338.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Museum-classified painting in painted aluminum. Projecting black form is simplified to its observed frontal silhouette; material depth and shadow omitted.",
+    "reviewed_date": "2026-10-27"
+  },
+  "hirshhorn:72.161": {
+    "path": "assets/studies/v3-hirshhorn-red-white-1961.svg",
+    "colors": [
+      "red",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.smithsonianmag.com/arts-culture/why-ellsworth-kelly-was-giant-world-american-art-180957652/",
+    "reference_id": "research/hirshhorn-seattle-v3/hmsg-redwhite-mag.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against cited photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Organic red/white contours approximated from the museum-supplied photograph; rectangular canvas retains its white painted field.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://www.si.edu/object/red-white%3Ahmsg_72.161"
+  },
+  "hirshhorn:07.2": {
+    "path": "assets/studies/v3-hirshhorn-red-yellow-blue-v.svg",
+    "colors": [
+      "red",
+      "yellow",
+      "blue"
+    ],
+    "shape_type": "joined trapezoids",
+    "reference_url": "https://matthewmarks.com/online/30-years-online",
+    "reference_id": "research/hirshhorn-seattle-v3/hmsg-rybv-marks.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against cited photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Tapering three-panel outline and joins approximated from two institution/dealer photographs; some perspective remains uncertain. It is a schematic study, not measured orthographic geometry.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://hirshhorn.si.edu/collection/artwork/?edanUrl=edanmdm%3Ahmsg_07.2"
+  },
+  "hirshhorn:07.31": {
+    "path": "assets/studies/v3-hirshhorn-dark-green-curve.svg",
+    "colors": [
+      "green"
+    ],
+    "shape_type": "curved polygon",
+    "reference_url": "https://ids.si.edu/ids/deliveryService?id=HMSG-HMSG-07.31",
+    "reference_id": "research/hirshhorn-seattle-v3/hmsg-07.31.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against cited photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Single dark-green shaped canvas: curved upper edge, pointed left end and straight sloping lower edge. Photo perspective is approximated; background omitted.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://hirshhorn.si.edu/collection/artwork/?edanUrl=edanmdm%3Ahmsg_07.31"
+  },
+  "hirshhorn:07.32": {
+    "path": "assets/studies/v3-hirshhorn-white-relief-over-dark-blue.svg",
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "shape_type": "joined rectangles with open corner",
+    "reference_url": "https://ids.si.edu/ids/deliveryService?id=HMSG-HMSG-07.32",
+    "reference_id": "research/hirshhorn-seattle-v3/hmsg-07.32.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against cited photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Two adjacent rectangles form a stepped silhouette. White-painted panel is opaque; empty upper-right area is transparent. Shallow relief thickness/shadows omitted.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://hirshhorn.si.edu/collection/artwork/?edanUrl=edanmdm%3Ahmsg_07.32"
+  },
+  "seattle:14331": {
+    "path": "assets/studies/v3-seattle-blue-green-red-ii.svg",
+    "colors": [
+      "blue",
+      "green",
+      "red"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.artsy.net/artwork/ellsworth-kelly-blue-green-red-ii",
+    "reference_id": "research/hirshhorn-seattle-v3/seattle-bgrII-artsy.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against cited photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Two large opposing half-ellipses touch near the center over a red field. Approximate curves; the museum-partner source image is not colorimetrically measured.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://art.seattleartmuseum.org/objects/14331/blue-green-red-ii"
+  },
+  "seattle:20691": {
+    "path": "assets/studies/v3-seattle-white-curve-v.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://scaruffi.com/museums/sam/index.html",
+    "reference_id": "research/hirshhorn-seattle-v3/whitecurvev-scaruffi.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against cited photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "White and black are painted areas within a rectangular canvas; neither is a transparent cutout. Curved division approximated from an installation photograph, with orientation cross-checked against the museum warning about the inverted historic cover.",
+    "reviewed_date": "2026-10-27",
+    "source_url": "https://art.seattleartmuseum.org/objects/20691/white-curve-v"
+  },
+  "broad-v3:black-panel-white-curve-iii": {
+    "path": "assets/studies/v3-broad-black-panel-white-curve-iii.svg",
+    "title": "Black Panel with White Curve III",
+    "year_start": 1989,
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "joined rectangle and curved wedge",
+    "reference_url": "https://www.thebroad.org/art/ellsworth-kelly/black-panel-white-curve-iii",
+    "reference_image_url": "https://www.thebroad.org/sites/default/files/styles/webp_convert_only/public/art/kelly_black_panel_w_white.jpg.webp?itok=_Q7U-icd",
+    "reference_id": "research/broad-moca-v3/images/broad-black-panel-white-curve-iii.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary museum photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Observed black square at upper left joins a white curved wedge at right. Surrounding top-right and bottom-left spaces remain transparent; depth and shadows omitted.",
+    "reviewed_date": "2026-10-27"
+  },
+  "broad-v3:blue-curve-v": {
+    "path": "assets/studies/v3-broad-blue-curve-v.svg",
+    "title": "Blue Curve V",
+    "year_start": 1972,
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "shape_type": "rectangle with curved colour field",
+    "reference_url": "https://www.thebroad.org/art/ellsworth-kelly/blue-curve-v",
+    "reference_image_url": "https://www.thebroad.org/sites/default/files/styles/webp_convert_only/public/art/kelly_blue-curve-v_2400px_0.jpg.webp?itok=uku1p3O9",
+    "reference_id": "research/broad-moca-v3/images/broad-blue-curve-v.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary museum photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "White rectangular painted ground retained: the photograph shows a straight outer canvas edge and shadow around the white lower-right area. The blue interior curve is approximated; photographic perspective rectified.",
+    "reviewed_date": "2026-10-27"
+  },
+  "broad-v3:blue-red": {
+    "path": "assets/studies/v3-broad-blue-red.svg",
+    "title": "Blue Red",
+    "year_start": 1968,
+    "colors": [
+      "blue",
+      "red"
+    ],
+    "shape_type": "joined trapezoids",
+    "reference_url": "https://www.thebroad.org/art/ellsworth-kelly/blue-red",
+    "reference_image_url": "https://www.thebroad.org/sites/default/files/styles/webp_convert_only/public/art/kelly_blue_red.jpg.webp?itok=S2szvg9H",
+    "reference_id": "research/broad-moca-v3/images/broad-blue-red.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary museum photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Observed blue-left/red-right bow-tie outline, not a rectangular two-colour field. Joined seam and proportions approximate; no white background painted into the SVG.",
+    "reviewed_date": "2026-10-27"
+  },
+  "broad-v3:blue-yellow-red-iv": {
+    "path": "assets/studies/v3-broad-blue-yellow-red-iv.svg",
+    "title": "Blue Yellow Red IV",
+    "year_start": 1972,
+    "colors": [
+      "blue",
+      "yellow",
+      "red"
+    ],
+    "shape_type": "joined rectangles",
+    "reference_url": "https://www.thebroad.org/art/ellsworth-kelly/blue-yellow-red-iv",
+    "reference_image_url": "https://www.thebroad.org/sites/default/files/styles/webp_convert_only/public/art/kelly_blue_yellow_red_iva.jpg.webp?itok=Tc8fM54K",
+    "reference_id": "research/broad-moca-v3/images/broad-blue-yellow-red-iv.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary museum photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Three observed horizontal joined panels: blue above yellow above red. Seams retained by separate vector elements; surface texture omitted.",
+    "reviewed_date": "2026-10-27"
+  },
+  "broad-v3:green-angle": {
+    "path": "assets/studies/v3-broad-green-angle.svg",
+    "title": "Green Angle",
+    "year_start": 1970,
+    "colors": [
+      "green"
+    ],
+    "shape_type": "chevron",
+    "reference_url": "https://www.thebroad.org/art/ellsworth-kelly/green-angle",
+    "reference_image_url": "https://www.thebroad.org/sites/default/files/styles/webp_convert_only/public/art/kelly_green_angle.jpg.webp?itok=EJrB8wD2",
+    "reference_id": "research/broad-moca-v3/images/broad-green-angle.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary museum photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Observed six-corner peaked band. Open space below the inner angle is transparent; dimensions describe overall bounds, not band thickness.",
+    "reviewed_date": "2026-10-27"
+  },
+  "broad-v3:green-blue-red": {
+    "path": "assets/studies/v3-broad-green-blue-red.svg",
+    "title": "Green Blue Red",
+    "year_start": 1963,
+    "colors": [
+      "green",
+      "blue",
+      "red"
+    ],
+    "shape_type": "rectangle with rectangle and oval",
+    "reference_url": "https://www.thebroad.org/art/ellsworth-kelly/green-blue-red",
+    "reference_image_url": "https://www.thebroad.org/sites/default/files/styles/webp_convert_only/public/art/kelly_greenbluered.jpg.webp?itok=HfVVzNtZ",
+    "reference_id": "research/broad-moca-v3/images/broad-green-blue-red.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary museum photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Observed red ground with green rectangle at left and tall blue oval at right. Oval contour and margins are approximated from the object photograph.",
+    "reviewed_date": "2026-10-27"
+  },
+  "broad-v3:green-relief-blue": {
+    "path": "assets/studies/v3-broad-green-relief-blue.svg",
+    "title": "Green Relief with Blue",
+    "year_start": 2011,
+    "colors": [
+      "green",
+      "blue"
+    ],
+    "shape_type": "curved relief on rectangle",
+    "reference_url": "https://www.thebroad.org/art/ellsworth-kelly/green-relief-blue",
+    "reference_image_url": "https://www.thebroad.org/sites/default/files/styles/webp_convert_only/public/art/kelly_green_relief_with_blue_35000.jpg.webp?itok=3KXcPHJt",
+    "reference_id": "research/broad-moca-v3/images/broad-green-relief-blue.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary museum photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Observed green relief over blue rectangular panel. Overlap follows the photographed curved edge; depth, cast shadow, and perspective omitted.",
+    "reviewed_date": "2026-10-27"
+  },
+  "moca-v3:blue-green-curve": {
+    "path": "assets/studies/v3-moca-blue-green-curve.svg",
+    "title": "Blue Green Curve",
+    "year_start": 1972,
+    "colors": [
+      "blue",
+      "green"
+    ],
+    "shape_type": "triangle with curved colour division",
+    "reference_url": "https://www.moca.org/artworks/blue-green-curve",
+    "reference_image_url": "https://cdn.sanity.io/images/ianh83xv/production/f197d6389c4422fbbfe3b17a69fe9135c02dc0db-1500x1185.jpg",
+    "reference_id": "research/broad-moca-v3/images/moca-blue-green-curve.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary museum photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Observed triangular outer canvas points left. Green lower field has an upward-curving top boundary; wall and cast shadow remain absent.",
+    "reviewed_date": "2026-10-27"
+  },
+  "moca-v3:red-orange": {
+    "path": "assets/studies/v3-moca-red-orange.svg",
+    "title": "Red-Orange",
+    "year_start": 1980,
+    "colors": [
+      "orange"
+    ],
+    "shape_type": "irregular pentagon",
+    "reference_url": "https://www.moca.org/artworks/red-orange",
+    "reference_image_url": "https://cdn.sanity.io/images/ianh83xv/production/fafd13fae4f450f6967ace0c584ac71785a82431-1500x1888.jpg",
+    "reference_id": "research/broad-moca-v3/images/moca-red-orange.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary museum photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Observed five-corner inverted triangular form, including both clipped upper corners. Palette groups the observed red-orange as orange. Overall landscape aspect uses the museum dimensions in observed orientation, corroborated by a US Art in Embassies catalogue; conflicting dimension order and half-inch short-side discrepancy remain unresolved, so true-scale use is disabled.",
+    "reviewed_date": "2026-10-27",
+    "true_scale_eligible": false,
+    "true_scale_note": "Conflicting primary dimension order and half-inch short-side discrepancy; comparable-size SVG only pending reconciliation."
+  },
+  "moca-v3:two-panels-yellow-with-large-blue": {
+    "path": "assets/studies/v3-moca-two-panels-yellow-with-large-blue.svg",
+    "title": "Two Panels: Yellow with Large Blue",
+    "year_start": 1970,
+    "colors": [
+      "yellow",
+      "blue"
+    ],
+    "shape_type": "joined rectangles with open corner",
+    "reference_url": "https://www.moca.org/artworks/two-panels-yellow-with-large-blue",
+    "reference_image_url": "https://cdn.sanity.io/images/ianh83xv/production/5543845c9056ca97d5d7b342dded56ec09d4fd47-1500x1401.jpg",
+    "reference_id": "research/broad-moca-v3/images/moca-two-panels-yellow-with-large-blue.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, visually checked against primary museum photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Observed tall large blue panel at right with shorter yellow panel at lower left. Upper-left open corner stays transparent. Panel proportions approximate; depth omitted.",
+    "reviewed_date": "2026-10-27"
+  },
+  "modern-v3:1781": {
+    "path": "assets/studies/v3-modern-v3-1781.svg",
+    "colors": [
+      "green"
+    ],
+    "shape_type": "concave polygon",
+    "reference_url": "https://collection.themodern.org/objects/1781/dark-green-panel",
+    "reference_id": "research/root-museums-v3/reference-images/modern-1781.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid screen colours, not calibrated paint measurements",
+    "notes": "Six-sided indented support traced by eye from the oblique museum photograph; depth omitted and contour approximate.",
+    "reviewed_date": "2026-10-27"
+  },
+  "modern-v3:1782": {
+    "path": "assets/studies/v3-modern-v3-1782.svg",
+    "colors": [
+      "blue"
+    ],
+    "shape_type": "polygon",
+    "reference_url": "https://collection.themodern.org/objects/1782/dark-blue-panel",
+    "reference_id": "research/root-museums-v3/reference-images/modern-1782.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid screen colours, not calibrated paint measurements",
+    "notes": "Six-sided shaped canvas; photographic perspective is not fully rectified.",
+    "reviewed_date": "2026-10-27"
+  },
+  "modern-v3:1783": {
+    "path": "assets/studies/v3-modern-v3-1783.svg",
+    "colors": [
+      "red"
+    ],
+    "shape_type": "curved triangle",
+    "reference_url": "https://collection.themodern.org/objects/1783/red-panel",
+    "reference_id": "research/root-museums-v3/reference-images/modern-1783.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid screen colours, not calibrated paint measurements",
+    "notes": "Three curved edges preserve the photographed concave/convex character; control points approximate.",
+    "reviewed_date": "2026-10-27"
+  },
+  "modern-v3:1784": {
+    "path": "assets/studies/v3-modern-v3-1784.svg",
+    "colors": [
+      "red",
+      "blue"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://collection.themodern.org/objects/1784/curved-red-on-blue",
+    "reference_id": "research/root-museums-v3/reference-images/modern-1784.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid screen colours, not calibrated paint measurements",
+    "notes": "Organic red curve traced by eye from the actual reference, including cropped top/left/bottom contacts. Fine irregularities simplified.",
+    "reviewed_date": "2026-10-27"
+  },
+  "modern-v3:8497": {
+    "path": "assets/studies/v3-modern-v3-8497.svg",
+    "colors": [
+      "yellow",
+      "green",
+      "blue",
+      "purple",
+      "red",
+      "orange"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://collection.themodern.org/objects/8497/spectrum-iii",
+    "reference_id": "research/root-museums-v3/reference-images/modern-8497.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid screen colours, not calibrated paint measurements",
+    "notes": "Thirteen observed spectrum strips retained in order; screen palette is interpretive.",
+    "reviewed_date": "2026-10-27"
+  },
+  "nelson-v3:22857": {
+    "path": "assets/studies/v3-nelson-v3-22857.svg",
+    "colors": [
+      "white",
+      "black"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://art.nelson-atkins.org/objects/22857/white-black",
+    "reference_id": "research/root-museums-v3/reference-images/nelson-22857.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid screen colours, not calibrated paint measurements",
+    "notes": "White zigzag and lower sweeping edge traced from the exact museum recto image; rectangle boundary preserved.",
+    "reviewed_date": "2026-10-27"
+  },
+  "glenstone-v3:white-red": {
+    "path": "assets/studies/v3-glenstone-v3-white-red.svg",
+    "colors": [
+      "white",
+      "red"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.glenstone.org/artworks/white-red",
+    "reference_id": "research/root-museums-v3/reference-images/glenstone-white-red.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid screen colours, not calibrated paint measurements",
+    "notes": "Observed diagonal white band and its bottom/right contacts retained.",
+    "reviewed_date": "2026-10-27"
+  },
+  "glenstone-v3:black-white": {
+    "path": "assets/studies/v3-glenstone-v3-black-white.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "joined triangles",
+    "reference_url": "https://www.glenstone.org/artworks/black-white",
+    "reference_id": "research/root-museums-v3/reference-images/glenstone-black-white.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid screen colours, not calibrated paint measurements",
+    "notes": "The photograph shows a square split diagonally into black upper-left and white lower-right triangles.",
+    "reviewed_date": "2026-10-27"
+  },
+  "glenstone-v3:black-green": {
+    "path": "assets/studies/v3-glenstone-v3-black-green.svg",
+    "colors": [
+      "black",
+      "green"
+    ],
+    "shape_type": "joined rectangles",
+    "reference_url": "https://www.glenstone.org/artworks/black-green",
+    "reference_id": "research/root-museums-v3/reference-images/glenstone-black-green.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid screen colours, not calibrated paint measurements",
+    "notes": "Unequal black and green panel heights follow the primary photograph.",
+    "reviewed_date": "2026-10-27"
+  },
+  "glenstone-v3:blue-curve": {
+    "path": "assets/studies/v3-glenstone-v3-blue-curve.svg",
+    "colors": [
+      "blue"
+    ],
+    "shape_type": "curved triangle",
+    "reference_url": "https://www.glenstone.org/artworks/blue-curve",
+    "reference_id": "research/root-museums-v3/reference-images/glenstone-blue-curve.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid screen colours, not calibrated paint measurements",
+    "notes": "Shaped blue support reconstructed without the photographed wall, frame-like shadows or plinth.",
+    "reviewed_date": "2026-10-27"
+  },
+  "glenstone-v3:blue-relief-with-black": {
+    "path": "assets/studies/v3-glenstone-v3-blue-relief-with-black.svg",
+    "colors": [
+      "blue",
+      "black"
+    ],
+    "shape_type": "rectangle relief",
+    "reference_url": "https://www.glenstone.org/artworks/blue-relief-with-black",
+    "reference_id": "research/root-museums-v3/reference-images/glenstone-blue-relief-with-black.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid screen colours, not calibrated paint measurements",
+    "notes": "The black backing rectangle is painted support and remains; blue curved overlay and depth are simplified.",
+    "reviewed_date": "2026-10-27"
+  },
+  "glenstone-v3:white-relief-with-black-iii": {
+    "path": "assets/studies/v3-glenstone-v3-white-relief-with-black-iii.svg",
+    "colors": [
+      "white",
+      "black"
+    ],
+    "shape_type": "polygon relief",
+    "reference_url": "https://www.glenstone.org/artworks/white-relief-with-black-iii",
+    "reference_id": "research/root-museums-v3/reference-images/glenstone-white-relief-with-black-iii.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid screen colours, not calibrated paint measurements",
+    "notes": "Overlapping black rectangle and rotated white panel follow the photograph. Thin neutral line is a relief-edge guide, not grey paint.",
+    "reviewed_date": "2026-10-27"
+  },
+  "glenstone-v3:spectrum-ix": {
+    "path": "assets/studies/v3-glenstone-v3-spectrum-ix.svg",
+    "colors": [
+      "yellow",
+      "green",
+      "blue",
+      "purple",
+      "red",
+      "orange"
+    ],
+    "shape_type": "joined rectangles",
+    "reference_url": "https://www.glenstone.org/artworks/spectrum-ix",
+    "reference_id": "research/root-museums-v3/reference-images/glenstone-spectrum-ix.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid screen colours, not calibrated paint measurements",
+    "notes": "Twelve observed monochromatic strips retained in order; vivid palette preserves progression rather than calibrated pigment values.",
+    "reviewed_date": "2026-10-27"
+  },
+  "glenstone-v3:painting-in-three-panels": {
+    "path": "assets/studies/v3-glenstone-v3-painting-in-three-panels.svg",
+    "colors": [
+      "yellow",
+      "red",
+      "blue",
+      "green",
+      "black",
+      "white"
+    ],
+    "shape_type": "separate panels",
+    "reference_url": "https://www.glenstone.org/artworks/painting-in-three-panels",
+    "reference_id": "research/root-museums-v3/reference-images/glenstone-painting-in-three-panels.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid screen colours, not calibrated paint measurements",
+    "notes": "Individual support sizes use the museum’s panel dimensions; left/middle spacing and curve geometry approximate the photographed installation. Overall bounds use the museum’s stated display size.",
+    "reviewed_date": "2026-10-27"
+  }
+}

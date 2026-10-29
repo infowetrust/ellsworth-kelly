@@ -1,0 +1,39 @@
+{
+  "foundation-exhib-v4-ek246-ellsworth-kelly-a-retrospective": {
+    "path": "assets/studies/v6-foundation-white-black-ek246.svg",
+    "title": "White Black",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle with angular fields",
+    "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+    "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+    "reference_id": "research/svg-gap-v5/foundation/reference-images/foundation-78.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; specifically identified primary photograph viewed",
+    "palette": "observed colour families; standardized screen values, not calibrated paint",
+    "notes": "Foundation 1996 retrospective photograph explicitly labels White Black EK 246, at the far left. White rectangular painted ground retained; five black angular edge intrusions hand-traced from the actual colour photograph. Frame, wall and cast shadows omitted. Approximate flattened proportions. Christie’s same-title 1961 record remains separate because its image/physical identity is unverified; no auction dimensions were imported.",
+    "true_scale_eligible": false,
+    "true_scale_note": "Physical dimensions unresolved; study uses observed normalized aspect.",
+    "reviewed_date": "2026-10-28"
+  },
+  "foundation-exhib-v4-ek2-ellsworth-kelly-paris-new-york-1949-1959": {
+    "path": "assets/studies/v6-foundation-window-iii-ek2.svg",
+    "title": "Window III",
+    "colors": [
+      "white"
+    ],
+    "shape_type": "white monochrome with string relief",
+    "reference_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paris-new-york-1949-1959/",
+    "source_url": "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paris-new-york-1949-1959/",
+    "reference_id": "research/svg-gap-v6/foundation/foundation-49-large.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate; specifically identified primary photograph viewed",
+    "palette": "observed colour families; standardized screen values, not calibrated paint",
+    "notes": "The captioned Window III EK 2 is the right-hand work in the colour Philadelphia installation. White rectangular support, central vertical cord, upper paired horizontal lines, two shorter horizontal lines, lower paired cross-lines and lower zigzag cords follow the actually enlarged photograph. Very pale neutral lines diagram the shadows of WHITE cords; no gray pigment is asserted. Centre Pompidou curator Jean-Pierre Criqui independently describes Window III as a white monochrome with string sewn onto canvas. Line thickness and minor joins simplified; frame and wall excluded.",
+    "true_scale_eligible": false,
+    "true_scale_note": "Physical dimensions unresolved; study uses observed normalized aspect.",
+    "reviewed_date": "2026-10-28"
+  }
+}

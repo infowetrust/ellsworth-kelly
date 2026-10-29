@@ -1,0 +1,287 @@
+{
+  "sfmoma-v3:99.359": {
+    "path": "assets/studies/v3-sfmoma-99-359.svg",
+    "colors": [
+      "white",
+      "black"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.sfmoma.org/artwork/99.359/",
+    "reference_id": "research/sfmoma-v3-reference-images/99.359.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Observed black bars and white support retained; wood/gesso texture and age omitted.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:66.3": {
+    "path": "assets/studies/v3-sfmoma-66-3.svg",
+    "colors": [
+      "red",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.sfmoma.org/artwork/66.3/",
+    "reference_id": "research/sfmoma-v3-reference-images/66.3.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Red outer cap and central lower notch hand-traced. Distinct from Fisher FC.566; white painted background remains opaque.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:FC.566": {
+    "path": "assets/studies/v3-sfmoma-fc-566.svg",
+    "colors": [
+      "red",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.sfmoma.org/artwork/FC.566/",
+    "reference_id": "research/sfmoma-v3-reference-images/FC.566.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Observed red figure and two white leaf-like slashes; contour approximate. Distinct from SFMOMA 66.3 and Foundation EK 290.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:FC.713": {
+    "path": "assets/studies/v3-sfmoma-fc-713.svg",
+    "colors": [
+      "red"
+    ],
+    "shape_type": "overlapping rectangles",
+    "reference_url": "https://www.sfmoma.org/artwork/FC.713/",
+    "reference_id": "research/sfmoma-v3-reference-images/FC.713.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Two equal red panels offset diagonally. Thin darker seam is a viewing guide for overlap, not an additional paint colour.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:FC.603": {
+    "path": "assets/studies/v3-sfmoma-fc-603.svg",
+    "colors": [
+      "red"
+    ],
+    "shape_type": "curved panel",
+    "reference_url": "https://www.sfmoma.org/artwork/FC.603/",
+    "reference_id": "research/sfmoma-v3-reference-images/FC.603.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Two sweeping curved boundaries preserved; no photograph shadow or white wall included.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:FC.571": {
+    "path": "assets/studies/v3-sfmoma-fc-571.svg",
+    "colors": [
+      "white"
+    ],
+    "shape_type": "rectangle relief",
+    "reference_url": "https://www.sfmoma.org/artwork/FC.571/",
+    "reference_id": "research/sfmoma-v3-reference-images/FC.571.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Hand-traced raised cutout and strings on a white rectangular support. Neutral contour/string guides distinguish construction; they are not extra grey paint. Depth and fine irregularities omitted.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:FC.558.A-D": {
+    "path": "assets/studies/v3-sfmoma-fc-558-a-d.svg",
+    "colors": [
+      "blue",
+      "green",
+      "black",
+      "red"
+    ],
+    "shape_type": "separate panels",
+    "reference_url": "https://www.sfmoma.org/artwork/FC.558.A-D/",
+    "reference_id": "research/sfmoma-v3-reference-images/FC.558.A-D.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Four 63 × 32 in panels in observed colour order, using the conservation essay’s suggested18 in intervals. Installation spacing varies; this study depicts one arrangement and has no asserted fixed overall width.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:FC.536": {
+    "path": "assets/studies/v3-sfmoma-fc-536.svg",
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "shape_type": "joined polygons",
+    "reference_url": "https://www.sfmoma.org/artwork/FC.536/",
+    "reference_id": "research/sfmoma-v3-reference-images/FC.536.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Blue triangle and adjoining white quadrilateral from actual source; photographic perspective simplified.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:FC.518": {
+    "path": "assets/studies/v3-sfmoma-fc-518.svg",
+    "colors": [
+      "red",
+      "green"
+    ],
+    "shape_type": "joined polygons",
+    "reference_url": "https://www.sfmoma.org/artwork/FC.518/",
+    "reference_id": "research/sfmoma-v3-reference-images/FC.518.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Observed oblique two-panel outline and division preserved; not converted to a horizontal rectangle.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:FC.351": {
+    "path": "assets/studies/v3-sfmoma-fc-351.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "rectangle with curve",
+    "reference_url": "https://www.sfmoma.org/artwork/FC.351/",
+    "reference_id": "research/sfmoma-v3-reference-images/FC.351.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Rectangular black panel and adjoining white half-ellipse preserved; arc control points approximate.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:99.347": {
+    "path": "assets/studies/v3-sfmoma-99-347.svg",
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "shape_type": "rectangle",
+    "reference_url": "https://www.sfmoma.org/artwork/99.347/",
+    "reference_id": "research/sfmoma-v3-reference-images/99.347.jpg",
+    "method": "reference_mask_vector_contours",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Observed blue marks traced from the actual source mask, then polygon-simplified. Source cyan maps to shared blue; linen texture and minor edge noise omitted. No random pattern generated.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:99.345": {
+    "path": "assets/studies/v3-sfmoma-99-345.svg",
+    "colors": [
+      "red",
+      "yellow"
+    ],
+    "shape_type": "joined rectangles",
+    "reference_url": "https://www.sfmoma.org/artwork/99.345/",
+    "reference_id": "research/sfmoma-v3-reference-images/99.345.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Four observed horizontal fields. Red-orange maps to shared red; distinct yellows use three vivid values. Current SFMOMA date 1956; 1973 caption gives 1952–1956.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:99.349": {
+    "path": "assets/studies/v3-sfmoma-99-349.svg",
+    "colors": [
+      "red",
+      "yellow",
+      "blue",
+      "white",
+      "black"
+    ],
+    "shape_type": "joined rectangles",
+    "reference_url": "https://www.sfmoma.org/artwork/99.349/",
+    "reference_id": "research/sfmoma-v3-reference-images/99.349.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Seven observed panels in order blue, red, white, black, yellow, white, blue. White painted borders retained; neutral seam guides are diagrammatic.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:98.376": {
+    "path": "assets/studies/v3-sfmoma-98-376.svg",
+    "colors": [
+      "yellow",
+      "black"
+    ],
+    "shape_type": "triangle relief",
+    "reference_url": "https://www.sfmoma.org/artwork/98.376/",
+    "reference_id": "research/sfmoma-v3-reference-images/98.376.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Black upper panel behind a large left-pointing yellow triangle; depth and shadows omitted.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:FC.465": {
+    "path": "assets/studies/v3-sfmoma-fc-465.svg",
+    "colors": [
+      "purple",
+      "white"
+    ],
+    "shape_type": "joined polygons",
+    "reference_url": "https://www.sfmoma.org/artwork/FC.465/",
+    "reference_id": "research/sfmoma-v3-reference-images/FC.465.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Purple diamond with adjoining smaller white panel; outline and edge meeting approximate.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:FC.310": {
+    "path": "assets/studies/v3-sfmoma-fc-310.svg",
+    "colors": [
+      "black",
+      "white"
+    ],
+    "shape_type": "triangle with diagonal",
+    "reference_url": "https://www.sfmoma.org/artwork/FC.310/",
+    "reference_id": "research/sfmoma-v3-reference-images/FC.310.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Black right triangle and wide white diagonal panel; transparent outside support contours.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:FC.289": {
+    "path": "assets/studies/v3-sfmoma-fc-289.svg",
+    "colors": [
+      "blue"
+    ],
+    "shape_type": "curved polygon",
+    "reference_url": "https://www.sfmoma.org/artwork/FC.289/",
+    "reference_id": "research/sfmoma-v3-reference-images/FC.289.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Curved upper boundary and two straight sides hand-traced; overall aspect uses museum dimensions.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:99.358": {
+    "path": "assets/studies/v3-sfmoma-99-358.svg",
+    "colors": [
+      "white"
+    ],
+    "shape_type": "rectangle relief",
+    "reference_url": "https://www.sfmoma.org/artwork/99.358/",
+    "reference_id": "research/sfmoma-v3-reference-images/99.358.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "White curved raised form over a white rectangular support. Neutral edge guide distinguishes the relief, not grey paint.",
+    "reviewed_date": "2026-10-27"
+  },
+  "sfmoma-v3:99.338": {
+    "path": "assets/studies/v3-sfmoma-99-338.svg",
+    "colors": [
+      "black",
+      "blue"
+    ],
+    "shape_type": "rectangle relief",
+    "reference_url": "https://www.sfmoma.org/artwork/99.338/",
+    "reference_id": "research/sfmoma-v3-reference-images/99.338.jpg",
+    "method": "hand_authored_svg_after_visual_reference",
+    "geometry_confidence": "approximate, checked against source photograph",
+    "palette": "standardized vivid, not colorimetrically measured",
+    "notes": "Museum-classified painting in painted aluminum. Projecting black form is simplified to its observed frontal silhouette; material depth and shadow omitted.",
+    "reviewed_date": "2026-10-27"
+  }
+}

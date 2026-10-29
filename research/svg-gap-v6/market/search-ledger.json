@@ -1,0 +1,82 @@
+[
+  {
+    "route": "Kröller-Müller museum exhibition page",
+    "url": "https://www.krollermuller.nl/en/what-s-on/exhibitions/birds-of-a-feather",
+    "result": "All five color part images publicly available. Web-reader image requests failed; ordinary official CDN requests succeeded. All five personally viewed; paired contact saved."
+  },
+  {
+    "route": "Acquisition partner",
+    "url": "https://www.verenigingrembrandt.nl/nl/kunst/serie-van-vijf-schilderijen",
+    "result": "Primary acquisition-support metadata: each178×356cm, KM111.229, acquired1990fromGertjanVisser."
+  },
+  {
+    "route": "Foundation interactive biography",
+    "url": "https://discoveringek.ellsworthkelly.org/ek-100-chapter-3",
+    "result": "Complete color LaCombeII screen,9hingedpanels. Official displayed asset saved and viewed; 1951date retained as source difference."
+  },
+  {
+    "route": "MoMA Awnings",
+    "url": "https://www.moma.org/collection/works/37179",
+    "result": "Ordinary browser current object496.1997 accessible. Image downloaded from displayed hero img; direct urllib403. Colorphoto reviewed. No login/challenge bypass."
+  },
+  {
+    "route": "E.ON corporate collection publication2014",
+    "url": "https://www.kunst-im-blauen-haus.de/img/aktuell/EON_Art.pdf",
+    "result": "Author metadata E.ONSE, creationJuly2014. Full PDF downloaded; page7actualcolorPaname viewed. Text explicitly monochrome black-white; reflected architecture excluded."
+  },
+  {
+    "route": "MoMA1973 full catalogue",
+    "url": "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+    "result": "Rendered/viewed PDF29,30,40,41,42,71,86. SaintLouisII all-white confirmed by adjacent text. Paname frontal shape verified; Series two parts match newer exactsame colors and original GertjanVisser provenance."
+  },
+  {
+    "route": "Christie WhiteBlack current page",
+    "url": "https://www.christies.com/en/lot/lot-5261477",
+    "result": "Ordinary browser only roundel placeholder, no artwork img. Detailed provenance/literature/exhibition metadata readable; no photograph recovered."
+  },
+  {
+    "route": "Pulitzer2002 public exhibition",
+    "url": "https://pulitzerarts.org/art/selected-works-by-ellsworth-kelly-from-saint-louis-collections/",
+    "result": "All six actual installationphotos saved and personally reviewed. No identified targetWhiteBlack1961view; not enough forFoundationEK246identity."
+  },
+  {
+    "route": "Christie BlueWhite current metadata",
+    "url": "https://www.christies.com/lot/lot-2364185",
+    "result": "Primary metadata only. Cites MFA1982A PrivateVisionp59 and1986BostonCollects; publicly accessible exactimage not recovered. StudyforBlueWhite1980is different object and not substituted."
+  },
+  {
+    "route": "Guggenheim1996 RedCurve adjacent plates",
+    "url": "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=221",
+    "result": "Rendered/viewed PDF220–224. Cat85 remains cropped rightpoint; neighboring pages showcat84caption thencat86triptych andcat87sculpture. No completecontour/medium caption."
+  },
+  {
+    "route": "Exact residual searches",
+    "queries": [
+      "Ellsworth Kelly Grey/GrayPanelsII1974",
+      "Ellsworth Kelly RedYellowBlueVI1968 Agress",
+      "Ellsworth Kelly BlueWhite1980 Gund",
+      "Ellsworth Kelly WhiteBlack1961 Shoenberg",
+      "Kelly FourPanels2015 unfinished",
+      "Ellsworth Kelly KiteI Dallas"
+    ],
+    "result": "No sufficient additional primary image for respective gap. Museum Berlin1976GreyPanels is different title/year/dimensions; no fabricated GreyPanelsII geometry."
+  },
+  {
+    "route": "Sotheby StillLife1984",
+    "url": "https://www.sothebys.com/en/buy/auction/2019/contemporary-art-online/fe5e6b04-63bb-47a9-8ace-a38e561bc649",
+    "result": "Recovered larger1024×755image from actual previously saved page asset list; personally viewed. Fine pencil composition not dropped to make a blue-corner-only SVG."
+  },
+  {
+    "route": "Existing primary gallery candidate color photos",
+    "url": "https://matthewmarks.com/exhibitions/ellsworth-kelly-plant-drawings-05-2017/lightbox/works/42475",
+    "result": "Avocado five paintedgreenleaves now individually hand-traced. GreenFormnewspaper and detailedportrait/lipstickfaces reviewed; no generic substitute supplied."
+  },
+  {
+    "route": "WhiteBlack alternate press/education leads",
+    "urls": [
+      "https://bdk-online.info/app/uploads/sites/3/2020/01/BDK_INFO_17.pdf",
+      "https://www.welt.de/kultur/gallery13706811/Ellsworth-Kelly-in-schwarz-weiss.html"
+    ],
+    "result": "BDK direct URL now redirects to an HTML notice that issues move to member-exclusive access; webreader sees only one replacement notice page. Saved response as bdk2011.html, not a PDF. No access bypass. WELT caption credits Kelly but image returns403 to web and direct request; still no auction identity bridge."
+  }
+]
