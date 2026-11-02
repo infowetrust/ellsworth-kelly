@@ -42,5 +42,10 @@
     "credentials",
     "nested Git repository"
   ],
-  "uploaded_to_github": false
+  "uploaded_to_github": true,
+  "uploaded_date": "2026-11-02",
+  "repository": "https://github.com/infowetrust/ellsworth-kelly",
+  "branch": "main",
+  "verified_initial_commit": "e0f3ada6252bee4e0fb22716901691d1b327d1f8",
+  "fresh_clone_files_verified": 646
 }
