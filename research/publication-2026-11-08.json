@@ -4,8 +4,8 @@
   "visibility": "public",
   "branch": "main",
   "deployed_commit": "da22c28c101f0b6d94f75bf877ee150e1145597f",
-  "site_url": "https://infowetrust.github.io/ellsworth-kelly/",
-  "github_pages": "deployed and verified over HTTPS",
+  "site_url": "http://ellsworth.infowetrust.com/",
+  "github_pages": "Custom domain configured; HTTP content verified; HTTPS certificate issuance and enforcement pending",
   "github_pages_run": "https://github.com/infowetrust/ellsworth-kelly/actions/runs/42500575175",
   "validation_run": "https://github.com/infowetrust/ellsworth-kelly/actions/runs/42500562865",
   "github_actions": "both succeeded",
@@ -16,8 +16,8 @@
   "anonymous_clone_files_verified": 669,
   "deployed_files_byte_verified": 506,
   "custom_domain": "ellsworth.infowetrust.com",
-  "custom_domain_status": "pending Bluehost DNS access; not configured in Pages to preserve working default URL",
-  "dns_changed": false,
+  "custom_domain_status": "CNAME saved in Bluehost and Pages custom domain configured; HTTP verified; HTTPS certificate provisioning pending",
+  "dns_changed": true,
   "dns_required": {
     "type": "CNAME",
     "host": "ellsworth",
@@ -27,5 +27,18 @@
     "original_software": "MIT",
     "original_research": "CC-BY-4.0",
     "artwork_representations": "excluded; rights not cleared for every representation"
-  }
+  },
+  "dns_verified_resolvers": [
+    "ns1.bluehost.com",
+    "ns2.bluehost.com",
+    "1.1.1.1",
+    "8.8.8.8"
+  ],
+  "dns_ttl_seconds": 14400,
+  "https_enforced": false,
+  "certificate_status": "GitHub UI: DNS Check in Progress; TLS certificate provisioning, Certificate Requested (1 of 3); API certificate state new. HTTPS not yet valid.",
+  "http_custom_domain_verified": true,
+  "dns_independent_review": "Both authoritative nameservers and Google/Cloudflare verified; no restrictive parent CAA; target allows letsencrypt.org; no DNS blocker identified.",
+  "initial_site_url": "https://infowetrust.github.io/ellsworth-kelly/",
+  "intended_https_url": "https://ellsworth.infowetrust.com/"
 }
