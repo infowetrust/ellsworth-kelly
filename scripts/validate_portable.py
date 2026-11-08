@@ -1,7 +1,7 @@
 """Validate the distributed catalogue/site without undistributed photo references."""
 from pathlib import Path
 from urllib.parse import urlsplit,parse_qsl
-import hashlib,json,re,xml.etree.ElementTree as ET
+import hashlib,json,re,subprocess,xml.etree.ElementTree as ET
 
 ROOT=Path(__file__).resolve().parents[1]
 def read(p):return json.loads((ROOT/p).read_text())
@@ -30,6 +30,13 @@ for path in assets:
             assert not k.lower().startswith('on'),path
             if k.endswith('href'):assert v.startswith('#'),path
 assert {p.relative_to(ROOT/'site/dist').as_posix() for p in (ROOT/'site/dist/assets/studies').glob('*.svg')}==set(assets)
+V=read('data/visual-attributes.json')
+assert V==read('site/dist/data/visual-attributes.json'),'Browser visual sidecar differs'
+assert V['input_catalogue_sha256']==hashlib.sha256((ROOT/'data/catalogue.json').read_bytes()).hexdigest(),'Stale visual catalog hash'
+assert set(V['works'])=={w['id'] for w in W},'Missing visual attribute slots'
+for w in W:
+    if w.get('image_svg'):
+        assert V['works'][w['id']]['source_sha256']==hashlib.sha256((ROOT/'site/dist'/w['image_svg']).read_bytes()).hexdigest(),'Stale SVG analysis: '+w['id']
 assert E==read('site/dist/data/scale-estimates.json')
 assert E['input_catalogue_sha256']==hashlib.sha256((ROOT/'data/catalogue.json').read_bytes()).hexdigest()
 assert set(E['estimates'])=={w['id'] for w in W if w.get('image_svg') and not w.get('true_scale_eligible')}
@@ -44,7 +51,11 @@ def inspect(value):
         for v in value:inspect(v)
     elif isinstance(value,str) and value.startswith(('http://','https://')):
         assert not any(k.lower() in {'token','access_token','auth_token','session_token'} for k,v in parse_qsl(urlsplit(value).query)),'Session-like URL parameter'
-files=[p for p in ROOT.rglob('*') if p.is_file() and '.git' not in p.relative_to(ROOT).parts]
+try:
+    candidates=subprocess.check_output(['git','ls-files','--cached','--others','--exclude-standard','-z'],cwd=ROOT).decode().split('\0')
+    files=[ROOT/p for p in set(candidates) if p and (ROOT/p).is_file()]
+except (subprocess.CalledProcessError,FileNotFoundError):
+    files=[p for p in ROOT.rglob('*') if p.is_file() and not any(part in {'.git','node_modules','__pycache__'} for part in p.relative_to(ROOT).parts)]
 for p in files:
     rel=p.relative_to(ROOT)
     assert not any(part in {'.openai','node_modules','__pycache__'} for part in rel.parts),str(rel)

@@ -1,0 +1,17 @@
+{
+  "name": "ellsworth-kelly-comparative-study",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Original software for a source-linked comparative study of Ellsworth Kelly's paintings.",
+  "license": "MIT",
+  "scripts": {
+    "build:visuals": "node scripts/build_visual_attributes.cjs",
+    "test": "node tests/visual-attributes.cjs && node tests/gallery-layout.cjs && node scripts/check_scale_estimates.cjs && python3 scripts/validate_portable.py"
+  },
+  "devDependencies": {
+    "sharp": "0.35.5"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}

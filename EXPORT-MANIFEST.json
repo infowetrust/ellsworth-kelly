@@ -47,5 +47,13 @@
   "repository": "https://github.com/infowetrust/ellsworth-kelly",
   "branch": "main",
   "verified_initial_commit": "e0f3ada6252bee4e0fb22716901691d1b327d1f8",
-  "fresh_clone_files_verified": 646
+  "fresh_clone_files_verified": 646,
+  "updated_date": "2026-11-08",
+  "design_revision": "dominant-color-coverage-and-gallery",
+  "visual_attributes": "data/visual-attributes.json",
+  "licenses": {
+    "original_software": "MIT",
+    "original_research_contribution": "CC-BY-4.0",
+    "svg_artwork_representations": "excluded; no blanket reuse permission"
+  }
 }

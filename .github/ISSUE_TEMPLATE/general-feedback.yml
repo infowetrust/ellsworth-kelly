@@ -1,0 +1,26 @@
+name: Website feedback
+description: Report a problem or suggest an improvement to the explorer.
+title: "Website feedback: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        A person must review and submit this form using their own GitHub account. Automated or agent submissions are not accepted. Your issue will be public; do not include personal or confidential information.
+  - type: input
+    id: view_url
+    attributes:
+      label: Page URL
+  - type: textarea
+    id: details
+    attributes:
+      label: Feedback
+      description: What happened, what did you expect, or what would improve the experience?
+    validations:
+      required: true
+  - type: checkboxes
+    id: human_submission
+    attributes:
+      label: Personal submission
+      options:
+        - label: I am submitting this feedback myself. This is not an automated or agent submission.
+          required: true

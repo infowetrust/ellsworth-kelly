@@ -1,4 +1,4 @@
-name: Validate catalogue and vectors
+name: Validate catalog and vectors
 on: [push, pull_request, workflow_dispatch]
 permissions:
   contents: read
@@ -7,5 +7,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: node tests/visual-attributes.cjs
+      - run: node tests/gallery-layout.cjs
       - run: python3 scripts/validate_portable.py
       - run: node scripts/check_scale_estimates.cjs

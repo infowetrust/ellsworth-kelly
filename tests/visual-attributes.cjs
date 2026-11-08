@@ -1,0 +1,38 @@
+'use strict';
+const assert=require('node:assert/strict'),path=require('node:path'),fs=require('node:fs');
+const ROOT=path.resolve(__dirname,'..'),V=require(path.join(ROOT,'site/dist/visual-attributes.js')),B=require(path.join(ROOT,'scripts/build_visual_attributes.cjs'));
+const sharp=B.loadSharp();
+const svg=b=>`<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">${b}</svg>`;
+const rect=(c,color,x,y,w,h)=>`<rect data-colour="${c}" fill="${color}" x="${x}" y="${y}" width="${w}" height="${h}"/>`;
+(async()=>{
+ let a=await B.rasterAttributes(svg(rect('white','#fffefa',0,0,100,100)+rect('blue','#0647cb',0,0,50,100)),sharp);
+ assert(a.dominant_colors.includes('blue'));assert(a.dominant_colors.includes('white'));assert.equal(a.is_monochrome,false);
+ a=await B.rasterAttributes(svg(rect('white','#fffefa',0,0,100,100)+rect('blue','#0647cb',0,0,5,100)),sharp);
+ assert(!a.dominant_colors.includes('blue'),'tiny blue fleck must fail total painted-area guard');assert.equal(a.is_monochrome,false);
+ a=await B.rasterAttributes(svg('<circle data-colour="blue" fill="#0647cb" cx="50" cy="50" r="43"/>'),sharp);
+ assert.equal(a.is_monochrome,true);assert(a.dominant_colors.includes('blue'));assert.equal(a.painted_coverage.white,0,'transparent exterior is not white');
+ a=await B.rasterAttributes(svg(rect('white','#fffefa',0,0,100,100)+rect('blue','#0647cb',0,0,100,100)),sharp);
+ assert.equal(a.is_monochrome,true,'fully occluded paint must not create a second visible color');assert.equal(a.painted_coverage.white,0);
+ a=await B.rasterAttributes(svg(rect('white','#fffefa',0,0,100,100)+rect('white','#c1c0b9',30,0,1,100)),sharp);
+ assert.equal(a.is_monochrome,true,'neutral relief shading retains declared white family');
+ a=await B.rasterAttributes(svg(rect('blue','#0647cb',0,0,100,100)+rect('white','#fffefa',0,0,1,100)),sharp);
+ assert.equal(a.is_monochrome,false,'real small white painted strip is a separate material color');
+ a=await B.rasterAttributes(svg(rect('red','#ec231b',0,0,100/3,100)+rect('yellow','#ffe000',100/3,0,100/3,100)+rect('blue','#0647cb',200/3,0,100/3,100)),sharp);
+ assert.equal(a.is_rainbow,true);assert.equal(a.is_mixed,true);assert.equal(a.is_monochrome,false);
+ a=await B.rasterAttributes(svg(rect('red','#ec231b',0,0,50,100)+rect('blue','#0647cb',50,0,50,100)),sharp);
+ assert.equal(a.is_mixed,true,'balanced red/blue has no unique leader');assert.deepEqual(a.dominant_colors,['blue','red']);
+ a=await B.rasterAttributes(svg(rect('red','#ec231b',0,0,60,100)+rect('blue','#0647cb',60,0,40,100)),sharp);
+ assert.equal(a.is_mixed,false,'sixty/forty has a clear leading hue');
+ a=await B.rasterAttributes(svg(rect('violet','#7338a4',0,0,100,100)),sharp);assert.deepEqual(a.dominant_colors,['purple']);
+ assert.equal(V.inferShapeFamily({shape_type:'white monochrome with string relief'}),'Unclassified','string must not match ring');
+ assert.equal(V.inferShapeFamily({shape_type:'rectangle with curved fields'}),'Rectangle');
+ assert.equal(V.inferShapeFamily({shape_type:'curved floor panel projection'}),'Curved form');assert.equal(V.inferShapeFamily({shape_type:'floor quadrilateral projection'}),'Polygon & diagonal');
+ const A=JSON.parse(fs.readFileSync(path.join(ROOT,'data/visual-attributes.json'))),W=JSON.parse(fs.readFileSync(path.join(ROOT,'data/catalogue.json'))).works;
+ assert.equal(Object.keys(A.works).length,584);assert.equal(A.summary.svg_analyzed,497);
+ for(const w of W){const a=A.works[w.id];assert(a);assert(V.SHAPE_FAMILIES.includes(a.shape_family));assert(!a.dominant_colors.some(c=>['unknown','violet'].includes(c)));if(!w.image_svg){assert.equal(a.has_visual,false);assert.equal(a.is_monochrome,false);assert.deepEqual(a.dominant_colors,[]);}else{assert.equal(a.has_visual,true);const sum=Object.values(a.painted_coverage).reduce((x,y)=>x+y,0);assert(Math.abs(sum-1)<1e-8);assert(a.dominant_colors.every(c=>B.CHROMATIC.includes(c)?a.chromatic_coverage[c]>=.4-1e-9&&a.painted_coverage[c]>=.1-1e-9:a.painted_coverage[c]>=.4-1e-9));}}
+ V.setData(A);assert(V.matchesColor({id:'moma1973-pdf86-caption1'},['rainbow']));assert(V.matchesColor({id:'moma1973-pdf86-caption1'},['mixed']));assert(!V.matchesColor('unrecorded',['blue']));
+ assert.equal(V.normalizeColor('violet'),'purple');assert.equal(V.attribute('unrecorded').is_monochrome,false);
+ const original=JSON.stringify(A);assert.throws(()=>{V.attribute('moma1973-pdf86-caption1').dominant_colors.push('blue');},TypeError,'original classification is immutable even when a preview changes');assert.equal(JSON.stringify(A),original);
+ assert.equal(fs.readFileSync(path.join(ROOT,'data/visual-attributes.json'),'utf8'),fs.readFileSync(path.join(ROOT,'site/dist/data/visual-attributes.json'),'utf8'));
+ console.log('PASS: coverage semantics, alpha, material neutrals, relief shading, rainbow/mixed, 584 mappings, 497 raster analyses, portable sidecar copies.');
+})().catch(e=>{console.error(e);process.exitCode=1;});

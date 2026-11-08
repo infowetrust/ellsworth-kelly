@@ -1,23 +1,27 @@
-# Publishing the atlas
+# Publishing the study
 
-The repository is useful independently of a public website: it preserves source-linked data, editable SVGs, the browser app and research audits.
+The canonical repository is https://github.com/infowetrust/ellsworth-kelly . The static application is `site/dist/`; it has no server, user database, third-party analytics or site credentials.
 
 ## GitHub Pages
 
-1. In repository Settings → Pages, select **GitHub Actions** as the publishing source.
-2. In Actions, choose **Publish atlas to GitHub Pages** and run it. The workflow validates and deploys only `site/dist/`.
-3. GitHub reports the resulting Pages URL. The app uses relative URLs, so it also works at a project path such as `https://infowetrust.github.io/ellsworth-kelly/`.
+Use GitHub Actions as the repository's Pages publishing source. Run **Publish study to GitHub Pages** manually after validation passes. The workflow deploys only `site/dist/`, including its data and SVG studies. Pushes validate changes without automatically deploying them.
 
-The deployment workflow is manual: pushing data does not automatically publish the website. The validation workflow runs on pushes and pull requests.
+Without a custom domain, the project URL is https://infowetrust.github.io/ellsworth-kelly/ . Relative asset paths support the repository path or a custom-domain root.
 
-## Proposed custom domain: ellsworth.infowetrust.com
+## Custom domain
 
-After the Pages site is working:
+Confirmed target: **ellsworth.infowetrust.com**.
 
-1. Set `ellsworth.infowetrust.com` as the custom domain in the repository's Pages settings.
-2. At the DNS provider, add a **CNAME** with host **ellsworth**, targeting **infowetrust.github.io** (the connected GitHub account). The target has no repository path.
-3. Wait for GitHub's DNS check and certificate, then enable **Enforce HTTPS** when available.
+1. Configure that domain in repository Settings → Pages (or the Pages API).
+2. In the DNS manager for `infowetrust.com`, add a **CNAME** with host **ellsworth** and target **infowetrust.github.io**. Do not include a scheme, slash or repository path.
+3. After public DNS resolves and GitHub provisions the certificate, enable **Enforce HTTPS**. Verify the actual HTTPS page before reporting the domain live.
 
-The DNS lookup during preparation returned Bluehost nameservers for infowetrust.com and no CNAME for this subdomain. No DNS records were changed. Confirm the provider before making changes. With a custom Actions workflow, a CNAME file alone does not configure the custom domain; use Pages settings or its API.
+The authoritative nameservers checked on November 8, 2026 were Bluehost's `ns1.bluehost.com` and `ns2.bluehost.com`. DNS editing requires the owner's signed-in account; no DNS credential belongs in this repository. The dated deployment record records what was actually completed, rather than treating this checklist as publication evidence.
 
-Official references: [GitHub Pages publishing sources](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site), [custom domains](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site).
+With an Actions deployment, adding a CNAME file alone does not configure the Pages custom domain. Configure it in Pages settings/API. Configure Pages before pointing DNS, and preserve unrelated DNS records.
+
+## Publication boundary
+
+Only the sanitized portable repository is public. Source photographs, scanned books, raw OCR, local research captures, hosting state and credentials are excluded. `npm test` checks the distributed assets and this boundary. Original software is MIT; original research contributions are CC BY 4.0; the artwork studies and third-party material are excluded from both. See [LICENSING.md](LICENSING.md) and [RIGHTS.md](RIGHTS.md). This scope is not a rights clearance for public display of each artwork study.
+
+Official references: [publishing sources](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site), [custom domains](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site).

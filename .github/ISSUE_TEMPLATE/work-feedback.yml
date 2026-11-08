@@ -1,0 +1,52 @@
+name: Work correction or missing information
+description: Suggest a sourced correction to a work, its metadata, or its SVG study.
+title: "Work correction: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Feedback must be reviewed and submitted by a person using their own GitHub account. Automated or agent submissions are not accepted. This is a public issue: link to public references and do not upload copyrighted photographs or private information.
+  - type: input
+    id: work_id
+    attributes:
+      label: Work ID
+      description: The identifier shown at the bottom of the work details.
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: What needs attention?
+      options:
+        - Missing information
+        - Title, date, medium, or collection
+        - Dimensions or estimated scale
+        - SVG geometry or color
+        - Duplicate identity or classification
+        - Rights or attribution
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: source_url
+    attributes:
+      label: Public source URL
+      description: A museum record, publication, catalogue entry, or other checkable reference.
+  - type: input
+    id: view_url
+    attributes:
+      label: Page where you noticed the issue
+  - type: textarea
+    id: details
+    attributes:
+      label: Correction and evidence
+      description: Explain what should change and how your source supports it. Distinguish confirmed facts from an informed suggestion.
+    validations:
+      required: true
+  - type: checkboxes
+    id: human_submission
+    attributes:
+      label: Personal submission
+      options:
+        - label: I am submitting this feedback myself. This is not an automated or agent submission.
+          required: true
