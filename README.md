@@ -8,6 +8,8 @@ This is an incomplete research inventory, not an authenticated catalogue raisonn
 
 ## Explore
 
+[Open the published study](https://infowetrust.github.io/ellsworth-kelly/) · [All blue SVG studies](https://infowetrust.github.io/ellsworth-kelly/?versions=all&color=blue)
+
 Gallery is the home view. Arrange groups works in evenly spaced category cells, with labeled numeric ranges and no overlapping study bounds. Grid keeps titles and metadata visible. Gallery and Arrange support comparable sizes or relative physical scale; estimated sizes remain separate from recorded measurements. Temporary hiding, recoloring, sources and filtered exports are available.
 
 Dominant colors come from visible painted area in the original SVG, not title or museum tags. A chromatic family must cover at least 40% of chromatic area and 10% of total painted area; neutrals need 40% of painted area. Single color includes shades of one paint family, but excludes a second neutral paint family. Rainbow and Mixed have separate rules. All classifications describe approximate studies, not measured original pigments. See [classification methods](research/visual-attributes.md).

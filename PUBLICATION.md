@@ -4,6 +4,8 @@ The canonical repository is https://github.com/infowetrust/ellsworth-kelly . The
 
 ## GitHub Pages
 
+Published and verified November 8, 2026 at **https://infowetrust.github.io/ellsworth-kelly/**. The repository is public. The custom domain is pending DNS access; no DNS record has been changed. See the [dated deployment record](research/publication-2026-11-08.json).
+
 Use GitHub Actions as the repository's Pages publishing source. Run **Publish study to GitHub Pages** manually after validation passes. The workflow deploys only `site/dist/`, including its data and SVG studies. Pushes validate changes without automatically deploying them.
 
 Without a custom domain, the project URL is https://infowetrust.github.io/ellsworth-kelly/ . Relative asset paths support the repository path or a custom-domain root.

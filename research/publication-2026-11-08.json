@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-08",
+  "repository_url": "https://github.com/infowetrust/ellsworth-kelly",
+  "visibility": "public",
+  "branch": "main",
+  "deployed_commit": "da22c28c101f0b6d94f75bf877ee150e1145597f",
+  "site_url": "https://infowetrust.github.io/ellsworth-kelly/",
+  "github_pages": "deployed and verified over HTTPS",
+  "github_pages_run": "https://github.com/infowetrust/ellsworth-kelly/actions/runs/42500575175",
+  "validation_run": "https://github.com/infowetrust/ellsworth-kelly/actions/runs/42500562865",
+  "github_actions": "both succeeded",
+  "records": 584,
+  "svg_studies": 497,
+  "pending_svg_studies": 87,
+  "scale_estimates": 61,
+  "anonymous_clone_files_verified": 669,
+  "deployed_files_byte_verified": 506,
+  "custom_domain": "ellsworth.infowetrust.com",
+  "custom_domain_status": "pending Bluehost DNS access; not configured in Pages to preserve working default URL",
+  "dns_changed": false,
+  "dns_required": {
+    "type": "CNAME",
+    "host": "ellsworth",
+    "target": "infowetrust.github.io"
+  },
+  "licenses": {
+    "original_software": "MIT",
+    "original_research": "CC-BY-4.0",
+    "artwork_representations": "excluded; rights not cleared for every representation"
+  }
+}
