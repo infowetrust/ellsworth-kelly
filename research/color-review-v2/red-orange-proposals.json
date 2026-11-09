@@ -1,0 +1,4196 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-11-09",
+  "scope": "Red/orange/pink/brown paint families in current SVG studies; proposals only, no SVG or central sidecar changes.",
+  "baseline_color_studies_sha256": "db61b1a317135bf50b99bfe48605b2ca1fcb0fed6246f59a7e87bcc33cff365b",
+  "reviewed": [
+    {
+      "id": "sfmoma-508-1",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.sfmoma.org/artwork/FC.713/",
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-relief-paintings-05-2001/lightbox/works/red-on-red-2001-12571"
+      ],
+      "decision": "correct",
+      "reason": "The user museum photograph and a freshly retrieved primary gallery photograph show both panels as saturated warm red. The brighter museum web photograph has an orange cast. The current automated proposal sampled that one photograph (RGB237,80,50), mapping both panels to orange-leaning #ef4b28. A deliberately chosen warm-scarlet #e52d22 reduces the green/orange component without pushing the paint toward cool pink. Both panels stay the same family and hue; lighting gradients are not invented as different pigments. This is an interpretation, not calibrated paint measurement.",
+      "review_scope": "User photograph plus fresh museum and gallery images individually viewed."
+    },
+    {
+      "id": "whitney-17193",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://whitney.org/collection/works/17193",
+        "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=102",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954/",
+        "https://ellsworthkelly.org/exhibition/kelly-peintures-et-reliefs/",
+        "https://ellsworthkelly.org/chronology/"
+      ],
+      "decision": "correct",
+      "reason": "The Whitney reference shows saturated crimson angular strokes; the automatic carmine proposal is visibly muted and pinker. A cleaner crimson retains the deep red impression without making it vermilion.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "matthewmarks-kite-i-1952-44834",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-color-panels-for-a-large-wall-11-2018/lightbox/works/kite-i-1952-44834",
+        "https://archive.org/download/EllsworthKellyLastPaintings_201811/EllsworthKellyLastPaintings.pdf#page=25",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=53",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954/"
+      ],
+      "decision": "correct",
+      "reason": "The small lower painted rectangle in the primary gallery photograph is a deeper brick red than the current bright scarlet. The adjustment affects that red rectangle only.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "matthewmarks-kele-pa-45015",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-the-naming-of-colors-02-2026/lightbox/works/kele-pa-45015",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-1951-1956/"
+      ],
+      "decision": "correct",
+      "reason": "The first strip in the primary gallery photograph is a saturated deep red. The current automatic carmine looks mauve/pink by comparison; use cleaner crimson.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "ek-173",
+      "families": [
+        "brown"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/brooklyn-bridge-iii/",
+        "https://www.christies.com/en/lot/lot-6076464",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly/"
+      ],
+      "decision": "correct",
+      "reason": "The Foundation photograph shows a reddish burnt-sienna curved field against black; current umber is too gray/taupe. The existing red-brown palette color better preserves that distinction while keeping brown family.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "moma1973-pdf66-caption1",
+      "families": [
+        "orange"
+      ],
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-relief-paintings-05-2001/lightbox/works/orange-red-relief-1959-12569",
+        "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+        "https://www.guggenheim.org/artwork/2066",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=144",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+        "https://ellsworthkelly.org/chronology/"
+      ],
+      "decision": "correct",
+      "reason": "The primary gallery photograph shows a softer, redder coral-orange left panel, distinctly warmer than yellow-orange but lighter than its red neighbor. Current orange bright is too yellow. Leave the right red panel unchanged.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "christies-6168970",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.christies.com/en/lot/lot-6168970"
+      ],
+      "decision": "correct",
+      "reason": "The isolated primary auction photo shows a strong saturated crimson red field; current muted carmine shifts toward dusty pink. Cleaner crimson better preserves its impression.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "modern-v3-1784",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://collection.themodern.org/objects/1784/curved-red-on-blue"
+      ],
+      "decision": "correct",
+      "reason": "The museum image shows the red arc as a dark brick/oxide red against blue, not the current bright coral vermilion. Use oxide while leaving the blue to the other review.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "museum-v2-dia-50442",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://dia.org/collection/blue-red/50442",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-3/"
+      ],
+      "decision": "correct",
+      "reason": "The Dia reference shows the surrounding field as a saturated darker warm red. Current vermilion is substantially lighter/oranger. Use a deeper warm red, without importing white balance from another artwork.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "guggenheim-venice-blue-red",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.guggenheim-venice.it/en/art/works/blue-red/"
+      ],
+      "decision": "correct",
+      "reason": "The Peggy Guggenheim reference shows a deep rusty red upper/side field. Current vermilion is noticeably lighter and pink-coral; oxide restores a deeper warm-red impression.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "guggenheim-venice-green-red",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.guggenheim-venice.it/en/art/works/green-red/"
+      ],
+      "decision": "correct",
+      "reason": "The Peggy Guggenheim reference shows the exposed red band as a darker rusty red. Current vermilion over-brightens it. Keep green unchanged in this proposal.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "christies-5621957",
+      "families": [
+        "orange"
+      ],
+      "source_urls": [
+        "https://www.christies.com/en/lot/lot-5621957"
+      ],
+      "decision": "correct",
+      "reason": "The orange rounded form in the primary auction photo leans strongly toward red-orange. Current orange bright leans yellow-brown. Use red-orange while retaining its existing orange family.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "whitney-2596",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://whitney.org/collection/works/2596",
+        "https://archive.org/download/surfaceedgecolor25whit/surfaceedgecolor25whit.pdf#page=20"
+      ],
+      "decision": "correct",
+      "reason": "The Whitney image shows a highly saturated warm-red ground. Current scarlet is cooler; the modest warm-scarlet adjustment preserves the red impression without using an orange field.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "ek-350",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/red-yellow-blue-ii/",
+        "https://blog.mam.org/2019/05/14/mam-in-full-color/",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=55"
+      ],
+      "decision": "correct",
+      "reason": "The Foundation reference shows the red panel as a clean saturated crimson. Current carmine is duller and pinker. No change proposed for blue or yellow.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "museum-v2-walker-red-yellow-blue-iii",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.walkerart.org/collections/artwork/red-yellow-blue-iii/"
+      ],
+      "decision": "correct",
+      "reason": "The Walker photograph shows the left red panel as a deep brick red rather than muted pink/carmine. Oxide is closer in hue and depth; other panels remain separately reviewed.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "matthewmarks-kele-pa-51514",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-the-naming-of-colors-02-2026/lightbox/works/kele-pa-51514"
+      ],
+      "decision": "correct",
+      "reason": "The current primary gallery photograph shows the top panel as a saturated clean red. The automatic carmine proposal looks dusty/plum. Crimson improves the red-blue contrast without changing support geometry.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "ek-407",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/red-white-blue/",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=175",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-shapes-and-colors-1949-2015/"
+      ],
+      "decision": "correct",
+      "reason": "The Foundation photo shows the top red panel as a burnt rusty red. Current bright vermilion is too light/coral. Use deeper oxide, preserving white and blue.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "hirshhorn-07-2",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://matthewmarks.com/online/30-years-online",
+        "https://hirshhorn.si.edu/collection/artwork/?edanUrl=edanmdm%3Ahmsg_07.2",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/"
+      ],
+      "decision": "correct",
+      "reason": "The Hirshhorn/primary gallery reference shows the left red field as a rusty warm red, substantially darker than current vermilion. Oxide restores that relative depth.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "broad-v3-blue-yellow-red-iv",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.thebroad.org/art/ellsworth-kelly/blue-yellow-red-iv"
+      ],
+      "decision": "correct",
+      "reason": "The Broad image shows a deep warm-red lower panel, not bright orange-coral. Use a saturated deeper warm red. Blue and yellow are outside this assignment.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "ek-451",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/blue-yellow-red-iii/",
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-the-naming-of-colors-02-2026/lightbox/works/kele-pa-51515",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=184",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-at-100/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-shapes-and-colors-1949-2015/"
+      ],
+      "decision": "correct",
+      "reason": "The Foundation image shows the bottom field as a dark rusty red. The current vermilion is much brighter/coral. Use oxide; keep the other colors unchanged.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "north-v4-philadelphia-black-red-orange",
+      "families": [
+        "orange"
+      ],
+      "source_urls": [
+        "https://press.philamuseum.org/embracing-the-contemporary-the-keith-l-and-katherine-sachs-collection/"
+      ],
+      "decision": "correct",
+      "reason": "The Philadelphia reference shows the lower red-orange field as a deeper burnt red-orange, not bright orange. Keep its existing orange family but use a darker burnt-orange tone.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "moca-v3-red-orange",
+      "families": [
+        "orange"
+      ],
+      "source_urls": [
+        "https://www.moca.org/artworks/red-orange",
+        "https://uss58003.s3.amazonaws.com/uploads-migrated/2016/11/London-Publication-2005.pdf"
+      ],
+      "decision": "correct",
+      "reason": "The MOCA photograph shows the shaped canvas as red-orange. Current bright orange is too yellow/brown; use the existing red-orange tone.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "christies-6236039",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.christies.com/en/lot/lot-6236039"
+      ],
+      "decision": "correct",
+      "reason": "The primary auction photo shows a saturated deep crimson curved panel. The current automatic carmine is muted and more purple-pink. Use cleaner crimson.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "museum-v2-grenoble-red-curve-iv",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://images.navigart.fr/1000/5D/65/5D65741.jpg",
+        "https://www.museedegrenoble.fr/oeuvre/1931/1922-red-curve-iv.htm",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=197",
+        "https://ellsworthkelly.org/exhibition/la-couleur-seule-lexperience-du-monochrome-color-alone-the-monochrome-as-experiment/"
+      ],
+      "decision": "correct",
+      "reason": "The museum reference shows a deep blood/crimson red curve. Current carmine looks dusty pink. Cleaner saturated crimson is a closer paint impression.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "sfmoma-501-2",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.sfmoma.org/artwork/FC.558.A-D/",
+        "https://fisher.access.sfmoma.org/501/",
+        "https://www.sfmoma.org/essay/how-to-install-an-ellsworth-kelly-artwork-blue-green-black-red-1996-as-a-case-study/"
+      ],
+      "decision": "correct",
+      "reason": "The SFMOMA photo shows the fourth panel as a clean saturated red. The current automatic carmine is visibly pinker/more muted. Leave the other three panels to their family reviews.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "ek-809",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/orange-red-relief-for-delphine-seyrig/",
+        "https://www.museoreinasofia.es/en/collections/artwork/orange-red-relief-delphine-seyrig",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=232",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/"
+      ],
+      "decision": "correct",
+      "reason": "The Foundation photograph shows the rear red rectangle as a deep saturated crimson. Current muted carmine understates its red saturation; retain the orange relief as-is.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "matthewmarks-red-panel-1996-3727",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-an-installation-seven-new-paintings-10-1996/lightbox/works/red-panel-1996-3727"
+      ],
+      "decision": "correct",
+      "reason": "The isolated primary gallery photograph shows a darker rusty red panel. Current vermilion is brighter and pink-coral. Oxide more closely matches the warm depth.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "matthewmarks-red-orange-curve-1997-5074",
+      "families": [
+        "orange"
+      ],
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-new-paintings-05-1998/lightbox/works/red-orange-curve-1997-5074"
+      ],
+      "decision": "correct",
+      "reason": "The primary gallery reference shows a burnt red-orange curve. Current red-orange is too light/bright; use a deeper burnt orange while preserving its existing family.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "matthewmarks-red-with-white-relief-2002-18628",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-recent-painting-and-sculpture-05-2003/lightbox/works/red-with-white-relief-2002-18628"
+      ],
+      "decision": "correct",
+      "reason": "The gallery photo shows the broad red field as a darker oxide/brick red, markedly deeper than current bright vermilion. White remains unchanged.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "matthewmarks-gold-with-orange-reliefs-2013-37363",
+      "families": [
+        "orange"
+      ],
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-at-ninety-05-2013/lightbox/works/gold-with-orange-reliefs-2013-37363",
+        "https://archive.org/download/EllsworthKelly20132/EllsworthKelly20132.pdf#page=34",
+        "https://www.moma.org/collection/works/216552"
+      ],
+      "decision": "correct",
+      "reason": "The individually viewed primary gallery photograph clearly separates two bright orange reliefs from the gold ground. Current orange/gold assignment nearly collapses their hue into the background. Use tangerine for the shared orange path only; the yellow/gold background is outside this review.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "matthewmarks-orange-relief-with-blue-2011-34997",
+      "families": [
+        "orange"
+      ],
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-los-angeles-01-2012/lightbox/works/orange-relief-with-blue-2011-34997"
+      ],
+      "decision": "correct",
+      "reason": "The gallery photograph shows a luminous yellow-leaning orange relief. Current bright orange is duller/redder; tangerine better preserves its observed impression. Blue is outside this proposal.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "ek-818",
+      "families": [
+        "orange"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/orange-relief-with-green/",
+        "https://www.tate.org.uk/art/artworks/kelly-orange-relief-with-green-t07478",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=234"
+      ],
+      "decision": "correct",
+      "reason": "The Foundation photograph shows a saturated yellow-orange foreground relief. Current orange bright is darker/redder. A tangerine tone preserves the distinction from green without changing family.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "matthewmarks-brown-black-white-2013-39464",
+      "families": [
+        "brown"
+      ],
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-05-2015/lightbox/works/brown-black-white-2013-39464"
+      ],
+      "decision": "correct",
+      "reason": "The isolated primary gallery photograph shows a warm ochre/wood-brown band. Current red-brown is too terracotta. This slightly yellower brown better preserves its impression, leaving black and white unchanged.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "matthewmarks-yellow-relief-over-red-2004-25971",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-new-paintings-11-2006/lightbox/works/yellow-relief-over-red-2004-25971"
+      ],
+      "decision": "correct",
+      "reason": "The full primary gallery photograph was individually viewed: the exposed upper field appears red-orange/vermilion, while the current scarlet is cool red. Propose a cautious warmer vermilion, retaining the documented red family. This does not infer pigment from the title or calibrate from the user photo.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "artic-v4-152757",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.artic.edu/artworks/152757"
+      ],
+      "decision": "correct",
+      "reason": "The isolated Chicago reference shows a clean saturated warm red panel. Current scarlet is cooler; a modest warm-scarlet shift is source-specific and keeps it clearly red.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "artic-v4-196413",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-diagonal-02-2009/lightbox/works/red-diagonal-2007-30770",
+        "https://www.artic.edu/artworks/196413"
+      ],
+      "decision": "correct",
+      "reason": "The Chicago reference shows the raised diagonal as a clean warm red. Current scarlet is cooler; use warm scarlet while retaining the white support.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "ek-961",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/red-relief-with-white/",
+        "https://old.blantonmuseum.org/wp-content/uploads/2021/09/KellyReleaseFINAL.pdf"
+      ],
+      "decision": "correct",
+      "reason": "The Foundation photograph shows the small raised panel as a strong warm red. Current scarlet is cooler; use warm scarlet while preserving the white backing.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "matthewmarks-red-relief-over-white-2013-39470",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-05-2015/lightbox/works/red-relief-over-white-2013-39470"
+      ],
+      "decision": "correct",
+      "reason": "The primary gallery photograph shows a saturated warm-red raised field; current scarlet looks cooler. A modest warm-scarlet adjustment preserves its impression without making it orange.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "matthewmarks-red-white-2014-39473",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-05-2015/lightbox/works/red-white-2014-39473",
+        "https://www.sothebys.com/en/buy/auction/2020/evening-sale-london/ellsworth-kelly-red-white"
+      ],
+      "decision": "correct",
+      "reason": "The primary gallery photo shows both red fields as a clear warm red around the white diagonal. Current scarlet is cooler. Apply the same warm-scarlet tone to both red fields.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "matthewmarks-red-white-black-blue-2014-39472",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-05-2015/lightbox/works/red-white-black-blue-2014-39472"
+      ],
+      "decision": "correct",
+      "reason": "The primary gallery image shows the top strip as a clear saturated warm red. A modest warm-scarlet adjustment is closer than current cool scarlet; the other colors are untouched.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "matthewmarks-blue-black-red-2015-42889",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-last-paintings-05-2017/lightbox/works/blue-black-red-2015-42889",
+        "https://archive.org/download/EllsworthKellyLastPaintings_201811/EllsworthKellyLastPaintings.pdf#page=58"
+      ],
+      "decision": "correct",
+      "reason": "The primary gallery photo shows a bright warm-red right-hand panel. Current scarlet is cooler. Use warm scarlet while leaving blue/black/white unchanged.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "matthewmarks-red-relief-over-white-2012-37111",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-at-ninety-05-2013/lightbox/works/red-relief-over-white-2012-37111",
+        "https://archive.org/download/EllsworthKelly20132/EllsworthKelly20132.pdf#page=8"
+      ],
+      "decision": "correct",
+      "reason": "The primary gallery image shows the raised panel as saturated warm red, with a slight orange lean but not an orange field. Warm scarlet is a closer impression than the cooler current scarlet.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "glenstone-v3-white-red",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.glenstone.org/artworks/white-red"
+      ],
+      "decision": "correct",
+      "reason": "The Glenstone reference shows the red field as a saturated warm red. Current scarlet is cooler; use a modest warm-scarlet shift. The white diagonal remains unchanged.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "ek-455",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.moma.org/d/pdfs/W1siZiIsIjIwMTgvMDYvMTMvOGlvazUweWl5aF9LZWxseV9DaGF0aGFtX1BSRVZJRVcxLnBkZiJdXQ/Kelly_Chatham_PREVIEW1.pdf?sha=cc613fbfe3ec18ec",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-chatham-series/",
+        "https://www.moca.org/artworks/chatham-iv-bluered"
+      ],
+      "decision": "correct",
+      "reason": "An alternate primary MOCA object photograph was individually viewed. The lower panel is unmistakably red-orange, whereas current scarlet is cool red. Retain the legacy red family but use red-orange for this specific panel. The blue panel is separately reviewed.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "bonhams-29474-15a",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://images2.bonhams.com/original?src=Images%2Flive%2F2024-04%2F30%2FS-29474-0-3.pdf#page=71",
+        "https://images2.bonhams.com/original?src=Images%2Flive%2F2024-04%2F30%2FS-29474-0-3.pdf"
+      ],
+      "decision": "correct",
+      "reason": "The primary Bonhams installation photograph shows a fiery warm red-orange diagonal field. Current cool scarlet is less faithful; use vermilion while retaining the white painted area.",
+      "review_scope": "Specific target fields individually adjudicated after reference/current comparison."
+    },
+    {
+      "id": "sfmoma-v3-99-348",
+      "families": [
+        "brown"
+      ],
+      "source_urls": [
+        "https://www.sfmoma.org/artwork/99.348/",
+        "https://archive.org/download/EllsworthKelly20132/EllsworthKelly20132.pdf#page=32",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=95"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "0295dc7dd9e2407c55b7d937d7f70430bf9e36f26047ec21a16dfc2dd7a15079"
+    },
+    {
+      "id": "ek-26",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/fond-jaune/",
+        "https://ellsworthkelly.org/exhibition/kelly-peintures-et-reliefs/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "ba8610ffe1bba6ea955b67bcf33f39e664245078129d41b652a9cf4394de77db"
+    },
+    {
+      "id": "ek-46",
+      "families": [
+        "brown",
+        "orange",
+        "pink",
+        "red"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/colors-for-a-large-wall/",
+        "https://www.moma.org/collection/works/80528",
+        "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=112",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-1951-1956/",
+        "https://ellsworthkelly.org/exhibition/la-couleur-seule-lexperience-du-monochrome-color-alone-the-monochrome-as-experiment/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "111c8b93ce421035634c950797c6ad910cf3a3c92a8cd181ba1fe4f7d2be41a9"
+    },
+    {
+      "id": "moma1973-pdf47-caption1",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.centrepompidou.fr/media/picture/46/9e/469ed3f8f1b27872ac4913017e78fdd5/thumb_large.jpg",
+        "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+        "https://www.centrepompidou.fr/fr/ressources/oeuvre/cBKoBej",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954/",
+        "https://ellsworthkelly.org/chronology/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "a16405f70ba6a041b6b03d490f2418d430f3c0d7cbee74bf3ab59fabed92b500"
+    },
+    {
+      "id": "moma1973-pdf52-caption1",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.fondation-maeght.com/produit/kelly-mediterranee-1952/",
+        "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=54",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954/",
+        "https://ellsworthkelly.org/chronology/"
+      ],
+      "decision": "unresolved",
+      "reason": "No isolated directly usable paint-color reference in this pass: missing image, observation-only record, contextual installation/book page, or museum reproduction. Existing tones retained without a new verified-color claim.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "793d2db169e60070e5b72545ec62cb2c1d4e2708a4c6136162619a37e15e07b8"
+    },
+    {
+      "id": "ek-54",
+      "families": [
+        "orange",
+        "pink"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/painting-for-a-white-wall/",
+        "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+        "https://www.glenstone.org/artworks/painting-for-a-white-wall",
+        "https://matthewmarks.com/artists/ellsworth-kelly/lightbox/works/23942",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=116",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-at-100/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-shapes-and-colors-1949-2015/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "8a4387a238a718dec6db131c67a74538c1efbe3e080b26859ecb19bcf2fcaad1"
+    },
+    {
+      "id": "ek-50",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/red-yellow-blue-white/",
+        "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=114",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paris-new-york-1949-1959/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "d3813d7fcd2fc835e8a70bdbf2fd9888af251fd97e2df8ddfb610c951cae3da3"
+    },
+    {
+      "id": "sfmoma-504-1",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.sfmoma.org/artwork/99.349/",
+        "https://fisher.access.sfmoma.org/504/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "f99c3fc1f124a9207e463698a6599597d5084d1c10b5cbcef9b0acda07810569"
+    },
+    {
+      "id": "moma1973-pdf57-caption1",
+      "families": [
+        "orange",
+        "pink",
+        "red"
+      ],
+      "source_urls": [
+        "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=58",
+        "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "b9ad2be571315af2ec397b203a18058954930d41a2b1c3066c894c767f1c05c8"
+    },
+    {
+      "id": "artic-157156",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.artic.edu/artworks/157156",
+        "https://www.artic.edu/artworks/157156/red-yellow-blue-white-and-black-ii"
+      ],
+      "decision": "unresolved",
+      "reason": "No isolated directly usable paint-color reference in this pass: missing image, observation-only record, contextual installation/book page, or museum reproduction. Existing tones retained without a new verified-color claim.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "7c889e760a6341147a086d14932c2ca998f3b4a389c847e5dfff606872485713"
+    },
+    {
+      "id": "ek-63",
+      "families": [
+        "orange",
+        "pink",
+        "red"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/spectrum-colors-arranged-by-chance/",
+        "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+        "https://www.sfmoma.org/artwork/99.352/",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=110",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-1951-1956/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-spectrum-colors-arranged-by-chance/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "34cced44b7939396ff3adb50cf234238939206666809ccd6a471f27d4ad6f384"
+    },
+    {
+      "id": "ek-59",
+      "families": [
+        "orange",
+        "pink",
+        "red"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/spectrum-i/",
+        "https://fisher.access.sfmoma.org/504/",
+        "https://www.sfmoma.org/artwork/99.353/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "38246287f1934c9fa5b98ebfe4b3f76026a2587f91f3018acd63d4cfd1878ae0"
+    },
+    {
+      "id": "nga-75042",
+      "families": [
+        "orange",
+        "pink"
+      ],
+      "source_urls": [
+        "https://www.nga.gov/artworks/75042",
+        "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-1951-1956/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "17506e8f04510d9a78ad8fd0d0da53b23c5b3d61fe8cdf814b4f6f39354347bd"
+    },
+    {
+      "id": "moma1973-pdf64-caption1",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.sfmoma.org/artwork/99.345/",
+        "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=124",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954/",
+        "https://fisher.access.sfmoma.org/501/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "7cbea96b9c5d41b3a25b2a84593756d2abbf21dafcf72423600e192cd421882b"
+    },
+    {
+      "id": "moma1973-pdf69-caption1",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.glenstone.org/artworks/painting-in-three-panels",
+        "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+        "https://archive.org/download/EllsworthKellyLastPaintings_201811/EllsworthKellyLastPaintings.pdf#page=32",
+        "https://ellsworthkelly.org/chronology/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "3fc13434f47aed22a037bcaeab896544e17c8a83931df890c57c2d5e237b0f61"
+    },
+    {
+      "id": "christies-4315175",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.christies.com/en/lot/lot-4315175"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "12e66d6da07df54bafe411cdf76b5fadeced67d15be01c0bc3d91ff4247eefce"
+    },
+    {
+      "id": "christies-6172963",
+      "families": [
+        "orange"
+      ],
+      "source_urls": [
+        "https://www.christies.com/en/lot/lot-6172963"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "c1d2a2c99565eccdcc23600c819e02b2e39d2745d1611a1fb60badf312c59f39"
+    },
+    {
+      "id": "tate-7889",
+      "families": [
+        "orange"
+      ],
+      "source_urls": [
+        "https://timespans.org/wp-content/uploads/TimeSpans2018.pdf",
+        "https://www.tate.org.uk/art/artworks/kelly-broadway-t00511",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=132",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly/",
+        "https://ellsworthkelly.org/chronology/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "2c1b3bf837ecff87538aeaa157c0140cc5030a73a0a10fe259a85b30630f5977"
+    },
+    {
+      "id": "ek-137",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/west-coast-landscape-study/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "4aa88c92468991fa2248def18145ef1a5337e6761c78ccd8c4be8d673f307be0"
+    },
+    {
+      "id": "north-v4-yale-charter",
+      "families": [
+        "orange"
+      ],
+      "source_urls": [
+        "https://greg.org/archive/2023/01/16/gober-kelly-red-blue.html",
+        "https://artgallery.yale.edu/sites/default/files/publication/pdfs/ag-doc-2106-0001-doc.pdf",
+        "https://ellsworthkelly.org/exhibition/sixteen-americans/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "453d17651fe58624266547cdc8d9a5ba5a46e125a9e22357fd34139c879aac23"
+    },
+    {
+      "id": "ek-206",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/falcon/",
+        "https://www.christies.com/en/lot/lot-1931632",
+        "https://ellsworthkelly.org/exhibition/sixteen-americans/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "8b51ba7e86852c586f8ec1136be0117240d94c4e27e4801e68b7cffcf8f958b4"
+    },
+    {
+      "id": "north-v4-wadsworth-maya",
+      "families": [
+        "orange",
+        "red"
+      ],
+      "source_urls": [
+        "https://www.incollect.com/articles/the-winter-antiques-show-loan-exhibition-legacy-for-the-future-the-wadsworth-atheneum-museum-of-art",
+        "https://www.thewadsworth.org/wp-content/uploads/2014/01/post-war_contemporary_checklist.pdf"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "51b9dd84b3062d31c4fdb48635b2e7fa29042d1e4518cd9c8f4fecc731b36c84"
+    },
+    {
+      "id": "guggenheim1996-cat-33",
+      "families": [
+        "orange",
+        "red"
+      ],
+      "source_urls": [
+        "https://levygorvy.com/wp-content/uploads/Miami-Basel-Brochure-2017-lo-res.pdf#page=7",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=138"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "581949f25c8f67fd40e024d2f67a96898d997abe75c89c49932db8fefbcde655"
+    },
+    {
+      "id": "freeman-pf0898",
+      "families": [
+        "orange"
+      ],
+      "source_urls": [
+        "https://www.peterfreemaninc.com/exhibitions/ellsworth-kelly/selected-works?view=multiple-sliders"
+      ],
+      "decision": "confirmed",
+      "reason": "Full primary Freeman photograph individually re-viewed: the orange X is subtly lighter than its orange ground. Existing separate orange values preserve the observed tonal order; no collapse or recoloring proposed.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "c5d78d4a799a0f941ddf9bc2810f5b9bc320243c51ac9293b35a94dbd2225171"
+    },
+    {
+      "id": "met-481000",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.metmuseum.org/art/collection/search/481000",
+        "https://github.com/metmuseum/openaccess",
+        "https://collectionapi.metmuseum.org/public/collection/v1/objects/481000"
+      ],
+      "decision": "unresolved",
+      "reason": "No isolated directly usable paint-color reference in this pass: missing image, observation-only record, contextual installation/book page, or museum reproduction. Existing tones retained without a new verified-color claim.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "d4cd1c600e7345616c68c7f471477af0035b857f604b88f5dd2ba52352271204"
+    },
+    {
+      "id": "hirshhorn-72-161",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.smithsonianmag.com/arts-culture/why-ellsworth-kelly-was-giant-world-american-art-180957652/",
+        "https://www.si.edu/object/red-white%3Ahmsg_72.161",
+        "https://collections.si.edu/search/results.htm?fq=data_source%3A%22Hirshhorn+Museum+and+Sculpture+Garden%22&q=%22Parke-Bernet+Galleries%22"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "67626bf05442a94a02afc02c1f11eabbf03ad0eba31176a240e27b7215f39a17"
+    },
+    {
+      "id": "whitney-58",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://whitney.org/collection/works/58"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "0f80b646c0fb74bbac6d69ee057347ab46f04f2d11e17ae57217acc38c9d9fb0"
+    },
+    {
+      "id": "cleveland-140139",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.clevelandart.org/art/1964.142",
+        "https://ellsworthkelly.org/chronology/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "63f59bf358674dff658209716a659ac4d4cf83738c0e9aa67b2dcc06b31fb76d"
+    },
+    {
+      "id": "ek-290",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/red-white/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-2/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "7f0f922ec2d7de9ce02b85325139e1deaf8ac9f22407b9a6b34d006c26c22dd1"
+    },
+    {
+      "id": "sfmoma-508-5",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.sfmoma.org/artwork/FC.566/",
+        "https://fisher.access.sfmoma.org/508/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "6107a632a76459730adb5694bf71cb5e2c3568a360b22891b7317373f3c7b35b"
+    },
+    {
+      "id": "sfmoma-v3-66-3",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.sfmoma.org/artwork/66.3/",
+        "https://archive.org/download/EllsworthKelly20132/EllsworthKelly20132.pdf#page=58"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "9580146401b968719cca763b839324ae19ecd1d498e45642493ec890d3f6a268"
+    },
+    {
+      "id": "sothebys-en-buy-auction-2021-contemporary-art-day-auction-5-untitled-17",
+      "families": [
+        "brown"
+      ],
+      "source_urls": [
+        "https://www.sothebys.com/en/buy/auction/2021/contemporary-art-day-auction-5/untitled-17",
+        "https://www.sothebys.com/en/buy/auction/2023/contemporary-discoveries-2/untitled-33"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "4a23a68085bcf9a64eb3ad30f9710d4c756dc80332f1caae9364a8282af53722"
+    },
+    {
+      "id": "ek-288",
+      "families": [
+        "orange"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/yellow-yellow-orange/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-2/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "a3f91c45c97f0c833425fca4f3c3dbc448f668a6d5566a2c95b6cce12ef0f907"
+    },
+    {
+      "id": "freeman-pf0900",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.peterfreemaninc.com/exhibitions/ellsworth-kelly/selected-works?view=multiple-sliders"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "5cbc54eb29aebcce4158c6d26685f257817adc31b648e3df17183c07992cd400"
+    },
+    {
+      "id": "met-489307",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.metmuseum.org/art/collection/search/489307",
+        "https://github.com/metmuseum/openaccess",
+        "https://collectionapi.metmuseum.org/public/collection/v1/objects/489307",
+        "https://ellsworthkelly.org/chronology/"
+      ],
+      "decision": "unresolved",
+      "reason": "No isolated directly usable paint-color reference in this pass: missing image, observation-only record, contextual installation/book page, or museum reproduction. Existing tones retained without a new verified-color claim.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "5697d9e0a85e1512042edb7fa7adcaaa88d32ff38f9a311b8ab15ba171fa7bf2"
+    },
+    {
+      "id": "broad-v3-green-blue-red",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.thebroad.org/art/ellsworth-kelly/green-blue-red",
+        "https://matthewmarks.com/artists/ellsworth-kelly/lightbox/works/17398",
+        "https://archive.org/download/EllsworthKellyLastPaintings_201811/EllsworthKellyLastPaintings.pdf#page=29"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "a4cb463c3b9235a3c31435d342977cb7768207d4a9b7dee0a39f19930351977d"
+    },
+    {
+      "id": "ek-316",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/red-blue-green/",
+        "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+        "https://collection.mcasd.org/objects/3812/red-blue-green",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=154",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "2ce6e5855e6893585e04f3d885bbd75a70f293dab9382f1d803fb7e968757fe2"
+    },
+    {
+      "id": "freeman-pf0405",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.peterfreemaninc.com/exhibitions/ellsworth-kelly/selected-works?view=multiple-sliders"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "e53348a31eceba61fe3cb28789089993df51f3a29d9ac60295d48e6763d984df"
+    },
+    {
+      "id": "international-v4-maeght-red-yellow-blue-i",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.fondation-maeght.com/wp-content/uploads/2022/03/55.-.KELLY-Hellsworth-Red-Yellow-Blue.jpg",
+        "https://www.fondation-maeght.com/ellsworth-kelly-red-yellow-blue-1963-2/",
+        "https://tlmagazine.com/fondation-maeght-summer-2026/?print=true",
+        "https://www.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=55",
+        "https://ellsworthkelly.org/chronology/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "60e07bae3ec8f7ef373471d867f3561cab9dbb3199031923a68118c173d818f3"
+    },
+    {
+      "id": "christies-5498495",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.christies.com/en/lot/lot-5498495"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "12c7840fddf1780203829bae8743a11976c120830c7e0f218e41da1c9e73caba"
+    },
+    {
+      "id": "whitney-67946",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://whitney.org/collection/works/67946"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "1cd902fdb5d9c72cfabba44c5e5e439859dc8f0849eaa9cb92305d9298a4925d"
+    },
+    {
+      "id": "christies-6534249",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.christies.com/en/lot/lot-6534249"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "1f1ca1ec6ce59d23c2b2ac413a0eb13d4a3cab4012e124e8946937f2bed1d815"
+    },
+    {
+      "id": "international-v4-stedelijk-blue-green-red-i",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://sbmk.nl/source/documents/MAWC-publ_web2.pdf",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-and-sculptures-1963-1979/",
+        "https://ellsworthkelly.org/exhibition/exhibition-biennale-xxxiii/",
+        "https://ellsworthkelly.org/chronology/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "922382ee892720bb7af599b576849a73383039a5bcdb16fc4871aa7137e0e4d3"
+    },
+    {
+      "id": "christies-6368817",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.christies.com/en/lot/lot-6368817"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "318aff1593abc6c29174515d152bed8814222b4f25593ba6d406164ebe1143e4"
+    },
+    {
+      "id": "sothebys-en-buy-auction-2025-contemporary-day-auction-green-and-red",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.sothebys.com/en/buy/auction/2025/contemporary-day-auction/green-and-red"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "de081b335b31d21e0c970579d6744a7e639aa9d33af97c2f4f2e948cac2ef0ad"
+    },
+    {
+      "id": "international-v4-ulm-orange-blue",
+      "families": [
+        "orange"
+      ],
+      "source_urls": [
+        "https://museumulm.de/wp-content/uploads/2022/03/SELECTION-OF-WORKS-NEW-GUIDED-TOUR-CONCEPT-FOLLOW-YOUR-NOSE-MUSEUM-ULM-1.pdf",
+        "https://museumulm.de/wp-content/uploads/2024/12/M-Z_TextBook_EN.pdf"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "0466d4bf629539c3950b5436889ba1b4f4b0686aca32a214d59353cd85ae43ee"
+    },
+    {
+      "id": "nga-au-orange-curve-116211",
+      "families": [
+        "orange"
+      ],
+      "source_urls": [
+        "https://artblart.com/tag/lorraine-connelly-northey-lap-lap/",
+        "https://nga.gov.au/stories-ideas/artists-artists-virginia-cuppaidge/",
+        "https://digital.nga.gov.au/archive/americanmasters/works.cfm%3Fwrkirn%3D116211.html"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "79790c68b1fcf818d14406c2d5891f1413470b4ea93d5b6ae8fe6b667b6aef48"
+    },
+    {
+      "id": "short-book-v4-ellsworthkelly20132-19-orange-green",
+      "families": [
+        "orange"
+      ],
+      "source_urls": [
+        "https://archive.org/download/EllsworthKelly20132/EllsworthKelly20132.pdf#page=19",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=157",
+        "https://www.moma.org/collection/works/169949"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "324225dd7b65faa2971773cbe58bf5a5724070f8ec969e1afa4af16bd124819a"
+    },
+    {
+      "id": "whitney-16879",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=77",
+        "https://whitney.org/collection/works/16879",
+        "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "f312b838d9da15c8158af1c916a5a35519679f7a0d8dab08917bd43252f8fc99"
+    },
+    {
+      "id": "museum-v2-walker-red-green-blue",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.walkerart.org/collections/artwork/red-green-blue/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-3/",
+        "https://ellsworthkelly.org/chronology/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "641c881a18b98d9de522e1e58c527c43b1c601ec38ad8f991925e0c4d955c2ee"
+    },
+    {
+      "id": "christies-6369842",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.christies.com/en/lot/lot-6369842"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "605268679e556c300e84ed3c5f15edd9cfbba4c67499902482e755359f4e33f3"
+    },
+    {
+      "id": "seattle-14331",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.artsy.net/artwork/ellsworth-kelly-blue-green-red-ii",
+        "https://art.seattleartmuseum.org/objects/14331/blue-green-red-ii"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "0ca738e42c950cfa6c07a26fee4f66fa06b40070d9cba7f07505c03325221458"
+    },
+    {
+      "id": "christies-4487069",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.christies.com/en/lot/lot-4487069"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "036b877b4608c5a547cbb5a21859284eb19b4a1e6ef8af9382207f93218462e0"
+    },
+    {
+      "id": "ek-351",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/green-red-yellow-blue/",
+        "https://archive.org/download/EllsworthKelly20132/EllsworthKelly20132.pdf#page=20",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=158",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-3/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+        "https://ellsworthkelly.org/exhibition/exhibition-biennale-xxxiii/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "0b9faa6434906f37041cf299e6f375be57ae3f70a1cdeb382dbb36429b5bc13f"
+    },
+    {
+      "id": "ek-348",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/red-blue-green-yellow/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "89e4ee5da2ca8b3439a6639061b82a28f2dbf5304fa6e9d01460454a6aeb2c38"
+    },
+    {
+      "id": "ek-360",
+      "families": [
+        "orange",
+        "red"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/blue-green-yellow-orange-red/",
+        "https://www.guggenheim.org/artwork/2070",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=163",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "ca071bdd85943c1272f9968d29b8034017922096bd4e352213f44f52a011f0b4"
+    },
+    {
+      "id": "ek-356",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/blue-red/",
+        "https://www.sfmoma.org/artwork/99.339.A-B/",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=160",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+        "https://ellsworthkelly.org/exhibition/exhibition-biennale-xxxiii/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "50de1cd096e52b3616337c5041dcd5caf08893b11e1a83046d9ae1fd95d60ee3"
+    },
+    {
+      "id": "north-v4-vmfa-four-panels",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.sfmoma.org/essay/how-to-install-an-ellsworth-kelly-artwork-blue-green-black-red-1996-as-a-case-study/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "3542a9ad89655b2f835867db1de639537ed8f02d1068a5e5fae773cdb44e5fa1"
+    },
+    {
+      "id": "north-v4-baltimore-green-red-yellow-blue",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://artbma.org/artwork/green-red-yellow-blue/",
+        "https://artbma.org/wp-content/uploads/2026/03/BMA_Annual-Report_FY19-1.pdf"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "2530ea4ae22c0aad2aa95b0be7be2f1fe0b6c7f5a285690a3cd9c89c906e6876"
+    },
+    {
+      "id": "sothebys-en-auctions-ecatalogue-2013-may-2013-contemporary-day-n08992-lot-174-html",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.sothebys.com/en/auctions/ecatalogue/2013/may-2013-contemporary-day-n08992/lot.174.html"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "d3c15619fa50c837dd33476498eaa11b10c561eeaf2c5e9d2aa66a8752b3bba4"
+    },
+    {
+      "id": "international-v4-tate-red-white-1966",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.e-flux.com/announcements/121707/christopher-klineo-k-the-musicalellsworth-kelly-in-focusconstellations",
+        "https://assets.publishing.service.gov.uk/media/5a809668ed915d74e622f50b/Tate_annual_report_and_accounts_2014_-_15.pdf",
+        "https://www.tate.org.uk/documents/1048/tate_report1415_updated_uv7SA6h.pdf#page=72"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "b85307b9d1de2f79a4273b8efe6ed618f36bec11979d44ae3494c2a1bb17e694"
+    },
+    {
+      "id": "international-v4-mot-red-yellow-blue",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.praemiumimperiale.org/en/laureate/kelly/",
+        "https://museumcollection.tokyo/works/6382954/",
+        "https://mot-collection-search.jp/en/shiryo/3935/",
+        "https://www.mot-art-museum.jp/exhibitions/List%20of%20Works__Rewinding%20the%20Collection_2020_3.pdf"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "4dc542f93b031b8a7cbdb9a7df3939f7ab192d6e2eaef488c562008937a90ce3"
+    },
+    {
+      "id": "moma1973-pdf86-caption1",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.krollermuller.nl/en/what-s-on/exhibitions/birds-of-a-feather",
+        "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+        "https://www.verenigingrembrandt.nl/nl/kunst/serie-van-vijf-schilderijen"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "b9d20eceed61e3686f92ce2ee50408ed0ea2b1d929a111efd149389930b7c30e"
+    },
+    {
+      "id": "museum-v2-slam-5746",
+      "families": [
+        "orange",
+        "red"
+      ],
+      "source_urls": [
+        "https://www.slam.org/collection/objects/5746/",
+        "https://ellsworthkelly.org/chronology/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "13766221f0c99d5633a0b2e573eea5c973dd875ebcfb3a577dfff77097cd1e90"
+    },
+    {
+      "id": "modern-v3-8497",
+      "families": [
+        "orange",
+        "red"
+      ],
+      "source_urls": [
+        "https://collection.themodern.org/objects/8497/spectrum-iii",
+        "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "9cf5147abcf3c178a3213fb17b870178cb92584d253a2f77129a60120f7e0ee7"
+    },
+    {
+      "id": "moma-79739",
+      "families": [
+        "orange",
+        "red"
+      ],
+      "source_urls": [
+        "https://www.moma.org/collection/works/79739",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=44",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "1f304b70bddd52502614d4fdd7b373039e93f5408a966d38d43afd18d4a3cfb9"
+    },
+    {
+      "id": "mfa-blue-green-yellow-orange-red-1968",
+      "families": [
+        "orange",
+        "red"
+      ],
+      "source_urls": [
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=58",
+        "https://www.mfa.org/news/press-releases/09-20-2010"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "a30457fde98fadde06f56f000dbc95331856e95ed91a63a5600741a8c29ede0f"
+    },
+    {
+      "id": "broad-v3-blue-red",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.thebroad.org/art/ellsworth-kelly/blue-red"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "d93078e64a08282644158e44805c107f1c22376fcc82ad059802af1bfa2092f8"
+    },
+    {
+      "id": "buffalo-k1969-3",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://buffaloakg.org/artworks/k19693-blue-yellow-and-red"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "c75194cba19b0a30b5774a5790ee8f3e546f96010f09549999483c5b1926c6c0"
+    },
+    {
+      "id": "guggenheim1996-essay-56-fig-13",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=56"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "dc3a43449f7989f2562827a6fd6275d6280cb2d8a9d71cec6dc8799cee0b5822"
+    },
+    {
+      "id": "guggenheim1996-cat-52",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=168"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "5bd39ecf6e234568d0cbfa040498147f021ff9d44031585c44a80eb439a30ab1"
+    },
+    {
+      "id": "sfmoma-501-4",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.sfmoma.org/artwork/FC.518/",
+        "https://fisher.access.sfmoma.org/501/",
+        "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-and-sculptures-1963-1979/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "b63ef7fad3b0203f2cf450ec6b94b0d266f4dc93a821e86ff7c1666d7fa5f5be"
+    },
+    {
+      "id": "museum-v2-walker-yellow-red",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.walkerart.org/collections/artwork/yellow-red/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "bd6e8fce8fc081d386a6d2cd6ceda9c78401e2605e2c1aaba0fa54e19ed0a293"
+    },
+    {
+      "id": "ek-422",
+      "families": [
+        "orange",
+        "pink",
+        "red"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/spectrum-v/",
+        "https://www.metmuseum.org/art/collection/search/489800",
+        "https://github.com/metmuseum/openaccess",
+        "https://collectionapi.metmuseum.org/public/collection/v1/objects/489800"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "5fa618b8987929d6588499596a2a6cade6bb7188a8b8b254ce7832d53e2c753c"
+    },
+    {
+      "id": "sothebys-en-auctions-ecatalogue-2007-contemporary-art-evening-n08363-lot-23-html",
+      "families": [
+        "orange",
+        "red"
+      ],
+      "source_urls": [
+        "https://www.sothebys.com/en/auctions/ecatalogue/2007/contemporary-art-evening-n08363/lot.23.html"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "2ba36230046b8c0a15ab4f7feaf9b385a9c304cafb3f4cdc631a2acfbe5529c3"
+    },
+    {
+      "id": "moma1973-pdf95-caption1",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf#page=96",
+        "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "4568e52dbc16852f6592de289e9b90ea8bd758a269387007846aa7ecfc6f21c0"
+    },
+    {
+      "id": "guggenheim1996-cat-60",
+      "families": [
+        "orange"
+      ],
+      "source_urls": [
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=179"
+      ],
+      "decision": "unresolved",
+      "reason": "No isolated directly usable paint-color reference in this pass: missing image, observation-only record, contextual installation/book page, or museum reproduction. Existing tones retained without a new verified-color claim.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "9d471c0a0a1812ad0eafd7346c41c77954c6590f6487259415611cb7d25c00ae"
+    },
+    {
+      "id": "north-v4-carnegie-greenorange",
+      "families": [
+        "orange"
+      ],
+      "source_urls": [
+        "https://collection.carnegieart.org/objects/188e525f-c11a-4a63-b255-7dafd6338eaf"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "c5e9c777a86b1133565dbff43fc582c0657159da79767df9efb1b358ba0edac8"
+    },
+    {
+      "id": "ek-453",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.moma.org/d/pdfs/W1siZiIsIjIwMTgvMDYvMTMvOGlvazUweWl5aF9LZWxseV9DaGF0aGFtX1BSRVZJRVcxLnBkZiJdXQ/Kelly_Chatham_PREVIEW1.pdf?sha=cc613fbfe3ec18ec",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-chatham-series/",
+        "https://matthewmarks.com/artists/ellsworth-kelly/lightbox/works/3562",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=59"
+      ],
+      "decision": "unresolved",
+      "reason": "No isolated directly usable paint-color reference in this pass: missing image, observation-only record, contextual installation/book page, or museum reproduction. Existing tones retained without a new verified-color claim.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases."
+    },
+    {
+      "id": "ek-456",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.moma.org/d/pdfs/W1siZiIsIjIwMTgvMDYvMTMvOGlvazUweWl5aF9LZWxseV9DaGF0aGFtX1BSRVZJRVcxLnBkZiJdXQ/Kelly_Chatham_PREVIEW1.pdf?sha=cc613fbfe3ec18ec",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-chatham-series/",
+        "https://www.glenstone.org/artworks/chatham-v-red-blue"
+      ],
+      "decision": "unresolved",
+      "reason": "No isolated directly usable paint-color reference in this pass: missing image, observation-only record, contextual installation/book page, or museum reproduction. Existing tones retained without a new verified-color claim.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases."
+    },
+    {
+      "id": "moma-79000",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.moma.org/d/pdfs/W1siZiIsIjIwMTgvMDYvMTMvOGlvazUweWl5aF9LZWxseV9DaGF0aGFtX1BSRVZJRVcxLnBkZiJdXQ/Kelly_Chatham_PREVIEW1.pdf?sha=cc613fbfe3ec18ec",
+        "https://www.moma.org/collection/works/79000",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-chatham-series/"
+      ],
+      "decision": "unresolved",
+      "reason": "No isolated directly usable paint-color reference in this pass: missing image, observation-only record, contextual installation/book page, or museum reproduction. Existing tones retained without a new verified-color claim.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases."
+    },
+    {
+      "id": "ek-459",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-chatham-series/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "b7ef3cd832411bf3a3a840cece2ee38dc808d47ce2e33f3c20b3d37cc40c919e"
+    },
+    {
+      "id": "ek-461",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/chatham-x-black-red/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-chatham-series/",
+        "https://www.sothebys.com/en/auctions/ecatalogue/2011/contemporary-art-evening-sale-n08791/lot.24.html"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "8cdd7bdbd1a5cc5a553a0c968ed3f8924c28e33cdbbfe267264ee9cdcb0c715d"
+    },
+    {
+      "id": "ek-464",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-chatham-series/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "70e9f51c5bda395e17da9689fdac1579525a95fae7d882d5ab481aa3baab42d5"
+    },
+    {
+      "id": "guggenheim1996-cat-65",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=187",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=188"
+      ],
+      "decision": "unresolved",
+      "reason": "No isolated directly usable paint-color reference in this pass: missing image, observation-only record, contextual installation/book page, or museum reproduction. Existing tones retained without a new verified-color claim.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "441d97269acb1df4c30c977c37f0e7cfd14a30e172abb57a0115daebb2a6974a"
+    },
+    {
+      "id": "moma1973-pdf102-caption1",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+        "https://sbmk.nl/source/documents/MAWC-publ_web2.pdf"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "50ab1aeee2568be017ff171613ddafd8c4b688769774b22ea7fd2c6d6c3b883a"
+    },
+    {
+      "id": "museum-v2-pompidou-cqp5rjp",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.centrepompidou.fr/media/picture/7d/25/7d259fdc5095f6e32a9351712e06aa11/thumb_large.jpg",
+        "https://www.centrepompidou.fr/fr/ressources/oeuvre/cqp5Rjp"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "f34fc2e809091e7e2b0eea6765c28e35ef8fe794563e9c8760af094afb266b61"
+    },
+    {
+      "id": "museum-v2-reina-yellow-red-curve-i",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://recursos.museoreinasofia.es/styles/large_landscape/public/Obra/AD00130_2.jpg.webp",
+        "https://www.museoreinasofia.es/en/collections/artwork/yellow-red-curve-i/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "89b6935a383551c304773aeb720726de20ae1916566fca5a4754e997dc142e28"
+    },
+    {
+      "id": "ek-502",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/yellow-with-red-triangle/",
+        "https://www.nga.gov/artworks/176393",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=56",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-and-sculptures-1963-1979/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "f40e1ef5671376dff07ae61ff19db7210e8125a4261294753c0be62023ad8e4d"
+    },
+    {
+      "id": "north-v4-addison-green-red-orange",
+      "families": [
+        "orange"
+      ],
+      "source_urls": [
+        "https://addison.andover.edu/wp-content/uploads/Image-Highlights_Playing-to-Our-Strengths.pdf"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "e43aa0bcd38569c58e6db2255eca5f184ec6daf67c497ef72f8012adc972a102"
+    },
+    {
+      "id": "ek-589-2",
+      "families": [
+        "brown",
+        "orange",
+        "red"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/color-panels-for-a-large-wall/",
+        "https://www.nga.gov/artworks/127392"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "47e172ba79d5bd95f7322ce40361249f8a8d5896e74628cf06c866d4b0414193"
+    },
+    {
+      "id": "matthewmarks-color-panels-for-a-large-wall-ii-1978-43938",
+      "families": [
+        "brown",
+        "orange",
+        "red"
+      ],
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-color-panels-for-a-large-wall-11-2018/lightbox/works/color-panels-for-a-large-wall-ii-1978-43938"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "407815a5ffc27018d64a5efb4e5541483752b6b7d72a139b3fdb0ca2396af564"
+    },
+    {
+      "id": "ek-609",
+      "families": [
+        "orange"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/orange-panel/",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=207",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "cb0fd233f290a622263701fa8cffca0812a96aaf1a0695a312adf00eb840ffc7"
+    },
+    {
+      "id": "north-v4-dallas-red-panel",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://blog.dma.org/2015/10/26/red-hot/",
+        "https://texashistory.unt.edu/ark:/67531/metapth307668/m1/88/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "753a2cebdda8d6322f8253a4224154692c13e5a17b73ea8f9c76aec9b4a4f63c"
+    },
+    {
+      "id": "guggenheim1996-cat-79",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=212"
+      ],
+      "decision": "unresolved",
+      "reason": "No isolated directly usable paint-color reference in this pass: missing image, observation-only record, contextual installation/book page, or museum reproduction. Existing tones retained without a new verified-color claim.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "99de8646f1a08b854054ae03f0cecea7e7f1defba2b93991f6ae9c8f373fa9b6"
+    },
+    {
+      "id": "guggenheim1996-essay-68-fig-2c",
+      "families": [
+        "orange"
+      ],
+      "source_urls": [
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=68"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "8f58d46fda92c1f2602e7118e55626e506d99857f87a313ff2255b1e3e400ddc"
+    },
+    {
+      "id": "christies-5792555",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.christies.com/en/lot/lot-5792555",
+        "https://www.christies.com/en/lot/lot-6283800",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=68"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "cfe8de86c01b1b56974a4926e30b08afb780888a4b1137aa8d48043db1e0c62c"
+    },
+    {
+      "id": "high-red-curve-vi",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://high.org/collection/red-curve-vi/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "526e6f1f7866d9e963bd3d7e64221b1fffd9bfdfad8169219e5b7adec09e0f7c"
+    },
+    {
+      "id": "ek-699",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/red-panel/",
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-blue-green-black-red/lightbox/works/kele-pa-48653",
+        "https://ellsworthkelly.org/exhibition/blue-green-black-red/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "bd2530cf6a801c958e9a763b88ee8808a7b4663f72eb599606581b500b7c648b"
+    },
+    {
+      "id": "modern-v3-1783",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://collection.themodern.org/objects/1783/red-panel"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "a35c7e1a98fcda8ca5c293af5d8d14cc7b551146d8d33fac9e58717c5c83fd20"
+    },
+    {
+      "id": "ek-738",
+      "families": [
+        "orange"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/three-panels-orange-dark-gray-green/",
+        "https://www.moma.org/collection/works/80342",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=222",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "c4fc9132207cc27315b0a4e67cde74c148952cb1b9b289919bf2a17b7dd69582"
+    },
+    {
+      "id": "cincinnati-1996-447",
+      "families": [
+        "orange"
+      ],
+      "source_urls": [
+        "https://collection.cincinnatiartmuseum.org/objects/5722/green-panel-with-orange-curve",
+        "https://www.cincinnatiartmuseum.org/about/blog/celebrating-national-pride-month/",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=60"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "1ead9d3a26167a38d2a93b847b6c44e3d59dc4a9e9fdccbc78c4c10360d6380b"
+    },
+    {
+      "id": "artic-v4-152759",
+      "families": [
+        "orange"
+      ],
+      "source_urls": [
+        "https://www.artic.edu/artworks/152759"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "1466a59a11c23c1f2a5697c0a981c2b07a18b108a2d904c923e20bb1a1be67f9"
+    },
+    {
+      "id": "christies-6343207",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.christies.com/en/lot/lot-6343207"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "689efd5070664dd9c3926b3339e920684edc4562e46dd5470dce2ef58fcad7bd"
+    },
+    {
+      "id": "ek-835",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/red-floor-panel/",
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-blue-green-black-red/lightbox/works/kele-sc-48655",
+        "https://ellsworthkelly.org/exhibition/blue-green-black-red/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "7409998e3bf0644f8af21b3cfe0234baacf4ca71abbb906f0773735ea846c6f0"
+    },
+    {
+      "id": "matthewmarks-orange-and-gray-1993-17403",
+      "families": [
+        "orange"
+      ],
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-recent-paintings-10-1994/lightbox/works/orange-and-gray-1993-17403",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=238"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "72fcfa0576b0a8752da1bbfd6ef325dc980dab0ec88b4b16e59bc4d77c2c27df"
+    },
+    {
+      "id": "moma-80300",
+      "families": [
+        "orange"
+      ],
+      "source_urls": [
+        "https://www.moma.org/collection/works/80300"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "4b7b1dff45073cd9d153c385f618905d792ec239c4eb19e702b466a9ce6782bf"
+    },
+    {
+      "id": "matthewmarks-red-curved-panel-1994-2483",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-recent-paintings-10-1994/lightbox/works/red-curved-panel-1994-2483",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=69"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "b04817dfeeeba0dd031804d65db992d217243d5536d4153dc3dbea0032e9f2f3"
+    },
+    {
+      "id": "sfmoma-513-3",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.sfmoma.org/artwork/FC.603/",
+        "https://fisher.access.sfmoma.org/513/",
+        "https://archive.org/download/EllsworthKelly20132/EllsworthKelly20132.pdf#page=32",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=247",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "f47e05bfe3593d8c83d629638cc945e9e1552b0b291e1b2c246ecfd797a71891"
+    },
+    {
+      "id": "matthewmarks-red-violet-curve-1997-5072",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-new-paintings-05-1998/lightbox/works/red-violet-curve-1997-5072"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "0c6fbb2f29f554e686d0b0b2a8c2c412a1411b9a254e7fd7b7bc774e1f689b42"
+    },
+    {
+      "id": "nga-107336",
+      "families": [
+        "orange"
+      ],
+      "source_urls": [
+        "https://www.nga.gov/artworks/107336"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "b92f1bfb4abc51b5882e3d4c9f2a8d36e53cd2c1ab4777911416feb14c65a9c6"
+    },
+    {
+      "id": "ek-896",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/blue-black-red-green/",
+        "https://www.fondationbeyeler.ch/en/collection/digital-collection/blue-black-red-green"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "9d1a31462afe5b9ec334ea24ac15156353d478165a2db0e707128ca106244d88"
+    },
+    {
+      "id": "matthewmarks-red-on-black-2001-12574",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-relief-paintings-05-2001/lightbox/works/red-on-black-2001-12574"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "bc7385d981800b474970ae64db76c5fd96b579cb86800e8264b7f10fd9e772be"
+    },
+    {
+      "id": "matthewmarks-orange-green-2002-18626",
+      "families": [
+        "orange"
+      ],
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-recent-painting-and-sculpture-05-2003/lightbox/works/orange-green-2002-18626"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "d1a002eb1d5139e0cda4333b13a85ea5dc866feeacd04f9c5e259eeacd94f5d3"
+    },
+    {
+      "id": "ek-933",
+      "families": [
+        "orange"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/black-relief-over-yellow-and-orange/",
+        "https://hughlane.ie/whats_on/permanent-collection/",
+        "https://hughlane.ie/whats_on/ellsworth-kelly-drawings-1954-62/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "ee76618bf9294e1f4f914f4307dfa2d66d1a6c10c51e9115554c85794b4ef5f6"
+    },
+    {
+      "id": "ek-922",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/blue-red-green-black/",
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-blue-green-black-red/lightbox/works/blue-red-green-black-2004-25975",
+        "https://ellsworthkelly.org/exhibition/blue-green-black-red/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "3e66212062ba03247dccb407b1e18b8e7d55e0dc650bc50d49a0fb0eb303431e"
+    },
+    {
+      "id": "matthewmarks-25976",
+      "families": [
+        "orange"
+      ],
+      "source_urls": [
+        "https://matthewmarks.com/artists/ellsworth-kelly/lightbox/works/25976"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "094253ef7a99343c327e8268e131ca6ede6ad2ae2e7c2e4a784b790e5cc7d1ae"
+    },
+    {
+      "id": "matthewmarks-red-relief-over-dark-blue-2004-25969",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-new-paintings-11-2006/lightbox/works/red-relief-over-dark-blue-2004-25969"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "0ece922cbd8225359a7b736435d04238977564b9f180fd0a90f5c7c21644dd75"
+    },
+    {
+      "id": "christies-6509442",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.christies.com/en/lot/lot-6509442",
+        "https://ellsworthkelly.org/chronology/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "023814d9d4d5380ef557a2af65b0a92c78f5bf68387269138aba65510e484b20"
+    },
+    {
+      "id": "matthewmarks-blue-green-black-red-2007-31220",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-diagonal-02-2009/lightbox/works/blue-green-black-red-2007-31220",
+        "https://archive.org/download/EllsworthKellyLastPaintings_201811/EllsworthKellyLastPaintings.pdf#page=22"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "6e1310f22703368d183692714e30608caad7c9da40cb7e857ea71c240c433edb"
+    },
+    {
+      "id": "matthewmarks-orange-diagonal-2008-31219",
+      "families": [
+        "orange"
+      ],
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-diagonal-02-2009/lightbox/works/orange-diagonal-2008-31219"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "e1d7d65e700ccb75d12d88a1493118f73ec993cc76b69269d093bef2ef072d36"
+    },
+    {
+      "id": "museum-v2-flv-red-curve",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.fondationlouisvuitton.fr/en/collection/artworks/red-curve-in-relief"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "c15163929e26df456889f7a5a2662d8e2a2ea965bc5ff45102a543be8f80143e"
+    },
+    {
+      "id": "matthewmarks-red-curve-relief-2010-33753",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-reliefs-2009-2010-02-2011/lightbox/works/red-curve-relief-2010-33753"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "f78b77446f5d98e08a6b9b2012c6434af3bbaac409cafc22f06ff9a0ffafae9e"
+    },
+    {
+      "id": "ek-1030",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/work/curves-on-white-four-panels/",
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-at-ninety-05-2013/lightbox/works/curves-on-white-four-panels-2011-35938",
+        "https://archive.org/download/EllsworthKelly20132/EllsworthKelly20132.pdf#page=12"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "6f389a5f71c6bb2d81884a6fc1900220f841200d9ff56f7c85afbd24938566b7"
+    },
+    {
+      "id": "christies-6141788",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-at-ninety-05-2013/lightbox/works/four-panels-2012-37110",
+        "https://www.christies.com/en/lot/lot-6141788",
+        "https://archive.org/download/EllsworthKelly20132/EllsworthKelly20132.pdf#page=38"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "857a7b92b5e32be65a5c59436efed005d0cc227c2333051a84017b2a0bb302cc"
+    },
+    {
+      "id": "international-v4-flv-colored-panels",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://www.fondationlouisvuitton.fr/en/collection/artworks/colored-panels-red-yellow-blue-green-violet"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "3cd6c3d0e8869c249b34a0379bbe0f17a7c2132bcbf6eaca84f44fd41b5f933d"
+    },
+    {
+      "id": "glenstone-v3-spectrum-ix",
+      "families": [
+        "orange",
+        "red"
+      ],
+      "source_urls": [
+        "https://www.glenstone.org/artworks/spectrum-ix",
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-last-paintings-05-2017/lightbox/works/spectrum-ix-2014-42891",
+        "https://archive.org/download/EllsworthKellyLastPaintings_201811/EllsworthKellyLastPaintings.pdf#page=42"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "67b0b9c32546561e3e0439d932efb0cd2ffcc4498dcd8bdbb35e97062253ca67"
+    },
+    {
+      "id": "international-v4-flv-spectrum-viii",
+      "families": [
+        "orange",
+        "red"
+      ],
+      "source_urls": [
+        "https://www.fondationlouisvuitton.fr/en/collection/artworks/spectrum-viii",
+        "https://ellsworthkelly.org/chronology/"
+      ],
+      "decision": "confirmed",
+      "reason": "Reference/current contact comparison shows no material red/orange/pink/brown hue-impression error warranting another change. Current screen approximation retained; this is not pigment calibration.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "472058cd17c5ec6a2841558474ca71bc4aec1668796898a48e17cd5e015bb3f9"
+    },
+    {
+      "id": "foundation-exhib-v4-ek746-ellsworth-kelly-sculpture-on-the-wall",
+      "families": [
+        "red"
+      ],
+      "source_urls": [
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-sculpture-on-the-wall/"
+      ],
+      "decision": "unresolved",
+      "reason": "No isolated directly usable paint-color reference in this pass: missing image, observation-only record, contextual installation/book page, or museum reproduction. Existing tones retained without a new verified-color claim.",
+      "review_scope": "Reference/current contact-sheet color-impression review; full-source inspection for flagged cases.",
+      "reference_sha256": "734ae278632c618d2c428d82d7bc17e55403debab1e5b0919f5f5370c3907332"
+    }
+  ],
+  "corrections": [
+    {
+      "id": "sfmoma-508-1",
+      "assignments": [
+        {
+          "index": 0,
+          "family": "red",
+          "from_expected": "#ef4b28",
+          "to": "#e52d22",
+          "tone": "warm_scarlet"
+        },
+        {
+          "index": 1,
+          "family": "red",
+          "from_expected": "#ef4b28",
+          "to": "#e52d22",
+          "tone": "warm_scarlet"
+        }
+      ],
+      "reason": "The user museum photograph and a freshly retrieved primary gallery photograph show both panels as saturated warm red. The brighter museum web photograph has an orange cast. The current automated proposal sampled that one photograph (RGB237,80,50), mapping both panels to orange-leaning #ef4b28. A deliberately chosen warm-scarlet #e52d22 reduces the green/orange component without pushing the paint toward cool pink. Both panels stay the same family and hue; lighting gradients are not invented as different pigments. This is an interpretation, not calibrated paint measurement.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://www.sfmoma.org/artwork/FC.713/",
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-relief-paintings-05-2001/lightbox/works/red-on-red-2001-12571"
+      ],
+      "evidence": [
+        {
+          "kind": "user_supplied_museum_photo_unpublished",
+          "sha256": "da07dd09b97c74894252c66ef961e9d0b943b179b444a65d6bc2f41f4a4442e4"
+        },
+        {
+          "kind": "fresh_primary_museum_image",
+          "url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/08/18195800/FC.713_10L_KELLY_713R5_p_FINAL-web.jpg",
+          "sha256": "b81360089851ee15a6df3f7cfebf2bd5afb728293309b8a10aa0f0cff8a12d0d"
+        },
+        {
+          "kind": "fresh_primary_gallery_image",
+          "url": "https://cdn.matthewmarks.com/online/red-on-red-2001-12571/_800xAUTO_fit_center-center_none/12571_EK-897_01_silo.jpg",
+          "sha256": "1dccba4709ee4c79152c90906f17197a409342f22e130e7c0b6534d9330ef25b"
+        }
+      ]
+    },
+    {
+      "id": "whitney-17193",
+      "assignments": [
+        {
+          "index": 1,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 2,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 3,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 4,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 5,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 6,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 7,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 8,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 9,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 10,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 11,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 12,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 13,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 14,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 15,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 16,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 17,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 18,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 19,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 20,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 21,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 22,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 23,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 24,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 25,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 26,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 27,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 28,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 29,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 30,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 31,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 32,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 33,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 34,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 35,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 36,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 37,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 38,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 39,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 40,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 41,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 42,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 43,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 44,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 45,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 46,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 47,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 48,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 49,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 50,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 51,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 52,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 53,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 54,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 55,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        },
+        {
+          "index": 56,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        }
+      ],
+      "reason": "The Whitney reference shows saturated crimson angular strokes; the automatic carmine proposal is visibly muted and pinker. A cleaner crimson retains the deep red impression without making it vermilion.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://whitney.org/collection/works/17193",
+        "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=102",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954/",
+        "https://ellsworthkelly.org/exhibition/kelly-peintures-et-reliefs/",
+        "https://ellsworthkelly.org/chronology/"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "a55a197a6e7b4364ab0098df29fe3be2477b32f87753c40a464c83b9ae3b8686"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "matthewmarks-kite-i-1952-44834",
+      "assignments": [
+        {
+          "index": 6,
+          "family": "red",
+          "from_expected": "#dc302f",
+          "to": "#b83b28",
+          "tone": "oxide"
+        }
+      ],
+      "reason": "The small lower painted rectangle in the primary gallery photograph is a deeper brick red than the current bright scarlet. The adjustment affects that red rectangle only.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-color-panels-for-a-large-wall-11-2018/lightbox/works/kite-i-1952-44834",
+        "https://archive.org/download/EllsworthKellyLastPaintings_201811/EllsworthKellyLastPaintings.pdf#page=25",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=53",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954/"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "7eaf293d19066100faf151489f2dd696a99d12d522c4e8d57bc1b0f699a3ff7f"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "matthewmarks-kele-pa-45015",
+      "assignments": [
+        {
+          "index": 0,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        }
+      ],
+      "reason": "The first strip in the primary gallery photograph is a saturated deep red. The current automatic carmine looks mauve/pink by comparison; use cleaner crimson.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-the-naming-of-colors-02-2026/lightbox/works/kele-pa-45015",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-les-annees-francaises-1948-1954-ellsworth-kelly-the-years-in-france-1948-1954/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-paintings-1951-1956/"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "7c6cad81e3f73739b7bfbef26b8226aa140ef09a9b3c4bd5bafc340fd248d0d9"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "ek-173",
+      "assignments": [
+        {
+          "index": 1,
+          "family": "brown",
+          "from_expected": "#77513a",
+          "to": "#914a32",
+          "tone": "red"
+        }
+      ],
+      "reason": "The Foundation photograph shows a reddish burnt-sienna curved field against black; current umber is too gray/taupe. The existing red-brown palette color better preserves that distinction while keeping brown family.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://ellsworthkelly.org/work/brooklyn-bridge-iii/",
+        "https://www.christies.com/en/lot/lot-6076464",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly/"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "34b4d9f1f50fd9be995d12afa38a6d3dde226841a2842f5fec3b0d354a42e4f3"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "moma1973-pdf66-caption1",
+      "assignments": [
+        {
+          "index": 0,
+          "family": "orange",
+          "from_expected": "#ec7627",
+          "to": "#e86d45",
+          "tone": "coral_orange"
+        }
+      ],
+      "reason": "The primary gallery photograph shows a softer, redder coral-orange left panel, distinctly warmer than yellow-orange but lighter than its red neighbor. Current orange bright is too yellow. Leave the right red panel unchanged.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-relief-paintings-05-2001/lightbox/works/orange-red-relief-1959-12569",
+        "https://assets.moma.org/documents/moma_catalogue_2535_300299040.pdf",
+        "https://www.guggenheim.org/artwork/2066",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=144",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/",
+        "https://ellsworthkelly.org/chronology/"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "7e593a55ef8ee380d0d79f681b90afd9b187b86300d044ae729303b6d80a18be"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "christies-6168970",
+      "assignments": [
+        {
+          "index": 1,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        }
+      ],
+      "reason": "The isolated primary auction photo shows a strong saturated crimson red field; current muted carmine shifts toward dusty pink. Cleaner crimson better preserves its impression.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://www.christies.com/en/lot/lot-6168970"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "7ef005ab00bf13b42f39c8c3639e427e62cb1f86d5b3c9f35f187dbd83274fd3"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "modern-v3-1784",
+      "assignments": [
+        {
+          "index": 1,
+          "family": "red",
+          "from_expected": "#ef4b28",
+          "to": "#b83b28",
+          "tone": "oxide"
+        }
+      ],
+      "reason": "The museum image shows the red arc as a dark brick/oxide red against blue, not the current bright coral vermilion. Use oxide while leaving the blue to the other review.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://collection.themodern.org/objects/1784/curved-red-on-blue"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "91eee481558df03615cbdb96832271bdc01f4f9bacef088bd5783cc13e63207c"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "museum-v2-dia-50442",
+      "assignments": [
+        {
+          "index": 0,
+          "family": "red",
+          "from_expected": "#ef4b28",
+          "to": "#c12b22",
+          "tone": "deep_warm_red"
+        }
+      ],
+      "reason": "The Dia reference shows the surrounding field as a saturated darker warm red. Current vermilion is substantially lighter/oranger. Use a deeper warm red, without importing white balance from another artwork.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://dia.org/collection/blue-red/50442",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-3/"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "013beb96ffc19ca4d82a4cb14941546d4f001fb8d32a0d6200ea709976e17ec2"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "guggenheim-venice-blue-red",
+      "assignments": [
+        {
+          "index": 0,
+          "family": "red",
+          "from_expected": "#ef4b28",
+          "to": "#b83b28",
+          "tone": "oxide"
+        }
+      ],
+      "reason": "The Peggy Guggenheim reference shows a deep rusty red upper/side field. Current vermilion is noticeably lighter and pink-coral; oxide restores a deeper warm-red impression.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://www.guggenheim-venice.it/en/art/works/blue-red/"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "a1f33b630b490417d2f614971b647895a1bca6132432547c04ccadf88d468f52"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "guggenheim-venice-green-red",
+      "assignments": [
+        {
+          "index": 0,
+          "family": "red",
+          "from_expected": "#ef4b28",
+          "to": "#b83b28",
+          "tone": "oxide"
+        }
+      ],
+      "reason": "The Peggy Guggenheim reference shows the exposed red band as a darker rusty red. Current vermilion over-brightens it. Keep green unchanged in this proposal.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://www.guggenheim-venice.it/en/art/works/green-red/"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "94753d9f0897117185614535a9b2690605e0cce8c37d2e2c3287757904ee3b6e"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "christies-5621957",
+      "assignments": [
+        {
+          "index": 1,
+          "family": "orange",
+          "from_expected": "#ec7627",
+          "to": "#ef5825",
+          "tone": "red_orange"
+        }
+      ],
+      "reason": "The orange rounded form in the primary auction photo leans strongly toward red-orange. Current orange bright leans yellow-brown. Use red-orange while retaining its existing orange family.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://www.christies.com/en/lot/lot-5621957"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "c4ed15916d222f7f8ba86dd80131e0b187641aac5394b944a580da11586e53ee"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "whitney-2596",
+      "assignments": [
+        {
+          "index": 0,
+          "family": "red",
+          "from_expected": "#dc302f",
+          "to": "#e52d22",
+          "tone": "warm_scarlet"
+        }
+      ],
+      "reason": "The Whitney image shows a highly saturated warm-red ground. Current scarlet is cooler; the modest warm-scarlet adjustment preserves the red impression without using an orange field.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://whitney.org/collection/works/2596",
+        "https://archive.org/download/surfaceedgecolor25whit/surfaceedgecolor25whit.pdf#page=20"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "0a16cd1d39ab50177f1ebe70a2a90dbae9f9e2b7db7e86f73935f8eb590cb930"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "ek-350",
+      "assignments": [
+        {
+          "index": 0,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        }
+      ],
+      "reason": "The Foundation reference shows the red panel as a clean saturated crimson. Current carmine is duller and pinker. No change proposed for blue or yellow.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://ellsworthkelly.org/work/red-yellow-blue-ii/",
+        "https://blog.mam.org/2019/05/14/mam-in-full-color/",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=55"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "300cdd6bb2eac002686d850ebc59cd00d00eddb4fe3775e5f65a4eaea69d2593"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "museum-v2-walker-red-yellow-blue-iii",
+      "assignments": [
+        {
+          "index": 0,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#b83b28",
+          "tone": "oxide"
+        }
+      ],
+      "reason": "The Walker photograph shows the left red panel as a deep brick red rather than muted pink/carmine. Oxide is closer in hue and depth; other panels remain separately reviewed.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://www.walkerart.org/collections/artwork/red-yellow-blue-iii/"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "e3304d2fb85165277661b0af14ff3bc3e152330e411ae94daacbf1bd780e3ae6"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "matthewmarks-kele-pa-51514",
+      "assignments": [
+        {
+          "index": 0,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        }
+      ],
+      "reason": "The current primary gallery photograph shows the top panel as a saturated clean red. The automatic carmine proposal looks dusty/plum. Crimson improves the red-blue contrast without changing support geometry.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-the-naming-of-colors-02-2026/lightbox/works/kele-pa-51514"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "8dc6ef06a6c82f5ca5305d2343662fdda4c0009dab53fe2b1c3b3608a16bcf5d"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "ek-407",
+      "assignments": [
+        {
+          "index": 0,
+          "family": "red",
+          "from_expected": "#ef4b28",
+          "to": "#b83b28",
+          "tone": "oxide"
+        }
+      ],
+      "reason": "The Foundation photo shows the top red panel as a burnt rusty red. Current bright vermilion is too light/coral. Use deeper oxide, preserving white and blue.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://ellsworthkelly.org/work/red-white-blue/",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=175",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-shapes-and-colors-1949-2015/"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "c5b27ea1c77f52e35f69b6d00dc20a52ce43fe69ff81913ad1b5c28ff875a94f"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "hirshhorn-07-2",
+      "assignments": [
+        {
+          "index": 0,
+          "family": "red",
+          "from_expected": "#ef4b28",
+          "to": "#b83b28",
+          "tone": "oxide"
+        }
+      ],
+      "reason": "The Hirshhorn/primary gallery reference shows the left red field as a rusty warm red, substantially darker than current vermilion. Oxide restores that relative depth.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://matthewmarks.com/online/30-years-online",
+        "https://hirshhorn.si.edu/collection/artwork/?edanUrl=edanmdm%3Ahmsg_07.2",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-4/"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "68ce89803db735a8822807890def91dc5a6351e85a47a59d1a024b87e490b667"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "broad-v3-blue-yellow-red-iv",
+      "assignments": [
+        {
+          "index": 2,
+          "family": "red",
+          "from_expected": "#ef4b28",
+          "to": "#c12b22",
+          "tone": "deep_warm_red"
+        }
+      ],
+      "reason": "The Broad image shows a deep warm-red lower panel, not bright orange-coral. Use a saturated deeper warm red. Blue and yellow are outside this assignment.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://www.thebroad.org/art/ellsworth-kelly/blue-yellow-red-iv"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "16c99603672a019de473c366b5f6abbd6566642fffe8a1ee397711bf2b31677d"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "ek-451",
+      "assignments": [
+        {
+          "index": 2,
+          "family": "red",
+          "from_expected": "#ef4b28",
+          "to": "#b83b28",
+          "tone": "oxide"
+        }
+      ],
+      "reason": "The Foundation image shows the bottom field as a dark rusty red. The current vermilion is much brighter/coral. Use oxide; keep the other colors unchanged.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://ellsworthkelly.org/work/blue-yellow-red-iii/",
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-the-naming-of-colors-02-2026/lightbox/works/kele-pa-51515",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=184",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-at-100/",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-shapes-and-colors-1949-2015/"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "32cf2ca766fb62eec84477652cf0991e1cd59d33f7039300da8e45102d2b9cc8"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "north-v4-philadelphia-black-red-orange",
+      "assignments": [
+        {
+          "index": 0,
+          "family": "orange",
+          "from_expected": "#ef5825",
+          "to": "#c0442a",
+          "tone": "burnt_orange"
+        }
+      ],
+      "reason": "The Philadelphia reference shows the lower red-orange field as a deeper burnt red-orange, not bright orange. Keep its existing orange family but use a darker burnt-orange tone.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://press.philamuseum.org/embracing-the-contemporary-the-keith-l-and-katherine-sachs-collection/"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "5dbf136b135e8fbfa3b15febe4a0c39668790bc9fd1dfcebbec3b53d2af33dc4"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "moca-v3-red-orange",
+      "assignments": [
+        {
+          "index": 0,
+          "family": "orange",
+          "from_expected": "#ec7627",
+          "to": "#ef5825",
+          "tone": "red_orange"
+        }
+      ],
+      "reason": "The MOCA photograph shows the shaped canvas as red-orange. Current bright orange is too yellow/brown; use the existing red-orange tone.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://www.moca.org/artworks/red-orange",
+        "https://uss58003.s3.amazonaws.com/uploads-migrated/2016/11/London-Publication-2005.pdf"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "0c7fc33f1e56bb294fcfd100f047befb7154900c74ce09786cf2477495a7498a"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "christies-6236039",
+      "assignments": [
+        {
+          "index": 0,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        }
+      ],
+      "reason": "The primary auction photo shows a saturated deep crimson curved panel. The current automatic carmine is muted and more purple-pink. Use cleaner crimson.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://www.christies.com/en/lot/lot-6236039"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "8e70c77f67c33485a9a84f04238118b5b8300d83436aee718ca94bf73ac78478"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "museum-v2-grenoble-red-curve-iv",
+      "assignments": [
+        {
+          "index": 1,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        }
+      ],
+      "reason": "The museum reference shows a deep blood/crimson red curve. Current carmine looks dusty pink. Cleaner saturated crimson is a closer paint impression.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://images.navigart.fr/1000/5D/65/5D65741.jpg",
+        "https://www.museedegrenoble.fr/oeuvre/1931/1922-red-curve-iv.htm",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=197",
+        "https://ellsworthkelly.org/exhibition/la-couleur-seule-lexperience-du-monochrome-color-alone-the-monochrome-as-experiment/"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "40dc8b2892d97d1d166c0e3067c0e17b048ee021923f34312e67cb79a65a686a"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "sfmoma-501-2",
+      "assignments": [
+        {
+          "index": 3,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        }
+      ],
+      "reason": "The SFMOMA photo shows the fourth panel as a clean saturated red. The current automatic carmine is visibly pinker/more muted. Leave the other three panels to their family reviews.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://www.sfmoma.org/artwork/FC.558.A-D/",
+        "https://fisher.access.sfmoma.org/501/",
+        "https://www.sfmoma.org/essay/how-to-install-an-ellsworth-kelly-artwork-blue-green-black-red-1996-as-a-case-study/"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "c6a3bf73856c163846ab793f82dd2551b08ec35b0ff7c06f4e777b0d6dec288f"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "ek-809",
+      "assignments": [
+        {
+          "index": 0,
+          "family": "red",
+          "from_expected": "#b72f42",
+          "to": "#c92132",
+          "tone": "crimson"
+        }
+      ],
+      "reason": "The Foundation photograph shows the rear red rectangle as a deep saturated crimson. Current muted carmine understates its red saturation; retain the orange relief as-is.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://ellsworthkelly.org/work/orange-red-relief-for-delphine-seyrig/",
+        "https://www.museoreinasofia.es/en/collections/artwork/orange-red-relief-delphine-seyrig",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=232",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-a-retrospective/"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "f6ee0dd95ec2e50f1c6f2456fdb2fc47775dbe01adb7d982a3947bf180146f01"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "matthewmarks-red-panel-1996-3727",
+      "assignments": [
+        {
+          "index": 0,
+          "family": "red",
+          "from_expected": "#ef4b28",
+          "to": "#b83b28",
+          "tone": "oxide"
+        }
+      ],
+      "reason": "The isolated primary gallery photograph shows a darker rusty red panel. Current vermilion is brighter and pink-coral. Oxide more closely matches the warm depth.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-an-installation-seven-new-paintings-10-1996/lightbox/works/red-panel-1996-3727"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "e141d64e1a1cb8a9fe81391fef39c69e7cf340c574faddb39ef803b60c78d82b"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "matthewmarks-red-orange-curve-1997-5074",
+      "assignments": [
+        {
+          "index": 0,
+          "family": "orange",
+          "from_expected": "#ef5825",
+          "to": "#c0442a",
+          "tone": "burnt_orange"
+        }
+      ],
+      "reason": "The primary gallery reference shows a burnt red-orange curve. Current red-orange is too light/bright; use a deeper burnt orange while preserving its existing family.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-new-paintings-05-1998/lightbox/works/red-orange-curve-1997-5074"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "bd67507ba7c46404d7e8f83c4025f56122c4ee19a44f16ca485154f992bb5114"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "matthewmarks-red-with-white-relief-2002-18628",
+      "assignments": [
+        {
+          "index": 0,
+          "family": "red",
+          "from_expected": "#ef4b28",
+          "to": "#b83b28",
+          "tone": "oxide"
+        }
+      ],
+      "reason": "The gallery photo shows the broad red field as a darker oxide/brick red, markedly deeper than current bright vermilion. White remains unchanged.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-recent-painting-and-sculpture-05-2003/lightbox/works/red-with-white-relief-2002-18628"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "3b5c3e292466f48b86cf558725cd784daff01c9ce6f00e8c670ceace12a4e9ca"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "matthewmarks-gold-with-orange-reliefs-2013-37363",
+      "assignments": [
+        {
+          "index": 1,
+          "family": "orange",
+          "from_expected": "#ebae2b",
+          "to": "#f18a24",
+          "tone": "tangerine"
+        }
+      ],
+      "reason": "The individually viewed primary gallery photograph clearly separates two bright orange reliefs from the gold ground. Current orange/gold assignment nearly collapses their hue into the background. Use tangerine for the shared orange path only; the yellow/gold background is outside this review.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-at-ninety-05-2013/lightbox/works/gold-with-orange-reliefs-2013-37363",
+        "https://archive.org/download/EllsworthKelly20132/EllsworthKelly20132.pdf#page=34",
+        "https://www.moma.org/collection/works/216552"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "f8e9b3eb9d64549c3d3fd0642a0a5a01bf81e614f46049e86ac9759801866951"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "matthewmarks-orange-relief-with-blue-2011-34997",
+      "assignments": [
+        {
+          "index": 1,
+          "family": "orange",
+          "from_expected": "#ec7627",
+          "to": "#f18a24",
+          "tone": "tangerine"
+        }
+      ],
+      "reason": "The gallery photograph shows a luminous yellow-leaning orange relief. Current bright orange is duller/redder; tangerine better preserves its observed impression. Blue is outside this proposal.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-los-angeles-01-2012/lightbox/works/orange-relief-with-blue-2011-34997"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "1b2cea09ae4099086384ee7b90eb0661b911dd99f326d3f94c96a60038f69156"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "ek-818",
+      "assignments": [
+        {
+          "index": 1,
+          "family": "orange",
+          "from_expected": "#ec7627",
+          "to": "#f18a24",
+          "tone": "tangerine"
+        }
+      ],
+      "reason": "The Foundation photograph shows a saturated yellow-orange foreground relief. Current orange bright is darker/redder. A tangerine tone preserves the distinction from green without changing family.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://ellsworthkelly.org/work/orange-relief-with-green/",
+        "https://www.tate.org.uk/art/artworks/kelly-orange-relief-with-green-t07478",
+        "https://archive.org/download/ellswo00kell/ellswo00kell.pdf#page=234"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "5cb0f5d6adcb438726247852620e294e602850cb06dd3ecb38e4bd995abda383"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "matthewmarks-brown-black-white-2013-39464",
+      "assignments": [
+        {
+          "index": 0,
+          "family": "brown",
+          "from_expected": "#914a32",
+          "to": "#8f602e",
+          "tone": "ochre_brown"
+        }
+      ],
+      "reason": "The isolated primary gallery photograph shows a warm ochre/wood-brown band. Current red-brown is too terracotta. This slightly yellower brown better preserves its impression, leaving black and white unchanged.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-05-2015/lightbox/works/brown-black-white-2013-39464"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "19cdce504b7a1c66ca57b47cb6ef7be43e47e35c9a59b9ef12a80b59f9854efc"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "matthewmarks-yellow-relief-over-red-2004-25971",
+      "assignments": [
+        {
+          "index": 0,
+          "family": "red",
+          "from_expected": "#dc302f",
+          "to": "#ef4b28",
+          "tone": "vermilion"
+        }
+      ],
+      "reason": "The full primary gallery photograph was individually viewed: the exposed upper field appears red-orange/vermilion, while the current scarlet is cool red. Propose a cautious warmer vermilion, retaining the documented red family. This does not infer pigment from the title or calibrate from the user photo.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-new-paintings-11-2006/lightbox/works/yellow-relief-over-red-2004-25971"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "572ef98f8d952ae94aebb66b41719c11d5c21c689e84735a04c39caff9d16c13"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "artic-v4-152757",
+      "assignments": [
+        {
+          "index": 0,
+          "family": "red",
+          "from_expected": "#dc302f",
+          "to": "#e52d22",
+          "tone": "warm_scarlet"
+        }
+      ],
+      "reason": "The isolated Chicago reference shows a clean saturated warm red panel. Current scarlet is cooler; a modest warm-scarlet shift is source-specific and keeps it clearly red.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://www.artic.edu/artworks/152757"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "3ad3cd41dc0143f00ba80a81a3f1908c6d053f4bbb05f8b8821e300b00bb21eb"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "artic-v4-196413",
+      "assignments": [
+        {
+          "index": 1,
+          "family": "red",
+          "from_expected": "#dc302f",
+          "to": "#e52d22",
+          "tone": "warm_scarlet"
+        }
+      ],
+      "reason": "The Chicago reference shows the raised diagonal as a clean warm red. Current scarlet is cooler; use warm scarlet while retaining the white support.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-diagonal-02-2009/lightbox/works/red-diagonal-2007-30770",
+        "https://www.artic.edu/artworks/196413"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "04da4e977a4cc1c5311eca912affbf8c2fcfa41a37e1b45fecd37b2ab16146b4"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "ek-961",
+      "assignments": [
+        {
+          "index": 1,
+          "family": "red",
+          "from_expected": "#dc302f",
+          "to": "#e52d22",
+          "tone": "warm_scarlet"
+        }
+      ],
+      "reason": "The Foundation photograph shows the small raised panel as a strong warm red. Current scarlet is cooler; use warm scarlet while preserving the white backing.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://ellsworthkelly.org/work/red-relief-with-white/",
+        "https://old.blantonmuseum.org/wp-content/uploads/2021/09/KellyReleaseFINAL.pdf"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "f40ca291a48a1ebb39dd8426080d78f5e31838a359c814e2a8703ee4488a57c6"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "matthewmarks-red-relief-over-white-2013-39470",
+      "assignments": [
+        {
+          "index": 1,
+          "family": "red",
+          "from_expected": "#dc302f",
+          "to": "#e52d22",
+          "tone": "warm_scarlet"
+        }
+      ],
+      "reason": "The primary gallery photograph shows a saturated warm-red raised field; current scarlet looks cooler. A modest warm-scarlet adjustment preserves its impression without making it orange.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-05-2015/lightbox/works/red-relief-over-white-2013-39470"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "84972a2ba7b699ae5ee43918a0fce4242fbb0e846b51ba33c037a1614f906483"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "matthewmarks-red-white-2014-39473",
+      "assignments": [
+        {
+          "index": 0,
+          "family": "red",
+          "from_expected": "#dc302f",
+          "to": "#e52d22",
+          "tone": "warm_scarlet"
+        },
+        {
+          "index": 2,
+          "family": "red",
+          "from_expected": "#dc302f",
+          "to": "#e52d22",
+          "tone": "warm_scarlet"
+        }
+      ],
+      "reason": "The primary gallery photo shows both red fields as a clear warm red around the white diagonal. Current scarlet is cooler. Apply the same warm-scarlet tone to both red fields.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-05-2015/lightbox/works/red-white-2014-39473",
+        "https://www.sothebys.com/en/buy/auction/2020/evening-sale-london/ellsworth-kelly-red-white"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "638c0df79c19560a0c2e1d0b76e827e9d0c7fd6a3d138a8c7d4d6d697754887f"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "matthewmarks-red-white-black-blue-2014-39472",
+      "assignments": [
+        {
+          "index": 0,
+          "family": "red",
+          "from_expected": "#dc302f",
+          "to": "#e52d22",
+          "tone": "warm_scarlet"
+        }
+      ],
+      "reason": "The primary gallery image shows the top strip as a clear saturated warm red. A modest warm-scarlet adjustment is closer than current cool scarlet; the other colors are untouched.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-05-2015/lightbox/works/red-white-black-blue-2014-39472"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "ecd8e53bc599026c02262cd51f1bad3850201f4cdfcd4e61d6c9fef823fc3f79"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "matthewmarks-blue-black-red-2015-42889",
+      "assignments": [
+        {
+          "index": 3,
+          "family": "red",
+          "from_expected": "#dc302f",
+          "to": "#e52d22",
+          "tone": "warm_scarlet"
+        }
+      ],
+      "reason": "The primary gallery photo shows a bright warm-red right-hand panel. Current scarlet is cooler. Use warm scarlet while leaving blue/black/white unchanged.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-last-paintings-05-2017/lightbox/works/blue-black-red-2015-42889",
+        "https://archive.org/download/EllsworthKellyLastPaintings_201811/EllsworthKellyLastPaintings.pdf#page=58"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "78ba2448503c79a3734dece1367e8d9718c42bc2d1df9108dbd32190fdd7c2ba"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "matthewmarks-red-relief-over-white-2012-37111",
+      "assignments": [
+        {
+          "index": 1,
+          "family": "red",
+          "from_expected": "#dc302f",
+          "to": "#e52d22",
+          "tone": "warm_scarlet"
+        }
+      ],
+      "reason": "The primary gallery image shows the raised panel as saturated warm red, with a slight orange lean but not an orange field. Warm scarlet is a closer impression than the cooler current scarlet.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://matthewmarks.com/exhibitions/ellsworth-kelly-at-ninety-05-2013/lightbox/works/red-relief-over-white-2012-37111",
+        "https://archive.org/download/EllsworthKelly20132/EllsworthKelly20132.pdf#page=8"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "65584bd7976b8bc1aa845d84e078fb84c0c3844b81c4d16c9eceeafb6d73dd28"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "glenstone-v3-white-red",
+      "assignments": [
+        {
+          "index": 0,
+          "family": "red",
+          "from_expected": "#dc302f",
+          "to": "#e52d22",
+          "tone": "warm_scarlet"
+        }
+      ],
+      "reason": "The Glenstone reference shows the red field as a saturated warm red. Current scarlet is cooler; use a modest warm-scarlet shift. The white diagonal remains unchanged.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://www.glenstone.org/artworks/white-red"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "b49352134332f88e59f6ebb6e5f4fc44091871ef99d17745ca528e4121d02dd8"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "ek-455",
+      "assignments": [
+        {
+          "index": 1,
+          "family": "red",
+          "from_expected": "#dc302f",
+          "to": "#ef5825",
+          "tone": "red_orange"
+        }
+      ],
+      "reason": "An alternate primary MOCA object photograph was individually viewed. The lower panel is unmistakably red-orange, whereas current scarlet is cool red. Retain the legacy red family but use red-orange for this specific panel. The blue panel is separately reviewed.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://www.moma.org/d/pdfs/W1siZiIsIjIwMTgvMDYvMTMvOGlvazUweWl5aF9LZWxseV9DaGF0aGFtX1BSRVZJRVcxLnBkZiJdXQ/Kelly_Chatham_PREVIEW1.pdf?sha=cc613fbfe3ec18ec",
+        "https://ellsworthkelly.org/exhibition/ellsworth-kelly-chatham-series/",
+        "https://www.moca.org/artworks/chatham-iv-bluered"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "5fcba744cb55feb410e6dd0687b1b01f01bf57ea33680cd9db91bebb2fe8da96"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    },
+    {
+      "id": "bonhams-29474-15a",
+      "assignments": [
+        {
+          "index": 0,
+          "family": "red",
+          "from_expected": "#dc302f",
+          "to": "#ef4b28",
+          "tone": "vermilion"
+        }
+      ],
+      "reason": "The primary Bonhams installation photograph shows a fiery warm red-orange diagonal field. Current cool scarlet is less faithful; use vermilion while retaining the white painted area.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://images2.bonhams.com/original?src=Images%2Flive%2F2024-04%2F30%2FS-29474-0-3.pdf#page=71",
+        "https://images2.bonhams.com/original?src=Images%2Flive%2F2024-04%2F30%2FS-29474-0-3.pdf"
+      ],
+      "evidence": [
+        {
+          "kind": "cached_reference_image_re_reviewed",
+          "sha256": "3e41d67c18c6ae7eeb05e2f603b7bed9d3ecf3abaf51c981fe02332ca139b857"
+        }
+      ],
+      "review_scope": "Specific target paint fields visually compared with the cached authoritative reference; interpretation, not calibrated color."
+    }
+  ],
+  "status": "final_proposals_only_frozen",
+  "reviewed_unchanged_work_ids": [
+    "sfmoma-v3-99-348",
+    "ek-26",
+    "ek-46",
+    "moma1973-pdf47-caption1",
+    "ek-54",
+    "ek-50",
+    "sfmoma-504-1",
+    "moma1973-pdf57-caption1",
+    "ek-63",
+    "ek-59",
+    "nga-75042",
+    "moma1973-pdf64-caption1",
+    "moma1973-pdf69-caption1",
+    "christies-4315175",
+    "christies-6172963",
+    "tate-7889",
+    "ek-137",
+    "north-v4-yale-charter",
+    "ek-206",
+    "north-v4-wadsworth-maya",
+    "guggenheim1996-cat-33",
+    "freeman-pf0898",
+    "hirshhorn-72-161",
+    "whitney-58",
+    "cleveland-140139",
+    "ek-290",
+    "sfmoma-508-5",
+    "sfmoma-v3-66-3",
+    "sothebys-en-buy-auction-2021-contemporary-art-day-auction-5-untitled-17",
+    "ek-288",
+    "freeman-pf0900",
+    "broad-v3-green-blue-red",
+    "ek-316",
+    "freeman-pf0405",
+    "international-v4-maeght-red-yellow-blue-i",
+    "christies-5498495",
+    "whitney-67946",
+    "christies-6534249",
+    "international-v4-stedelijk-blue-green-red-i",
+    "christies-6368817",
+    "sothebys-en-buy-auction-2025-contemporary-day-auction-green-and-red",
+    "international-v4-ulm-orange-blue",
+    "nga-au-orange-curve-116211",
+    "short-book-v4-ellsworthkelly20132-19-orange-green",
+    "whitney-16879",
+    "museum-v2-walker-red-green-blue",
+    "christies-6369842",
+    "seattle-14331",
+    "christies-4487069",
+    "ek-351",
+    "ek-348",
+    "ek-360",
+    "ek-356",
+    "north-v4-vmfa-four-panels",
+    "north-v4-baltimore-green-red-yellow-blue",
+    "sothebys-en-auctions-ecatalogue-2013-may-2013-contemporary-day-n08992-lot-174-html",
+    "international-v4-tate-red-white-1966",
+    "international-v4-mot-red-yellow-blue",
+    "moma1973-pdf86-caption1",
+    "museum-v2-slam-5746",
+    "modern-v3-8497",
+    "moma-79739",
+    "mfa-blue-green-yellow-orange-red-1968",
+    "broad-v3-blue-red",
+    "buffalo-k1969-3",
+    "guggenheim1996-essay-56-fig-13",
+    "guggenheim1996-cat-52",
+    "sfmoma-501-4",
+    "museum-v2-walker-yellow-red",
+    "ek-422",
+    "sothebys-en-auctions-ecatalogue-2007-contemporary-art-evening-n08363-lot-23-html",
+    "moma1973-pdf95-caption1",
+    "north-v4-carnegie-greenorange",
+    "ek-459",
+    "ek-461",
+    "ek-464",
+    "moma1973-pdf102-caption1",
+    "museum-v2-pompidou-cqp5rjp",
+    "museum-v2-reina-yellow-red-curve-i",
+    "ek-502",
+    "north-v4-addison-green-red-orange",
+    "ek-589-2",
+    "matthewmarks-color-panels-for-a-large-wall-ii-1978-43938",
+    "ek-609",
+    "north-v4-dallas-red-panel",
+    "guggenheim1996-essay-68-fig-2c",
+    "christies-5792555",
+    "high-red-curve-vi",
+    "ek-699",
+    "modern-v3-1783",
+    "ek-738",
+    "cincinnati-1996-447",
+    "artic-v4-152759",
+    "christies-6343207",
+    "ek-835",
+    "matthewmarks-orange-and-gray-1993-17403",
+    "moma-80300",
+    "matthewmarks-red-curved-panel-1994-2483",
+    "sfmoma-513-3",
+    "matthewmarks-red-violet-curve-1997-5072",
+    "nga-107336",
+    "ek-896",
+    "matthewmarks-red-on-black-2001-12574",
+    "matthewmarks-orange-green-2002-18626",
+    "ek-933",
+    "ek-922",
+    "matthewmarks-25976",
+    "matthewmarks-red-relief-over-dark-blue-2004-25969",
+    "christies-6509442",
+    "matthewmarks-blue-green-black-red-2007-31220",
+    "matthewmarks-orange-diagonal-2008-31219",
+    "museum-v2-flv-red-curve",
+    "matthewmarks-red-curve-relief-2010-33753",
+    "ek-1030",
+    "christies-6141788",
+    "international-v4-flv-colored-panels",
+    "glenstone-v3-spectrum-ix",
+    "international-v4-flv-spectrum-viii"
+  ],
+  "unknown_work_ids": [
+    "moma1973-pdf52-caption1",
+    "artic-157156",
+    "met-481000",
+    "met-489307",
+    "guggenheim1996-cat-60",
+    "ek-453",
+    "ek-456",
+    "moma-79000",
+    "guggenheim1996-cat-65",
+    "guggenheim1996-cat-79",
+    "foundation-exhib-v4-ek746-ellsworth-kelly-sculpture-on-the-wall"
+  ],
+  "summary": {
+    "scope_works": 174,
+    "reviewed_records": 174,
+    "corrected_works_proposed": 45,
+    "assignment_changes_proposed": 102,
+    "confirmed_unchanged": 118,
+    "unresolved": 11,
+    "confirmed_paintings_in_scope": 169,
+    "confirmed_paintings_with_corrections": 45
+  },
+  "method": "All174 relevant current SVGs compared in11 reference/current contact sheets. Specific corrections were manually adjudicated, with larger source inspection for named outliers. Individual color correction confidence is medium, never a calibrated original-paint measurement. User-photo evidence applies ONLY to Red on Red. No central sidecar, SVG, geometry, script or app changes applied.",
+  "qa": {
+    "source_current_sheets": 11,
+    "proposed_correction_sheets": 3,
+    "all_source_current_sheets_viewed": true,
+    "all_proposed_correction_sheets_viewed": true,
+    "red_on_red_closeup_viewed": true,
+    "private_comparison_files_ignored": true,
+    "no_svg_or_central_sidecar_changes_applied": true,
+    "family_labels_and_geometry_unchanged_in_proposals": true,
+    "index_from_expected_and_evidence_hash_validation": "pass"
+  }
+}

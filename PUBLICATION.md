@@ -4,7 +4,9 @@ The canonical repository is https://github.com/infowetrust/ellsworth-kelly . The
 
 ## GitHub Pages
 
-Published and verified November 8, 2026 at **https://infowetrust.github.io/ellsworth-kelly/**. The repository is public. The CNAME for `ellsworth.infowetrust.com` has been added in Bluehost and connected in Pages. HTTP is verified; HTTPS certificate provisioning is still pending. See the [dated deployment record](research/publication-2026-11-08.json).
+Production target: **https://ellsworth.infowetrust.com/**. The public repository uses GitHub Pages with an Actions deployment. The November 8 deployment and initial custom-domain setup are preserved in the [dated record](research/publication-2026-11-08.json). This release selects preview O and includes the Gallery / Catalog / Plot refinements and source-reviewed palettes.
+
+Each deployment adds its exact Git commit to `/release.json`. Check that marker, the selected O preview and representative SVG/data assets on the live domain before reporting a release complete. The custom-domain certificate was retriggered on November 9 after correct DNS was independently verified; current verification belongs in the release record, not an assumption based on the earlier pending state.
 
 Use GitHub Actions as the repository's Pages publishing source. Run **Publish study to GitHub Pages** manually after validation passes. The workflow deploys only `site/dist/`, including its data and SVG studies. Pushes validate changes without automatically deploying them.
 

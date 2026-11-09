@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 77.625 90.125" role="img" aria-labelledby="title desc">
 <title id="title">Chatham XI: interpretive SVG study</title>
-<desc id="desc">Two joined monochrome panels forming an inverted L. Approximate geometry, standardized vivid screen palette, transparent background. Panel dimensions come from the museum record; image checked for orientation.</desc>
+<desc id="desc">Two joined monochrome panels forming an inverted L. Approximate geometry, interpretive screen palette, transparent background. Panel dimensions come from the museum record; image checked for orientation. Palette refinement (2026-11-09): source review remains unresolved for yellow, blue; prior provisional screen colors retained, not calibrated to original paint.</desc>
 <metadata>Reference: https://buffaloakg.org/artworks/k197212-chatham-xi-blue-yellow; reviewed 2026-10-26; interpretive reconstruction, not a facsimile.</metadata>
-<rect data-colour="blue" fill="#0647cb" x="0" y="0" width="77.625" height="38"/>
-<rect data-colour="yellow" fill="#ffe000" x="0" y="38" width="36.625" height="52.125"/>
+<rect data-colour="blue" fill="#1f5fc6" x="0" y="0" width="77.625" height="38"/>
+<rect data-colour="yellow" fill="#f2cf27" x="0" y="38" width="36.625" height="52.125"/>
 </svg>

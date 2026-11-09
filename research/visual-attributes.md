@@ -14,7 +14,7 @@ All **497 SVGs** were rendered through Sharp with a maximum edge of 512 pixels. 
 | Green qualifies | 55 |
 | Orange qualifies | 28 |
 | Purple qualifies | 6 |
-| Black qualifies | 118 |
+| Black qualifies | 117 |
 | White / cream qualifies | 122 |
 | Gray qualifies | 19 |
 | Brown qualifies | 2 |
@@ -31,6 +31,16 @@ Each raster pixel is weighted by alpha. Fully transparent exterior pixels contri
 Visible RGB values are assigned to the nearest original SVG paint color. Its `data-colour` paint family supplies the stable hue label; untagged paints use an RGB hue/neutral fallback. This quantization prevents antialias blends from introducing invented colors. Source families are normalized: violet becomes purple, cyan/teal blue, lime green, grey variants gray, and cream/ivory white. It uses shape-level paint families rather than the catalogue’s broad color tags.
 
 Same-family relief shading remains that material family: light-gray vectors explicitly representing shadows of a white relief remain white. Real blue-plus-white, blue-plus-black and small painted neutral regions remain multicolor. Untagged neutral separator strokes below 2% of painted area are treated as drawing decoration rather than a new material. Declared material regions are retained down to 0.001% of visible painted area; this small raster tolerance prevents numerical noise from determining monochrome status. Texture and pigment differences absent from the SVG cannot be recovered by this method.
+
+## Current interface refinements (2026-11-08)
+
+The interface replaces Rainbow and Mixed with **2 hues** and **3+ hues**. A chromatic family counts when it occupies at least 1% of all painted pixels and 3% of chromatic pixels. Neutrals do not add hues; five blue shades still count as one blue hue. Hue count intersects with the dominant-color selection. The legacy rainbow/mixed fields below remain in exports for compatibility, but are no longer interface controls or plot groups.
+
+The 497 source-informed recolored studies have been reanalyzed; their family labels remain stable. See [color-studies.md](color-studies.md) for interpretive palettes, confidence, source review and reversible fill assignments.
+
+**Painted area** is an approximate visible two-dimensional canvas footprint: alpha-weighted SVG coverage multiplied by eligible recorded width and height, or clearly labeled estimated dimensions when enabled. Transparent holes and spaces between panels do not contribute. Overlapping hidden canvas surfaces, thickness and oblique projections cannot be reconstructed from a flat SVG. It is not an exact measurement of total physical painted surface. Area uses fixed m² bands from under 0.1 to 25+, so filtering does not silently move the thresholds.
+
+**Major collections** groups institutions with at least three records individually, plus Other public collections, Private collections, Kelly Studio, Gallery / historical ownership and Unknown. Original collection credit lines remain unchanged. Eligible recorded dimensions take priority for proportion bands; the SVG proportions are a fallback. Square is ±2% and Near square ±10%.
 
 ## Filter definitions
 
@@ -50,7 +60,7 @@ Current shape counts: Rectangle 225; Triangle & sector 21; Polygon & diagonal 65
 
 ## Reproduction and integration
 
-Use Node 20 or newer and Sharp. The script first uses a locally installed `sharp` module, then `KELLY_SHARP_MODULE`, then the available Codex bundled installation. On another computer, `npm install sharp` supplies the dependency.
+Use Node 24 or newer and Sharp. The script first uses a locally installed `sharp` module, then `KELLY_SHARP_MODULE`, then the available Codex bundled installation. On another computer, `npm install sharp` supplies the dependency.
 
 ```sh
 node scripts/build_visual_attributes.cjs

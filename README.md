@@ -4,21 +4,29 @@ An independent, source-linked comparative study of color, shape, year and scale 
 
 **584 records · 497 SVG studies · 87 pending studies · 61 estimated display sizes.**
 
-This is an incomplete research inventory, not an authenticated catalogue raisonné. Reported collections can be historical; conflicting evidence and unknowns remain visible. The default shows 403 SVG studies, selecting the earliest dated work per recorded title. Turn off that filter to see all 497. A shared title does not prove two records describe the same physical object.
+This is an incomplete research inventory, not an authenticated catalogue raisonné. Reported collections can be historical; conflicting evidence and unknowns remain visible. The default shows 403 SVG studies, selecting the earliest dated work per recorded title. Under More options, select “Show later works with repeated titles” to see all 497. A shared title does not prove two records describe the same physical object.
 
 ## Explore
 
-[Open the published study](https://infowetrust.github.io/ellsworth-kelly/) · [All blue SVG studies](https://infowetrust.github.io/ellsworth-kelly/?versions=all&color=blue)
+[Open the published study](https://ellsworth.infowetrust.com/) · [All blue SVG studies](https://ellsworth.infowetrust.com/?versions=all&color=blue)
 
-Gallery is the home view. Arrange groups works in evenly spaced category cells, with labeled numeric ranges and no overlapping study bounds. Grid keeps titles and metadata visible. Gallery and Arrange support comparable sizes or relative physical scale; estimated sizes remain separate from recorded measurements. Temporary hiding, recoloring, sources and filtered exports are available.
+Gallery is the home view. Plot groups works in evenly spaced category cells, with labeled numeric ranges and no overlapping study bounds. Catalog keeps titles and metadata visible. Gallery and Plot support comparable sizes or relative physical scale; estimated sizes remain separate from recorded measurements. Temporary hiding, recoloring, sources and filtered exports are available.
 
-Dominant colors come from visible painted area in the original SVG, not title or museum tags. A chromatic family must cover at least 40% of chromatic area and 10% of total painted area; neutrals need 40% of painted area. Single color includes shades of one paint family, but excludes a second neutral paint family. Rainbow and Mixed have separate rules. All classifications describe approximate studies, not measured original pigments. See [classification methods](research/visual-attributes.md).
+Dominant colors come from visible painted area in the original SVG, not title or museum tags. A chromatic family must cover at least 40% of chromatic area and 10% of total painted area; neutrals need 40% of painted area. Single color includes shades of one paint family, but excludes a second neutral paint family. The hue-count filter offers 2 hues or 3+ hues; it excludes neutrals and intersects with the dominant-color selection. All classifications describe approximate studies, not measured original pigments. See [classification methods](research/visual-attributes.md).
 
 ```sh
 python3 -m http.server 8766 --directory site/dist
 ```
 
 Open http://localhost:8766/ . Use `?versions=all&color=blue` for all 104 blue SVG studies. No account, database or build step is required to serve the static app.
+
+## November 9 release
+
+The November 9 color review screened all 497 studies and corrected 103, including *Red on Red* using a contributor photograph and primary-source comparisons. Option O is the selected preview card. [Review scope, evidence and unresolved cases](research/color-review-v2.md).
+
+This release adds Gallery / Catalog / Plot, source-reviewed blue tones and family palettes, a shared in-page SVG cache, visible painted-footprint area, sparse 170 cm human references and revised About / branding. See [the full change list](research/local-refinements-2026-11-08.md) and [palette methods](research/color-studies.md). Source photographs and local reference sheets remain excluded from publication.
+
+`npm run build:visuals` updates classifications after SVG changes; `npm run build:social` regenerates the social preview. `npm test` checks the palette audit as well as filters, layouts, physical scale, caching, recorded data and public-export boundaries.
 
 ## Data and SVGs
 
