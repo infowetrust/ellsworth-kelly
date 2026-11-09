@@ -1,0 +1,44 @@
+{
+  "url": "https://ellsworth.infowetrust.com/",
+  "release": {
+    "version": "0.3.0",
+    "date": "2026-11-09",
+    "preview_card": "o",
+    "catalog_records": 584,
+    "svg_studies": 497,
+    "color_review_date": "2026-11-09",
+    "corrected_color_studies": 103,
+    "repository": "https://github.com/infowetrust/ellsworth-kelly",
+    "commit": "57375c1161738098837988aca4bb817a0bff062d"
+  },
+  "files_verified": 556,
+  "svg_studies_verified": 497,
+  "method": "Normal TLS certificate verification and byte-for-byte SHA-256 comparison of every deployed static file except release.json; release.json checked separately for exact deployed commit.",
+  "verified_at": "2026-11-09T15:31:35.815154+00:00",
+  "repository_url": "https://github.com/infowetrust/ellsworth-kelly",
+  "visibility": "public",
+  "pull_request": "https://github.com/infowetrust/ellsworth-kelly/pull/1",
+  "deployed_commit": "57375c1161738098837988aca4bb817a0bff062d",
+  "deployment_run": "https://github.com/infowetrust/ellsworth-kelly/actions/runs/42644902370",
+  "validation_run": "https://github.com/infowetrust/ellsworth-kelly/actions/runs/42644890199",
+  "actions_result": "success",
+  "https_certificate": "approved; normal hostname verification passed",
+  "https_enforced": true,
+  "http_redirect": "301 to https://ellsworth.infowetrust.com/",
+  "dns_changes_this_release": false,
+  "certificate_recovery": "Removed and restored the existing Pages custom domain once after independent DNS review; no authoritative DNS records changed.",
+  "public_site_files": 557,
+  "preview_card": "O; master SVG byte-identical to options/o.svg",
+  "scope": "All 556 static files other than release.json verified byte for byte over HTTPS; release.json independently verified for exact deployment SHA. Portable export validation covers 720 repository files. Artwork representation rights remain excluded from original code and research licenses.",
+  "browser_verification": {
+    "scheme": "https",
+    "views_checked": [
+      "Gallery",
+      "Catalog",
+      "Plot"
+    ],
+    "gallery_and_plot_svg_count": 403,
+    "pending_svg_errors_after_fresh_https_load": 0,
+    "note": "Default title deduplication shows 403 of the 497 available SVG studies. The live Gallery tab was left open."
+  }
+}
