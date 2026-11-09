@@ -1,0 +1,103 @@
+{
+  "source": "https://github.com/propublica/weepeople",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/us/",
+  "credit": "Wee People; illustrations by Alberto Cairo. Copyright (c) 2018 ProPublica and Alberto Cairo. CC BY-NC-ND 3.0 US.",
+  "source_font_filename": "WeePeople-Regular.otf",
+  "source_font_sha256": "2e9bb28a67f4b62af2b998e8b3337b2c968a690682e88be022024e8c0b4d1cef",
+  "embedded_font_copyright": [
+    "2013 ProPublica"
+  ],
+  "method": "Unchanged native glyph commands; uniform scale and coordinate-system conversion only. No glyph reshaping.",
+  "glyphs": [
+    {
+      "character": "H",
+      "glyph_name": "H",
+      "file": "wee-people-upper-h.svg",
+      "font_bounds": [
+        181.8395061728395,
+        -17.408520350260417,
+        384.3972596310255,
+        680
+      ],
+      "uniform_scale": 0.2437595685160552,
+      "translate_x": -41.01281485513837,
+      "translate_y": 165.75650659091755,
+      "visible_width_cm": 49.37539058254892,
+      "visible_height_cm": 170,
+      "box_width_cm": 56,
+      "native_path_sha256": "70f43825f35a700ebfe03bb8bc84a42f42abc05a7b37b16b4e9a33da9a2eaff0"
+    },
+    {
+      "character": "L",
+      "glyph_name": "L",
+      "file": "wee-people-upper-l.svg",
+      "font_bounds": [
+        155.19493853295916,
+        -18,
+        371.71151015307186,
+        701.1547005383793
+      ],
+      "uniform_scale": 0.2363886377614347,
+      "translate_x": -34.27734881630308,
+      "translate_y": 165.74500452029417,
+      "visible_width_cm": 51.182057418054555,
+      "visible_height_cm": 170,
+      "box_width_cm": 56,
+      "native_path_sha256": "820995d1fb0a6b595db49d48bae1b8befbaf10140615349f6f618bc5f20cecf7"
+    },
+    {
+      "character": "b",
+      "glyph_name": "b",
+      "file": "wee-people-lower-b.svg",
+      "font_bounds": [
+        163,
+        -23.27882680841742,
+        348.2725424859374,
+        649.0295857988166
+      ],
+      "uniform_scale": 0.2528601409890655,
+      "translate_x": -36.640223588416056,
+      "translate_y": 164.11371257116355,
+      "visible_width_cm": 46.84804121439676,
+      "visible_height_cm": 170,
+      "box_width_cm": 56,
+      "native_path_sha256": "6427c6ef34ee78df9eae5fb8ab51c99cb7a2d8c6b19abaa3246967601e39e135"
+    },
+    {
+      "character": "q",
+      "glyph_name": "q",
+      "file": "wee-people-lower-q.svg",
+      "font_bounds": [
+        190.60625773258803,
+        -14.888176623542352,
+        400,
+        658.8288555256157
+      ],
+      "uniform_scale": 0.252331456513278,
+      "translate_x": -46.514268619760195,
+      "translate_y": 166.2432447077546,
+      "visible_width_cm": 52.836627971102004,
+      "visible_height_cm": 170,
+      "box_width_cm": 56,
+      "native_path_sha256": "0fccef25d99d0f247e61b35fcf352e8613cbeeb4872eebde49e672d455fd6545"
+    },
+    {
+      "character": "r",
+      "glyph_name": "r",
+      "file": "wee-people-lower-r.svg",
+      "font_bounds": [
+        218.70096189432334,
+        -14.125,
+        389,
+        670.855755076536
+      ],
+      "uniform_scale": 0.24818215510449654,
+      "translate_x": -47.41026719100435,
+      "translate_y": 166.494427059149,
+      "visible_width_cm": 42.26518228928961,
+      "visible_height_cm": 170,
+      "box_width_cm": 56,
+      "native_path_sha256": "750d0933f9f8a8ff14229a799adc8c432f2666c52ed300ff080fff2a0fd24ec3"
+    }
+  ]
+}

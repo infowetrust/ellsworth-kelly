@@ -24,12 +24,26 @@ const rect=(c,color,x,y,w,h)=>`<rect data-colour="${c}" fill="${color}" x="${x}"
  a=await B.rasterAttributes(svg(rect('red','#ec231b',0,0,60,100)+rect('blue','#0647cb',60,0,40,100)),sharp);
  assert.equal(a.is_mixed,false,'sixty/forty has a clear leading hue');
  a=await B.rasterAttributes(svg(rect('violet','#7338a4',0,0,100,100)),sharp);assert.deepEqual(a.dominant_colors,['purple']);
+ a=await B.rasterAttributes(svg(rect('blue','#15274c',0,0,50,100)+rect('blue','#71bce0',50,0,50,100)),sharp);
+ assert.equal(a.hue_count,1,'dark and light blues remain one hue');assert(a.is_monochrome);assert.deepEqual(a.dominant_colors,['blue']);
+ a=await B.rasterAttributes(svg(rect('blue','#155bd0',0,0,100,100)+rect('red','#d52c27',0,0,.5,100)),sharp);
+ assert.equal(a.hue_count,1,'sub-one-percent accents do not inflate composition hue count');assert.equal(a.is_monochrome,false,'single-color test still distinguishes a real second paint family');
+ a=await B.rasterAttributes(svg(rect('red','#d52c27',0,0,50,100)+rect('blue','#155bd0',50,0,50,100)),sharp);assert.equal(a.hue_count,2);
+ a=await B.rasterAttributes(svg(rect('red','#d52c27',0,0,100/3,100)+rect('yellow','#f4d600',100/3,0,100/3,100)+rect('blue','#155bd0',200/3,0,100/3,100)),sharp);assert.equal(a.hue_count,3);
+ const footprint={id:'footprint',height_cm:100,width_cm:200,true_scale_eligible:true};
+ V.setData({works:{footprint:{has_visual:true,dominant_colors:['blue'],painted_fraction_of_raster:.5}}});const factual=JSON.stringify(footprint);
+ assert.equal(V.paintedArea(footprint).m2,1,'area excludes transparent half of physical bounds');assert.equal(JSON.stringify(footprint),factual);
+ assert.equal(V.paintedArea({...footprint,true_scale_eligible:false}),null,'unresolved projection is not presented as recorded surface area');
+ assert.equal(V.paintedArea({...footprint,true_scale_eligible:false,scale_estimate:{height_cm:50,width_cm:100}},{allowEstimates:true}).m2,.25);
+ assert.equal(V.paintedArea({...footprint,true_scale_eligible:false,scale_estimate:{height_cm:50,width_cm:100}},{allowEstimates:true}).estimated,true);
+ assert.equal(V.collectionIdentity({collection:'Philadelphia Museum of Art — offered gift reported 2023'}),'Philadelphia Museum of Art');
+ assert.equal(V.collectionIdentity({collection:'Private collection'}),'Private collections');
  assert.equal(V.inferShapeFamily({shape_type:'white monochrome with string relief'}),'Unclassified','string must not match ring');
  assert.equal(V.inferShapeFamily({shape_type:'rectangle with curved fields'}),'Rectangle');
  assert.equal(V.inferShapeFamily({shape_type:'curved floor panel projection'}),'Curved form');assert.equal(V.inferShapeFamily({shape_type:'floor quadrilateral projection'}),'Polygon & diagonal');
  const A=JSON.parse(fs.readFileSync(path.join(ROOT,'data/visual-attributes.json'))),W=JSON.parse(fs.readFileSync(path.join(ROOT,'data/catalogue.json'))).works;
  assert.equal(Object.keys(A.works).length,584);assert.equal(A.summary.svg_analyzed,497);
- for(const w of W){const a=A.works[w.id];assert(a);assert(V.SHAPE_FAMILIES.includes(a.shape_family));assert(!a.dominant_colors.some(c=>['unknown','violet'].includes(c)));if(!w.image_svg){assert.equal(a.has_visual,false);assert.equal(a.is_monochrome,false);assert.deepEqual(a.dominant_colors,[]);}else{assert.equal(a.has_visual,true);const sum=Object.values(a.painted_coverage).reduce((x,y)=>x+y,0);assert(Math.abs(sum-1)<1e-8);assert(a.dominant_colors.every(c=>B.CHROMATIC.includes(c)?a.chromatic_coverage[c]>=.4-1e-9&&a.painted_coverage[c]>=.1-1e-9:a.painted_coverage[c]>=.4-1e-9));}}
+ for(const w of W){const a=A.works[w.id];assert(a);assert(a.major_collection);assert(V.SHAPE_FAMILIES.includes(a.shape_family));assert(!a.dominant_colors.some(c=>['unknown','violet'].includes(c)));if(!w.image_svg){assert.equal(a.has_visual,false);assert.equal(a.is_monochrome,false);assert.equal(a.hue_count,null);assert.deepEqual(a.dominant_colors,[]);}else{assert.equal(a.has_visual,true);assert(Number.isInteger(a.hue_count));assert.equal(a.counted_hues.length,a.hue_count);const sum=Object.values(a.painted_coverage).reduce((x,y)=>x+y,0);assert(Math.abs(sum-1)<1e-8);assert(a.dominant_colors.every(c=>B.CHROMATIC.includes(c)?a.chromatic_coverage[c]>=.4-1e-9&&a.painted_coverage[c]>=.1-1e-9:a.painted_coverage[c]>=.4-1e-9));}}
  V.setData(A);assert(V.matchesColor({id:'moma1973-pdf86-caption1'},['rainbow']));assert(V.matchesColor({id:'moma1973-pdf86-caption1'},['mixed']));assert(!V.matchesColor('unrecorded',['blue']));
  assert.equal(V.normalizeColor('violet'),'purple');assert.equal(V.attribute('unrecorded').is_monochrome,false);
  const original=JSON.stringify(A);assert.throws(()=>{V.attribute('moma1973-pdf86-caption1').dominant_colors.push('blue');},TypeError,'original classification is immutable even when a preview changes');assert.equal(JSON.stringify(A),original);

@@ -59,6 +59,12 @@ except (subprocess.CalledProcessError,FileNotFoundError):
 for p in files:
     rel=p.relative_to(ROOT)
     assert not any(part in {'.openai','node_modules','__pycache__'} for part in rel.parts),str(rel)
+    # Explicit project-owned brand/preview assets; reference photographs remain excluded.
+    public_rasters={'site/dist/assets/favicon.jpg':b'\xff\xd8\xff','site/dist/assets/social-card.png':b'\x89PNG\r\n\x1a\n'}
+    if rel.as_posix() in public_rasters:
+        assert p.read_bytes().startswith(public_rasters[rel.as_posix()]),str(rel)
+        assert p.stat().st_size<3_000_000,'Oversized project preview asset'
+        continue
     assert p.suffix.lower() not in {'.pdf','.jpg','.jpeg','.png','.webp','.tif','.tiff','.zip','.gz','.pyc'},str(rel)
     text=p.read_text()
     assert not re.search(r'/Users/[A-Za-z0-9._-]+/|/home/[A-Za-z0-9._-]+/',text),'Personal path in '+str(rel)

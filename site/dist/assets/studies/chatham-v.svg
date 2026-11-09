@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 99.5 108" role="img" aria-labelledby="title desc">
 <title id="title">Chatham V: interpretive SVG study</title>
-<desc id="desc">Two joined monochrome panels forming an inverted L. Approximate geometry, standardized vivid screen palette, transparent background. </desc>
+<desc id="desc">Two joined monochrome panels forming an inverted L. Approximate geometry, interpretive screen palette, transparent background. Palette refinement (2026-11-09): source review remains unresolved for red, blue; prior provisional screen colors retained, not calibrated to original paint.</desc>
 <metadata>Reference: https://www.moma.org/d/pdfs/W1siZiIsIjIwMTgvMDYvMTMvOGlvazUweWl5aF9LZWxseV9DaGF0aGFtX1BSRVZJRVcxLnBkZiJdXQ/Kelly_Chatham_PREVIEW1.pdf?sha=cc613fbfe3ec18ec; reviewed 2026-10-26; interpretive reconstruction, not a facsimile.</metadata>
-<rect data-colour="red" fill="#ec231b" x="0" y="0" width="99.5" height="45.7"/>
-<rect data-colour="blue" fill="#0647cb" x="0" y="45.7" width="45.4" height="62.3"/>
+<rect data-colour="red" fill="#dc302f" x="0" y="0" width="99.5" height="45.7"/>
+<rect data-colour="blue" fill="#1f5fc6" x="0" y="45.7" width="45.4" height="62.3"/>
 </svg>

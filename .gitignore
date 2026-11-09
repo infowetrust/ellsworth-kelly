@@ -16,6 +16,8 @@ node_modules/
 *.tiff
 *.zip
 *.tar.gz
+!site/dist/assets/favicon.jpg
+!site/dist/assets/social-card.png
 research/**/raw/
 research/**/references/
 research/**/reference-images/

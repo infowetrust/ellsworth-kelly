@@ -12,6 +12,10 @@ For attribution, credit **RJ Andrews, Ellsworth Kelly comparative study**, link 
 
 ## Exclusions
 
-The following are excluded from both grants: the underlying artworks; all SVG artwork representations in `site/dist/assets/studies/`; third-party photographs, scans, descriptions and quotations; institutional names, trademarks and logos; and rights the project does not own. Descriptive metadata and JSON containers can contain mixed material; the grant covers only the project's original contribution, not every nested source field.
+The following are excluded from both grants: the underlying artworks; all SVG artwork representations in `site/dist/assets/studies/`; artwork representations in the `site/dist/assets/social-card.*` previews and `site/dist/assets/social-card-options/`; third-party photographs, scans, descriptions and quotations; institutional names, trademarks and logos; and rights the project does not own. Descriptive metadata and JSON containers can contain mixed material; the grant covers only the project's original contribution, not every nested source field.
 
 No permission or fair-use clearance for every artwork representation has been established. An SVG file's presence in this repository is not an open license for the underlying art. See [RIGHTS.md](RIGHTS.md) and the [rights review](docs/RIGHTS-REVIEW.md).
+
+## Third-party scale references: Wee People
+
+The Wee People glyph outlines in `site/dist/assets/people/` **and their embedded copies in `site/dist/gallery.js`** are a third-party exception to the MIT software and CC BY research grants. Wee People illustrations are by Alberto Cairo; copyright © 2018 ProPublica and Alberto Cairo. They retain [CC BY-NC-ND 3.0 United States](https://creativecommons.org/licenses/by-nc-nd/3.0/us/) and the [upstream usage notice](site/dist/assets/people/LICENSE.md). The outlines are unchanged; only a technical format/coordinate conversion and uniform reference scaling are applied. Attribution, source links, restrictions and the recorded local-font provenance are in the [asset notice](site/dist/assets/people/README.md). No unrestricted commercial or modified-glyph license is granted by this repository.

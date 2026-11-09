@@ -1,0 +1,65 @@
+{
+  "option": "o",
+  "count": 5,
+  "description": "Green Angle replaces the dark green panel.",
+  "purpose": "Text-free chromatic nonrectangular artwork preview. Underlying artwork rights excluded from software/research licenses.",
+  "basis": "Eligible recorded dimensions, one shared physical scale per option. Original orientations; no top-edge cropping or overlap. Some options intentionally crop side/bottom edges.",
+  "pixels_per_cm": 1.4,
+  "works": [
+    {
+      "id": "broad-v3-green-angle",
+      "x": -180,
+      "y": 24,
+      "width": 821.4359999999999,
+      "height": 248.92,
+      "height_cm": 177.8,
+      "width_cm": 586.74,
+      "color": "green",
+      "shape_family": "Unclassified"
+    },
+    {
+      "id": "sothebys-en-buy-ellsworth-kelly-violet-1985",
+      "x": 950,
+      "y": 35,
+      "width": 334.32,
+      "height": 307.58,
+      "height_cm": 219.7,
+      "width_cm": 238.8,
+      "color": "purple",
+      "shape_family": "Curved form"
+    },
+    {
+      "id": "sfmoma-508-1",
+      "x": 15,
+      "y": 325,
+      "width": 279.15999999999997,
+      "height": 302.26,
+      "height_cm": 215.9,
+      "width_cm": 199.4,
+      "color": "red",
+      "shape_family": "Joined panels"
+    },
+    {
+      "id": "matthewmarks-dark-blue-curves-1997-5071",
+      "x": 360,
+      "y": 320,
+      "width": 420,
+      "height": 193.2,
+      "height_cm": 138,
+      "width_cm": 300,
+      "color": "blue",
+      "shape_family": "Curved form"
+    },
+    {
+      "id": "matthewmarks-split-yellow-2013-39465",
+      "x": 875,
+      "y": 460,
+      "width": 256.2,
+      "height": 184.79999999999998,
+      "height_cm": 132,
+      "width_cm": 183,
+      "color": "yellow",
+      "shape_family": "Polygon & diagonal"
+    }
+  ]
+}

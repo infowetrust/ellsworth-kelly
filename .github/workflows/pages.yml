@@ -21,10 +21,17 @@ jobs:
           node-version: 24
           cache: npm
       - run: npm ci
-      - run: node tests/visual-attributes.cjs
-      - run: node tests/gallery-layout.cjs
-      - run: python3 scripts/validate_portable.py
-      - run: node scripts/check_scale_estimates.cjs
+      - run: npm test
+      - name: Record deployed commit
+        run: |
+          python3 - <<'PYCODE'
+          import json, os
+          from pathlib import Path
+          path = Path('site/dist/release.json')
+          data = json.loads(path.read_text())
+          data['commit'] = os.environ['GITHUB_SHA']
+          path.write_text(json.dumps(data, indent=2) + '\n')
+          PYCODE
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
